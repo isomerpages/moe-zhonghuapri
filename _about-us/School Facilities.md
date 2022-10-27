@@ -23,3 +23,50 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 **Zhonghua Primary School**
 
 **Opening of Back Gate Before and After School**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g" colspan="2">Day</th>
+    <th class="tg-9u4g">Opening Hours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2fwu"><br>Before School</td>
+    <td class="tg-sxkx">Monday to Friday</td>
+    <td class="tg-sxkx">7.00am to 7.30am</td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu" rowspan="2"><br><br>After School<br></td>
+    <td class="tg-sxkx">Monday to Thursday</td>
+    <td class="tg-sxkx">1.30pm to 2.00pm<br>3.30pm to 4.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Friday</td>
+    <td class="tg-sxkx">1.15pm to 1.45pm<br>3.30pm to 4.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Saturday</td>
+    <td class="tg-sxkx">Closed</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Wet Weather On School Days</td>
+    <td class="tg-sxkx">Closed</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Early Dismissal Days</td>
+    <td class="tg-sxkx">½ Hour From Time Of Dismissal</td>
+  </tr>
+</tbody>
+</table>
