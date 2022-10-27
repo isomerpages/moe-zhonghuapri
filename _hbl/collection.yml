@@ -2,4 +2,5 @@ collections:
   hbl:
     output: true
     order:
+      - Tips for Home Based Learning 2021.md
       - FAQ for Parents on Supporting Your Child on HBL 2021.md
