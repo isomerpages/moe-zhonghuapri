@@ -2,4 +2,5 @@ collections:
   niche-programme:
     output: true
     order:
+      - "Applied Learning Programme: THINKNOVATE.md"
       - "Learning for Life Programmes: Environment Education.md"
