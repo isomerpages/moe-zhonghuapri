@@ -4,3 +4,7 @@ permalink: /about-us/Staff-Information/School-Advisory-Committee/
 description: ""
 third_nav_title: Staff Information
 ---
+![](/images/Banner.jpg)
+
+School Advisory Committee
+=========================
