@@ -1,4 +1,5 @@
 collections:
   niche-programme:
     output: true
-    order: []
+    order:
+      - "Learning for Life Programmes: Environment Education.md"
