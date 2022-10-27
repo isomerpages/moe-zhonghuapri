@@ -16,3 +16,23 @@ The letter "Z" and the wording will be turquoise and black respectively against 
 ### **School Motto**
 
 Diligence Before Success
+
+### **School Vision**
+
+A Learner. A Thinker. A Leader.
+
+### **School Mission**
+
+Ignite Passion For Learning, Nurture Strength of Character.
+
+### **Corporate Values**
+
+Values Our Foundation , Professionalism Our Conduct, Learning Our Conviction , Excellence Our Quest
+
+### **School Values**
+
+Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony, Resilience.
+
+### **School Creed**
+
+We, the pupils of Zhonghua Primary School, pledge to keep the torch that first shone in 1987 growing and glowing brighter. We shall be loyal and responsible to our family, school and nation. In everything we do, we shall set high goals and strive to achieve excellence together.
