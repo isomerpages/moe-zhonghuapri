@@ -10,6 +10,9 @@ Principal's Message
 
 Dear Parents and Friends of the School,
 
+
+<img src="/images/Principal'sMessage.png" style="width:183px;height:240px;margin-right:20px;" align = "left">
+
 **Ignite Passion for Learning** – “_for if a pupil’s mind is set on fire, he will strive to find a way to provide the fuel_” and the zeal for learning will continue to burn throughout his life. A quote from journalist Sydney J Harris that best exemplifies our mission here at _Zhonghua Primary School_, a mission that continues to inspire all of us to do our best to help our children enjoy  “**Learning for Life**”.  
 
 **To learn for life** is to let our children see the reason behind what they are learning so they can see the relevance and purpose of that learning and be motivated to discover more.
