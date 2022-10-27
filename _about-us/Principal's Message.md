@@ -9,4 +9,3 @@ Principal's Message
 ===================
 
 Dear Parents and Friends of the School,
-
