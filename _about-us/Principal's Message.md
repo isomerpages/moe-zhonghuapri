@@ -23,3 +23,7 @@ This is what we stand for at _Zhonghua Primary School_. Our directions, our bel
 *   A Self-Directed Learner who can  Communicate Effectively and  Work Collaboratively.
 *   A Creative and Reflective Thinker who is Respectful of Ideas.
 *   A Responsible & Caring Leader who Can Empathise with Others.
+
+**_Mdm Rostinah Mohamad Said_**
+
+**_Principal_**
