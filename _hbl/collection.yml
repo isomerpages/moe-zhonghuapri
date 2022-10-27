@@ -2,5 +2,6 @@ collections:
   hbl:
     output: true
     order:
+      - Home Based Learning Slides for P4 to P6.md
       - Tips for Home Based Learning 2021.md
       - FAQ for Parents on Supporting Your Child on HBL 2021.md
