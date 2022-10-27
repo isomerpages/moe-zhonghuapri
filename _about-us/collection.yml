@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Information/Teaching Staff.md
       - Staff Information/Key Personnel.md
       - Staff Information/Executive and Administrative Staff.md
       - Staff Information/Support Staff.md
