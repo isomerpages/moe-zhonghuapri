@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Information/.keep
       - Staff Information.md
