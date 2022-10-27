@@ -7,3 +7,6 @@ description: ""
 
 School History
 ==============
+
+![](/images/SchoolHistory.png)
+
