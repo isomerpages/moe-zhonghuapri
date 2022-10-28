@@ -2,6 +2,7 @@ collections:
   staff-information:
     output: true
     order:
+      - Teaching Staff/Malay Language Teachers.md
       - Teaching Staff/Chinese Language Teachers.md
       - Teaching Staff/Primary 6 Form Teachers.md
       - Teaching Staff/Primary 5 Form Teachers.md
