@@ -22,11 +22,11 @@ Primary 3 Form Teachers
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 688px">
+<table class="tg" style="undefined;table-layout: fixed; width: 709px">
 <colgroup>
 <col style="width: 44px">
 <col style="width: 107px">
-<col style="width: 237px">
+<col style="width: 258px">
 <col style="width: 300px">
 </colgroup>
 <thead>
