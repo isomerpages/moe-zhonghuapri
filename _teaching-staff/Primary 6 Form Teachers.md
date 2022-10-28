@@ -22,16 +22,16 @@ Primary 6 Form Teachers
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 641px">
+<table class="tg" style="undefined;table-layout: fixed; width: 652px">
 <colgroup>
-<col style="width: 30px">
+<col style="width: 41px">
 <col style="width: 105px">
 <col style="width: 245px">
 <col style="width: 261px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-a4yv">No<br><br></th>
+    <th class="tg-e14l">No<br></th>
     <th class="tg-e14l">Class</th>
     <th class="tg-e14l">Name of Form Teacher</th>
     <th class="tg-a4yv">Email Address</th>
@@ -42,7 +42,7 @@ Primary 6 Form Teachers
     <td class="tg-ncov">1</td>
     <td class="tg-sdzj">P6 Care</td>
     <td class="tg-fwnj"><br>Mr Liew Yong Chew<br>Mdm Norisah Yasmeen Bte Yussoff<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:liew_yong_chew@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">liew_yong_chew@moe.edu.sg</span></a><br><a href="mailto:norisah_yasmeen_yussoff@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">norisah_yasmeen_yussoff@moe.edu.sg</span></a><br></td>
+    <td class="tg-6wao"><br><a href="mailto:liew_yong_chew@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">liew_yong_chew@moe.edu.sg</span></a><br><a href="mailto:norisah_yasmeen_yussoff@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">norisah_yasmeen_yussoff@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2</td>
@@ -54,7 +54,7 @@ Primary 6 Form Teachers
     <td class="tg-ncov">3</td>
     <td class="tg-sdzj">P6 Discipline &amp;<br>P6 Harmony</td>
     <td class="tg-fwnj"><br>Ms Hariyati Bte Hairom<br>Mdm Rafidawati Bte Abdul Rahman<br>Mr Teh Khen Hian<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:hariyati_hairom@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">hariyati_hairom@moe.edu.sg</span></a><br><a href="mailto:rafidawati_abdul_rahman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">rafidawati_abdul_rahman@moe.edu.sg</span></a><br><a href="mailto:teh_kian_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">teh_kian_hian@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-6wao"><br><a href="mailto:hariyati_hairom@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">hariyati_hairom@moe.edu.sg</span></a><br><a href="mailto:rafidawati_abdul_rahman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">rafidawati_abdul_rahman@moe.edu.sg</span></a><br><a href="mailto:teh_kian_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">teh_kian_hian@moe.edu.sg</span></a><br><br></td>
   </tr>
 </tbody>
 </table>
