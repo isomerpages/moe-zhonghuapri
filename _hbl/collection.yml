@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - Expectations of Students on Home Based Learning (HBL).md
       - Singapore Student Learning Space.md
       - Steps on Self Resetting Password.md
       - HBL Timetable for 19 May to 28 May 2021.md
