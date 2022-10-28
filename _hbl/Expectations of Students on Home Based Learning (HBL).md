@@ -74,3 +74,7 @@ Expectations of Students on Home Based Learning (HBL)
   </tr>
 </tbody>
 </table>
+
+*   Students are to observe cyber wellness when doing their work online and in writing emails to their teachers or peers.
+
+*   Students are encouraged to reflect and note their HBL experiences so that they can be shared in class when they gather in school again.
