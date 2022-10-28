@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Chinese Language Teachers.md
       - Malay Language Teachers.md
       - Tamil Language Teachers.md
       - Allied Educators.md
