@@ -20,11 +20,11 @@ Allied Educators
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 .tg .tg-d8aa{background-color:#FFF;color:#10509C;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 662px">
+<table class="tg" style="undefined;table-layout: fixed; width: 690px">
 <colgroup>
-<col style="width: 30px">
+<col style="width: 43px">
 <col style="width: 238px">
-<col style="width: 141px">
+<col style="width: 156px">
 <col style="width: 253px">
 </colgroup>
 <thead>
