@@ -39,3 +39,5 @@ The Outdoor Education component provides opportunities for theoretical concepts 
 3) Developing a sense of place
 
 ![](/images/PE-Pic%206.png)
+
+![](/images/PE-Pic%207.png)
