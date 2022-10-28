@@ -22,9 +22,9 @@ Primary 2 Form Teachers
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 641px">
+<table class="tg" style="undefined;table-layout: fixed; width: 649px">
 <colgroup>
-<col style="width: 39px">
+<col style="width: 47px">
 <col style="width: 107px">
 <col style="width: 230px">
 <col style="width: 265px">
