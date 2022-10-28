@@ -10,4 +10,8 @@ links:
     url: /contact-us/
   - title: Teaching Staff
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Primary 1 Form Teachers
+        url: /permalink
+      - title: Primary 2 Form Teachers
+        url: /permalink
