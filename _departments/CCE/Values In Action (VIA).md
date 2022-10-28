@@ -77,3 +77,7 @@ As part of each Zhonghuarian’s experience in the school, the CCE department pr
   </tr>
 </tbody>
 </table>
+
+**ZPS Values-In-Action (VIA) Platinum Award**
+
+The ZPS VIA Platinum Award recognises the efforts of Zhonghuarians who have contributed significantly to either the school, community and/or the environment. In order to qualify for the VIA Platinum Award, Zhonghuarians will need to attain the minimum number of VIA hours in the respective levels.
