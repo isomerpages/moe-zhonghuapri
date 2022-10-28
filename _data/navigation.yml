@@ -8,3 +8,6 @@ links:
     collection: hbl
   - title: Contact Us
     url: /contact-us/
+  - title: Staff Information
+    url: /permalink
+    sublinks: []
