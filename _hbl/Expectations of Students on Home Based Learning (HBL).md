@@ -31,3 +31,46 @@ Expectations of Students on Home Based Learning (HBL)
     * Seeking help from peers via email or SLS portal
 
 *   For technical assistance, students may refer to the school helpline or SLS helpdesk:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt" colspan="3">Helplines</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">School-based SLS Helpline:</td>
+    <td class="tg-ii8k">62835413</td>
+    <td class="tg-ii8k">Monday - Friday 8.00 a.m. - 4.00 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">SLS Helpdesk:</td>
+    <td class="tg-ii8k">67026513</td>
+    <td class="tg-ii8k">Monday - Friday 4.00 p.m. - 9.00 p.m.<br>Saturday 9.00am - 9.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">SLS Helpdesk Email:</td>
+    <td class="tg-ii8k" colspan="2">helpdesk@sls.ufinity.com</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Subject-based assistance:</td>
+    <td class="tg-y7qa" colspan="2">For subject specific assistance, please email the subject teachers.</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Any other matters:</td>
+    <td class="tg-ii8k">62835413</td>
+    <td class="tg-ii8k">Monday - Friday 8.00 a.m. - 4.00 p.m.<br>(General Office)</td>
+  </tr>
+</tbody>
+</table>
