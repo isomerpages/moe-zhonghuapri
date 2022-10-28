@@ -25,3 +25,5 @@ The vision of the PE department is for every Zhonghuarian Pupil to be nurtured i
 **OUTDOOR EDUCATION PROGRESSION**
 
 ![](/images/PE%20-%20Pic%204.png)
+
+![](/images/PE-Pic%205.png)
