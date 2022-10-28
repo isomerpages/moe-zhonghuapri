@@ -2,16 +2,16 @@ collections:
   staff-information:
     output: true
     order:
-      - Teaching Staff/LSP.md
-      - Teaching Staff/Allied Educators.md
-      - Teaching Staff/Tamil Language Teachers.md
-      - Teaching Staff/Malay Language Teachers.md
-      - Teaching Staff/Chinese Language Teachers.md
-      - Teaching Staff/Primary 6 Form Teachers.md
-      - Teaching Staff/Primary 5 Form Teachers.md
-      - Teaching Staff/Primary 4 Form Teachers.md
-      - Teaching Staff/Primary 3 Form Teachers.md
-      - Teaching Staff/Primary 2 Form Teachers.md
-      - Teaching Staff/Primary 1 Form Teachers.md
-      - Teaching Staff/Teaching Staff.md
       - Teaching Staff/.keep
+      - Teaching Staff/Teaching Staff.md
+      - Teaching Staff/Primary 1 Form Teachers.md
+      - Teaching Staff/Primary 2 Form Teachers.md
+      - Teaching Staff/Primary 3 Form Teachers.md
+      - Teaching Staff/Primary 4 Form Teachers.md
+      - Teaching Staff/Primary 5 Form Teachers.md
+      - Teaching Staff/Primary 6 Form Teachers.md
+      - Teaching Staff/Chinese Language Teachers.md
+      - Teaching Staff/Malay Language Teachers.md
+      - Teaching Staff/Tamil Language Teachers.md
+      - Teaching Staff/Allied Educators.md
+      - Teaching Staff/LSP.md
