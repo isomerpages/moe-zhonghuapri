@@ -1,4 +1,5 @@
 collections:
   teaching-staff:
     output: true
-    order: []
+    order:
+      - LSP.md
