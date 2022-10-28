@@ -22,10 +22,10 @@ Primary 4 Form Teachers
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-vgkv{color:#10509C;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 666px">
+<table class="tg" style="undefined;table-layout: fixed; width: 678px">
 <colgroup>
 <col style="width: 41px">
-<col style="width: 97px">
+<col style="width: 109px">
 <col style="width: 256px">
 <col style="width: 272px">
 </colgroup>
