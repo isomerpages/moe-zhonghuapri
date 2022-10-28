@@ -1,5 +1,5 @@
 collections:
-  teaching-staff:
+  staff-information:
     output: true
     order:
       - Teaching Staff.md
