@@ -29,3 +29,5 @@ Expectations of Students on Home Based Learning (HBL)
     * SLS Portal
     * Writing email to the teachers
     * Seeking help from peers via email or SLS portal
+
+*   For technical assistance, students may refer to the school helpline or SLS helpdesk:
