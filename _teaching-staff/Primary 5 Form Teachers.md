@@ -22,9 +22,9 @@ Primary 5 Form Teachers
 .tg .tg-m03q{background-color:#FFF;color:#10509C;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 672px">
+<table class="tg" style="undefined;table-layout: fixed; width: 684px">
 <colgroup>
-<col style="width: 30px">
+<col style="width: 42px">
 <col style="width: 116px">
 <col style="width: 247px">
 <col style="width: 279px">
