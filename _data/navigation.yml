@@ -1,35 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    collection: about-us
+    url: /permalink
+    sublinks: []
   - title: Niche Programme
     collection: niche-programme
   - title: HBL
     collection: hbl
   - title: Contact Us
     url: /contact-us/
-  - title: Teaching Staff
-    url: /teaching-staff/Teaching-Staff/
-    sublinks:
-      - title: Primary 1 Form Teachers
-        url: /teaching-staff/Primary-1-Form-Teachers/
-      - title: Primary 2 Form Teachers
-        url: /teaching-staff/Primary-2-Form-Teachers/
-      - title: Primary 3 Form Teachers
-        url: /teaching-staff/Primary-3-Form-Teachers/
-      - title: Primary 4 Form Teachers
-        url: /teaching-staff/Primary-4-Form-Teachers/
-      - title: Primary 5 Form Teachers
-        url: /teaching-staff/Primary-5-Form-Teachers/
-      - title: Primary 6 Form Teachers
-        url: /teaching-staff/Primary-6-Form-Teachers/
-      - title: Chinese Language Teachers
-        url: /teaching-staff/Chinese-Language-Teachers/
-      - title: Malay Language Teachers
-        url: /teaching-staff/Malay-Language-Teachers/
-      - title: Tamil Language Teachers
-        url: /teaching-staff/Tamil-Language-Teachers/
-      - title: Allied Educators
-        url: /teaching-staff/Allied-Educators/
-      - title: LSP
-        url: /teaching-staff/LSP/
