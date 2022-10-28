@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Social Studies (SS).md
       - CCE/Values In Action (VIA).md
       - CCE/Form Teacher Guidance Period (FTGP).md
       - CCE/Character & Citizenship Education (CCE) lessons.md
