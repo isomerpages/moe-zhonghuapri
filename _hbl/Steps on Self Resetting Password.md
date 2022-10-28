@@ -7,3 +7,5 @@ description: ""
 
 Steps on Self-Resetting Password
 ================================
+
+[Steps to Self-Resetting Password.pdf](/files/Steps%20to%20Self-Resetting%20Password.pdf)
