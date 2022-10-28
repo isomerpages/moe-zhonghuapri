@@ -4,6 +4,8 @@ links:
     url: /permalink
     sublinks:
       - title: Principal's Message
+        url: /about-us/Principals-Message/
+      - title: Mission and Vision
         url: /permalink
   - title: Niche Programme
     collection: niche-programme
