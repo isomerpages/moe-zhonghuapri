@@ -9,3 +9,5 @@ Physical Education
 ==================
 
 The vision of the PE department is for every Zhonghuarian Pupil to be nurtured into an active and physically competent individual. To attain this, its mission is to create an environment for pupils to pursue physical activities, sports of their interest and ability and to enjoy nature and the outdoors.
+
+**ASPIRATION**
