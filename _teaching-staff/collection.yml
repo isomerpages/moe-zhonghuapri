@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Primary 3 Form Teachers.md
       - Primary 4 Form Teachers.md
       - Primary 5 Form Teachers.md
       - Primary 6 Form Teachers.md
