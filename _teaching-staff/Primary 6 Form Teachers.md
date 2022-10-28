@@ -22,10 +22,10 @@ Primary 6 Form Teachers
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 652px">
+<table class="tg" style="undefined;table-layout: fixed; width: 664px">
 <colgroup>
 <col style="width: 41px">
-<col style="width: 105px">
+<col style="width: 117px">
 <col style="width: 245px">
 <col style="width: 261px">
 </colgroup>
