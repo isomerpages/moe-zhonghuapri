@@ -26,3 +26,6 @@ Expectations of Students on Home Based Learning (HBL)
 *   Students should gather all their materials, books and stationery to prepare for HBL to stay focused in learning.
 
 *   In the event when students encounter difficulties in the assignment, they are encouraged to seek help from their teachers. This can be done through:
+    * SLS Portal
+    * Writing email to the teachers
+    * Seeking help from peers via email or SLS portal
