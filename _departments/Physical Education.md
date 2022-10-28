@@ -27,3 +27,13 @@ The vision of the PE department is for every Zhonghuarian Pupil to be nurtured i
 ![](/images/PE%20-%20Pic%204.png)
 
 ![](/images/PE-Pic%205.png)
+
+**Guiding Principle**
+
+The Outdoor Education component provides opportunities for theoretical concepts to be enacted in authentic outdoor settings. It focuses on three strands –
+
+1) Enhancing physical health and wellbeing;
+
+2) Building competency in assessing and managing risk;
+
+3) Developing a sense of place
