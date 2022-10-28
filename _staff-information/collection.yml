@@ -2,6 +2,7 @@ collections:
   staff-information:
     output: true
     order:
+      - Support Staff.md
       - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/Primary 1 Form Teachers.md
