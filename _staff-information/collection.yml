@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
-      - Teaching Staff.md
-      - Key Personnel.md
-      - Executive and Administrative Staff.md
-      - Support Staff.md
       - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/Primary 1 Form Teachers.md
@@ -20,3 +16,7 @@ collections:
       - Teaching Staff/Tamil Language Teachers.md
       - Teaching Staff/Allied Educators.md
       - Teaching Staff/LSP.md
+      - Key Personnel.md
+      - Executive and Administrative Staff.md
+      - Support Staff.md
+      - Teaching Staff.md
