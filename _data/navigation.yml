@@ -2,7 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
   - title: Niche Programme
     collection: niche-programme
   - title: HBL
