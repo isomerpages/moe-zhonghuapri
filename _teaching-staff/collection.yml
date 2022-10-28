@@ -2,4 +2,5 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Allied Educators.md
       - LSP.md
