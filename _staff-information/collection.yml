@@ -2,6 +2,7 @@ collections:
   staff-information:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Support Staff.md
       - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
