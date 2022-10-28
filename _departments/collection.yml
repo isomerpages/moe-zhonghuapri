@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Photo Gallery on CCE programmes.md
       - CCE/.keep
       - Physical Education.md
