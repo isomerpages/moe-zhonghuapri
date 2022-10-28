@@ -37,3 +37,5 @@ The Outdoor Education component provides opportunities for theoretical concepts 
 2) Building competency in assessing and managing risk;
 
 3) Developing a sense of place
+
+![](/images/PE-Pic%206.png)
