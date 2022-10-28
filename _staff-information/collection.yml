@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teaching Staff/.keep
-      - Teaching Staff.md
       - Primary 1 Form Teachers.md
       - Primary 2 Form Teachers.md
       - Primary 3 Form Teachers.md
