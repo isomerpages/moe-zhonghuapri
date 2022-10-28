@@ -15,3 +15,5 @@ The vision of the PE department is for every Zhonghuarian Pupil to be nurtured i
 ![](/images/PE-Pic%201.png)
 
 **CURRICULUM PLAN**
+
+![](/images/PE-Pic%202.png)
