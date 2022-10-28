@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - HBL.md
       - Expectations of Students on Home Based Learning (HBL).md
       - Singapore Student Learning Space.md
       - Steps on Self Resetting Password.md
