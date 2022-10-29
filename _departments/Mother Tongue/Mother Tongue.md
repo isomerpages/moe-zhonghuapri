@@ -26,8 +26,9 @@ Mother Tongue
 
 Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
 
-  
 
 **Mission:**
 
 To instil in our pupils a love for their Mother Tongue and heritage.
+
+**2017 PSLE NEW FORMAT**
