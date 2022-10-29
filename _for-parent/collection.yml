@@ -1,4 +1,5 @@
 collections:
   for-parent:
     output: true
-    order: []
+    order:
+      - Insurance.md
