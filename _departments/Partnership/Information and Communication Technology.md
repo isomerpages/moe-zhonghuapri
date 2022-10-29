@@ -26,3 +26,11 @@ The intent of coding is to develop computational thinking in our pupils start
 ·         Algorithm design – Identifying and refining the steps necessary to reach a solution
 
 ·         Debugging – Refining those steps.
+
+Developing computational thinking will also develop the following skill sets in our pupils:
+
+·        Experimenting and iterating – developing something, trying it out, and then developing some more
+
+·        Testing and debugging – finding and solving problems as they work
+
+·        Abstracting and modularizing – exploring connections between the whole and the parts
