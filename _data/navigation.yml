@@ -19,5 +19,7 @@ links:
     collection: niche-programme
   - title: HBL
     collection: hbl
+  - title: Departments
+    collection: departments
   - title: Contact Us
     url: /contact-us/
