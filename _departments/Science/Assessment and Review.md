@@ -26,9 +26,9 @@ Table 1.1 specifies the modes of summative and formative assessments for each le
 .tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 552px">
+<table class="tg" style="undefined;table-layout: fixed; width: 566px">
 <colgroup>
-<col style="width: 51px">
+<col style="width: 65px">
 <col style="width: 245px">
 <col style="width: 256px">
 </colgroup>
