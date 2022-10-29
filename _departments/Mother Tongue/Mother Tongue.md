@@ -9,6 +9,8 @@ third_nav_title: Mother Tongue
 Mother Tongue
 =============
 
+[CHINESE LANGUAGE PAGE](/departments/Mother-Tongue/Chinese-Language/)
+
 
 **Vision:**
 
