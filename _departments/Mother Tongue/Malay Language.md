@@ -16,3 +16,5 @@ Confident users of Mother Tongue Language who take pride in their Mother Tongue 
 ### Mission:
 
 To instill in our pupils a love for their Mother Tongue and heritage.
+
+##### **Aktiviti / Program bagi Murid-murid Bahasa Melayu 2020**
