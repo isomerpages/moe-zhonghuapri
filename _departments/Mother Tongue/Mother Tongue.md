@@ -16,6 +16,7 @@ Mother Tongue
 
 <img src="/images/ML%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align = "left">
 
+[MALAY LANGUAGE PAGE](/departments/Mother-Tongue/Malay-Language/)
 
 **Vision:**
 
