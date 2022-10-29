@@ -27,7 +27,11 @@ Chinese Language
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 659px">
+<colgroup>
+<col style="width: 98px">
+<col style="width: 561px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-n4qt" colspan="2">2020　华文部活动／计划<br></th>
@@ -36,7 +40,7 @@ Chinese Language
 <tbody>
   <tr>
     <td class="tg-ii8k">一、二年级<br></td>
-    <td class="tg-y7qa">•	二维码户外教学活动<br><br>            o	走出课室，让学生扫描张贴在校园各处的二维码，认识课文字词，手脑并                      用，加深记忆。<br></td>
+    <td class="tg-y7qa">•	二维码户外教学活动<br><br>            o	走出课室，让学生扫描张贴在校园各处的二维码，认识课文字词，手脑并                           用，加深记忆。<br></td>
   </tr>
   <tr>
     <td class="tg-ii8k">二、三年级<br></td>
