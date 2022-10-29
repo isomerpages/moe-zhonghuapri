@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/National Education (NE).md
       - CCE/Social Studies (SS).md
       - CCE/Values In Action (VIA).md
       - CCE/Form Teacher Guidance Period (FTGP).md
