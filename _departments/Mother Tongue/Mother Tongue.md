@@ -14,6 +14,8 @@ Mother Tongue
 
 [CHINESE LANGUAGE PAGE](/departments/Mother-Tongue/Chinese-Language/)
 
+<img src="/images/ML%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align = "left">
+
 
 **Vision:**
 
