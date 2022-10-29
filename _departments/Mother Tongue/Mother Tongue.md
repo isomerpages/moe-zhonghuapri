@@ -18,6 +18,8 @@ Mother Tongue
 
 [MALAY LANGUAGE PAGE](/departments/Mother-Tongue/Malay-Language/)
 
+<img src="/images/TL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align = "left">
+
 **Vision:**
 
 Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
