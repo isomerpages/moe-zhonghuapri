@@ -18,3 +18,34 @@ Mission:         Engaged Learning through IDEAs
   
 
                         (Inquiry, Discovery, Exploration and Applications)
+												
+												
+												
+
+Rationale
+
+  
+
+Science teaching aims to inculcate the spirit of inquiry and a passion for Science, resulting in our pupils being engaged and excited about learning Science. We hope that pupils value Science and see it as a meaningful and important tool in helping them to explore the world that they live in.
+
+Aims of Department
+
+  
+
+The Science department aims to:
+
+  
+
+·         provide our pupils with first-hand opportunities to physically Inquire, Discover and Explore Science through a variety of teaching strategies/approaches and stimulating activities.   
+
+  
+
+·         provide pupils with basic scientific terms and concepts to help them understand themselves and the world around them
+
+  
+
+·         provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry thus Applying Science to the world they live in
+
+  
+
+·         equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in
