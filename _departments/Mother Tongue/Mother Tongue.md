@@ -36,3 +36,4 @@ To instil in our pupils a love for their Mother Tongue and heritage.
 [Briefing slides for Chinese.pdf](/files/Briefing%20slides%20for%20Chinese.pdf)
 
 [Briefing slides for Malay.pdf](/files/Briefing%20slides%20for%20Malay.pdf)
+
