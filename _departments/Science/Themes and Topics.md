@@ -18,9 +18,9 @@ Themes and Topics
 .tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 429px">
+<table class="tg" style="undefined;table-layout: fixed; width: 475px">
 <colgroup>
-<col style="width: 75px">
+<col style="width: 121px">
 <col style="width: 100px">
 <col style="width: 254px">
 </colgroup>
@@ -33,7 +33,7 @@ Themes and Topics
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n4qt" rowspan="3"><br><br><br><br>Primary 3<br></td>
+    <td class="tg-n4qt" rowspan="3"><br><br><br><br><br><br><br>Primary 3<br></td>
     <td class="tg-ii8k"><br><br><br>Diversity</td>
     <td class="tg-ii8k">Ø  Diversity of living and non-living things (General characteristics and classification)<br> <br><br>Ø  Diversity of materials<br> </td>
   </tr>
@@ -69,7 +69,7 @@ Themes and Topics
     <td class="tg-ii8k">Ø  Interaction of forces (Frictional force, gravitational force, force in springs)<br> <br><br>Ø  Interaction within the environment<br> <br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><br><br><br>Energy</td>
+    <td class="tg-ii8k"><br><br>Energy</td>
     <td class="tg-ii8k">Ø  Energy forms and uses (Photosynthesis)<br><br> <br>Ø  Energy conversion<br> </td>
   </tr>
 </tbody>
