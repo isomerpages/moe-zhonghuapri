@@ -39,19 +39,19 @@ Chinese Language
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">一、二年级<br></td>
+    <td class="tg-ii8k"><br><br>一、二年级<br></td>
     <td class="tg-y7qa">•	二维码户外教学活动<br><br>            o	走出课室，让学生扫描张贴在校园各处的二维码，认识课文字词，手脑并                           用，加深记忆。<br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">二、三年级<br></td>
+    <td class="tg-ii8k"><br>二、三年级<br></td>
     <td class="tg-y7qa">•	互动微软简报自主学习<br><br>            o	通过老师精心设计的互动微软简报，让学生自主学习看图写句和写段。<br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">四年级</td>
+    <td class="tg-ii8k"><br>四年级</td>
     <td class="tg-y7qa">•	网上文化活动<br><br>            o	通过网上活动，让学生认识华族文化。<br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">一至六年级<br></td>
+    <td class="tg-ii8k"><br><br><br>一至六年级<br></td>
     <td class="tg-y7qa">•	网上母语双周活动<br><br>            o	通过网上活动，让学生在轻松、快乐的氛围中学华文。<br><br>•	阅读计划<br><br>            o	通过班级故事书、杂志，鼓励学生多阅读。</td>
   </tr>
 </tbody>
