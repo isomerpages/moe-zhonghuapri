@@ -4,3 +4,7 @@ permalink: /departments/Mother-Tongue/Mother-Tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
+![](/images/Banner.jpg)
+
+Mother Tongue
+=============
