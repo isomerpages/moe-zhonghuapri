@@ -8,6 +8,7 @@ third_nav_title: Mother Tongue
 
 Mother Tongue
 =============
+<img src="/images/CL%20TAB.png" style="width:20%">
 
 [CHINESE LANGUAGE PAGE](/departments/Mother-Tongue/Chinese-Language/)
 
