@@ -8,3 +8,13 @@ third_nav_title: Science
 
 Science
 =======
+
+Vision:            Individuals with inquiring minds and a Passion for Science.
+
+  
+
+Mission:         Engaged Learning through IDEAs
+
+  
+
+                        (Inquiry, Discovery, Exploration and Applications)
