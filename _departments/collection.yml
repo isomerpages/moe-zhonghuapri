@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information and Communication Technology.md
       - Aesthetics.md
       - Partnership/Partnership.md
       - Partnership/Zhonghua Educational Support Team (ZEST).md
