@@ -60,3 +60,21 @@ This programme aims to make learning of Mathematics joyful and relevant to their
   </tr>
 </tbody>
 </table>
+
+b) Learning Support for Mathematics (LSM) programme for Primary 1 to 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vg6y{border-color:#ffffff;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-vg6y">Early Success. Strong Basics. Steady Progress</td>
+  </tr>
+</thead>
+</table>
