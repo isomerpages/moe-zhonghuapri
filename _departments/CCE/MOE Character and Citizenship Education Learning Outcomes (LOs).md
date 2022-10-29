@@ -4,3 +4,7 @@ permalink: /departments/CCE/MOE-Character-and-Citizenship-Education-Learning-Out
 description: ""
 third_nav_title: CCE
 ---
+![](/images/Banner.jpg)
+
+MOE Character and Citizenship Education Learning Outcomes (LOs)
+===============================================================
