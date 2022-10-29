@@ -30,3 +30,7 @@ We are pleased to work with the following partners in our mission.
 ![](/images/Partnership-Pic%205.png)
 
 ![](/images/Partnership-Pic%206.png)
+
+![](/images/Partnership-Pic%207.png)
+
+![](/images/Partnership-Pic%208.png)
