@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Assessment and Review.md
       - Science/.keep
       - Information and Communication Technology.md
       - Aesthetics.md
