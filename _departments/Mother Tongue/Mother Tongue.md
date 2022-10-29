@@ -32,3 +32,5 @@ Confident users of Mother Tongue Language who take pride in their Mother Tongue 
 To instil in our pupils a love for their Mother Tongue and heritage.
 
 **2017 PSLE NEW FORMAT**
+
+[Briefing slides for Chinese.pdf](/files/Briefing%20slides%20for%20Chinese.pdf)
