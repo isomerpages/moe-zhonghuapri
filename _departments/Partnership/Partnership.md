@@ -18,3 +18,7 @@ These partners support the school by designing programmes to develop our student
   
 
 We are pleased to work with the following partners in our mission.
+
+![](/images/Partnership-Pic%201.png)
+
+![](/images/Partnership-Pic%202.png)
