@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics.md
-      - Partnership/Information and Communication Technology.md
       - Partnership/Partnership.md
       - Partnership/Zhonghua Educational Support Team (ZEST).md
       - Partnership/.keep
