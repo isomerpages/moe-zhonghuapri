@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - MOE Sexuality Education Programme.md
       - Easy Snacks for Break Time!.md
       - MOE cyber wellness resources.md
       - Publicity Video for Social Studies.md
