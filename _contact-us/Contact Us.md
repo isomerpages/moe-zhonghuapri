@@ -66,3 +66,38 @@ Zhonghua Primary School
 ![](/images/Contact%20Us.png)
 
 ### Useful information
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 602px">
+<colgroup>
+<col style="width: 251px">
+<col style="width: 351px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">2020 SCHOOL OPERATING HOURS</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Monday - Thursday</td>
+    <td class="tg-sdzj">7:45 am - 1:30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Friday</td>
+    <td class="tg-sdzj">7:45 am - 1.15 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Reporting Time</td>
+    <td class="tg-sdzj">7:30 am</td>
+  </tr>
+</tbody>
+</table>
