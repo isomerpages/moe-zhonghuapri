@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - MOE cyber wellness resources.md
       - Publicity Video for Social Studies.md
       - Parents Gateway.md
       - PSLE infosheet.md
