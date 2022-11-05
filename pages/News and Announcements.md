@@ -8,3 +8,5 @@ description: ""
 # News and Announcements
 
 ### **Subject Based Banding**
+
+Click for information.
