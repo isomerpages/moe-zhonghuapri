@@ -2,4 +2,5 @@ collections:
   for-pupils:
     output: true
     order:
+      - Middle Primary.md
       - Upper Primary.md
