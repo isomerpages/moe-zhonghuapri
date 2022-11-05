@@ -7,3 +7,5 @@ description: ""
 
 Easy Snacks for Break Time!
 ===========================
+
+![](/images/Easy%20Snack.jpg)
