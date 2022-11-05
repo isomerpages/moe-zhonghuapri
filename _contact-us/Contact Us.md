@@ -13,3 +13,7 @@ Dear Sir/Madam
   
 
 Please contact us using the following channels:
+
+With warm regards,
+
+Zhonghua Primary School
