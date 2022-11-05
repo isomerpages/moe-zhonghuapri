@@ -9,4 +9,4 @@ description: ""
 
 ### **Subject Based Banding**
 
-Click for information.
+Click [here](/for-parent/Subject-BASED-BANDING/) for information.
