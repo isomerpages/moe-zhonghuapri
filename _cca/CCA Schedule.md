@@ -101,3 +101,5 @@ CCA Schedule
 </table>
 
 \*Competitive CCAs will have twice a week training. The other session will be on Thursdays.
+
+![](/images/Slide1.jpeg)
