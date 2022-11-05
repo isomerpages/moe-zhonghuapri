@@ -150,3 +150,51 @@ Zhonghua Primary School
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-feur{background-color:#FFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 602px">
+<colgroup>
+<col style="width: 201px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="2">SCHOOL UNIFORM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Supplier</td>
+    <td class="tg-sdzj">Shirley Season Wear</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Telephone No</td>
+    <td class="tg-sdzj">6280 4917</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Fax No</td>
+    <td class="tg-sdzj">6285 9727</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Operating Hours</td>
+    <td class="tg-sdzj">Monday to Friday:8:30 am to 3:30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Email  </td>
+    <td class="tg-feur">getintouch@shirleyuni.com</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Note</td>
+    <td class="tg-sdzj">School uniform is on sale in the school bookshop</td>
+  </tr>
+</tbody>
+</table>
