@@ -7,3 +7,9 @@ description: ""
 
 Contact Us
 ==========
+
+Dear Sir/Madam
+
+  
+
+Please contact us using the following channels:
