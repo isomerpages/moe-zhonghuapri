@@ -100,24 +100,24 @@ There will be an additional safety personnel stationed near the pedestrian cross
   <tr>
     <th class="tg-vqm8"><br>Three<span style="color:black"> well-equipped computer laboratories</span><br><br><br><br>Video Recording Studio<br><br><br>Two Music rooms<br><br><br>Central Library</th>
     <th class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/20170421_092434_HDR.jpg" alt="20170421_092434_HDR.jpg" width="307" height="184"><br><br>Engaging our pupils through ICT-infused<br>lesson in the computer laboratory. <br></th>
-    <th class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Nothing%20more%20exciting%20than%20playing%20soccer%20in%20our%20new%20Playzone%20field!.JPG" alt="Nothing more exciting than playing soccer in our new Playzone field!.JPG" width="276" height="184"><br><br><span style="font-weight:bold">Nothing more exciting than playing soccer in our new Playzone field!</span> </th>
+    <th class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Nothing%20more%20exciting%20than%20playing%20soccer%20in%20our%20new%20Playzone%20field!.JPG" alt="Nothing more exciting than playing soccer in our new Playzone field!.JPG" width="276" height="184"><br><br><span style="font-weight:bold">Nothing more exciting than playing soccer in our new Playzone field!</span> <br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-vqm8">Two Science Laboratories<br><br><br>Two Art Rooms<br><br><br>Physical Fitness Room (Gymnasium)<br><br><br>Indoor Sports Hall<br><br><br>Two badminton courts</td>
-    <td class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Enjoying%20our%20favourite%20pastime%20@%20the%20basketball%20court.JPG" alt="Enjoying our favourite pastime @ the basketball court.JPG" width="276" height="184"><br><br><span style="font-weight:bold">Enjoying our favourite pastime @ the</span><br><span style="font-weight:bold">basketball court</span></td>
-    <td class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/IMG20180726103238.jpg" alt="IMG20180726103238.jpg" width="245" height="184"><br><br><span style="font-weight:bold">Makerspace room is where we encourage entrepreneurial dare!</span></td>
+    <td class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Enjoying%20our%20favourite%20pastime%20@%20the%20basketball%20court.JPG" alt="Enjoying our favourite pastime @ the basketball court.JPG" width="276" height="184"><br><br><span style="font-weight:bold">Enjoying our favourite pastime @ the</span><br><span style="font-weight:bold">basketball court</span><br></td>
+    <td class="tg-vqm8"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/IMG20180726103238.jpg" alt="IMG20180726103238.jpg" width="245" height="184"><br><br><span style="font-weight:bold">Makerspace room is where we encourage entrepreneurial dare!</span><br></td>
   </tr>
   <tr>
     <td class="tg-vqm8">Two basketball courts<br><br><br>A multi-purpose court<br><br><br>An outdoor fitness station<br><br><br>A large assembly hall<br><br></td>
-    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/IMG20180813132519.jpg" alt="IMG20180813132519.jpg" width="245" height="184"><br><br>Curious young minds at work in the<br>science laboratory.</td>
-    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/DSC_2229.JPG" alt="DSC_2229.JPG" width="327" height="184"><br><br>Learning Tamil speech and drama in the Music room!</td>
+    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/IMG20180813132519.jpg" alt="IMG20180813132519.jpg" width="245" height="184"><br><br>Curious young minds at work in the<br>science laboratory.<br></td>
+    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/DSC_2229.JPG" alt="DSC_2229.JPG" width="327" height="184"><br><br>Learning Tamil speech and drama in the Music room!<br></td>
   </tr>
   <tr>
     <td class="tg-vqm8"><br><br><br><br><br>A well-developed Eco-garden</td>
     <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/IMG_3856.JPG" alt="IMG_3856.JPG" width="276" height="184"><br><br>Every moment is a happy moment in the Eco-garden!<br></td>
-    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Harnessing%20ICT%20in%20the%20Eco-garden.JPG" alt="Harnessing ICT in the Eco-garden.JPG" width="327" height="184"><span style="color:#222">                               </span><br>Harnessing ICT in the Eco-garden!</td>
+    <td class="tg-u05r"><img src="https://zhonghuapri.moe.edu.sg/qql/slot/u610/school%20facilities/Harnessing%20ICT%20in%20the%20Eco-garden.JPG" alt="Harnessing ICT in the Eco-garden.JPG" width="327" height="184"><span style="color:#222">                               </span><br>Harnessing ICT in the Eco-garden!<br></td>
   </tr>
 </tbody>
 </table>
