@@ -31,14 +31,18 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 522px">
+<colgroup>
+<col style="width: 106px">
+<col style="width: 165px">
+<col style="width: 251px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-9u4g" colspan="2">Day</th>
-    <th class="tg-9u4g">Opening Hours</th>
+    <th class="tg-2fwu" colspan="2">Day</th>
+    <th class="tg-2fwu">Opening Hours</th>
   </tr>
 </thead>
 <tbody>
@@ -50,11 +54,11 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
   <tr>
     <td class="tg-2fwu" rowspan="2"><br><br>After School<br></td>
     <td class="tg-sxkx">Monday to Thursday</td>
-    <td class="tg-sxkx">1.30pm to 2.00pm<br>3.30pm to 4.00pm</td>
+    <td class="tg-sxkx">1.30pm to 2.00pm<br><br>3.30pm to 4.00pm</td>
   </tr>
   <tr>
     <td class="tg-sxkx">Friday</td>
-    <td class="tg-sxkx">1.15pm to 1.45pm<br>3.30pm to 4.00pm</td>
+    <td class="tg-sxkx">1.15pm to 1.45pm<br><br>3.30pm to 4.00pm</td>
   </tr>
   <tr>
     <td class="tg-sxkx" colspan="2">Saturday</td>
