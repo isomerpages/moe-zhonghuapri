@@ -8,7 +8,7 @@ description: ""
 Leave of Absence (LOA) scheme
 =============================
 
-Leave of absence (LOA) scheme
+### **Leave of absence (LOA) scheme**
 
   
 
@@ -16,7 +16,7 @@ The LOA scheme allows your child to rejoin their school after they return from o
 
   
 
-Eligibility
+##### **Eligibility**
 
   
 
@@ -36,17 +36,16 @@ To be granted LOA, your child must fulfil all 3 of the following criteria:
 
   
 
-Fees
+##### **Fees**
 
   
-
 Schools will charge an annual nominal fee for a child on LOA. The amount will be determined by individual schools.
 
 At the end of each year, you will need to decide whether to renew the LOA for another year. Your child’s LOA status will expire if you choose not to renew.
 
   
 
-Support for your child
+##### **Support for your child**
 
   
 
@@ -62,7 +61,7 @@ The school will provide support in the following areas to ease your child's retu
 
   
 
-How to apply
+##### **How to apply**
 
   
 
