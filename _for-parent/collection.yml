@@ -2,4 +2,5 @@ collections:
   for-parent:
     output: true
     order:
+      - Subject BASED BANDING.md
       - Insurance.md
