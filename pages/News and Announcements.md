@@ -23,4 +23,4 @@ Click [here](https://zhonghuapri.moe.edu.sg/for-parent/2021-2022-financial-assi
 
 ### **2021 Leave Of Absence**
 
-Click
+Click [here](/for-parent/Leave-of-Absence-LOA-scheme/) for information.
