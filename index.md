@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News and Announcements
           description: ""
-          url: https://google.com
+          url: /News-and-Announcements/
         - title: Quick Links
           description: Parents
           url: https://gmail.com
