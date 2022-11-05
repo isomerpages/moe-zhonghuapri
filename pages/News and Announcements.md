@@ -30,3 +30,5 @@ Click [here](/for-parent/Leave-of-Absence-LOA-scheme/) for information.
 Click [here](/departments/Physical-Education/) for videos and information.
 
 ### **2021 SLS Updates**
+
+[SLS School-based Helpline](/hbl/Singapore-Student-Learning-Space/)
