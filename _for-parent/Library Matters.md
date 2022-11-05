@@ -23,3 +23,5 @@ All pupils can use Online Public Access Catalogue (OPAC) to find the book they l
 The URL address is:  
 
 [https://schoolibrary.moe.edu.sg/zhonghuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME](https://schoolibrary.moe.edu.sg/zhonghuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+![](/images/Pic1.png)
