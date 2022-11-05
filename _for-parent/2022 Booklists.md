@@ -17,3 +17,5 @@ description: ""
 [2022 Booklists Primary 4.pdf](/files/2022%20Booklists%20Primary%204.pdf)
 
 [2022 Booklists Primary 5 Foundation.pdf](/files/2022%20Booklists%20Primary%205%20Foundation.pdf)
+
+[2022 Booklists Primary 5 Standard.pdf](/files/2022%20Booklists%20Primary%205%20Standard.pdf)
