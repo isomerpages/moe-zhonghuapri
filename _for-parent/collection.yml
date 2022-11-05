@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - Leave of Absence (LOA) scheme.md
       - Sports Carnival Day 2021 (P1 to P3).md
       - Library Matters.md
       - Subject BASED BANDING.md
