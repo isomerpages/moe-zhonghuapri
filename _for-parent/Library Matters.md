@@ -37,3 +37,5 @@ It aims to promote recreational reading as well as support learning for students
 The URL address is:  
 
 [https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+![](/images/Pic2.png)
