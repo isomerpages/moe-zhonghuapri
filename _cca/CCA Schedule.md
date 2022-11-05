@@ -7,3 +7,5 @@ description: ""
 
 CCA Schedule
 ============
+
+**CCA Schedule for Semester 2 2022**
