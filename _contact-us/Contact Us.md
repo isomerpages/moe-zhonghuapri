@@ -101,3 +101,52 @@ Zhonghua Primary School
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-feur{background-color:#FFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-d8aa{background-color:#FFF;color:#10509C;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 602px">
+<colgroup>
+<col style="width: 251px">
+<col style="width: 351px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="2">SCHOOL-BASED STUDENT CARE CENTRE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Supplier</td>
+    <td class="tg-sdzj">Learning Studio by Zenitant</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Telephone No</td>
+    <td class="tg-sdzj">8102 7268</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Operating Hours (school term)</td>
+    <td class="tg-sdzj">Monday to Thursday: 1:45pm - 7:00pm<br>Friday: 12:45pm - 7:00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Operating Hours (school holiday)</td>
+    <td class="tg-sdzj">Monday to Friday: 7:30am - 7:00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Email  </td>
+    <td class="tg-feur">enquiry@learningstudioeducare.com</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Website </td>
+    <td class="tg-d8aa"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:none;color:#10509C">www.zenitant.com.sg</span></a> </td>
+  </tr>
+</tbody>
+</table>
