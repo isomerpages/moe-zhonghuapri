@@ -40,3 +40,5 @@ MOE Sexuality Education Programme
   
 
 You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+
+**OVERVIEW OF ZHONGHUA PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**
