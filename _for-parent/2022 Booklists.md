@@ -10,3 +10,4 @@ description: ""
 
 [2022 Booklists Primary 1.pdf](/files/2022%20Booklists%20Primary%201.pdf)
 
+[2022 Booklists Primary 2.pdf](/files/2022%20Booklists%20Primary%202.pdf)
