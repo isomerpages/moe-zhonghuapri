@@ -21,3 +21,8 @@ Let's learn to be safe and smart digital users together!
 <img src="/images/Cyber.png" style="width:70%">
 
 [Ways To Spot Fake News.pdf](/files/Ways%20To%20Spot%20Fake%20News.pdf)
+
+Media Wise Youth Guide - A Smart Guide For Youths.pdf (Note: file exceeds 5MB)
+
+
+[Meaning and Forms of Fake News.pdf](/files/Meaning%20and%20Forms%20of%20Fake%20News.pdf)
