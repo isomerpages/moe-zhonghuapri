@@ -12,7 +12,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: News and Announcements
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Quick Links
           description: Parents
