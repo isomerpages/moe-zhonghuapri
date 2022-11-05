@@ -33,9 +33,9 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 .tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 522px">
+<table class="tg" style="undefined;table-layout: fixed; width: 536px">
 <colgroup>
-<col style="width: 106px">
+<col style="width: 120px">
 <col style="width: 165px">
 <col style="width: 251px">
 </colgroup>
