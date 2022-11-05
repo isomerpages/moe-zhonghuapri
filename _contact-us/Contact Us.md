@@ -273,3 +273,28 @@ Zhonghua Primary School
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 601px">
+<colgroup>
+<col style="width: 601px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv">SCHOOL DENTAL SERVICES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">In 2020, the school will be served by a roving dental team and will only operate in our school premise to provide services to our pupils from 1 Aug to 30 Nov 2020. Between Jan to July, should pupils require dental services, parents would need to contact buddy dental clinics in nearby schools and get an appointment there. These buddy clinics are at Yangzheng Primary School, Punggol Primary School and Holy Innocents Primary School. Parents can also contact mobile dental clinics that will be at several sec schools at different times of the year. For dental related emergencies, parents can contact School Dental Centre at SGH.</td>
+  </tr>
+</tbody>
+</table>
