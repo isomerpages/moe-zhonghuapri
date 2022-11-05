@@ -27,4 +27,4 @@ Click [here](/for-parent/Leave-of-Absence-LOA-scheme/) for information.
 
 ### **CCA Recruitment**
 
-Click
+Click [here](/departments/Physical-Education/) for videos and information.
