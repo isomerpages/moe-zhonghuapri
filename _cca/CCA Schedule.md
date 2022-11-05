@@ -105,3 +105,5 @@ CCA Schedule
 ![](/images/Slide1.jpeg)
 
 ![](/images/Slide2.jpeg)
+
+![](/images/Slide3.jpeg)
