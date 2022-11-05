@@ -80,3 +80,4 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 There will be an additional safety personnel stationed near the pedestrian crossing between the school main gate walkway and the canteen to ensure safety of pedestrians. Safety water barriers and a gate will be positioned on either side to manage vehicular access and will be controlled by a vehicle ground controller. Students have been briefed on the dangers and the safety precaution/actions required from them.  Nevertheless, please advise your children to exercise extra caution when using the school pedestrian crossing.”
 
 **Our school facilities are designed with the pupils' welfare in mind. Here is a list of some of these facilities which are available for the use of our pupils.**
+
