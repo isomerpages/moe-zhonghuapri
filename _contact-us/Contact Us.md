@@ -61,3 +61,6 @@ Please contact us using the following channels:
 With warm regards,
 
 Zhonghua Primary School
+
+
+![](/images/Contact%20Us.png)
