@@ -97,3 +97,36 @@ The opening hours for the Main (vehicular) Gate, Side Gate and the Back Gate are
   </tr>
 </tbody>
 </table>
+
+From 7.40am, the Main (vehicular) Gate will be manned by barrier control. The following vehicles are authorised to enter:
+
+*   Vehicles with school labels
+*   Goods and maintenance vehicles
+*   Parents picking up sick children
+*   Any other vehicles that are authorised by the school
+
+Security guards will man both the Main (vehicular) Gate and Side Gate.
+
+  
+
+For security reasons and due to limited parking space in the school, parents who wish to come into the school for an appointment will have to park their vehicles on one side of the drive-way leading to the school. If the drive-way is fully occupied, parents are to park at the nearby HDB car parks. All visitors are required to report to the Guard Post and sign-in, indicating the purpose of their visit. The security guard will then issue a Visitor Pass to the visitor and accompany the visitor to the General Office to seek further assistance. The Visitor Pass must be visibly displayed at all times during your visit. Visitors must be accompanied by a member of staff during their visit and are not to wander around the school premises unaccompanied. Visitors without Visitor Passes will be questioned by the school staff or security guards on their business in school.
+
+  
+
+In the interest of safety, pupils are not allowed to leave the school unaccompanied during curriculum time. Pupils may leave the school early, in the company of an authorised person e.g.; father, mother, grandparent, helper or guardian. The following procedures are to be followed:
+
+*   Authorised persons are to report to the security guard.
+*   A Visitor Pass and Visitor Slip will be issued.
+*   Authorised persons will then proceed to the General Office to pick the pupil up.
+*   A form authorising the pupil to leave early will be issued and must be filled.
+*   The slip at the bottom of the form will be detached and given to the authorised persons. This slip is to be handed to the security guard before the pupil is allowed to leave the school compound.
+
+Parents are not allowed in the school premises during school dismissal. They are to wait outside the Side Gate near the Guard Post.
+
+  
+
+On rainy days, parents who are driving their children to school may drop their children at the porch outside the concourse. This place will be manned by school staff. Parents who pick up their children from the Back Gate will also be allowed to proceed to the canteen.
+
+  
+
+Thank you for your co-operation and understanding in ensuring that ZPS is a safe place for all. We regret any inconvenience caused.
