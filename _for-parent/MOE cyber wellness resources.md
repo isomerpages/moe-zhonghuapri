@@ -26,3 +26,9 @@ Media Wise Youth Guide - A Smart Guide For Youths.pdf (Note: file exceeds 5MB)
 
 
 [Meaning and Forms of Fake News.pdf](/files/Meaning%20and%20Forms%20of%20Fake%20News.pdf)
+
+**More helpful resources can be found here:**    
+
+
+1.  [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
+2.  [https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)
