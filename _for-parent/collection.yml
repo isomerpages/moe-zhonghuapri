@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - Publicity Video for Social Studies.md
       - Parents Gateway.md
       - PSLE infosheet.md
       - Useful Links.md
