@@ -18,6 +18,6 @@ Today's digital age allows online news and information to easily reach our child
   
 Let's learn to be safe and smart digital users together!
 
-![](/images/Multiple%20Source%20Fact%20Checking.png)
+<img src="/images/Cyber.png" style="width:70%">
 
 [Ways To Spot Fake News.pdf](/files/Ways%20To%20Spot%20Fake%20News.pdf)
