@@ -17,3 +17,5 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 Today's digital age allows online news and information to easily reach our children. However, not all that are shared on the internet may be true. When our children start to believe and act on news that are untrue, they may likely experience anxiety and stress. It is therefore important to equip all our children with a few simple ways to spot fake news so as not to fall prey to the dangers online.  
   
 Let's learn to be safe and smart digital users together!
+
+![](/images/Multiple%20Source%20Fact%20Checking.png)
