@@ -45,3 +45,33 @@ For Teacher
 <img src="/images/teaching.png" style="width:190px;height:190px;margin-right:25px;" align = "left">
 
 [PURPOSE OF TEACHING](http://www3.moe.edu.sg/purposeofteaching/)
+
+```
+
+```
+```
+
+```
+
+<img src="/images/AST.png" style="width:250px;height:150px;margin-right:25px;" align = "left">
+
+[ACADEMY OF SINGAPORE TEACHERS](https://www.academyofsingaporeteachers.moe.gov.sg/)
+
+```
+```
+
+```
+```
+
+
+<img src="/images/idea2.png" style="width:250px;height:110px;margin-right:25px;" align = "left">
+
+[IDEA²](https://www.academyofsingaporeteachers.moe.gov.sg/cos/o.x?c=/ast/pagetree&func=view&rid=1073031)
+
+```
+
+```
+
+<img src="/images/ARTDR.png" style="width:250px;height:190px;margin-right:25px;" align = "left">
+
+[ART LESSONS PORTAL](http://arts.edumall.sg/)
