@@ -2,6 +2,7 @@ collections:
   zhps:
     output: true
     order:
+      - For Teacher.md
       - Privacy Statement.md
       - Banners.md
       - Report Vulnerability.md
