@@ -15,6 +15,14 @@ Staff Information
 ```
 
 ```
+
 <img src="/images/Teaching%20Staff.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
 
 #### [Teaching Staff](/teaching-staff/Teaching-Staff/)
+
+```
+
+```
+
+<img src="/images/KeyPersonnel.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
+
