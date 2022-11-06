@@ -35,3 +35,4 @@ Also, click here to get "[Top Tips for Safe Travel](http://www.lonelyplanet.com/
 
 Enjoy your holidays and see you next semester. Take care!
 
+Note: Travel Declaration Form for Pupils and Staff links are broken. 
