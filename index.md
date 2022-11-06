@@ -16,7 +16,7 @@ sections:
           url: /ZHPS/News-and-Announcements/News-and-Announcements/
         - title: Quick Links
           description: Parents
-          url: /Quick-Links-For-Parents/
+          url: /Quicklinks/Parents/
         - title: Quick Links
           description: Students
           url: /Quick-Links-For-Students/
