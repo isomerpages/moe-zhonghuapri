@@ -14,3 +14,4 @@ Teaching Staff
 * [Primary 3 Form Teachers](/teaching-staff/Primary-3-Form-Teachers/)
 * [Primary 4 Form Teachers](/teaching-staff/Primary-4-Form-Teachers/)
 * [Primary 5 Form Teachers](/teaching-staff/Primary-5-Form-Teachers/)
+* [Primary 6 Form Teachers](/teaching-staff/Primary-6-Form-Teachers/)
