@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage.png
       button: Contact Us
-      url: /contact-us/
+      url: /contact-us/Contact-Us/
       key_highlights:
         - title: News and Announcements
           description: ""
