@@ -3,11 +3,9 @@ title: Parents
 permalink: /Quicklinks/Parents/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
-Quick Links (For Parents)
+Parents
 ===========
 
 *   [Primary Education](http://www.moe.gov.sg/education/primary/)
@@ -25,4 +23,4 @@ Quick Links (For Parents)
 *   [Feedback Form](https://forms.cwp.gov.sg/zhonghuapri/FormR6W8R)
 *   [Parents Gateway](https://pg.moe.edu.sg/faq)
 
-Note: Primary Education, MOE cyber wellness resources, MOE Primary 1 Registration Information, Financial Assistance Schemes, National Examinations Timetable links are broken. 
+Note: Primary Education, MOE cyber wellness resources, MOE Primary 1 Registration Information, Financial Assistance Schemes, National Examinations Timetable links are broken.
