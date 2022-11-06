@@ -16,7 +16,7 @@ sections:
           url: /News-and-Announcements/
         - title: Quick Links
           description: Parents
-          url: https://gmail.com
+          url: /Quick-Links-For-Parents/
         - title: Quick Links
           description: Students
           url: /privacy/
