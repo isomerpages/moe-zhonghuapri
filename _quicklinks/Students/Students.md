@@ -4,14 +4,9 @@ permalink: /Quicklinks/Students/Students/
 description: ""
 third_nav_title: Students
 ---
-
-
-
-
-
 ![](/images/Banner.jpg)
 
-Quick Links (For Students)
+Students
 ===========
 
 *   [McOnline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
@@ -24,4 +19,4 @@ Quick Links (For Students)
 *   [Sangamam: Tamil Portal](http://sangamam.edumall.sg/)
 *   [Blitz: Art Online Gallery](http://blitx.edumall.sg/)
 
-Note: Touch Typing Practice, NADI: Malay Language Magazine, TUNAS: Malay Language Portal, Mekar Dalam Talian, Namnaadi: Tamil E-Magazine, Sangamam: Tamil Portal, Blitz: Art Online Gallery links are broken. 
+Note: Touch Typing Practice, NADI: Malay Language Magazine, TUNAS: Malay Language Portal, Mekar Dalam Talian, Namnaadi: Tamil E-Magazine, Sangamam: Tamil Portal, Blitz: Art Online Gallery links are broken.
