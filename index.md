@@ -19,5 +19,5 @@ sections:
           url: /Quick-Links-For-Parents/
         - title: Quick Links
           description: Students
-          url: /privacy/
+          url: /Quick-Links-For-Students/
 ---
