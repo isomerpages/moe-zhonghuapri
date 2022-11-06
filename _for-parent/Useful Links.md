@@ -39,3 +39,5 @@ Useful Links
 7.[National Examinations Timetable](http://www.moe.gov.sg/schools/national-exams-timetable/)
 
 8.[MOE Sexuality Education in Schools](/for-parent/MOE-Sexuality-Education-Programme/)
+
+Note: Primary Education, Primary One Registration Exercise, Student Admissions, Edusave, Financial Assistance Schemes, School Terms and Holidays, National Examinations Timetable links are broken. 
