@@ -2,9 +2,9 @@ collections:
   zhps:
     output: true
     order:
-      - News & Announcements/Travel Declaration.md
-      - News & Announcements/News and Announcements.md
       - News & Announcements/.keep
+      - News & Announcements/News and Announcements.md
+      - News & Announcements/Travel Declaration.md
       - For Teacher.md
       - Privacy Statement.md
       - Banners.md
