@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - News & Announcements/.keep
-      - News and Announcements.md
       - For Teacher.md
       - Privacy Statement.md
       - Banners.md
