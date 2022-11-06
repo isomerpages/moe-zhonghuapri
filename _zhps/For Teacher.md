@@ -87,3 +87,12 @@ For Teacher
 <img src="/images/ARTDR.png" style="width:250px;height:190px;margin-right:25px;" align = "left">
 
 [ART LESSONS PORTAL](http://arts.edumall.sg/)
+
+
+```
+
+```
+```
+
+```
+Note: SOUTH 6 CLUSTER PORTAL, TEACHERS' DIGEST, PURPOSE OF TEACHING, ACADEMY OF SINGAPORE TEACHERS, IDEA², ART LESSONS PORTAL links are broken. 
