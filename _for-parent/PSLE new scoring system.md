@@ -19,3 +19,5 @@ Changes to the PSLE Scoring and S1 Posting will be made as part of a larger shif
   
 
 More details here: [http://www.moe.gov.sg/PSLE](http://www.moe.gov.sg/PSLE)
+
+Note: PSLE new scoring system details link is broken. 
