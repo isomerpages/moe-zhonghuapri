@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Parents.md
-      - Quick Links (For Students).md
+      - Students.md
