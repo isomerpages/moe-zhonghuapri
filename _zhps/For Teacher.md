@@ -42,6 +42,6 @@ For Teacher
 
 ```
 
-<img src="/images/teaching.png" style="width:190px;height:190px;margin-left:25px;" align = "left">
+<img src="/images/teaching.png" style="width:190px;height:190px;margin-right:25px;" align = "left">
 
 [PURPOSE OF TEACHING](http://www3.moe.edu.sg/purposeofteaching/)
