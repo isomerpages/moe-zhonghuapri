@@ -47,5 +47,13 @@ links:
       - title: Report Vulnerability
         url: /zhps/Report-Vulnerability/
   - title: Departments
-    url: /permalink
-    sublinks: []
+    url: /departments/English-Language/
+    sublinks:
+      - title: English Language
+        url: /departments/English-Language/
+      - title: Mathematics
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Science
+        url: /permalink
