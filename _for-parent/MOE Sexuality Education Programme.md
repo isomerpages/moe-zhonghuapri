@@ -82,3 +82,77 @@ c. Character and Citizenship Education (CCE)
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 847px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 180px">
+<col style="width: 321px">
+<col style="width: 156px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-n4qt"><br>UNIT</th>
+    <th class="tg-n4qt"><br>LESSONS / DURATION</th>
+    <th class="tg-n4qt">Lesson Objectives<br><br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-n4qt">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:400;font-style:normal">Gosh! I Am Changing</span><br></td>
+    <td class="tg-ii8k">What Is Happening To Me?<br><br>(30 min)</td>
+    <td class="tg-y7qa">·         know what puberty is<br><br>·         identify the physical changes during puberty</td>
+    <td class="tg-ii8k"><br>Term 3 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br>What Can I Do? (Part 1)<br><br> (30 min)<br></td>
+    <td class="tg-y7qa">·         identify the stresses caused by physical and emotional changes during puberty<br><br>·         describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·         describe the emotions caused by physical changes during puberty<br><br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-ii8k"><br><br><br><br><br><br>Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br><br>What Can I Do? (Part 2)<br><br> (30 min)<br></td>
+    <td class="tg-y7qa">·         identify the stresses caused by physical and emotional changes during puberty<br><br>·         describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>·         describe the emotions caused by physical changes during puberty<br><br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-ii8k"><br><br><br><br><br><br>Term 3 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Main Task<br><br>(30 min)</td>
+    <td class="tg-y7qa">Description of the Main Task:<br><br> Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-ii8k"><br><br><br>Term 3 Week 5<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br><br><br><br><br>Where I Belong</td>
+    <td class="tg-ii8k"><br><br><br>What Are Families?<br><br>(30 min)<br> </td>
+    <td class="tg-y7qa">·         know that there are different types of family structures<br><br>·         know that every family is unique<br><br>·         state that the three basic functions of families are to provide love, protection and guidance<br><br>·         identify the right sources of help to turn to when in need</td>
+    <td class="tg-ii8k"><br><br><br><br><br>Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br>Where I Belong</td>
+    <td class="tg-ii8k">What is My Role?<br> <br>(30 min)</td>
+    <td class="tg-y7qa">·         know that gender is about being male or female<br><br>·         choose not to stereotype by gender</td>
+    <td class="tg-ii8k"><br>Term 3 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k" rowspan="2"><br><br><br><br><br><br>How Do I Keep Myself Safe?</td>
+    <td class="tg-ii8k"><br><br>What is Safety?<br><br>(30 min)</td>
+    <td class="tg-y7qa">·         know what sexual abuse is<br><br>·         know that there are laws in Singapore that can protect them from sexual abuse<br><br>·         know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-ii8k"><br><br><br>Term 4 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br>Stop It! Run! Tell!<br><br>(30 min)</td>
+    <td class="tg-y7qa">·         protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>·         know their responsibilities in minimising the risk of sexual harm<br></td>
+    <td class="tg-ii8k"><br><br><br>Term 4 Week 2</td>
+  </tr>
+</tbody>
+</table>
