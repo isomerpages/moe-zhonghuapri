@@ -14,6 +14,9 @@ For Teacher
 
 ```
 ```
+```
+
+```
 
 <img src="/images/iconnect.png" style="width:250px;height:120px;margin-right:25px;" align = "left">
 
@@ -22,11 +25,17 @@ For Teacher
 ```
 
 ```
+```
+
+```
 
 <img src="/images/edumall.png" style="width:250px;height:120px;margin-right:25px;" align = "left">
 
 [EDUMALL PORTAL](https://www.family.sg/family-tech-education.html)
 
+```
+
+```
 ```
 
 ```
@@ -68,6 +77,9 @@ For Teacher
 
 [IDEA²](https://www.academyofsingaporeteachers.moe.gov.sg/cos/o.x?c=/ast/pagetree&func=view&rid=1073031)
 
+```
+
+```
 ```
 
 ```
