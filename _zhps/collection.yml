@@ -2,4 +2,5 @@ collections:
   zhps:
     output: true
     order:
+      - Banners.md
       - Report Vulnerability.md
