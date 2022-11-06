@@ -2,8 +2,8 @@ collections:
   quicklinks:
     output: true
     order:
+      - Parents.md
       - Students/.keep
       - Students/Green My Mind.md
       - Students/Students.md
-      - Parents.md
       - Ex Students.md
