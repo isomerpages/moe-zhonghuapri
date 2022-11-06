@@ -22,3 +22,5 @@ Quick Links (For Parents)
 *   [MOE Sexuality Education in Schools](/for-parent/MOE-Sexuality-Education-Programme/)
 *   [Feedback Form](https://forms.cwp.gov.sg/zhonghuapri/FormR6W8R)
 *   [Parents Gateway](https://pg.moe.edu.sg/faq)
+
+Note: Primary Education, MOE cyber wellness resources, MOE Primary 1 Registration Information, Financial Assistance Schemes, National Examinations Timetable links are broken. 
