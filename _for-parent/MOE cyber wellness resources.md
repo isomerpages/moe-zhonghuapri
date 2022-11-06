@@ -32,3 +32,5 @@ Media Wise Youth Guide - A Smart Guide For Youths.pdf (Note: file exceeds 5MB)
 
 1.  [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
 2.  [https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)
+
+Note: Both Helpful resources links are broken. 
