@@ -38,4 +38,4 @@ Useful Links
 
 7.[National Examinations Timetable](http://www.moe.gov.sg/schools/national-exams-timetable/)
 
-8.[MOE Sexuality Education in Schools](https://zhonghuapri.moe.edu.sg/for-parent/moe-sexuality-education-programme)
+8. [MOE Sexuality Education in Schools](/for-parent/MOE-Sexuality-Education-Programme/)
