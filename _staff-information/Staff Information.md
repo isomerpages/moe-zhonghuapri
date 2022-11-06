@@ -16,12 +16,18 @@ style="width:180px;height:180px;margin-right:65px;" align = "left">
 ```
 
 ```
+```
+
+```
 
 <img src="/images/Teaching%20Staff.png"
 style="width:180px;height:180px;margin-right:65px;" align = "left">
 
 #### [Teaching Staff](/teaching-staff/Teaching-Staff/)
 
+```
+
+```
 ```
 
 ```
@@ -33,11 +39,17 @@ style="width:180px;height:180px;margin-right:65px;" align = "left">
 ```
 
 ```
+```
 
-<img src="/images/EAS.png" style="width:180px;height:180px;margin-right:15px;" align = "right">
+```
+
+<img src="/images/EAS.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
 
 #### [Executive and Administrative Staff](/Staff-Information/Executive-and-Administrative-Staff/)
 
+```
+
+```
 ```
 
 ```
