@@ -31,4 +31,12 @@ links:
     collection: cca
   - title: "ZHPS "
     url: /zhps/Search/
-    sublinks: []
+    sublinks:
+      - title: Search
+        url: /zhps/Search/
+      - title: Quicklinks
+        url: /permalink
+      - title: News & Announcements
+        url: /permalink
+      - title: For Teacher
+        url: /permalink
