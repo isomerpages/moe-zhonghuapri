@@ -7,7 +7,7 @@ description: ""
 
 Mission and Vision
 ==================
-![](/images/SchLogo.png)
+![](/images/Logo5.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
