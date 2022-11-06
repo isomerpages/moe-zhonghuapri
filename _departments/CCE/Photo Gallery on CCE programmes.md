@@ -37,3 +37,19 @@ On 12 and 13 February, pupils from the Non-Mother Tongue (NMT) class championed 
   
 
 4 classes visited our immediate neighbours in the vicinity, and another 2 classes paid a special visit to St Luke’s Eldercare (Serangoon) to surprise and bring joy to the elders there. Through this simple yet meaningful activity, pupils learnt skills such as working in teams, listening to others, active participation and they also had the chance to learn more about the Chinese culture, as well as the importance of social cohesion and racial harmony.Values-In-Action for Primary 4 (Apr - May 2015).
+
+![](/images/CCE2.gif)
+
+**Values-In-Action for Primary 4 (Apr - May 2015)**
+
+  
+
+**Visit to St. Luke’s Eldercare (Serangoon)**
+
+  
+
+In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-Mother Tongue (NMT) classes were rostered to visit our community partner – St Luke’s Eldercare (Serangoon).
+
+  
+
+ Titled ‘Funhour @ St Luke’s’, it was a yearly affair for our pupils to connect to the elderly through meaningful, fun and happy afternoons. It also provided opportunities for Zhonghuarians to contribute to the community whilst living out our school values (Care, Respect and Harmony). Most pupils felt excited to be involved in this meaningful programme, and indicated their interests in visiting the elderly again.
