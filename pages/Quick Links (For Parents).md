@@ -14,3 +14,4 @@ Quick Links
 *   [School Bag](http://www.schoolbag.sg/)
 *   [MOE cyber wellness resources](https://ictconnection.moe.edu.sg/cyber-wellness)
 *  [In Touch](/for-parent/In-Touch-Newsletter/)
+*  [CCA Deployment 2021](/cca/CCA-Schedule/)
