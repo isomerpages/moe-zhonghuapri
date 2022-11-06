@@ -4,10 +4,6 @@ permalink: /ZHPS/News-and-Announcements/News-and-Announcements/
 description: ""
 third_nav_title: News & Announcements
 ---
-
-
-
-
 ![](/images/Banner.jpg)
 
 # News and Announcements
@@ -25,6 +21,8 @@ Thank you!
 ### **MOE FAS Application Form Aug 2021**
 
 Click [here](https://zhonghuapri.moe.edu.sg/for-parent/2021-2022-financial-assistance-scheme-fas) for information.
+
+Note: MOE FAS Application Form Aug 2021 link is broken.
 
 ### **2021 Leave Of Absence**
 
