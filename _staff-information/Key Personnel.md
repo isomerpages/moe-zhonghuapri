@@ -3,8 +3,6 @@ title: Key Personnel
 permalink: /Staff-Information/Key-Personnel/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Key Personnel
@@ -37,7 +35,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-sxkx"> <br><br><span style="background-color:initial">Vice Principal</span><br></td>
-    <td class="tg-sxkx">   Mrs Tan Siew Leng<br><br><span style="background-color:initial">tan</span><a href="mailto:tan_siew_leng@schools.gov.sg"><span style="text-decoration:none;color:#10509C;background-color:initial">_siew_leng@schools.gov.sg </span></a> <br><span style="background-color:initial"> </span><br></td>
+    <td class="tg-sxkx">   Mrs Tan Siew Leng<br><br><span style="background-color:initial"></span><a href="mailto:tan_siew_leng@schools.gov.sg"><span style="text-decoration:none;color:#10509C;background-color:initial">tan_siew_leng@schools.gov.sg </span></a> <br><span style="background-color:initial"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-ncov"> Vice Principal</td>
