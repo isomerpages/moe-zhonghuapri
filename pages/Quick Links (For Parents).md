@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banner.jpg)
 
-Quick Links
+Quick Links (For Parents)
 ===========
 
 *   [Primary Education](http://www.moe.gov.sg/education/primary/)
