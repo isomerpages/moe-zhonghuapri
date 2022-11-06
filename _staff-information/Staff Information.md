@@ -8,7 +8,8 @@ description: ""
 Staff Information
 =================
 
-<img src="/images/SchoolAdvisory.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
+<img src="/images/SchoolAdvisory.png"
+style="width:180px;height:180px;margin-right:65px;" align = "left">
 
 #### [School Advisory Committee](/Staff-Information/School-Advisory-Committee/)
 
@@ -16,7 +17,8 @@ Staff Information
 
 ```
 
-<img src="/images/Teaching%20Staff.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
+<img src="/images/Teaching%20Staff.png"
+style="width:180px;height:180px;margin-right:65px;" align = "left">
 
 #### [Teaching Staff](/teaching-staff/Teaching-Staff/)
 
@@ -26,3 +28,10 @@ Staff Information
 
 <img src="/images/KeyPersonnel.png" style="width:180px;height:180px;margin-right:65px;" align = "left">
 
+#### [Key Personnel](/Staff-Information/Key-Personnel/)
+
+```
+
+```
+
+<img src="/images/EAS.png" style="width:180px;height:180px;margin-left:15px;" align = "right">
