@@ -70,7 +70,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-sxkx"> <br>Information and Communications<br>Technology<br> </td>
-    <td class="tg-sxkx"> <br>Mr Nelson Chong<br>n<a href="mailto:Nelson_CHONG@gov.edu.sg"><span style="text-decoration:none;color:#10509C">elson_chong@moe.edu.sg</span></a></td>
+    <td class="tg-sxkx"> <br>Mr Nelson Chong<br><a href="mailto:Nelson_CHONG@gov.edu.sg"><span style="text-decoration:none;color:#10509C">nelson_chong@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-sxkx"> <br>Physical Education/Co-Curricular Activities<br> </td>
