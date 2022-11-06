@@ -3,8 +3,6 @@ title: Information and Communication Technology
 permalink: /departments/Information-and-Communication-Technology/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Information and Communication Technology
@@ -37,6 +35,8 @@ Developing computational thinking will also develop the following skill sets�
 ·        Abstracting and modularizing – exploring connections between the whole and the parts
 
 Our pupils are provided with opportunities to learn coding using screen-free programing such as MatataLab in Lower Primary and more serious block-based programming such as [Scratch](https://scratch.mit.edu/), [Microsoft PXT](https://www.kitronik.co.uk/blog/introducing-microsoft-pxt-block-editor/) or [Code.org](https://code.org/) from Middle Primary to Upper Primary.  Our school leverage [iMDA’s Code for Fun Programme](https://www.imda.gov.sg/imtalent/programmes/cff) to nurture a new generation of digital natives.
+
+Note: iMDA’s Code for Fun Programme link is broken. 
 
 During each level programme, pupils are provided with opportunities to work in teams on scenarios that represent real-world problem. The pupils then pitch their ideas and hypothetical solutions to their peers. They are provided with platforms to communicate and display their artefacts and concepts. Through these efforts, we achieve the following in our pupils:
 
