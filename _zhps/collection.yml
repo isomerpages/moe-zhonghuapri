@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Search.md
-      - Quicklinks/.keep
       - News & Announcements/.keep
       - News & Announcements/News and Announcements.md
       - News & Announcements/Travel Declaration.md
