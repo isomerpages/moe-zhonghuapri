@@ -18,3 +18,18 @@ For Teacher
 <img src="/images/iconnect.png" style="width:250px;height:120px;margin-right:25px;" align = "left">
 
 [ICON EMAIL](https://workspace.google.com/dashboard)
+
+```
+
+```
+
+<img src="/images/edumall.png" style="width:250px;height:120px;margin-left:25px;" align = "left">
+
+[EDUMALL PORTAL](https://www.family.sg/family-tech-education.html)
+
+```
+
+```
+
+
+
