@@ -46,3 +46,6 @@ links:
         url: /zhps/Banners/
       - title: Report Vulnerability
         url: /zhps/Report-Vulnerability/
+  - title: Departments
+    url: /permalink
+    sublinks: []
