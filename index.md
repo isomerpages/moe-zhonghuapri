@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News and Announcements
           description: ""
-          url: /News-and-Announcements/
+          url: /ZHPS/News-and-Announcements/
         - title: Quick Links
           description: Parents
           url: /Quick-Links-For-Parents/
