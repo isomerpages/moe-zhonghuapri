@@ -53,3 +53,19 @@ In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-
   
 
  Titled ‘Funhour @ St Luke’s’, it was a yearly affair for our pupils to connect to the elderly through meaningful, fun and happy afternoons. It also provided opportunities for Zhonghuarians to contribute to the community whilst living out our school values (Care, Respect and Harmony). Most pupils felt excited to be involved in this meaningful programme, and indicated their interests in visiting the elderly again.
+ 
+![](/images/CCE3.gif)
+
+**Friend Of Singa (FOS)**
+
+  
+
+**by Singapore Kindness Movement (SKM)**
+
+  
+
+Our school is participating in the Friend of Singa (FOS) project this year, with the aim of encouraging Zhonghuarians to be kind and considerate, as well as influence and raise the standards of behaviour and responsibility.
+
+  
+
+The theme for FOS this year is “A Nation of Kindness Starts With One!”, and 8 pupils from Primary 5 Diligence have been selected to spearhead this project, under the guidance of 3 teachers: Mrs Joelle Pek, Mrs Kavin and Mdm Fara. The Kindness Mission Card was launched before the June holidays and all pupils would have received a card each. The objective of the card is to encourage Zhonghuarians to be kind and considerate, as well as influence and raise the standards of behaviour and responsibility.
