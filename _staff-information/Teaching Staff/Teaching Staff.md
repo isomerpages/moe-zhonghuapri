@@ -10,3 +10,4 @@ Teaching Staff
 ==============
 
 * [Primary 1 Form Teachers](/teaching-staff/Primary-1-Form-Teachers/)
+* [Primary 2 Form Teachers](/teaching-staff/Primary-2-Form-Teachers/)
