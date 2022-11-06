@@ -19,6 +19,6 @@ Quick Links
 *   [Financial Assistance Schemes](https://www.moe.gov.sg/education/financial-assistance)
 *   [School Terms and Holidays](https://www.moe.gov.sg/education/school-terms-and-important-dates)
 *   [National Examinations Timetable](https://www.moe.gov.sg/education/national-exams-timetable)
-*   [M
+*   [MOE Sexuality Education in Schools](/for-parent/MOE-Sexuality-Education-Programme/)
 *   [Feedback Form](https://forms.cwp.gov.sg/zhonghuapri/FormR6W8R)
 *   [Parents Gateway](https://pg.moe.edu.sg/faq)
