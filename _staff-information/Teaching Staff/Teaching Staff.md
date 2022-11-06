@@ -17,3 +17,4 @@ Teaching Staff
 * [Primary 6 Form Teachers](/teaching-staff/Primary-6-Form-Teachers/)
 * [Chinese Language Teachers](/teaching-staff/Chinese-Language-Teachers/)
 * [Malay Language Teachers](/teaching-staff/Malay-Language-Teachers/)
+* [Tamil Language Teachers](/teaching-staff/Tamil-Language-Teachers/)
