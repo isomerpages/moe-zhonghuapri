@@ -23,7 +23,7 @@ For Teacher
 
 ```
 
-<img src="/images/edumall.png" style="width:250px;height:120px;margin-left:25px;" align = "left">
+<img src="/images/edumall.png" style="width:250px;height:120px;margin-right:25px;" align = "left">
 
 [EDUMALL PORTAL](https://www.family.sg/family-tech-education.html)
 
@@ -31,5 +31,11 @@ For Teacher
 
 ```
 
+<img src="/images/CONTACT%201.png" style="width:190px;height:190px;margin-right:25px;" align = "left">
 
+[TEACHERS' DIGEST](http://www3.moe.edu.sg/corporate/contactprint/index.htm)
+
+```
+
+```
 
