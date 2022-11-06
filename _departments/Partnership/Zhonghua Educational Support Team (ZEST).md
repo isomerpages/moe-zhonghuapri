@@ -28,5 +28,3 @@ Register [online](https://go.gov.sg/zpszest) now or you may approach our Gener
 
 
 [Alumni Registration](https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform)
-
-[Alumni Registration](http://tinyurl.com/zpsalumni)
