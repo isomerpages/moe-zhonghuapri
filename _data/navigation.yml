@@ -21,6 +21,27 @@ links:
     collection: hbl
   - title: Departments
     collection: departments
+  - title: Departments
+    url: /departments/English-Language/
+    sublinks:
+      - title: English Language
+        url: /departments/English-Language/
+      - title: Mathematics
+        url: /departments/Mathematics/
+      - title: Mother Tongue
+        url: /permalink
+      - title: Science
+        url: /departments/Science/Science/
+      - title: ICT
+        url: /departments/Information-and-Communication-Technology/
+      - title: "Aesthetics "
+        url: /departments/Aesthetics/
+      - title: Partnership
+        url: /departments/Partnership/Partnership/
+      - title: CCE
+        url: /departments/CCE/Character-and-Citizenship-Education/
+      - title: Physical Education
+        url: /permalink
   - title: Contact Us
     collection: contact-us
   - title: For Parents
@@ -46,24 +67,3 @@ links:
         url: /zhps/Banners/
       - title: Report Vulnerability
         url: /zhps/Report-Vulnerability/
-  - title: Departments
-    url: /departments/English-Language/
-    sublinks:
-      - title: English Language
-        url: /departments/English-Language/
-      - title: Mathematics
-        url: /departments/Mathematics/
-      - title: Mother Tongue
-        url: /permalink
-      - title: Science
-        url: /departments/Science/Science/
-      - title: ICT
-        url: /departments/Information-and-Communication-Technology/
-      - title: "Aesthetics "
-        url: /departments/Aesthetics/
-      - title: Partnership
-        url: /departments/Partnership/Partnership/
-      - title: CCE
-        url: /departments/CCE/Character-and-Citizenship-Education/
-      - title: Physical Education
-        url: /permalink
