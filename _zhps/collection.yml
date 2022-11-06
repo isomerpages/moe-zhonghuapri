@@ -2,6 +2,7 @@ collections:
   zhps:
     output: true
     order:
+      - Search.md
       - Quicklinks/Ex Students.md
       - Quicklinks/.keep
       - News & Announcements/.keep
