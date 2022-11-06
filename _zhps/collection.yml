@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Search.md
-      - Quicklinks/Ex Students.md
       - Quicklinks/.keep
       - News & Announcements/.keep
       - News & Announcements/News and Announcements.md
