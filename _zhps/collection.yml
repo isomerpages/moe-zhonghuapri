@@ -2,5 +2,6 @@ collections:
   zhps:
     output: true
     order:
+      - Privacy Statement.md
       - Banners.md
       - Report Vulnerability.md
