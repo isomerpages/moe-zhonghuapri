@@ -2,9 +2,9 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Tamil Language/Programmes.md
-      - Tamil Language/Tamil Language.md
       - Tamil Language/.keep
+      - Tamil Language/Tamil Language.md
+      - Tamil Language/Programmes.md
       - Mother Tongue.md
       - Chinese Language.md
       - Malay Language.md
