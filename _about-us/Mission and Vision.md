@@ -8,7 +8,7 @@ description: ""
 Mission and Vision
 ==================
 
-![](/images/Logo4.png)
+![](/images/Logo2.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
