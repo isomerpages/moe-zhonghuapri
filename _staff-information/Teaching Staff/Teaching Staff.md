@@ -18,3 +18,4 @@ Teaching Staff
 * [Chinese Language Teachers](/teaching-staff/Chinese-Language-Teachers/)
 * [Malay Language Teachers](/teaching-staff/Malay-Language-Teachers/)
 * [Tamil Language Teachers](/teaching-staff/Tamil-Language-Teachers/)
+* [Allied Educators](/teaching-staff/Allied-Educators/)
