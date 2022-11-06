@@ -13,4 +13,4 @@ Quick Links
 *   [Edusave](https://www.moe.gov.sg/education/edusave)
 *   [School Bag](http://www.schoolbag.sg/)
 *   [MOE cyber wellness resources](https://ictconnection.moe.edu.sg/cyber-wellness)
-*   
+*  [In Touch](/for-parent/In-Touch-Newsletter/)
