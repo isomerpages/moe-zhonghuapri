@@ -20,8 +20,6 @@ links:
   - title: HBL
     collection: hbl
   - title: Departments
-    collection: departments
-  - title: Departments
     url: /departments/English-Language/
     sublinks:
       - title: English Language
