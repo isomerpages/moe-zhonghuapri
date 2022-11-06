@@ -15,3 +15,10 @@ Quick Links
 *   [MOE cyber wellness resources](https://ictconnection.moe.edu.sg/cyber-wellness)
 *  [In Touch](/for-parent/In-Touch-Newsletter/)
 *  [CCA Deployment 2021](/cca/CCA-Schedule/)
+*  [MOE Primary 1 Registration Information](https://www.moe.gov.sg/admissions/primary-one-registration)    
+*   [Financial Assistance Schemes](https://www.moe.gov.sg/education/financial-assistance)
+*   [School Terms and Holidays](https://www.moe.gov.sg/education/school-terms-and-important-dates)
+*   [National Examinations Timetable](https://www.moe.gov.sg/education/national-exams-timetable)
+*   [M
+*   [Feedback Form](https://forms.cwp.gov.sg/zhonghuapri/FormR6W8R)
+*   [Parents Gateway](https://pg.moe.edu.sg/faq)
