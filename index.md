@@ -17,7 +17,4 @@ sections:
         - title: Quick Links
           description: Parents
           url: /Quicklinks/Parents/
-        - title: Quick Links
-          description: Students
-          url: /Quicklinks/Students/Students/
 ---
