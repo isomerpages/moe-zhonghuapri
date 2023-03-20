@@ -37,4 +37,3 @@ School Advisory Committee
 14.          Mdm Lum Yuen Mei
 
 15.          Mr Yap Jun Weng
-
