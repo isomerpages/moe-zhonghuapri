@@ -3,10 +3,6 @@ title: English Language
 permalink: /departments/English-Language/
 description: ""
 ---
-
-
-![](/images/Banner.jpg)
-
 English Language
 ================
 
