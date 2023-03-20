@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/ZPS Website Banner 2023-V2 (1).png
-      button: Contact Us
-      url: /contact-us/Contact-Us/
       key_highlights:
         - title: News and Announcements
           description: ""
