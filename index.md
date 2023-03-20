@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ZPS Website Banner 2023-V2 (1).png
       key_highlights:
         - title: Quick Link
           description: For Parents
