@@ -17,8 +17,6 @@ links:
         url: /staff-information/Staff-Information/
   - title: Niche Programme
     collection: niche-programme
-  - title: HBL
-    collection: hbl
   - title: Departments
     url: /departments/English-Language/
     sublinks:
@@ -44,8 +42,6 @@ links:
     collection: contact-us
   - title: For Parents
     collection: for-parent
-  - title: For Pupils
-    collection: for-pupils
   - title: CCA
     collection: cca
   - title: "ZHPS "
