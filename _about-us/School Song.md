@@ -3,8 +3,6 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-![](/images/Banner.jpg)
-
 School Song
 ===========
 
