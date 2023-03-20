@@ -10,9 +10,9 @@ sections:
       background: /images/ZPS Website Banner 2023-V2 (1).png
       key_highlights:
         - title: News and Announcements
-          description: ""
-          url: /ZHPS/News-and-Announcements/News-and-Announcements/
+          description: CCA Recruitment
+          url: https://zhonghuapri-moe-edu-sg-admin.cwp.sg/departments/physical-education
         - title: Quick Links
           description: Parents
-          url: /Quicklinks/Parents/
+          url: https://www.moe.gov.sg/primary/curriculum
 ---
