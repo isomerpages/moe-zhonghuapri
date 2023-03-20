@@ -3,8 +3,6 @@ title: Mathematics
 permalink: /departments/Mathematics/
 description: ""
 ---
-![](/images/Banner.jpg)
-
 Mathematics
 ===========
 
