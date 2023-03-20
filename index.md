@@ -11,5 +11,5 @@ sections:
         - title: Quick Link
           description: For Parents
           url: https://www.moe.gov.sg/primary/curriculum
-      background: /images/ZPS WBanner2023-h720.png
+      background: /images/ZPS Website Banner 2023-V2 (1).png
 ---
