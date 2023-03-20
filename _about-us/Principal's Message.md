@@ -7,27 +7,20 @@ description: ""
 
 Principal's Message
 ===================
+![](/images/P%20Photo%202022-h280.jpg)
 
-Dear Parents and Friends of the School,
+**Zhonghua Primary: A Forward-looking School, Preparing Future-ready Students**
 
+A lot has been said lately about preparing our students for the future. Our Minister for Education, Mr Chan Chun Sing, in his message to schools in 2022 has also reiterated that it is not enough to prepare our children for just the first 15 years of their education, it is even more important to look at the next 50 years and to ensure they continue learning and be equipped for the future.
 
-<img src="/images/Principal'sMessage.png" style="width:200px;height:280px;margin-right:20px;" align = "left">
+What will the next “50 years” be like? Some may envision flying cars, living on the moon, no more diseases…stuff that science fiction is made of.  But importantly, we should also ask what the economy will be like, what kind of work will our children be doing and how will people interact with one another. VUCA is the term very commonly used to describe this future: Volatile, Uncertain, Complex and Ambiguous.
 
+We already had a taste of this VUCA future when we experienced the Covid-19 pandemic in 2020-2022 and the accompanying trials and tribulations that it brought about. Many valuable lessons could be drawn as we observed how Singapore and the world coped with the VUCA uncertainty of Covid-19. **Volatility** was countered with **Vision** and an action-oriented approach, **Uncertainty** was replaced with **Understanding** through perspective-taking and challenging assumptions. **Complexity** was changed to **Clarity** by breaking issues into parts and forming teams to deal with the parts in a flexible and creative manner. **Ambiguity** was substituted with **Agility** through taking an experimentation and innovation approach and firm decision-making by leaders.
 
-**Ignite Passion for Learning** – “_for if a pupil’s mind is set on fire, he will strive to find a way to provide the fuel_” and the zeal for learning will continue to burn throughout his life. A quote from journalist Sydney J Harris that best exemplifies our mission here at _Zhonghua Primary School_, a mission that continues to inspire all of us to do our best to help our children enjoy  “**Learning for Life**”.  
+These same lessons on preparing for the VUCA world are emphasized in our school as we build that **Self-Directed and Resilient Learner** who can confidently share his views and work collaboratively with others in teams, the **Creative Thinker**, who is curious and flexible yet reflective of his actions and respectful of ideas from others and finally, the **Responsible Leader** who empathises with the plight of others and cares for the future of the environment.
 
-**To learn for life** is to let our children see the reason behind what they are learning so they can see the relevance and purpose of that learning and be motivated to discover more.
+Our teachers are key to the development of these dispositions in our student and the school continues to invest in building their capacity and supporting their growth within and beyond the school so that together we can all rally behind MOE’s call for us at Zhonghua Primary to build a Forward-looking School and Future-ready Students.
 
-**To learn for life** is to let our children build confidence as they learn and improve at a pace that is right for them, so they develop a sense of self-worth and the determination  to continue on their journey, knowing that there will be many opportunities ahead of them to sieze and to learn.
+**Mdm Rostinah Mohamad Said**
 
-**To learn for life** is to provide support to our children and to work with parents to let our children feel valued for their unique strengths and talents and to help them know that their goals can be diverse yet meaningful and achievable if they put their hearts and minds to it.
-
-This is what we stand for at _Zhonghua Primary School_. Our directions, our beliefs and our mission are aligned to this quest to help our children always **Learn for Life** so they can grow to be Learners, Thinkers and Leaders:
-
-*   A Self-Directed Learner who can  Communicate Effectively and  Work Collaboratively.
-*   A Creative and Reflective Thinker who is Respectful of Ideas.
-*   A Responsible & Caring Leader who Can Empathise with Others.
-
-**_Mdm Rostinah Mohamad Said_**
-
-**_Principal_**
+**Principal**
