@@ -4,9 +4,6 @@ permalink: /teaching-staff/Primary-1-Form-Teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-![](/images/Banner.jpg)
-
 Primary 1 Form Teachers
 =======================
 
@@ -43,32 +40,32 @@ Primary 1 Form Teachers
   <tr>
     <td class="tg-ncov">1</td>
     <td class="tg-sdzj">P1 Care</td>
-    <td class="tg-sdzj">Mr Azman Bin Mohd Hamzah<br>Mrs Sandra Leong<br></td>
-    <td class="tg-6wao"><br><a href="mailto:azman_mohamed_hamzah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">azman_mohamed_hamzah@moe.edu.sg</span></a><br><a href="mailto:sandra_wang_chai_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">sandra_wang_chai_lin@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-sdzj">Ms Leeladevi d/o Panneerselvam<br>Mdm Tan Wee Theng<br></td>
+    <td class="tg-6wao"><br><a href="mailto:leeladevi_paneerselvam@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">leeladevi_panneerselvam@moe.edu.sg</span></a><br><a href="mailto:tan_wee_theng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">tan_wee_theng@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2</td>
     <td class="tg-sdzj">P1 Diligence</td>
-    <td class="tg-sdzj"><br>Ms Tan Hui Lin <br>Mr Lee Hao Han Oswald<br></td>
-    <td class="tg-6wao"><br><a href="mailto:tan_hui_lin_a@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">tan_hui_lin_a@moe.edu.sg</span></a><br><a href="mailto:lee_hao_han_oswald@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">lee_hao_han_oswald@moe.edu.sg</span></a><br></td>
+    <td class="tg-sdzj"><br>Mdm Foo Yun Xi Hannah<br>Mdm Mageswari Kanapathy<br></td>
+    <td class="tg-6wao"><br><a href="mailto:foo_yun_xi_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">foo_yun_xi_hannah@moe.edu.sg</span></a><br><a href="mailto:mageswari_kanapathy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">megeswari_kanapathy@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">3</td>
     <td class="tg-sdzj">P1 Discipline</td>
-    <td class="tg-fwnj"><br>Ms Tan Sok Gway<br>Mrs Sharon Seah<br></td>
-    <td class="tg-6wao"><br><a href="mailto:tan_sok_gway@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">tan_sok_gway@moe.edu.sg</span></a><br><a href="mailto:loh_yeok_peng_sharon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">loh_yeok_peng_sharon@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj"><br>Mdm Suruana Bte Samat<br>Mdm Feng Yijun<br></td>
+    <td class="tg-6wao"><br><a href="mailto:suriana_samat@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">suriana_samat@moe.edu.sg</span></a><br><a href="mailto:feng_yijun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">feng_yijun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">4</td>
     <td class="tg-sdzj">P1 Harmony</td>
-    <td class="tg-sdzj"><br>Mrs Premala Raj<br>Mr Zurairi Bin Samsuddin<br><br></td>
-    <td class="tg-sxkx"><br><a href="mailto:premala_devi_kandasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">premala_devi_kandasamy@moe.edu.sg</span></a><br><a href="mailto:zurairi_samsuddin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">zurairi_samsuddin@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-sdzj"><br>Ms Sandra Wang Chai Lin<br>Mr Muhammad Firdaus Bin Amir<br><br></td>
+    <td class="tg-sxkx"><br><a href="mailto:sandra_wang_chai_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">sandra_wang_chai_lin@moe.edu.sg</span></a><br><a href="mailto:muhammad_firdaus_amir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">muhammad_firdaus_amir@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov"> 5</td>
     <td class="tg-sdzj"> P1 Integrity</td>
-    <td class="tg-sdzj"><br>Mrs Serene Koh<br>Mdm Tan Wee Theng <br></td>
-    <td class="tg-6wao"><br><a href="mailto:choo_meining_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">choo_meining_serene@moe.edu.sg</span></a><br><a href="mailto:tan_wee_theng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">tan_wee_theng@moe.edu.sg</span></a></td>
+    <td class="tg-sdzj"><br>Mdm Nuriah Bte Abdullah<br>Ms Chong Hui Min Constance <br></td>
+    <td class="tg-6wao"><br><a href="mailto:nuriah_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">nuriah_abdullah@moe.edu.sg</span></a><br><a href="mailto:chong_hui_min_constance@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">chong _hui_min_constance@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
