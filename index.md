@@ -12,7 +12,7 @@ sections:
         - title: News and Announcements
           description: CCA Recruitment
           url: https://zhonghuapri-moe-edu-sg-admin.cwp.sg/departments/physical-education
-        - title: Quick Links
-          description: Parents
+        - title: Quick Link
+          description: For Parents
           url: https://www.moe.gov.sg/primary/curriculum
 ---
