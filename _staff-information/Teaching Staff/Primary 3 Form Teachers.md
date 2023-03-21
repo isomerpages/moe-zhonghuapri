@@ -40,26 +40,32 @@ Primary 3 Form Teachers
   <tr>
     <td class="tg-ncov">1</td>
     <td class="tg-sdzj">P3 Care</td>
-    <td class="tg-sdzj">Mdm Irene Gomez<br>Mr Muhammad Firdaus Bin Amir<br></td>
-    <td class="tg-sxkx"><br><a href="mailto:zacharias_irene_hilda@moe.edu.sg"><span style="text-decoration:none;color:#10509C">zacharias_irene_hilda@moe.edu.sg</span></a><br><a href="mailto:Muhammad_firdaus_Amir@moe.edu.sg"><span style="text-decoration:none;color:#10509C">Muhammad_firdaus_Amir@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-sdzj">Mr Benny Lau Mun Yip<br>Mdm Hsu Hui-Chien<br></td>
+    <td class="tg-sxkx"><br><a href="mailto:lau_mun_yip_benny@moe.edu.sg"><span style="text-decoration:none;color:#10509C">lau_mun_yip_benny@moe.edu.sg</span></a><br><a href="mailto:hsu_hui-chien@moe.edu.sg"><span style="text-decoration:none;color:#10509C">hsu_hui-chien@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2</td>
     <td class="tg-sdzj">P3 Diligence</td>
-    <td class="tg-fwnj"><br>Mr Ang Wei Wen Justin<br>Ms Ng Yen Tin  <br><br></td>
-    <td class="tg-sxkx"><br><a href="mailto:ang_wei_wen_justin@moe.edu.sg"><span style="text-decoration:none;color:#10509C">ang_wei_wen_justin@moe.edu.sg</span></a><br><a href="mailto:ng_yen_tin@moe.edu.sg"><span style="text-decoration:none;color:#10509C">ng_yen_tin@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-fwnj"><br>Mdm Junainah Bte Mohamed Eusuff<br>Mrs Yeh - Shirleywijaya, Ng Ai Li  <br><br></td>
+    <td class="tg-sxkx"><br><a href="mailto:junainah_mohamed_eusuff@moe.edu.sg"><span style="text-decoration:none;color:#10509C">junainah_mohamed_eusuff@moe.edu.sg</span></a><br><a href="mailto:ng_ai_li_shirleywijaya@moe.edu.sg"><span style="text-decoration:none;color:#10509C">ng_ai_li_shirleywijaya@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">3</td>
     <td class="tg-sdzj">P3 Discipline</td>
-    <td class="tg-fwnj"><br>Ms Siti Farhanah Bte Mohd Nasser<br>Mdm Mageswari Kanapathy<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:siti_farhanah_mohamed_nass@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">siti_farhanah_mohamed_nass@moe.edu.sg</span></a><br><a href="mailto:mageswari_kanapathy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">mageswari_kanapathy@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-fwnj"><br>Mr Zurairi Bin Samsuddin<br>Ms Nurul Hafiqa Binte Osman<br><br></td>
+    <td class="tg-6wao"><br><a href="mailto:zurairi_samsuddin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">zurairi_samsuddin@moe.edu.sg</span></a><br><a href="mailto:nurul_hafiqa_osman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">nurul_hafiqa_osman@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov"> 4</td>
     <td class="tg-sdzj">P3 Harmony </td>
-    <td class="tg-fwnj"><br>Mr Lee Cher Kiak Christopher <br>Ms Alicia Wee Su Ping<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:lee_cher_kiak@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">lee_cher_kiak@moe.edu.sg</span></a><br> <a href="mailto:alicia_wee_su_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">alicia_wee_su_ping@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj"><br>Mr Chong Nai Shun<br>Mdm Farida Bte Mohd Abdul Kader<br><br></td>
+    <td class="tg-6wao"><br><a href="mailto:nelson_chong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">nelson_chong@moe.edu.sg</span></a><br> <a href="mailto:farida_kader@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">farida_kader@moe.edu.sg</span></a></td>
+		 </tr>
+  <tr>
+    <td class="tg-ncov"> 5</td>
+    <td class="tg-sdzj">P3 Integrity</td>
+    <td class="tg-fwnj"><br>Mr Ang Wei Wen Justin<br>Lim Lee Fong (Mrs Chan Hong Wei)<br><br></td>
+    <td class="tg-6wao"><br><a href="mailto:ang_wei_wen_justin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">ang_wei_wen_justin@moe.edu.sg</span></a><br> <a href="mailto:lim_lee_fong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">lim_lee_fong@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
