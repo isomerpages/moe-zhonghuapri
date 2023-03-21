@@ -3,8 +3,6 @@ title: Staff Information
 permalink: /staff-information/Staff-Information/
 description: ""
 ---
-S
-=================
 #### [School Advisory Committee](/Staff-Information/School-Advisory-Committee/)
 
 #### [Teaching Staff](/teaching-staff/Teaching-Staff/)
