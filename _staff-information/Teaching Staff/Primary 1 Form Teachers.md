@@ -46,13 +46,13 @@ Primary 1 Form Teachers
   <tr>
     <td class="tg-ncov">2</td>
     <td class="tg-sdzj">P1 Diligence</td>
-    <td class="tg-sdzj"><br>Mdm Foo Yun Xi Hannah<br>Mdm Mageswari Kanapathy<br></td>
+    <td class="tg-sdzj"><br>Mdm Foo Yun Xi Hannah<br>Mdm Mageswari Kanapathy<br><br></td>
     <td class="tg-6wao"><br><a href="mailto:foo_yun_xi_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">foo_yun_xi_hannah@moe.edu.sg</span></a><br><a href="mailto:mageswari_kanapathy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">megeswari_kanapathy@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">3</td>
     <td class="tg-sdzj">P1 Discipline</td>
-    <td class="tg-fwnj"><br>Mdm Suruana Bte Samat<br>Mdm Feng Yijun<br></td>
+    <td class="tg-fwnj"><br>Mdm Suruana Bte Samat<br>Mdm Feng Yijun<br><br></td>
     <td class="tg-6wao"><br><a href="mailto:suriana_samat@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">suriana_samat@moe.edu.sg</span></a><br><a href="mailto:feng_yijun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#10509C">feng_yijun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
