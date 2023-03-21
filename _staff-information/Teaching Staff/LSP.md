@@ -4,10 +4,7 @@ permalink: /teaching-staff/LSP/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-![](/images/Banner.jpg)
-
-LSP
+Learning Support
 ===
 
 
@@ -57,3 +54,4 @@ LSP
   </tr>
 </tbody>
 </table>
+
