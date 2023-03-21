@@ -55,8 +55,7 @@ Primary 6 Form Teachers
     <td class="tg-fwnj"><br>Ms Ong Chui Hoon<br>Mdm Rindaherlina Thamrin</td>
     <td class="tg-6wao"><br><a rel="noopener noreferrer" target="_blank" href="mailto:ong_chui_hoon@moe.edu.sg"><span style="color:#10509C">ong_chui_hoon@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:rindaherlina_thamrin@moe.edu.sg"><span style="color:#10509C">rindaherlina_thamrin@moe.edu.sg</span></a><br><br></td>
   </tr>
-	
-	<tr><td class="tg-ncov">4<br><br></td>
+		<tr><td class="tg-ncov">4<br><br></td>
     <td class="tg-sdzj">P6 Harmony &amp; <br>P6 Integrity<br><br></td>
     <td class="tg-fwnj"><br>Mr Lim Beng Kim<br>Ms Rozianah Bte Rosli<br>
     </td><td class="tg-6wao"><br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_beng_kim@moe.edu.sg"><span style="color:#10509C">lim_beng_kim@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:rozianah_rosli@moe.edu.sg"><span style="color:#10509C">rozianah_rosli@moe.edu.sg</span></a><br><a span=""></a><br><br></td>
