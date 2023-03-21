@@ -4,9 +4,6 @@ permalink: /teaching-staff/Primary-6-Form-Teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-![](/images/Banner.jpg)
-
 Primary 6 Form Teachers
 =======================
 
@@ -24,7 +21,7 @@ Primary 6 Form Teachers
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 664px">
+<table style="undefined;table-layout: fixed; width: 664px" class="tg">
 <colgroup>
 <col style="width: 41px">
 <col style="width: 117px">
@@ -43,20 +40,25 @@ Primary 6 Form Teachers
   <tr>
     <td class="tg-ncov">1</td>
     <td class="tg-sdzj">P6 Care</td>
-    <td class="tg-fwnj"><br>Mr Liew Yong Chew<br>Mdm Norisah Yasmeen Bte Yussoff<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:liew_yong_chew@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">liew_yong_chew@moe.edu.sg</span></a><br><a href="mailto:norisah_yasmeen_yussoff@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">norisah_yasmeen_yussoff@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj"><br>Mdm Yu XiaoCheng<br>Ms Tan Joo Hwee Laura<br><br></td>
+    <td class="tg-6wao"><br><a rel="noopener noreferrer" target="_blank" href="mailto:yu_xiaocheng@moe.edu.sg"><span style="color:#10509C">yu_xiaocheng@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_joo_hwee_laura@moe.edu.sg"><span style="color:#10509C">tan_joo_hwee_laura@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2</td>
     <td class="tg-sdzj">P6 Diligence</td>
-    <td class="tg-sdzj">Mr Gerald Low Hui-Yang<br>Mdm Rindaherlina Thamrin<br></td>
-    <td class="tg-sxkx"><br><a href="mailto:gerald_low_hui_yang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">gerald_low_hui_yang@moe.edu.sg</span></a><br><a href="mailto:rindaherlina_thamrin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">rindaherlina_thamrin@moe.edu.sg</span></a><br><br><br></td>
+    <td class="tg-sdzj">Mr Gerald Low Hui-Yang<br>Ms Liang Lifang<br></td>
+    <td class="tg-sxkx"><br><a rel="noopener noreferrer" target="_blank" href="mailto:gerald_low_hui_yang@moe.edu.sg"><span style="color:#10509C">gerald_low_hui_yang@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:liang_lifang@moe.edu.sg"><span style="color:#10509C">liang_lifang@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">3</td>
-    <td class="tg-sdzj">P6 Discipline &amp;<br>P6 Harmony</td>
-    <td class="tg-fwnj"><br>Ms Hariyati Bte Hairom<br>Mdm Rafidawati Bte Abdul Rahman<br>Mr Teh Khen Hian<br><br></td>
-    <td class="tg-6wao"><br><a href="mailto:hariyati_hairom@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">hariyati_hairom@moe.edu.sg</span></a><br><a href="mailto:rafidawati_abdul_rahman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">rafidawati_abdul_rahman@moe.edu.sg</span></a><br><a href="mailto:teh_kian_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#10509C">teh_kian_hian@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-sdzj">P6 Discipline</td>
+    <td class="tg-fwnj"><br>Ms Ong Chui Hoon<br>Mdm Rindaherlina Thamrin</td>
+    <td class="tg-6wao"><br><a rel="noopener noreferrer" target="_blank" href="mailto:ong_chui_hoon@moe.edu.sg"><span style="color:#10509C">ong_chui_hoon@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:rindaherlina_thamrin@moe.edu.sg"><span style="color:#10509C">rindaherlina_thamrin@moe.edu.sg</span></a><br><br></td>
   </tr>
-</tbody>
+	
+	<tr><td class="tg-ncov">4<br><br></td>
+    <td class="tg-sdzj">P6 Harmony &amp; <br>P6 Integrity<br><br></td>
+    <td class="tg-fwnj"><br>Mr Lim Beng Kim<br>Ms Rozianah Bte Rosli<br>
+    </td><td class="tg-6wao"><br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_beng_kim@moe.edu.sg"><span style="color:#10509C">lim_beng_kim@moe.edu.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:rozianah_rosli@moe.edu.sg"><span style="color:#10509C">rozianah_rosli@moe.edu.sg</span></a><br><a span=""></a><br><br></td>
+</tr></tbody>
 </table>
