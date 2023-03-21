@@ -3,9 +3,6 @@ title: School Advisory Committee
 permalink: /Staff-Information/School-Advisory-Committee/
 description: ""
 ---
-School Advisory Committee
-=========================
-
 1.            Mr Tang Chuan Ann – Chairman
 
 2.            Mdm Rostinah Mohamad Said – Honorary Secretary
