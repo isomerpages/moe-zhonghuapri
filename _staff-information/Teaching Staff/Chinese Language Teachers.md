@@ -4,9 +4,6 @@ permalink: /teaching-staff/Chinese-Language-Teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-![](/images/Banner.jpg)
-
 Chinese Language Teachers
 =========================
 
@@ -72,7 +69,8 @@ Chinese Language Teachers
   <tr>
     <td class="tg-sdzj">9 </td>
     <td class="tg-sdzj">Miss Tan Wei Ching </td>
-    <td class="tg-sdzj"> </td>
+    <td class="tg-sdzj"><a href="mailto:chin_hwei_ying@schools.gov.sg"><span style="text-decoration:none;color:#10509C">chin_hwei_ying@schools.gov.sg</span></a><br></td> 
   </tr>
 </tbody>
 </table>
+
