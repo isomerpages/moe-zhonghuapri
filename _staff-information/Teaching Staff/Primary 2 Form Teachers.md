@@ -52,14 +52,14 @@ Primary 2 Form Teachers
   <tr>
     <td class="tg-ncov">3</td>
     <td class="tg-sdzj">P2 Discipline</td>
-    <td class="tg-fwnj"><br>Mrs Seah - Loh Yeok Peng Sharon<br>Ms Tan Sok Gway<br></td>
-    <td class="tg-sxkx"><br><a href="mailto:loh_yeok_peng_sharon@moe.edu.sg"><span style="text-decoration:none;color:#10509C">loh_yeok_peng_sharon@moe.edu.sg</span></a><br><a href="mailto:tan_sok_gway@moe.edu.sg"><span style="text-decoration:none;color:#10509C">tan_sok_gway@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-fwnj"><br>Mrs Seah - Loh Yeok Peng Sharon<br>Ms Tan Sok Gway<br><br></td>
+    <td class="tg-sxkx"><br><a href="mailto:loh_yeok_peng_sharon@moe.edu.sg"><span style="text-decoration:none;color:#10509C">loh_yeok_peng_sharon@moe.edu.sg</span></a><br><a href="mailto:tan_sok_gway@moe.edu.sg"><span style="text-decoration:none;color:#10509C"><br>tan_sok_gway@moe.edu.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">4</td>
     <td class="tg-sdzj">P2 Harmony</td>
     <td class="tg-fwnj"><br>Mdm Premala Devi d/o Kandasamy<br>Ms Leong Shi Ern<br><br></td>
-    <td class="tg-sxkx"><br><a href="mailto:premala_devi_kandasamy@moe.edu.sg"><span style="text-decoration:none;color:#10509C">premala_devi_kandasamy@moe.edu.sg</span></a><br><a href="mailto:leong_shi_ern@moe.edu.sg"><span style="text-decoration:none;color:#10509C">leong_shi_ern@moe.edu.sg</span></a><br><a>
+    <td class="tg-sxkx"><br><a href="mailto:premala_devi_kandasamy@moe.edu.sg"><span style="text-decoration:none;color:#10509C">premala_devi_kandasamy@moe.edu.sg</span></a><br><a href="mailto:leong_shi_ern@moe.edu.sg"><span style="text-decoration:none;color:#10509C"><br>leong_shi_ern@moe.edu.sg</span></a><br><a>
   </a></td></tr><tr>
     <td class="tg-ncov">5 </td>
     <td class="tg-sdzj"> P2 Integrity</td>
