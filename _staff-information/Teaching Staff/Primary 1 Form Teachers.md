@@ -4,7 +4,7 @@ permalink: /teaching-staff/Primary-1-Form-Teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
-Primary 1 Form Teachers
+Form Teachers
 =======================
 
 <style type="text/css">
