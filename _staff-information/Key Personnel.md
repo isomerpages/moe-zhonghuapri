@@ -3,8 +3,6 @@ title: Key Personnel
 permalink: /Staff-Information/Key-Personnel/
 description: ""
 ---
-![](/images/Banner.jpg)
-
 Key Personnel
 =============
 
