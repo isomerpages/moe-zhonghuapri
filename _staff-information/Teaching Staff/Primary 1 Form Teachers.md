@@ -70,26 +70,6 @@ Primary 1 Form Teachers
 </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="666" style="border-collapse:
  collapse;width:499pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
  overflow-wrap: break-word;border-spacing: 0px;font-variant-ligatures: normal;
