@@ -3,8 +3,6 @@ title: Physical Education
 permalink: /departments/Physical-Education/
 description: ""
 ---
-![](/images/Banner.jpg)
-
 Physical Education
 ==================
 
