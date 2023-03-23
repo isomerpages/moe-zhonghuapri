@@ -3,153 +3,81 @@ title: Contact Us
 permalink: /contact-us/Contact-Us/
 description: ""
 ---
-![](/images/Banner.jpg)
-
 Contact Us
 ==========
-
-Dear Sir/Madam
-
-  
-
-Please contact us using the following channels:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-.tg .tg-d8aa{background-color:#FFF;color:#10509C;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 718px">
-<colgroup>
-<col style="width: 214px">
-<col style="width: 504px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-a4yv" colspan="2">SCHOOL CONTACT DETAILS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sdzj">School Address</td>
-    <td class="tg-sdzj">12 Serangoon Ave 4 Singapore 556095</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">General Office Tel</td>
-    <td class="tg-sdzj">6283 5413</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Staff Room Tel</td>
-    <td class="tg-sdzj">6283 5414</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">School Fax</td>
-    <td class="tg-sdzj">6282 3882</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">School E-mail</td>
-    <td class="tg-d8aa"><a href="mailto:zhonghua_ps@moe.edu.sg"><span style="text-decoration:none;color:#10509C">zhonghua_ps@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-With warm regards,
-
-Zhonghua Primary School
+<table border="0" cellpadding="0" cellspacing="0" width="499" style="border-collapse:
+ collapse;width:374pt"><colgroup><col width="164" style="mso-width-source:userset;mso-width-alt:5997;width:123pt"> <col width="316" style="mso-width-source:userset;mso-width-alt:11556;width:237pt"> <col width="19" style="mso-width-source:userset;mso-width-alt:694;width:14pt"></colgroup><tbody><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl65" width="164" style="height:7.5pt;width:123pt"><a name="RANGE!C2:E9"></a></td><td class="xl65" width="316" style="width:237pt"></td><td class="xl65" width="19" style="width:14pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl68" style="height:15.75pt">SCHOOL CONTACT DETAILS</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">School Address</td><td class="xl67" style="box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">12 Serangoon Ave 4 Singapore 556095</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">General Office Tel</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">6283 5413</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Staff Room Tel</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">6283 5414</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">School Fax</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">6282 3882</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word">School E-mail</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word"><span style="box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word">zhonghua_ps@moe.edu.sg</span></td><td class="xl65"></td></tr><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl65" style="height:5.25pt"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
 
 
 ![](/images/Contact%20Us.png)
 
-### Useful information
+### Other information
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 602px">
-<colgroup>
-<col style="width: 251px">
-<col style="width: 351px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">2020 SCHOOL OPERATING HOURS</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sdzj">Monday - Thursday</td>
-    <td class="tg-sdzj">7:45 am - 1:30 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Friday</td>
-    <td class="tg-sdzj">7:45 am - 1.15 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Reporting Time</td>
-    <td class="tg-sdzj">7:30 am</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="499" style="border-collapse:
+ collapse;width:374pt"><colgroup><col width="164" style="mso-width-source:userset;mso-width-alt:5997;width:123pt"> <col width="316" style="mso-width-source:userset;mso-width-alt:11556;width:237pt"> <col width="19" style="mso-width-source:userset;mso-width-alt:694;width:14pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl65" width="164" style="height:5.25pt;width:123pt"><a name="RANGE!C11:E16"></a></td><td class="xl65" width="316" style="width:237pt"></td><td class="xl65" width="19" style="width:14pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl68" style="height:15.75pt">SCHOOL OPERATING HOURS</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl65" style="height:15.75pt">Monday - Thursday</td><td class="xl67" style="box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">7:45 am - 1:30 pm</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Friday</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">7:45 am - 1.15 pm</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word">Reporting Time</td><td class="xl69" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word">7:30 AM</td><td class="xl65"></td></tr><tr height="6" style="mso-height-source:userset;height:4.5pt"><td height="6" class="xl65" style="height:4.5pt"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-.tg .tg-feur{background-color:#FFF;color:#0B5394;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-d8aa{background-color:#FFF;color:#10509C;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 602px">
-<colgroup>
-<col style="width: 251px">
-<col style="width: 351px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-a4yv" colspan="2">SCHOOL-BASED STUDENT CARE CENTRE</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sdzj">Supplier</td>
-    <td class="tg-sdzj">Learning Studio by Zenitant</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Telephone No</td>
-    <td class="tg-sdzj">8102 7268</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Operating Hours (school term)</td>
-    <td class="tg-sdzj">Monday to Thursday: 1:45pm - 7:00pm<br>Friday: 12:45pm - 7:00pm</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Operating Hours (school holiday)</td>
-    <td class="tg-sdzj">Monday to Friday: 7:30am - 7:00pm</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Email  </td>
-    <td class="tg-feur">enquiry@learningstudioeducare.com</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Website </td>
-    <td class="tg-d8aa"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:none;color:#10509C">www.zenitant.com.sg</span></a> </td>
-  </tr>
-</tbody>
-</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="483" style="border-collapse:
+ collapse;width:362pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="268" style="mso-width-source:userset;mso-width-alt:9801;width:201pt"></colgroup><tbody><tr height="6" style="mso-height-source:userset;height:4.5pt"><td height="6" class="xl65" width="215" style="height:4.5pt;width:161pt;box-sizing: border-box;
+  overflow-wrap: break-word"><a name="RANGE!C18:D27"></a></td><td class="xl65" width="268" style="width:201pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl68" style="height:15.75pt">SCHOOL-BASED STUDENT CARE CENTRE</td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Supplier</td><td class="xl67" style="box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">Learning Studio by Zenitant</td></tr><tr height="20" style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="20" class="xl65" style="height:15.0pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Telephone No</td><td class="xl69" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">8102 7268</td></tr><tr height="20" style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="40" class="xl65" style="height:30.0pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Operating Hours
+	<br>(school term)</td><td rowspan="2" class="xl70" width="268" style="width:201pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Monday to Thursday: 
+<br>1:45pm - 7:00pm
+<br>Friday: 12:45pm - 7:00pm</td></tr><tr height="20" style="height:15.0pt"></tr><tr height="20" style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="20" class="xl65" style="height:15.0pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Operating Hours
+<br>(school holiday)</td><td class="xl65" style="box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">Monday to Friday:
+<br>7:30am - 7:00pm</td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Email</td><td class="xl67" style="box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial">enquiry@learningstudioeducare.com</td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
+  overflow-wrap: break-word">Website</td><td class="xl66" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word"><span style="box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word">www.zenitant.com.sg</span></td></tr><tr height="6" style="mso-height-source:userset;height:4.5pt"><td height="6" class="xl65" style="height:4.5pt"></td><td class="xl65"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
