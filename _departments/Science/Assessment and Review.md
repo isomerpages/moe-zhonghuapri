@@ -4,8 +4,6 @@ permalink: /departments/Science/Assessment-and-Review/
 description: ""
 third_nav_title: Science
 ---
-![](/images/Banner.jpg)
-
 Assessment and Review
 =====================
 
@@ -17,43 +15,26 @@ The Science teachers together with the guidance of the level representative will
 
 Table 1.1 specifies the modes of summative and formative assessments for each level.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 566px">
-<colgroup>
-<col style="width: 65px">
-<col style="width: 245px">
-<col style="width: 256px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-n4qt">Level</th>
-    <th class="tg-n4qt">Mode of Summative Assessment</th>
-    <th class="tg-n4qt">Mode of Formative Assessment</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k"><br><br>P3/4<br></td>
-    <td class="tg-ii8k"><br>Class Tests, Process Skills Tests, Practical Test, Semestral Assessments</td>
-    <td class="tg-ii8k">Performance-based tasks, Class test, Topical Worksheets, Process Skills worksheets, Revision papers and etc<br><br>Journaling (for HA classes)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><br><br>P5</td>
-    <td class="tg-ii8k"><br>Class Tests, Process Skills Tests, Practical Test, Semestral Assessments<br></td>
-    <td class="tg-ii8k">Performance-based tasks, Class Tess, Topical Worksheets, Process Skills worksheets Topical tests, Revision papers and etc<br><br>Journaling (for HA classes)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><br>P6</td>
-    <td class="tg-ii8k"><br>Semestral Assessment 1, Preliminary Examination</td>
-    <td class="tg-ii8k">Performance-based tasks, Topical Worksheets, Revision papers<br><br>HOT questions (for HA classes)</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="737" style="border-collapse:
+ collapse;width:553pt"><colgroup><col width="111" style="mso-width-source:userset;mso-width-alt:4059;width:83pt"> <col width="223" style="mso-width-source:userset;mso-width-alt:8155;width:167pt"> <col width="389" style="mso-width-source:userset;mso-width-alt:14226;width:292pt"> <col width="14" style="mso-width-source:userset;mso-width-alt:512;width:11pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl65" width="111" style="height:6.0pt;width:83pt"><a name="RANGE!C2:F10"></a></td><td class="xl65" width="223" style="width:167pt"></td><td class="xl65" width="389" style="width:292pt"></td><td width="14" style="width:11pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl70" style="height:15.75pt">Level</td><td class="xl67" style="border-left:none">Mode of Summative Assessment</td><td class="xl68" style="border-left:none">Mode of Formative Assessment</td><td></td></tr><tr height="60" style="mso-height-source:userset;height:45.0pt;box-sizing: border-box;
+  border-color:var(--chakra-colors-gray-200);overflow-wrap: break-word"><td rowspan="2" height="81" class="xl66" width="111" style="height:60.75pt;
+  width:83pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">
+<br><br>Primary 3/4</td><td rowspan="2" class="xl66" width="223" style="width:167pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">
+<br>Class Tests, Process Skills Tests, Practical Test, Semestral Assessments</td><td class="xl69" width="389" style="border-top:none;width:292pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Performance-based tasks, Class test, Topical Worksheets, Process Skills worksheets, Revision papers and etc</td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" width="389" style="height:15.75pt;border-top:none;
+  width:292pt">Journaling (for HA classes)</td><td></td></tr><tr height="61" style="height:45.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="82" class="xl65" style="height:61.5pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">
+<br><br>Primary 5</td><td rowspan="2" class="xl66" width="223" style="width:167pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">
+<br>Class Tests, Process Skills Tests, Practical Test, Semestral Assessments</td><td class="xl69" width="389" style="border-top:none;width:292pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Performance-based tasks, Class Tess, Topical Worksheets, Process Skills worksheets Topical tests, Revision papers and etc</td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" width="389" style="height:15.75pt;border-top:none;
+  width:292pt">Journaling (for HA classes)</td><td></td></tr><tr height="41" style="height:30.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="62" class="xl65" style="height:46.5pt;box-sizing: border-box;
+  overflow-wrap: break-word">
+<br>Primary 6</td><td rowspan="2" class="xl66" width="223" style="width:167pt;box-sizing: border-box;
+  overflow-wrap: break-word">
+<br>Semestral Assessment 1, Preliminary Examination</td><td class="xl69" width="389" style="border-top:none;width:292pt;box-sizing: border-box;
+  overflow-wrap: break-word">Performance-based tasks, Topical Worksheets, Revision papers</td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" width="389" style="height:15.75pt;border-top:none;
+  width:292pt">HOT questions (for HA classes)</td><td></td></tr><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl65" style="height:7.5pt"></td><td class="xl65"></td><td class="xl65"></td><td></td></tr></tbody></table>
