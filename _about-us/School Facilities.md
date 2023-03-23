@@ -6,9 +6,9 @@ description: ""
 School Facilities
 =================
 
-**Primary Education Review and Implementation&nbsp;(PERI) Facilities Upgrading @ ZPS_**
+Primary Education Review and Implementation&nbsp;(PERI) Facilities Upgrading @ ZPS_
 
-MOE has commenced an **upgrading programme at ZPS in December 2015**&nbsp;to provide the school with additional facilities to facilitate engaged learning both in academic and non-academic areas.&nbsp;
+MOE has commenced an upgrading programme at ZPS in December 2015&nbsp;to provide the school with additional facilities to facilitate engaged learning both in academic and non-academic areas.&nbsp;
 
 The upgrading will result in:
 
@@ -18,7 +18,7 @@ The upgrading will result in:
 
 For ZPS, the bulk of the works will be at the rear open area of the school. While, we will strive to ensure safety and minimise the impact on staff and students, there would be some short term inconveniences that will be unavoidable.&nbsp; We seek your understanding to support and encourage our children should they experience any discomfort. Please also share with us any concerns that could crop up from time to time.
 
-**Zhonghua Primary School**
+Zhonghua Primary School
 
 **Opening of Back Gate Before and After School**
 
@@ -74,11 +74,11 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 </table>
 
 
-**Additional Safety Arrangements during PERI Upgrading**
+Additional Safety Arrangements during PERI Upgrading
 
 There will be an additional safety personnel stationed near the pedestrian crossing between the school main gate walkway and the canteen to ensure safety of pedestrians. Safety water barriers and a gate will be positioned on either side to manage vehicular access and will be controlled by a vehicle ground controller. Students have been briefed on the dangers and the safety precaution/actions required from them. &nbsp;Nevertheless, please advise your children to exercise extra caution when using the school pedestrian crossing.”
 
-**Our school facilities are designed with the pupils' welfare in mind. Here is a list of some of these facilities which are available for the use of our pupils.**
+Our school facilities are designed with the pupils' welfare in mind. Here is a list of some of these facilities which are available for the use of our pupils.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
