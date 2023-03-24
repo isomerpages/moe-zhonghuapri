@@ -2,5 +2,4 @@ collections:
   cca:
     output: true
     order:
-      - CCA Introduction/.keep
       - CCA Schedule.md
