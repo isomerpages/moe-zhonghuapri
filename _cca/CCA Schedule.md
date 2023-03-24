@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banner.jpg)
 
-CCA Schedule
+CCA Schedule For Semester 1 (2023)
 ============
 
 **CCA Schedule for Semester 2 2022**
