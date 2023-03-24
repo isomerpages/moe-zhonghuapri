@@ -129,32 +129,9 @@ Contact Us
   padding-bottom:2px;padding-top:2px">1800 - 274 4788</td></tr><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl65" style="height:6.0pt"></td><td class="xl65"></td></tr></tbody></table>
 
 
-
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 601px">
-<colgroup>
-<col style="width: 601px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-a4yv">SCHOOL DENTAL SERVICES</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sdzj">In 2020, the school will be served by a roving dental team and will only operate in our school premise to provide services to our pupils from 1 Aug to 30 Nov 2020. Between Jan to July, should pupils require dental services, parents would need to contact buddy dental clinics in nearby schools and get an appointment there. These buddy clinics are at Yangzheng Primary School, Punggol Primary School and Holy Innocents Primary School. Parents can also contact mobile dental clinics that will be at several sec schools at different times of the year. For dental related emergencies, parents can contact School Dental Centre at SGH.</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="566" style="border-collapse:
+ collapse;width:425pt"><colgroup><col width="145" span="3" style="mso-width-source:userset;mso-width-alt:5302;
+ width:109pt"> <col width="131" style="mso-width-source:userset;mso-width-alt:4790;width:98pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl63" width="145" style="height:6.0pt;width:109pt"><a name="RANGE!C56:F65"></a></td><td class="xl63" width="145" style="width:109pt"></td><td class="xl63" width="145" style="width:109pt"></td><td class="xl63" width="131" style="width:98pt"></td></tr><tr height="21" style="mso-height-source:userset;height:15.75pt"><td colspan="4" height="21" class="xl70" width="566" style="height:15.75pt;
+  width:425pt">SCHOOL DENTAL SESRVICES</td></tr><tr height="105" style="mso-height-source:userset;height:78.75pt"><td colspan="4" height="105" class="xl71" width="566" style="height:78.75pt;
+  width:425pt">A roving dental team will serve our students’ dental service.&nbsp; Depending on their schedule, they will station in our school for a few months in the year.&nbsp; If parents need quick attention for their children, please call the hotline below to make appointments.&nbsp; For emergencies, please contact SGH School Dental Centre.</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl69" width="145" style="height:30.75pt;border-top:none;
+  width:109pt">Schools Mobile Dental Buddy Clinic&nbsp;</td><td class="xl68" style="border-top:none;border-left:none">Address</td><td class="xl68" style="border-top:none;border-left:none">Mobile number</td><td class="xl64" style="border-top:none;border-left:none">Remarks</td></tr><tr height="181" style="height:135.75pt"><td height="181" class="xl65" width="145" style="height:135.75pt;width:109pt">Xinghua Primary School</td><td class="xl67" width="145" style="border-top:none;width:109pt">45 Hougang Avenue 1 Singapore 538882</td><td class="xl68" style="border-top:none;border-left:none">98389102</td><td class="xl66" width="131" style="border-top:none;border-left:none;width:98pt">Please call this number first.&nbsp; The dentist may not be able to pick up your call immediately.&nbsp; Do leave your phone number for the dentist to call you back.</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl65" width="145" style="height:30.75pt;width:109pt">Yangzheng Pr School</td><td class="xl67" width="145" style="border-top:none;width:109pt">15 Serangoon Ave 3 (556108)</td><td class="xl68" style="border-top:none;border-left:none">89400314</td><td class="xl64" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl65" width="145" style="height:30.75pt;width:109pt">Punggol Pr School</td><td class="xl67" width="145" style="border-top:none;width:109pt">61 Hougang Ave 8 (538787)</td><td class="xl68" style="border-top:none;border-left:none">89091753&nbsp;</td><td class="xl64" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl65" width="145" style="height:30.75pt;width:109pt">Holy Innocents’ Pr School</td><td class="xl67" width="145" style="border-top:none;width:109pt">5 Lor Low Koon (536451)</td><td class="xl68" style="border-top:none;border-left:none">87647746&nbsp;</td><td class="xl64" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl63" style="height:15.75pt">MDC 5</td><td class="xl68" style="border-top:none">&nbsp;</td><td class="xl68" style="border-top:none;border-left:none">92707796</td><td class="xl64" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl63" style="height:7.5pt"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
