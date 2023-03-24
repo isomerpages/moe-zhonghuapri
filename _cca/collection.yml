@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Introduction/Example Title.md
       - CCA Introduction/.keep
       - CCA Information/.keep
       - CCA Schedule.md
