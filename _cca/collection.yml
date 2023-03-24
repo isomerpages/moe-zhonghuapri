@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Information.md
       - CCA Introduction.md
+      - CCA Information.md
       - CCA Schedule.md
