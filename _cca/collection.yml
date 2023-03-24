@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Introduction/CCA Programme in ZPS.md
       - CCA Introduction/.keep
       - CCA Information/.keep
       - CCA Schedule.md
