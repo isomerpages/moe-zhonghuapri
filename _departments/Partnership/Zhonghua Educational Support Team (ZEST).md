@@ -4,8 +4,6 @@ permalink: /departments/Partnership/Zhonghua-Educational-Support-Team-ZEST/
 description: ""
 third_nav_title: Partnership
 ---
-Zhonghua Educational Support Team (ZEST)
-========================================
 
 Zhonghua Educational Support Team (ZEST) that was established in February 1997 is a vital link in helping to promote a strong partnership between home and school.  
 
