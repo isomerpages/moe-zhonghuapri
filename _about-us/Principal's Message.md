@@ -21,6 +21,3 @@ Our teachers are key to the development of these dispositions in our student and
 **Mdm Rostinah Mohamad Said**
 
 **Principal**
-
-
-
