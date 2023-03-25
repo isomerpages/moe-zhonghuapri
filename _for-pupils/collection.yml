@@ -1,7 +1,0 @@
-collections:
-  for-pupils:
-    output: true
-    order:
-      - Lower Primary.md
-      - Middle Primary.md
-      - Upper Primary.md
