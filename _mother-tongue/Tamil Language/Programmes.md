@@ -4,11 +4,6 @@ permalink: /mother-tongue/Tamil-Language/Programmes/
 description: ""
 third_nav_title: Tamil Language
 ---
-![](/images/Banner.jpg)
-
-Programmes
-==========
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
