@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us/Contact-Us/
 description: ""
 ---
-Contact Us
-==========
 <table border="0" cellpadding="0" cellspacing="0" width="499" style="border-collapse:
  collapse;width:374pt"><colgroup><col width="164" style="mso-width-source:userset;mso-width-alt:5997;width:123pt"> <col width="316" style="mso-width-source:userset;mso-width-alt:11556;width:237pt"> <col width="19" style="mso-width-source:userset;mso-width-alt:694;width:14pt"></colgroup><tbody><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl65" width="164" style="height:7.5pt;width:123pt"><a name="RANGE!C2:E9"></a></td><td class="xl65" width="316" style="width:237pt"></td><td class="xl65" width="19" style="width:14pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl68" style="height:15.75pt">SCHOOL CONTACT DETAILS</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
   overflow-wrap: break-word"><td height="21" class="xl65" style="height:15.75pt;box-sizing: border-box;
