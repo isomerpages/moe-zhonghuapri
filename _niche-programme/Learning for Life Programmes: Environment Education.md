@@ -3,10 +3,6 @@ title: "Learning for Life Programmes: Environment Education"
 permalink: /niche-programme/Learning-for-Life-Programmes-Environment-Education/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-Learning for Life Programmes - Environment Education
-====================================================
 
 Zhonghua Primary School (ZPS) strives to develop our pupils holistically. This is reflected in our school's vision for each and every Zhonghuarian - A Learner, A Thinker, A Leader. Our Environmental Education (EE) approach in our Learning-for-life Programme (LLP) is aligned closely to our school's vision. 
 
