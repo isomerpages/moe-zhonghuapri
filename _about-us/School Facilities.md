@@ -19,56 +19,9 @@ Zhonghua Primary School
 
 Opening of Back Gate Before and After School
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 536px" class="tg">
-<colgroup>
-<col style="width: 120px">
-<col style="width: 165px">
-<col style="width: 251px">
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2" class="tg-2fwu">Day</th>
-    <th class="tg-2fwu">Opening Hours</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2fwu"><br>Before School<br><br></td>
-    <td class="tg-sxkx"><br>Monday to Friday</td>
-    <td class="tg-sxkx"><br>7.00am to 7.30am</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-2fwu"><br><br><br><br>After School<br><br><br></td>
-    <td class="tg-sxkx"><br>Monday to Thursday</td>
-    <td class="tg-sxkx"><br>1.30pm to 2.00pm<br>3.30pm to 4.00pm<br><br>
-  </td></tr>
-  <tr>
-    <td class="tg-sxkx"><br>Friday</td>
-    <td class="tg-sxkx"><br>1.15pm to 1.45pm<br>3.30pm to 4.00pm<br><br></td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-sxkx"><br>Saturday<br><br></td>
-    <td class="tg-sxkx"><br>Closed</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-sxkx"><br>Wet Weather On School Days<br><br></td>
-    <td class="tg-sxkx"><br>Closed</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-sxkx"><br>Early Dismissal Days</td>
-    <td class="tg-sxkx"><br>½ Hour From Time Of Dismissal</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="715" style="border-collapse:
+ collapse;width:537pt"><colgroup><col width="110" style="mso-width-source:userset;mso-width-alt:4022;width:83pt"> <col width="180" style="mso-width-source:userset;mso-width-alt:6582;width:135pt"> <col width="425" style="mso-width-source:userset;mso-width-alt:15542;width:319pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl65" width="110" style="height:6.0pt;width:83pt"><a name="RANGE!C2:E10"></a></td><td class="xl65" width="180" style="width:135pt"></td><td class="xl65" width="425" style="width:319pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl69" style="height:15.75pt">Day</td><td class="xl70">Opening Hours</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl65" style="height:15.75pt">Before School</td><td class="xl68">Monday to Friday</td><td class="xl71" style="border-left:none">7.00am to 7.30am</td></tr><tr height="21" style="height:15.75pt;box-sizing: inherit"><td rowspan="2" height="42" class="xl65" style="height:31.5pt;box-sizing: inherit;
+  border-image: initial">After School</td><td class="xl67" style="border-top:none">Monday to Thursday</td><td class="xl66" style="border-top:none;border-left:none">1.30pm to 2.00pm &amp; 3.30pm to 4.00pm</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl72" style="height:15.75pt;border-top:none">Friday</td><td class="xl73" style="border-top:none;border-left:none">1.15pm to 1.45pm &amp; 3.30pm to 4.00pm</td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl74" style="height:15.75pt">Early Dismissal Days</td><td class="xl74">½ Hour From Time Of Dismissal</td></tr><tr height="20" style="mso-height-source:userset;height:15.0pt"><td colspan="2" height="20" class="xl74" style="height:15.0pt">Wet Weather On School Days</td><td class="xl74">Closed</td></tr><tr height="20" style="mso-height-source:userset;height:15.0pt"><td colspan="2" height="20" class="xl70" style="height:15.0pt">Saturday</td><td class="xl70">Closed</td></tr><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl65" style="height:7.5pt"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
 
 
 Additional Safety Arrangements during PERI Upgrading
