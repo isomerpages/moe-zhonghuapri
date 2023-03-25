@@ -4,7 +4,6 @@ permalink: /departments/Science/Science/
 description: ""
 third_nav_title: Science
 ---
-
 Vision
 <br>Individuals with inquiring minds and a Passion for Science.
 
@@ -21,4 +20,4 @@ Aims
 
 3)Provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry thus Applying Science to the world they live in.
 
-Equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in.
+4)Equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in.
