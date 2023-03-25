@@ -4,10 +4,7 @@ permalink: /mother-tongue/Mother-Tongue/
 description: ""
 ---
 
-
-![](/images/Banner.jpg)
-
-Mother Tongue
+Information
 =============
 
 
@@ -24,13 +21,11 @@ Mother Tongue
 [TAMIL LANGUAGE PAGE](/departments/Mother-Tongue/Tamil-Language/)
 
 **Vision:**
-
-Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
+<br>Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
 
 
 **Mission:**
-
-To instil in our pupils a love for their Mother Tongue and heritage.
+<br>To instil in our pupils a love for their Mother Tongue and heritage.
 
 **2017 PSLE NEW FORMAT**
 
