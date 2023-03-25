@@ -4,61 +4,38 @@ permalink: /departments/CCE/MOE-Character-and-Citizenship-Education-Learning-Out
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.jpg)
 
-MOE Character and Citizenship Education Learning Outcomes (LOs)
+
+Information
 ===============================================================
 
 The Learning Outcomes (LOs) of CCE state what we want our students to learn and attain. The CCE core values are embedded in the 8 LOs. LOs 1 to 4 depict different aspects of character building that are interrelated and feature social and emotional competencies. LOs 5 to 8 are guided by key tenants of 21st century citizenship and arranged according to attributes of citizenship such as identity, culture, and active, responsible engagement as a member of society.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Learning<br>Outcome</th>
-    <th class="tg-n4qt">Description</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">LO 1</td>
-    <td class="tg-ii8k">Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 2</td>
-    <td class="tg-ii8k">Act with integrity and make responsible decisions that uphold moral principles</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 3</td>
-    <td class="tg-ii8k">Acquire social awareness and apply interpersonal skills to build and maintain positive relationships based on mutual respect</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 4</td>
-    <td class="tg-ii8k">Be resilient and have the ability to turn challenges into opportunities</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 5</td>
-    <td class="tg-ii8k">Take pride in our national identity, have a sense of belonging to Singapore and be committed to nation building</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 6</td>
-    <td class="tg-ii8k">Value Singapore’s socio-cultural diversity, and promote social cohesion and harmony</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 7</td>
-    <td class="tg-ii8k">Care for others, contribute actively to the progress of our community and nation</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">LO 8</td>
-    <td class="tg-ii8k">Reflect and respond to community, national and global issues as an informed and responsible citizen</td>
-  </tr>
-</tbody>
-</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="640" style="border-collapse:
+ collapse;width:480pt"><colgroup><col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"> <col width="495" style="mso-width-source:userset;mso-width-alt:18102;width:371pt"></colgroup><tbody><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" width="145" style="height:3.75pt;width:109pt"><a name="RANGE!F3:G13"></a></td><td width="495" style="width:371pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl64" style="height:15.75pt"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Learning Outcome</span></td><td class="xl67" style="border-left:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Description</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 1</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 2</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Act with integrity and make responsible decisions that uphold moral principles</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 3</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Acquire social awareness and apply interpersonal skills to build and maintain positive relationships based on mutual respect</span></td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 4</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Be resilient and have the ability to turn challenges into opportunities</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 5</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Take pride in our national identity, have a sense of belonging to Singapore and be committed to nation building</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 6</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Value Singapore’s socio-cultural diversity, and promote social cohesion and harmony</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 7</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Care for others, contribute actively to the progress of our community and nation</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="41" class="xl66" style="height:30.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">LO 8</span></td><td class="xl65" width="495" style="border-top:none;width:371pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Reflect and respond to community, national and global issues as an informed and responsible citizen</span></td></tr><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" style="height:7.5pt"></td><td></td></tr></tbody></table>
