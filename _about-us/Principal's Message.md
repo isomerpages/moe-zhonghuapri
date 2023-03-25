@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-
 ![](/images/P%20Photo%202022-h280.jpg)
 
 **Zhonghua Primary:**
@@ -22,3 +21,6 @@ Our teachers are key to the development of these dispositions in our student and
 **Mdm Rostinah Mohamad Said**
 
 **Principal**
+
+
+
