@@ -3,9 +3,9 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-Music: JJ de Souza
+**Music: JJ de Souza**
 
-Lyrics: Seah Lye Huat
+**Lyrics: Seah Lye Huat**
 
 Note: school requires own Youtube/Vimeo to upload School Song audio
 
