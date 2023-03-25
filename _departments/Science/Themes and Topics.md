@@ -4,8 +4,6 @@ permalink: /departments/Science/Themes-and-Topics/
 description: ""
 third_nav_title: Science
 ---
-Themes and Topics
-=================
 <table border="0" cellpadding="0" cellspacing="0" width="848" style="border-collapse:
  collapse;width:637pt"><colgroup><col width="122" style="mso-width-source:userset;mso-width-alt:4461;width:92pt"> <col width="173" style="mso-width-source:userset;mso-width-alt:6326;width:130pt"> <col width="539" style="mso-width-source:userset;mso-width-alt:19712;width:404pt"> <col width="14" style="mso-width-source:userset;mso-width-alt:512;width:11pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl65" width="122" style="height:5.25pt;width:92pt"><a name="RANGE!C4:F24"></a></td><td width="173" style="width:130pt"></td><td width="539" style="width:404pt"></td><td width="14" style="width:11pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt">Level</td><td class="xl66" style="border-left:none;box-sizing: border-box;overflow-wrap: break-word;
   border-image: initial">Themes</td><td class="xl68" style="border-left:none;box-sizing: border-box;overflow-wrap: break-word;
@@ -42,6 +40,3 @@ Themes and Topics
   border-image: initial">Interaction of forces (Frictional force, gravitational force, force in springs)</td><td style="box-sizing: border-box;overflow-wrap: break-word;border-image: initial"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl67" style="height:15.75pt;border-top:none">Interaction within the environment</td><td style="box-sizing: border-box;overflow-wrap: break-word;border-image: initial"></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl69" width="173" style="height:31.5pt;width:130pt">
 <br>Energy</td><td class="xl67" style="border-top:none;box-sizing: border-box;overflow-wrap: break-word;
   border-image: initial">Energy forms and uses (Photosynthesis)</td><td style="box-sizing: border-box;overflow-wrap: break-word;border-image: initial"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl67" style="height:15.75pt;border-top:none">Energy conversion</td><td style="box-sizing: border-box;overflow-wrap: break-word;border-image: initial"></td></tr><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" class="xl65" style="height:3.75pt"></td><td></td><td></td><td></td></tr></tbody></table>
-	
-	
-	
