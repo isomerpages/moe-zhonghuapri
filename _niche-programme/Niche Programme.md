@@ -8,7 +8,7 @@ description: ""
 Niche Programme
 ===============
 
-[undefined](#### [Applied Learning Programme:THINKNOVATE](/Niche-Programme-Applied_learning_Programme-THINKNOVATE/))
+[undefined](#### [Applied Learning Programme:THINKNOVATE](/Niche-Programme/Applied_learning_Programme:-THINKNOVATE/))
 
 
 #### [School Advisory Committee](/Staff-Information/School-Advisory-Committee/)
