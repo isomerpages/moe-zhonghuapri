@@ -3,22 +3,16 @@ title: Malay Language
 permalink: /mother-tongue/Malay-Language/
 description: ""
 ---
-
-
-![](/images/Banner.jpg)
-
-Malay Language
+Information
 ==============
 
-### Vision:
+**Vision**
+<br>Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage.
 
-Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage.
+**Mission**
+<br>To instill in our pupils a love for their Mother Tongue and heritage.
 
-### Mission:
-
-To instill in our pupils a love for their Mother Tongue and heritage.
-
-##### **Aktiviti / Program bagi Murid-murid Bahasa Melayu 2020**
+**Aktiviti / Program bagi Murid-murid Bahasa Melayu 2020**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
