@@ -3,8 +3,6 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-School Song
-===========
 Music: JJ de Souza
 
 Lyrics: Seah Lye Huat
