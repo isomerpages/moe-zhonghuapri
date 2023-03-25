@@ -3,12 +3,10 @@ title: Mathematics
 permalink: /departments/Mathematics/
 description: ""
 ---
-
 ##### **Signature Programmes:**
 
 1) Fun with Mathematics
-
-This programme aims to make learning of Mathematics joyful and relevant to their everyday life by providing them with meaningful learning experiences.
+<br>This programme aims to make learning of Mathematics joyful and relevant to their everyday life by providing them with meaningful learning experiences.
 
 <table border="0" cellpadding="0" cellspacing="0" width="536" style="border-collapse:
  collapse;width:402pt"><colgroup><col width="192" style="mso-width-source:userset;mso-width-alt:7021;width:144pt"> <col width="331" style="mso-width-source:userset;mso-width-alt:12105;width:248pt"> <col width="13" style="mso-width-source:userset;mso-width-alt:475;width:10pt"></colgroup><tbody><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" width="192" style="height:3.75pt;width:144pt"><a name="RANGE!F3:H11"></a></td><td width="331" style="width:248pt"></td><td width="13" style="width:10pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt">Level</td><td class="xl67" style="border-left:none">Event</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
@@ -35,9 +33,7 @@ Early Success. Strong Basics. Steady Progress
 Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.
 
 3)Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4
-
-ICAN aims to provide more support for Primary 3 and Primary 4 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among the pupils.
+<br>ICAN aims to provide more support for Primary 3 and Primary 4 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among the pupils.
 
 4)Family Mathematics
-
-This programme aims to build factual fluency among our pupils through bonding activities with their family members. Pupils bring cards and board games home to play with their family members and learn Mathematics in a joyful way.
+<br>This programme aims to build factual fluency among our pupils through bonding activities with their family members. Pupils bring cards and board games home to play with their family members and learn Mathematics in a joyful way.
