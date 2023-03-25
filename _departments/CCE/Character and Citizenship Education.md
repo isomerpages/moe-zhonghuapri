@@ -4,7 +4,7 @@ permalink: /departments/CCE/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: CCE
 ---
-Character and Citizenship Education
+Information
 ===================================
 
 About ZPS CCE Department<br>
@@ -27,11 +27,10 @@ To equip every pupil with the values, social & emotional competencies and citize
   
 
 Please click on the following links to understand about the various components of CCE:<br>
-A) MOECharacter and Citizenship Education Learning Outcomes (LOs)<br>
-B) NationalEducation (NE)<br>
-C) SocialStudies (SS)<br>
-D) Values-In-Action(VIA)<br>
-E) FormTeacher Guidance Period (FTGP)<br>
-F) Character& Citizenship Education (CCE) lessons<br>
-G) School-BasedCCE
-
+1)MOECharacter and Citizenship Education Learning Outcomes (LOs)<br>
+2)NationalEducation (NE)<br>
+3)SocialStudies (SS)<br>
+4)Values-In-Action(VIA)<br>
+5)FormTeacher Guidance Period (FTGP)<br>
+6) Character& Citizenship Education (CCE) lessons<br>
+7) School-BasedCCE
