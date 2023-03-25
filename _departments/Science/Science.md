@@ -4,17 +4,17 @@ permalink: /departments/Science/Science/
 description: ""
 third_nav_title: Science
 ---
-##### Vision
-Individuals with inquiring minds and a Passion for Science.
+ **Vision**
+<br>Individuals with inquiring minds and a Passion for Science.
 
-##### Mission
-Engaged Learning through IDEAs (Inquiry, Discovery, Exploration and Applications).
+**Mission**
+<br>Engaged Learning through IDEAs (Inquiry, Discovery, Exploration and Applications).
 
-##### Rationale
-Science teaching aims to inculcate the spirit of inquiry and a passion for Science, resulting in our pupils being engaged and excited about learning Science. We hope that pupils value Science and see it as a meaningful and important tool in helping them to explore the world that they live in.
+**Rationale**
+<br>Science teaching aims to inculcate the spirit of inquiry and a passion for Science, resulting in our pupils being engaged and excited about learning Science. We hope that pupils value Science and see it as a meaningful and important tool in helping them to explore the world that they live in.
 
-##### Aims
-1)Provide our pupils with first-hand opportunities to physically Inquire, Discover and Explore Science through a variety of teaching strategies/approaches and stimulating activities.   
+**Aims**
+<br>1)Provide our pupils with first-hand opportunities to physically Inquire, Discover and Explore Science through a variety of teaching strategies/approaches and stimulating activities.   
 
 2)Provide pupils with basic scientific terms and concepts to help them understand themselves and the world around them.
 
