@@ -11,15 +11,21 @@ description: ""
 
 The Department’s objective is to develop a passion for the Arts in every Zhonghuarian through an integrated and holistic aesthetics programme. Adopting the Thematic Approach, units of learning are designed based on broad themes, as defined below.
 
-<table border="0" cellpadding="0" cellspacing="0" width="1022" style="border-collapse:
- collapse;width:768pt"><colgroup><col width="90" style="mso-width-source:userset;mso-width-alt:3291;width:68pt"> <col width="141" style="mso-width-source:userset;mso-width-alt:5156;width:106pt"> <col width="226" style="mso-width-source:userset;mso-width-alt:8265;width:170pt"> <col width="195" style="mso-width-source:userset;mso-width-alt:7131;width:146pt"> <col width="361" style="mso-width-source:userset;mso-width-alt:13202;width:271pt"> <col width="9" style="mso-width-source:userset;mso-width-alt:329;width:7pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl66" width="90" style="height:6.0pt;width:68pt"><a name="RANGE!C4:H9"></a></td><td class="xl66" width="141" style="width:106pt"></td><td class="xl66" width="226" style="width:170pt"></td><td class="xl66" width="195" style="width:146pt"></td><td class="xl66" width="361" style="width:271pt"></td><td class="xl66" width="9" style="width:7pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt">Term / Level</td><td class="xl67" style="border-left:none">Term 1</td><td class="xl67" style="border-left:none">Term 2</td><td class="xl67" style="border-left:none">Term 3</td><td class="xl70" style="border-left:none">Term 4</td><td class="xl65"></td></tr><tr height="21" style="height:15.75pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
-  overflow-wrap: break-word"><td rowspan="3" height="63" class="xl65" style="height:47.25pt;box-sizing: border-box;
-  overflow-wrap: break-word">
-<br><br><br>Art Theme</td><td rowspan="3" class="xl65" style="box-sizing: border-box;overflow-wrap: break-word">
-<br><br><br>Festive Fever : CNY</td><td class="xl68" style="border-top:none">Around the World in 50 Days!</td><td class="xl68" style="border-top:none;border-left:none;box-sizing: border-box;
-  overflow-wrap: break-word">Loco About Local</td><td class="xl71" style="border-top:none;border-left:none;box-sizing: border-box;
-  overflow-wrap: break-word">Wild, Wild West</td><td class="xl66"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">
-Art: Crafts of the World</td><td class="xl68" style="border-top:none;border-left:none">Art: Local Crafts/Art</td><td class="xl71" style="border-top:none;border-left:none">Art: Famous International Artists – “I want to be like . . . “</td><td class="xl66"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Music : World Music</td><td class="xl68" style="border-top:none;border-left:none">Music : Local Artists/Music</td><td class="xl71" style="border-top:none;border-left:none">Music : Western Music</td><td class="xl66"></td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl66" style="height:6.75pt"></td><td class="xl66"></td><td class="xl66"></td><td class="xl66"></td><td class="xl66"></td><td class="xl66"></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="725" style="border-collapse:
+ collapse;width:544pt"><colgroup><col width="54" style="mso-width-source:userset;mso-width-alt:1974;width:41pt"> <col width="61" style="mso-width-source:userset;mso-width-alt:2230;width:46pt"> <col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="180" style="mso-width-source:userset;mso-width-alt:6582;width:135pt"> <col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl64" width="54" style="height:6.0pt;width:41pt"><a name="RANGE!C4:G9"></a></td><td class="xl64" width="61" style="width:46pt"></td><td class="xl64" width="215" style="width:161pt"></td><td class="xl64" width="180" style="width:135pt"></td><td class="xl64" width="215" style="width:161pt"></td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl70" width="54" style="height:30.75pt;width:41pt">Term / Level</td><td class="xl65" style="border-left:none">Term 1</td><td class="xl65" style="border-left:none">Term 2</td><td class="xl65" style="border-left:none">Term 3</td><td class="xl67" style="border-left:none">Term 4</td></tr><tr height="21" style="height:15.75pt"><td rowspan="3" height="83" class="xl69" width="54" style="height:62.25pt;width:41pt">
+<br><br><br>Art Theme</td><td rowspan="3" class="xl69" width="61" style="width:46pt">
+<br><br><br>Festive Fever : CNY</td><td class="xl72" style="border-top:none">Around the World 
+<br>in 50 Days!</td><td class="xl66" style="border-top:none;border-left:none">Loco About 
+<br>Local</td><td class="xl68" style="border-top:none;border-left:none">Wild, Wild 
+<br>West</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl72" style="height:30.75pt;border-top:none">Art: Crafts of the 
+<br>World</td><td class="xl66" style="border-top:none;border-left:none">Art: 
+<br>Local Crafts/Art</td><td class="xl71" width="215" style="border-top:none;border-left:none;width:161pt">Art: <br>	Famous International Artists – “I want to be like . . . “</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl72" style="height:15.75pt;border-top:none">Music : 
+<br>World Music</td><td class="xl66" style="border-top:none;border-left:none">Music :<br>Local Artists/Music</td><td class="xl68" style="border-top:none;border-left:none">Music : <br>Western Music</td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl64" style="height:6.75pt"></td><td class="xl64"></td><td class="xl64"></td><td class="xl64"></td><td class="xl64"></td></tr></tbody></table>
+
+
+
+
+
 
 Aesthetics Highlights
 
