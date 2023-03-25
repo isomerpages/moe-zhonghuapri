@@ -4,8 +4,6 @@ permalink: /departments/CCE/MOE-Character-and-Citizenship-Education-Learning-Out
 description: ""
 third_nav_title: CCE
 ---
-
-
 Information
 ===============================================================
 
