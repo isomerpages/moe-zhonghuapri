@@ -31,6 +31,8 @@ CCA Policy in ZPS
 
 8)A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 
-A)Mr Azman @ [azman\_mohamed\_hamzah@moe.edu.sg](mailto:azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
+A)Mr Azman @ [azman\_mohamed\_hamzah@moe.edu.sg](mailto:azman_mohamed_hamzah@moe.edu.sg) 
+<br>(For Sports/Clubs/Uniformed Group CCAs) or
 
-B)Mr Tang Qisheng @ [tang\_qisheng@moe.edu.sg](mailto:tang_qisheng@moe.edu.sg) (For Performing Arts CCAs).
+B)Mr Tang Qisheng @ [tang\_qisheng@moe.edu.sg](mailto:tang_qisheng@moe.edu.sg) 
+<br>(For Performing Arts CCAs).
