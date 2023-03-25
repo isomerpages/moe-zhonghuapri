@@ -3,9 +3,6 @@ title: School Facilities
 permalink: /about-us/School-Facilities/
 description: ""
 ---
-School Facilities
-=================
-
 Primary Education Review and Implementation&nbsp;(PERI) Facilities Upgrading @ ZPS_
 
 MOE has commenced an upgrading programme at ZPS in December 2015&nbsp;to provide the school with additional facilities to facilitate engaged learning both in academic and non-academic areas.&nbsp;
@@ -20,7 +17,7 @@ For ZPS, the bulk of the works will be at the rear open area of the school. Whil
 
 Zhonghua Primary School
 
-**Opening of Back Gate Before and After School**
+Opening of Back Gate Before and After School
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
