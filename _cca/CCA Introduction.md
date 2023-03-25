@@ -3,9 +3,7 @@ title: CCA Introduction
 permalink: /cca/permalink/
 description: ""
 ---
-CCA Introduction
-============
-CCA Programme in ZPS
+**CCA Programme in ZPS**
 
 CCA is an important part of our pupils’ holistic education. In ZPS, we offer a wide range of CCAs, catering to the varied interest and capabilities of our pupils. It is also our objective not only to teach them the CCA specific skills, but also to cultivate in our pupils the spirit of teamwork, integrity in their pursuit for excellence. Having the CCA experience with the other Zhonghuarians will also allow them to build camaraderie and desirable social behaviours.
 
@@ -33,6 +31,6 @@ CCA Policy in ZPS
 
 8)A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 
-1)Mr Azman @ [azman\_mohamed\_hamzah@moe.edu.sg](mailto:azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
+A)Mr Azman @ [azman\_mohamed\_hamzah@moe.edu.sg](mailto:azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
 
-2)Mr Tang Qisheng @ [tang\_qisheng@moe.edu.sg](mailto:tang_qisheng@moe.edu.sg) (For Performing Arts CCAs).
+B)Mr Tang Qisheng @ [tang\_qisheng@moe.edu.sg](mailto:tang_qisheng@moe.edu.sg) (For Performing Arts CCAs).
