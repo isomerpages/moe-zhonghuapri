@@ -17,7 +17,8 @@ The Department’s objective is to develop a passion for the Arts in every Zhong
 <br><br><br>Festive Fever : CNY</td><td class="xl72" style="border-top:none">Around the World 
 <br>in 50 Days!</td><td class="xl66" style="border-top:none;border-left:none">Loco About 
 <br>Local</td><td class="xl68" style="border-top:none;border-left:none">Wild, Wild 
-<br>West</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl72" style="height:30.75pt;border-top:none">Art: Crafts of the 
+<br>West</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl72" style="height:30.75pt;border-top:none">Art: 
+<br>Crafts of the 
 <br>World</td><td class="xl66" style="border-top:none;border-left:none">Art: 
 <br>Local Crafts/Art</td><td class="xl71" width="215" style="border-top:none;border-left:none;width:161pt">Art: <br>	Famous International Artists – “I want to be like . . . “</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl72" style="height:15.75pt;border-top:none">Music : 
 <br>World Music</td><td class="xl66" style="border-top:none;border-left:none">Music :<br>Local Artists/Music</td><td class="xl68" style="border-top:none;border-left:none">Music : <br>Western Music</td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl64" style="height:6.75pt"></td><td class="xl64"></td><td class="xl64"></td><td class="xl64"></td><td class="xl64"></td></tr></tbody></table>
