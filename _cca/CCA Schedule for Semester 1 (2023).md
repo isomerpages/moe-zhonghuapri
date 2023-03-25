@@ -23,8 +23,8 @@ description: ""
   margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;Chinese New Year Holiday&nbsp;</td></tr><tr height="45" style="mso-height-source:userset;height:33.75pt;outline: 0px;
   margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="45" class="xl70" width="215" style="height:33.75pt;border-top:none;
   width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:
-  2px">&nbsp;&nbsp;T1W5 / 31 January<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(Tuesday)</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;
-  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;CCA STARTS for ALL CCAs<span style="mso-spacerun:yes">
+  2px">T1W5 / 31 January<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(Tuesday)</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;
+  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA STARTS for ALL CCAs<span style="mso-spacerun:yes">
 <br></span>CCA Session 1</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;
   margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
   0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;
