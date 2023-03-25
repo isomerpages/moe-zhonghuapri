@@ -4,12 +4,7 @@ permalink: /mother-tongue/Tamil-Language/Tamil-Language/
 description: ""
 third_nav_title: Tamil Language
 ---
-
-
-
-![](/images/Banner.jpg)
-
-Tamil Language
+Information
 ==============
 
 <style type="text/css">
