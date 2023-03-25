@@ -3,9 +3,6 @@ title: Aesthetics
 permalink: /departments/Aesthetics/
 description: ""
 ---
-Aesthetics 
-===========
-
 **Vision**
 <br>Developing individuals with a passion for the Arts.
 
@@ -31,8 +28,3 @@ ZARTs Fest
 
 TAP       
 <br>TAP, short for Talent Appreciation Programme aims to promote a vibrant aesthetics culture through visual and performing arts. Pupils are encouraged to showcase talents they might have, ranging from playing of instruments, dancing, singing, acting, poem recitations and even the unique talent of performing tricks with the yoyo.
-
-
-
-
-
