@@ -3,9 +3,7 @@ title: Useful Links
 permalink: /for-parent/Useful-Links/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-Useful Links
+Information
 ============
 
 <img src="/images/SCHOOLBAG.png" style="width:210px;height:200px;margin-right:65px;" align = "left">
@@ -21,26 +19,18 @@ Useful Links
 
 ```
 
-1. [Primary Education](https://www.moe.gov.sg/education/primary/)  
-  
-2. [Primary One Registration Exercise](https://www.moe.gov.sg/admissions/primary-one-registration)  
-  
-3. [Student Admissions](http://www.moe.gov.sg/education/admissions/)  
-  
-4. [Edusave](http://www.moe.gov.sg/initiatives/edusave/)  
+1.       [Primary Education](https://www.moe.gov.sg/primary)
 
-  
+2.       [Primary One Registration Exercise](https://www.moe.gov.sg/primary/p1-registration)
 
-5.[Financial Assistance Schemes](http://www.moe.gov.sg/initiatives/financial-assistance/)
+3.       Student Admissions [For Returning Singaporean](https://www.moe.gov.sg/returning-singaporeans)s and [For International Students](https://www.moe.gov.sg/international-students)
 
-  
+4.       [Edusave](https://www.moe.gov.sg/financial-matters/edusave-account)
 
-6.[School Terms and Holidays](http://www.moe.gov.sg/schools/terms-and-holidays/)
+5.       [Financial Assistance Schemes](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-  
+6.       [School Terms and Holidays](https://www.moe.gov.sg/calendar)
 
-7.[National Examinations Timetable](http://www.moe.gov.sg/schools/national-exams-timetable/)
+7.       [National Examinations Timetable](https://www.moe.gov.sg/national-exams-dates)
 
-8.[MOE Sexuality Education in Schools](/for-parent/MOE-Sexuality-Education-Programme/)
-
-Note: Primary Education, Primary One Registration Exercise, Student Admissions, Edusave, Financial Assistance Schemes, School Terms and Holidays, National Examinations Timetable links are broken.
+8.       [MOE Sexuality Education in Schools](https://zhonghuapri.moe.edu.sg/for-parent/moe-sexuality-education-programme)
