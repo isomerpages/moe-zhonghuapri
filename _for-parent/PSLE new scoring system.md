@@ -10,9 +10,9 @@ Information
 
 Changes to the PSLE Scoring and S1 Posting will be made as part of a larger shift to nurture well-rounded individuals and move away from an over-emphasis on academic results. To be implemented starting from the 2021 PSLE cohort, the changes aim to:
 
-• Reduce fine differentiation of students  
-• Reflect a student’s level of achievement regardless of how his peers have done  
-• Encourage families to choose schools based on their suitability for the child’s learning needs, talents and interests.
+<br>1)Reduce fine differentiation of students  
+<br>2)Reflect a student’s level of achievement regardless of how his peers have done  
+<br>3)Encourage families to choose schools based on their suitability for the child’s learning needs, talents and interests.
 
   
 
