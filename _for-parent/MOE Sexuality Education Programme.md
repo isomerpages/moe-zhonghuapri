@@ -52,9 +52,24 @@ b.            Character and Citizenship Education (CCE)
 
 **PRIMARY 5**
 
-table
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="699" style="border-collapse:
+ collapse;width:525pt"><colgroup><col width="61" style="mso-width-source:userset;mso-width-alt:2230;width:46pt"> <col width="138" style="mso-width-source:userset;mso-width-alt:5046;width:104pt"> <col width="355" style="mso-width-source:userset;mso-width-alt:12982;width:266pt"> <col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl63" width="61" style="height:6.0pt;width:46pt"><a name="RANGE!D4:G9"></a></td><td class="xl63" width="138" style="width:104pt"></td><td class="xl64" width="355" style="width:266pt"></td><td class="xl63" width="145" style="width:109pt"></td></tr><tr height="61" style="height:45.75pt"><td height="61" class="xl65" width="61" style="height:45.75pt;width:46pt">CCE<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>(FTGP) THEME</td><td class="xl65" width="138" style="width:104pt">LESSON TITLE / DURATION</td><td class="xl63">LESSON OVERVIEW&nbsp;</td><td class="xl65" width="145" style="width:109pt">&nbsp; &nbsp; &nbsp; TIME PERIOD<span style="mso-spacerun:yes"> </span><br>(e.g. Term 1 Week 2)</td></tr><tr height="225" style="mso-height-source:userset;height:168.75pt;mso-yfti-irow:
+  1"><td rowspan="3" height="642" class="xl65" width="61" style="height:481.5pt;
+  width:46pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Growing&nbsp;Years</span></td><td class="xl65" width="138" style="width:104pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">The Changes in Me
+<br>(60 min)&nbsp;</span></td><td class="xl66" width="355" style="width:266pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.&nbsp;<span style="mso-spacerun:yes"></span>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td><td class="xl63"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Term 2 Week 2</span></td></tr><tr height="239" style="mso-height-source:userset;height:179.25pt"><td height="239" class="xl65" width="138" style="height:179.25pt;width:104pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Did You Know?<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<br>(60 min)&nbsp;&nbsp;</span></td><td class="xl66" width="355" style="width:266pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<span style="mso-spacerun:yes"></span>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.&nbsp;</span></td><td class="xl63"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Term 2 Week 4&nbsp;</span></td></tr><tr height="178" style="mso-height-source:userset;height:133.5pt"><td height="178" class="xl65" width="138" style="height:133.5pt;width:104pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Keeping Myself Safe 
+<br>(60 min)&nbsp;</span></td><td class="xl66" width="355" style="width:266pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<span style="mso-spacerun:yes"></span>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.&nbsp;</span></td><td class="xl63"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Term 2 Week 5</span></td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl63" style="height:6.75pt"></td><td class="xl63"></td><td class="xl64"></td><td class="xl63"></td></tr></tbody></table>
 
 [2023 Info on SEd for schs website - Primary 5.docx](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20-%20Primary%205.docx)
 
@@ -62,11 +77,17 @@ table
 
 **Primary 6**
 
-
-table
-
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="699" style="border-collapse:
+ collapse;width:525pt"><colgroup><col width="61" style="mso-width-source:userset;mso-width-alt:2230;width:46pt"> <col width="138" style="mso-width-source:userset;mso-width-alt:5046;width:104pt"> <col width="355" style="mso-width-source:userset;mso-width-alt:12982;width:266pt"> <col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl65" width="61" style="height:6.0pt;width:46pt"><a name="RANGE!D4:G9"></a></td><td class="xl65" width="138" style="width:104pt"></td><td class="xl66" width="355" style="width:266pt"></td><td class="xl65" width="145" style="width:109pt"></td></tr><tr height="61" style="height:45.75pt"><td height="61" class="xl67" width="61" style="height:45.75pt;width:46pt">CCE<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>(FTGP) THEME</td><td class="xl67" width="138" style="width:104pt">LESSON TITLE / DURATION</td><td class="xl65">LESSON OVERVIEW&nbsp;</td><td class="xl67" width="145" style="width:109pt">&nbsp; &nbsp; &nbsp; TIME PERIOD<span style="mso-spacerun:yes"> </span><br>(e.g. Term 1 Week 2)</td></tr><tr height="218" style="mso-height-source:userset;height:163.5pt;mso-yfti-irow:
+  1"><td rowspan="3" height="635" class="xl67" width="61" style="height:476.25pt;
+  width:46pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Growing&nbsp;Years</span></td><td class="xl67" width="138" style="width:104pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">Are We More than Friends?<span style="mso-spacerun:yes"></span>(60 min)</span></td><td class="xl68" width="355" style="width:266pt">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation.<span style="mso-spacerun:yes"></span>
+<br>They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td><td class="xl65">Term 2 Week 4&nbsp;</td></tr><tr height="180" style="mso-height-source:userset;height:135.0pt"><td height="180" class="xl67" width="138" style="height:135.0pt;width:104pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Are We More than Friends?<span style="mso-spacerun:yes"></span>(60 min)</span></td><td class="xl68" width="355" style="width:266pt">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship.<span style="mso-spacerun:yes"></span>
+<br>They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td><td class="xl65">Term 2 Week 5</td></tr><tr height="237" style="mso-height-source:userset;height:177.75pt"><td height="237" class="xl67" width="138" style="height:177.75pt;width:104pt"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Did You Know?*<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span
+<br>(60 min)</span></td><td class="xl68" width="355" style="width:266pt"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<span style="mso-spacerun:yes"> </span>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.&nbsp;</span></td><td class="xl65">Term 2 Week 2&nbsp;</td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl65" style="height:6.75pt"></td><td class="xl65"></td><td class="xl66"></td><td class="xl65"></td></tr></tbody></table>
 
 **Please Note:**
 
