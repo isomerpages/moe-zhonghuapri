@@ -25,6 +25,3 @@ The Science department aims to:
 3.       provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry thus Applying Science to the world they live in
 
 4.       equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in
-
-
-
