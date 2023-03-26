@@ -4,9 +4,7 @@ permalink: /departments/CCE/Photo-Gallery-on-CCE-programmes/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.jpg)
-
-Photo Gallery on CCE programmes 
+Information
 ================================
 
 ![](/images/CCE.gif)
@@ -17,10 +15,7 @@ Photo Gallery on CCE programmes 
   
 
 **Making of Bookmarks**
-
-  
-
-During the CCE lessons, pupils from the various Mother Tongue Languages (MTL) and Non-Mother Tongue (NMT) classes were involved in the designing and colouring of paper bookmarks meant for the incoming juniors and invited guests.
+<br>During the CCE lessons, pupils from the various Mother Tongue Languages (MTL) and Non-Mother Tongue (NMT) classes were involved in the designing and colouring of paper bookmarks meant for the incoming juniors and invited guests.
 
   
 
@@ -29,10 +24,7 @@ During the CCE lessons, pupils from the various Mother Tongue Languages (MTL) an
   
 
 **Distribution of Mandarin Oranges**
-
-  
-
-On 12 and 13 February, pupils from the Non-Mother Tongue (NMT) class championed the packing of mandarin oranges into bags while the various Mother Tongue Language (MTL) classes went about the distribution of these ‘bags of love’ during the Mother tongue periods on 16 February.
+<br>On 12 and 13 February, pupils from the Non-Mother Tongue (NMT) class championed the packing of mandarin oranges into bags while the various Mother Tongue Language (MTL) classes went about the distribution of these ‘bags of love’ during the Mother tongue periods on 16 February.
 
   
 
@@ -45,10 +37,7 @@ On 12 and 13 February, pupils from the Non-Mother Tongue (NMT) class championed 
   
 
 **Visit to St. Luke’s Eldercare (Serangoon)**
-
-  
-
-In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-Mother Tongue (NMT) classes were rostered to visit our community partner – St Luke’s Eldercare (Serangoon).
+<br>In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-Mother Tongue (NMT) classes were rostered to visit our community partner – St Luke’s Eldercare (Serangoon).
 
   
 
@@ -61,10 +50,7 @@ In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-
   
 
 **by Singapore Kindness Movement (SKM)**
-
-  
-
-Our school is participating in the Friend of Singa (FOS) project this year, with the aim of encouraging Zhonghuarians to be kind and considerate, as well as influence and raise the standards of behaviour and responsibility.
+<br>Our school is participating in the Friend of Singa (FOS) project this year, with the aim of encouraging Zhonghuarians to be kind and considerate, as well as influence and raise the standards of behaviour and responsibility.
 
   
 
