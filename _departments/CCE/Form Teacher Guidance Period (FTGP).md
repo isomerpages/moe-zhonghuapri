@@ -4,9 +4,7 @@ permalink: /departments/CCE/Form-Teacher-Guidance-Period-FTGP/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.jpg)
-
-Form Teacher Guidance Period (FTGP)
+Information
 ===================================
 
 The FTGP was introduced to all primary schools in 2010, in alignment with recommendations by the Primary Education Review and Implementation (PERI) committee. The central idea and purpose behind FTGP is to provide time within curriculum for form teachers to have quality interactions with their pupils and for them to help pupils strengthen social and emotional competencies. During FTGP, games and play-based activities between the Form teacher, Co Form teacher and his/her pupils will help to build a safe classroom environment and enhance bonding.
