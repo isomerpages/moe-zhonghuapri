@@ -3,9 +3,7 @@ title: PSLE infosheet
 permalink: /for-parent/PSLE-infosheet/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-PSLE infosheet
+Information
 ==============
 
 ![](/images/PSLE%202021.png)
