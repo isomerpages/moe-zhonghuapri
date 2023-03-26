@@ -3,9 +3,7 @@ title: 2022 Booklists
 permalink: /for-parent/2022-Booklists/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-2022 Booklists
+Information
 ==============
 
 [2022 Booklists Primary 1.pdf](/files/2022%20Booklists%20Primary%201.pdf)
