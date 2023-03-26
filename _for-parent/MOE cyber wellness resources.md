@@ -3,9 +3,7 @@ title: MOE cyber wellness resources
 permalink: /for-parent/MOE-cyberwellness-resources/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-MOE cyber wellness resources
+Information
 ============================
 
 **What is Cyber Wellness?**  
@@ -20,17 +18,12 @@ Let's learn to be safe and smart digital users together!
 
 <img src="/images/Cyber.png" style="width:70%">
 
-[Ways To Spot Fake News.pdf](/files/Ways%20To%20Spot%20Fake%20News.pdf)
 
-Media Wise Youth Guide - A Smart Guide For Youths.pdf (Note: file exceeds 5MB)
+[Ways To Spot Fake News.pdf](https://zhonghuapri.moe.edu.sg/qql/slot/u610/Cyberwellness/Ways%20To%20Spot%20Fake%20News.pdf)  
+[Meaning and Forms of Fake News.pdf](https://zhonghuapri.moe.edu.sg/qql/slot/u610/Cyberwellness/Meaning%20and%20Forms%20of%20Fake%20News.pdf)  
+**  
+More helpful resources can be found here:  
+**  
+  
 
-
-[Meaning and Forms of Fake News.pdf](/files/Meaning%20and%20Forms%20of%20Fake%20News.pdf)
-
-**More helpful resources can be found here:**    
-
-
-1.  [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
-2.  [https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)
-
-Note: Both Helpful resources links are broken. 
+1.  [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
