@@ -3,12 +3,10 @@ title: PSLE new scoring system
 permalink: /for-parent/PSLE-new-scoring-system/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-PSLE new scoring system
+Information
 =======================
 
-★ Changes to the PSLE Scoring and Secondary One Posting ★
+**★ Changes to the PSLE Scoring and Secondary One Posting ★**
 
 Changes to the PSLE Scoring and S1 Posting will be made as part of a larger shift to nurture well-rounded individuals and move away from an over-emphasis on academic results. To be implemented starting from the 2021 PSLE cohort, the changes aim to:
 
@@ -20,4 +18,4 @@ Changes to the PSLE Scoring and S1 Posting will be made as part of a larger shif
 
 More details here: [http://www.moe.gov.sg/PSLE](http://www.moe.gov.sg/PSLE)
 
-Note: PSLE new scoring system details link is broken. 
+Note: PSLE new scoring system details link is broken.
