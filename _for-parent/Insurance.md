@@ -3,9 +3,7 @@ title: Insurance
 permalink: /for-parent/Insurance/
 description: ""
 ---
-![](/images/Banner.jpg)
-
-Insurance
+Information
 =========
 
-Click [Product fact Sheet](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) for Year 2022 and [User Guide](/files/User%20Guide%20for%20parents%20for%20submission.pdf) for submission.
+Click [Product fact Sheet](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/Product%20Fact%20Sheet%20Year%202023.pdf) for Year 2023 and [User Guide](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2022/User%20Guide%20for%20parents%20for%20submission.pdf) for submission.
