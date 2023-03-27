@@ -3,9 +3,9 @@ title: Our School Rules
 permalink: /for-parent/Our-School-Rules/
 description: ""
 ---
-Information
+Message
 ================
-## **Our School Rules**
+
 
 **1\. School Attire and Appearance**
 
