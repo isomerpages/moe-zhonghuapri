@@ -36,14 +36,3 @@ Information
 [2023 Booklist for Primary 6 Standard - pg 1](/files/Copy%20of%202023%20Booklists%20Primary%201-6%20%20Final%20041122-15.pdf)
 
 [2023 Booklist for Primary 6 Standard - pg 2](/files/Copy%20of%202023%20Booklists%20Primary%201-6%20%20Final%20041122-16.pdf)
-
-
-
-
-
-
-
-
-
-
-
