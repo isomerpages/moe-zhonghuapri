@@ -16,9 +16,7 @@ Register [online](https://go.gov.sg/zpszest) now or you may approach our Gener
 
 
 
-**Alumni Registration**
+**For Alumni**
+<br>Kindly [click](https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform) here to register.
 
-Kindly [click](https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform) here to register.
 
-
-[Alumni Registration](https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform)
