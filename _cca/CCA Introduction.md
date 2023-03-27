@@ -30,6 +30,6 @@ CCA Policy in ZPS
 7.       If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
 
 8.       A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
-<br>Mr Azman @ azman\_mohamed\_hamzah@moe.edu.sg 
+<br>Mr Azman @ azman_mohamed_hamzah@moe.edu.sg 
 <br>(For Sports/Clubs/Uniformed Group CCAs) or                
-<br>Mr Tang Qisheng @ tang\_qisheng@moe.edu.sg <br>(For Performing Arts CCAs).
+<br>Mr Tang Qisheng @ tang_qisheng@moe.edu.sg <br>(For Performing Arts CCAs).
