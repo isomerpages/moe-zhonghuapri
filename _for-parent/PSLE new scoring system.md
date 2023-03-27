@@ -3,7 +3,7 @@ title: PSLE new scoring system
 permalink: /for-parent/PSLE-new-scoring-system/
 description: ""
 ---
-Information
+Message
 =======================
 
 **★ Changes to the PSLE Scoring and Secondary One Posting ★**
