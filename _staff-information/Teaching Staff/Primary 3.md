@@ -1,0 +1,29 @@
+---
+title: Primary 3
+permalink: /teaching-staff/primary-3/
+description: ""
+third_nav_title: Teaching Staff
+---
+
+Form Teachers
+=======================
+<table border="0" cellpadding="0" cellspacing="0" width="757" style="border-collapse:
+ collapse;width:569pt"><colgroup><col width="39" style="mso-width-source:userset;mso-width-alt:1426;width:29pt"> <col width="122" style="mso-width-source:userset;mso-width-alt:4461;width:92pt"> <col width="298" style="mso-width-source:userset;mso-width-alt:10898;width:224pt"> <col width="64" span="2" style="width:48pt"> <col width="64" style="width:48pt"> <col width="96" style="mso-width-source:userset;mso-width-alt:3510;width:72pt"> <col width="10" style="mso-width-source:userset;mso-width-alt:365;width:8pt"></colgroup><tbody><tr height="6" style="mso-height-source:userset;height:4.5pt"><td height="6" class="xl65" width="39" style="height:4.5pt;width:29pt"><a name="RANGE!D30:K42"></a></td><td width="122" style="width:92pt"></td><td width="298" style="width:224pt"></td><td width="64" style="width:48pt"></td><td width="64" style="width:48pt"></td><td width="64" style="width:48pt"></td><td width="96" style="width:72pt"></td><td width="10" style="width:8pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl73" width="39" style="height:15.75pt;width:29pt">No</td><td class="xl72" width="122" style="border-left:none;width:92pt">Class</td><td class="xl72" width="298" style="border-left:none;width:224pt">Name of Form Teacher</td><td colspan="4" class="xl70" style="border-left:none">Email Address</td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>1</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
+<br>P3 Care</td><td class="xl69" style="border-top:none">Mr Benny Lau Mun Yip</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><span style="mso-bookmark:OLE_LINK2"><a href="mailto:lau_mun_yip_benny@moe.edu.sg&nbsp;">lau_mun_yip_benny@moe.edu.sg&nbsp;</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt;border-top:none">Mdm Hsu Hui-Chien</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-bookmark:
+  OLE_LINK1"><a href="mailto:hsu_hui-chien@moe.edu.sg">hsu_hui-chien@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>2</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
+<br>P3 Diligence</td><td class="xl69" style="border-top:none">Mdm Junainah Bte Mohamed Eusuff</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:junainah_mohamed_eusuff@moe.edu.sg">junainah_mohamed_eusuff@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt;border-top:none">Mrs Yeh - Shirleywijaya, Ng Ai Li</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:ng_ai_li_shirleywijaya@moe.edu.sg">ng_ai_li_shirleywijaya@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>3</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
+<br>P3 Discipline</td><td class="xl69" style="border-top:none">Mr Zurairi Bin Samsuddin</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:zurairi_samsuddin@moe.edu.sg">zurairi_samsuddin@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt;border-top:none">Ms Nurul Hafiqa Binte Osman</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:nurul_hafiqa_osman@moe.edu.sg">nurul_hafiqa_osman@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>4</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
+<br>P3 Harmony</td><td class="xl69" style="border-top:none">Mr Chong Nai Shun</td><td colspan="4" class="xl77" width="288" style="border-left:none;width:216pt"><a href="mailto:nelson_chong@moe.edu.sg&nbsp;">nelson_chong@moe.edu.sg&nbsp;</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt;border-top:none">Mdm Farida Bte Mohd Abdul Kader</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:farida_kader@moe.edu.sg">farida_kader@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>5</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
+<br>P3 Integrity</td><td class="xl69" style="border-top:none">Mr Ang Wei Wen Justin</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:ang_wei_wen_justin@moe.edu.sg">ang_wei_wen_justin@moe.edu.sg</a></span></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt;border-top:none">Lim Lee Fong (Mrs Chan Hong Wei)</td><td colspan="4" class="xl74" style="border-left:none"><span style="mso-color-alt:
+  windowtext"><a href="mailto:lim_lee_fong@moe.edu.sg">lim_lee_fong@moe.edu.sg</a></span></td><td></td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl65" style="height:6.75pt"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
