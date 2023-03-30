@@ -45,11 +45,4 @@ links:
   - title: CCA
     collection: cca
   - title: The Zhonghua Experience
-    url: /thezhonghuaexperience
-    sublinks:
-      - title: Lower Primary
-        url: /thezhonghuaexperience/lowerprimary
-      - title: Middle Primary
-        url: /thezhonghuaexperience/middleprimary
-      - title: Upper Primary
-        url: /thezhonghuaexperience/upperprimary
+    collection: the-zhonghua-experience
