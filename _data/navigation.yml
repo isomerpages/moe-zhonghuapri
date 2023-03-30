@@ -44,20 +44,3 @@ links:
     collection: for-parent
   - title: CCA
     collection: cca
-  - title: "ZHPS "
-    url: /zhps/Search/
-    sublinks:
-      - title: Search
-        url: /zhps/Search/
-      - title: Quicklinks
-        url: /quicklinks/Quicklinks/
-      - title: News & Announcements
-        url: /ZHPS/News-and-Announcements/News-and-Announcements/
-      - title: For Teacher
-        url: /zhps/For-Teacher/
-      - title: Privacy Statement
-        url: /zhps/Privacy-Statement/
-      - title: Banners
-        url: /zhps/Banners/
-      - title: Report Vulnerability
-        url: /zhps/Report-Vulnerability/
