@@ -17,8 +17,8 @@ links:
         url: /staff-information/Staff-Information/
   - title: Niche Programme
     collection: niche-programme
-  - title: The Zhonghua Experience
-    url: /thezhonghuaexperience
+  - title: Departments
+    url: /departments
     sublinks:
       - title: English Language
         url: /departments/English-Language/
