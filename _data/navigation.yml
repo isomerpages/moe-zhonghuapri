@@ -18,7 +18,7 @@ links:
   - title: Niche Programme
     collection: niche-programme
   - title: Departments
-    url: /departments
+    url: /departments/English-Language/
     sublinks:
       - title: English Language
         url: /departments/English-Language/
