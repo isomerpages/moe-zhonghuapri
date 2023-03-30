@@ -2,7 +2,7 @@ title: Zhonghua Primary School
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#43e8d8"
+  primary-color: "#40e0d0"
   secondary-color: "#b6b9b6"
   media-colors:
     - title: media-color-one
@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#43e8d8"
+      color: "#40e0d0"
     - title: media-color-four
-      color: "#43e8d8"
+      color: "#40e0d0"
     - title: media-color-five
-      color: "#43e8d8"
+      color: "#40e0d0"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
