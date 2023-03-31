@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - ZEST Sign Up!.md
       - 2023 Booklists.md
       - Our School Rules.md
       - Notes To Parents & Guardians.md
