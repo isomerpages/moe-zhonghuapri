@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - Notes To Parents & Guardians.md
       - National Exam Timetable for 2023.md
       - Collection of Data.md
       - HBL.md
