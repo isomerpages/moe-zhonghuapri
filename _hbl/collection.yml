@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - Publicity Video for Social Studies.md
       - Easy Snacks for Break Time!.md
       - PSLE new scoring system.md
       - ZEST Sign Up!.md
