@@ -3,5 +3,4 @@ title: Lower Primary
 permalink: /the-zhonghua-experience/lowerprimary/
 description: ""
 ---
-This is for Lower Primary
-
+![](/images/image%20with%20gif%20-%201.gif)This is for Lower Primary
