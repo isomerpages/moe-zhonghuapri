@@ -1,5 +1,5 @@
 collections:
-  hbl:
+  holding-folder:
     output: true
     order:
       - Insurance.md
