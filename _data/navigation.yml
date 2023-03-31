@@ -38,11 +38,11 @@ links:
         url: /departments/CCE/Character-and-Citizenship-Education/
       - title: Physical Education
         url: /departments/Physical-Education/
-  - title: Contact Us
-    collection: contact-us
   - title: For Parents
     collection: for-parent
   - title: CCA
     collection: cca
+  - title: Contact Us
+    collection: contact-us
   - title: The Zhonghua Experience
     collection: the-zhonghua-experience
