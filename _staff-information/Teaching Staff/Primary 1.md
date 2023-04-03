@@ -4,7 +4,6 @@ permalink: /teaching-staff/primary-1/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
 Form Teachers
 =======================
 <table border="0" cellpadding="0" cellspacing="0" width="757" style="border-collapse:
@@ -14,12 +13,8 @@ Form Teachers
 <br>2</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
 <br>P1 Diligence</td><td class="xl68" style="border-top:none">Mdm Foo Yun Xi Hannah</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:foo_yun_xi_hannah@moe.edu.sg">foo_yun_xi_hannah@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Mdm Mageswari Kanapathy</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:mageswari_kanapathy@moe.edu.sg">mageswari_kanapathy@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
 <br>3</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
-<br>P1 Discipline</td><td class="xl68" style="border-top:none">Mdm Suriana Bte Samat</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:suriana_samat@moe.edu.sg&nbsp;">suriana_samat@moe.edu.sg&nbsp;</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Mdm Feng Yijun</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:feng_yijun@moe.edu.sg">feng_yijun@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
+<br>P1 Discipline</td><td class="xl68" style="border-top:none">Mdm Suriana Bte Samat</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:suriana_samat@moe.edu.sg">suriana_samat@moe.edu.sg&nbsp;</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Mdm Feng Yijun</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:feng_yijun@moe.edu.sg">feng_yijun@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
 <br>4</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
 <br>P1 Harmony</td><td class="xl68" style="border-top:none">Ms Sandra Wang Chai Lin</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:sandra_wang_chai_lin@moe.edu.sg">sandra_wang_chai_lin@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Mr Muhammad Firdaus Bin Amir</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:Muhammad_firdaus_Amir@moe.edu.sg">muhammad_firdaus_amir@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td rowspan="2" height="42" class="xl66" width="39" style="height:31.5pt;width:29pt">
 <br>5</td><td rowspan="2" class="xl67" width="122" style="width:92pt">
 <br>P1 Integrity</td><td class="xl68" style="border-top:none">Mdm Nuriah Bte Abdullah</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:nuriah_abdullah@moe.edu.sg">nuriah_abdullah@moe.edu.sg</a></td><td></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt;border-top:none">Ms Chong Hui Min Constance</td><td colspan="4" class="xl75" width="288" style="border-left:none;width:216pt"><a href="mailto:chong_hui_min_constance@moe.edu.sg">chong_hui_min_constance@moe.edu.sg</a></td><td></td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl65" style="height:6.75pt"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-
-
-
