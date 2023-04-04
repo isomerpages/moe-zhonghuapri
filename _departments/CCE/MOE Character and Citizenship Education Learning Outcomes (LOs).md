@@ -4,9 +4,8 @@ permalink: /departments/CCE/MOE-Character-and-Citizenship-Education-Learning-Out
 description: ""
 third_nav_title: CCE
 ---
-Information
-===============================================================
-The Learning Outcomes (LOs) of CCE state what we want our students to learn and attain. The CCE core values are embedded in the 8 LOs. LOs 1 to 4 depict different aspects of character building that are interrelated and feature social and emotional competencies. LOs 5 to 8 are guided by key tenants of 21st century citizenship and arranged according to attributes of citizenship such as identity, culture, and active, responsible engagement as a member of society.
+**Information**
+<br>The Learning Outcomes (LOs) of CCE state what we want our students to learn and attain. The CCE core values are embedded in the 8 LOs. LOs 1 to 4 depict different aspects of character building that are interrelated and feature social and emotional competencies. LOs 5 to 8 are guided by key tenants of 21st century citizenship and arranged according to attributes of citizenship such as identity, culture, and active, responsible engagement as a member of society.
 
 <table border="0" cellpadding="0" cellspacing="0" width="640" style="border-collapse:
  collapse;width:480pt"><colgroup><col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"> <col width="495" style="mso-width-source:userset;mso-width-alt:18102;width:371pt"></colgroup><tbody><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" width="145" style="height:3.75pt;width:109pt"><a name="RANGE!F3:G13"></a></td><td width="495" style="width:371pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl64" style="height:15.75pt"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Learning Outcome</span></td><td class="xl67" style="border-left:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Description</span></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
