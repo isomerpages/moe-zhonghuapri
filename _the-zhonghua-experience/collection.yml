@@ -2,5 +2,4 @@ collections:
   the-zhonghua-experience:
     output: true
     order:
-      - Pic sizes   testing/.keep
       - Lower Primary.md
