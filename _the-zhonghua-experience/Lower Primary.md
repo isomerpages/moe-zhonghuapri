@@ -16,5 +16,4 @@ P1 & P2 Fun with Math Day
 
 ![](/images/image%202.jpeg)
 
-
-
+![](/images/image%203.jpeg)
