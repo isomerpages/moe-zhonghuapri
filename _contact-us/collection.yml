@@ -2,4 +2,4 @@ collections:
   contact-us:
     output: true
     order:
-      - School Administration Matter.md
+      - School Administration & Operational Matter.md
