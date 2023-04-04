@@ -15,20 +15,18 @@ description: ""
 
 6.            Mdm Ho We Ling
 
-7.            Ms Heng Shi Ming Verrie
+7.            Dr Tan Ai Ling Kelly
 
-8.            Dr Tan Ai Ling Kelly
+8.            Dr Yeo Eng Guan
 
-9.            Dr Yeo Eng Guan
+9.          Mr Christopher Lim Hong Jim
 
-10.          Mr Christopher Lim Hong Jim
+10.          Mr Ng Zizhang
 
-11.          Mr Ng Zizhang
+11.          Mr Jameson Teh Pei Yuan
 
-12.          Mr Jameson Teh Pei Yuan
+12.          Mr Yeap Chin Lee
 
-13.          Mr Yeap Chin Lee
+13.          Mdm Lum Yuen Mei
 
-14.          Mdm Lum Yuen Mei
-
-15.          Mr Yap Jun Weng
+14.          Mr Yap Jun Weng
