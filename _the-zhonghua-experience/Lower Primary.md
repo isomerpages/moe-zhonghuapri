@@ -3,4 +3,12 @@ title: Lower Primary
 permalink: /the-zhonghua-experience/lowerprimary/
 description: ""
 ---
-![](/images/image%20with%20gif%20-%201.gif)This is for Lower Primary
+
+Key experiences would be OLE and PAL activities
+
+P1 orientation (First day of school for P1s)
+
+Shining Stars
+
+P1 & P2 Fun with Math Day
+
