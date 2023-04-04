@@ -14,6 +14,4 @@ Joining ZEST is a commitment from parents to be actively involved in their child
 Register [online](https://form.gov.sg/63f724efcc10f10013996ea6)
 now or you may approach our General Office staff for an application form.
 
-<br>https://go.gov.sg/zest-video<br><br>end<br>
-
-
+https://go.gov.sg/zest-video
