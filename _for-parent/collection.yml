@@ -2,9 +2,9 @@ collections:
   for-parent:
     output: true
     order:
+      - Useful Information.md
+      - Notes To Parents & Guardians.md
+      - MOE cyber wellness resources.md
+      - MOE Sexuality Education Programme.md
       - ZEST Sign Up!.md
       - Insurance.md
-      - Notes To Parents & Guardians.md
-      - MOE Sexuality Education Programme.md
-      - MOE cyber wellness resources.md
-      - Useful Information.md
