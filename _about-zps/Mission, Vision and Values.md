@@ -30,4 +30,3 @@ The colour turquoise represents vibrant youth.
 
 **School Values**
 <br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony, Resilience.
-
