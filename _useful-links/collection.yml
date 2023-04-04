@@ -1,5 +1,5 @@
 collections:
-  for-parent:
+  useful-links:
     output: true
     order:
       - Useful Information.md
