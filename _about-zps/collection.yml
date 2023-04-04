@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Virtual Tour/.keep
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School History.md
