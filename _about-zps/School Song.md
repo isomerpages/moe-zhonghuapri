@@ -9,6 +9,8 @@ description: ""
 
 Note: school requires own Youtube/Vimeo to upload School Song audio
 
+[Zhonghua Primary School Song](https://www.youtube.com/watch?v=rUmt70xGtvA)
+
 When nineteen eighty-seven dawned,
 
 The torch of Zhonghua was first shone;
