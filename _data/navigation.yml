@@ -17,6 +17,8 @@ links:
         url: /staff-information/Staff-Information/
   - title: Niche Programme
     collection: niche-programme
+  - title: The Zhonghua Experience
+    collection: the-zhonghua-experience
   - title: Departments
     url: /departments/English-Language/
     sublinks:
@@ -38,11 +40,9 @@ links:
         url: /departments/CCE/Character-and-Citizenship-Education/
       - title: Physical Education
         url: /departments/Physical-Education/
-  - title: Useful Links
-    collection: useful-links
   - title: CCA
     collection: cca
   - title: Contact Us
     collection: contact-us
-  - title: The Zhonghua Experience
-    collection: the-zhonghua-experience
+  - title: Useful Links
+    collection: useful-links
