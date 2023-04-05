@@ -28,7 +28,12 @@ CCAs will commence in January 2023 and run till Nov 2023.
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
 
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to Mr Azman @ azman\_mohamed\_hamzah@moe.edu.sg (For Sports/Clubs/Uniformed Group CCAs) or Mr Tang Qisheng @ tang\_qisheng@moe.edu.sg (For Performing Arts CCAs).
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
+<br>Mr Azman @ azman_mohamed_hamzah@moe.edu.sg 
+<br>(For Sports/Clubs/Uniformed Group CCAs) or
+<br>Mr Tang Qisheng @
+tang_qisheng@moe.edu.sg 
+<br>(For Performing Arts CCAs).
 
 
 
@@ -148,3 +153,6 @@ CCAs will commence in January 2023 and run till Nov 2023.
 <br></span>Mr Benny Lau Mun Yip</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl70" style="height:15.75pt;border-top:none">Main Contact: mageswari_kanapathy@moe.edu.sg</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl72" width="565" style="height:30.75pt;border-top:none;
   width:424pt">CCA Schedule<span style="mso-spacerun:yes">
 <br></span>Tuesday 2.00 – 4.00<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr height="12" style="mso-height-source:userset;height:9.0pt"><td height="12" class="xl65" style="height:9.0pt"></td><td class="xl67"></td></tr></tbody></table>
+
+
+
