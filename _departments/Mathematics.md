@@ -3,11 +3,9 @@ title: Mathematics
 permalink: /departments/Mathematics/
 description: ""
 ---
-**Welcome to our Zhonghua Mathematics Department**
+### **Signature Programmes:**
 
-**Signature Programmes:**
-
-1) Fun with Mathematics
+1)&nbsp;Fun with Mathematics
 
 This programme aims to make learning of Mathematics joyful and relevant to their everyday life by providing them with meaningful learning experiences.
 
@@ -30,17 +28,16 @@ This programme aims to make learning of Mathematics joyful and relevant to their
   overflow-wrap: break-word">Fun with Math: Ratio</td><td></td></tr><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" style="height:6.0pt"></td><td></td><td></td></tr></tbody></table>
 	
 
-2) Learning Support for Mathematics (LSM) programme for Primary 1 to 2
+2)&nbsp;Learning Support for Mathematics (LSM) programme for Primary 1 to 2
 
 **Early Success. Strong Basics. Steady Progress**
 
-Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.
+Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.
 
-3) Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4
+3)&nbsp;Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4
 
-ICAN aims to provide more support for Primary 3 and Primary 4 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among  the pupils.
+ICAN aims to provide more support for Primary&nbsp;3 and Primary 4 pupils with weak numeracy skills.&nbsp;The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among&nbsp; the pupils.
 
-4) Family Mathematics
+4)&nbsp;Family Mathematics
 
-This programme aims to build factual fluency among our pupils through bonding activities with their family members. Pupils bring cards and board games home to play with their family members and learn Mathematics in a joyful way.
-
+This programme aims to build factual fluency among our pupils through bonding activities with their family members.&nbsp;Pupils bring cards and board games home to play with their family members and learn Mathematics in a joyful way.
