@@ -5,8 +5,8 @@ description: ""
 ---
 ![](/images/P%20Photo%202022-h280.jpg)
 
-<center>Zhonghua Primary:</center>
-A Forward-looking School, Preparing Future-ready Students
+**<center>Zhonghua Primary:
+A Forward-looking School, Preparing Future-ready Students</center>**
 
 A lot has been said lately about preparing our students for the future. Our Minister for Education, Mr Chan Chun Sing, in his message to schools in 2022 has also reiterated that it is not enough to prepare our children for just the first 15 years of their education, it is even more important to look at the next 50 years and to ensure they continue learning and be equipped for the future.
 
@@ -19,5 +19,4 @@ These same lessons on preparing for the VUCA world are emphasized in our school 
 Our teachers are key to the development of these dispositions in our student and the school continues to invest in building their capacity and supporting their growth within and beyond the school so that together we can all rally behind MOE’s call for us at Zhonghua Primary to build a Forward-looking School and Future-ready Students.
 
 **Mdm Rostinah Mohamad Said**
-
-**Principal**
+<br>**Principal**
