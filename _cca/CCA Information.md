@@ -153,11 +153,3 @@ tang_qisheng@moe.edu.sg
 <br></span>Mr Benny Lau Mun Yip</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl70" style="height:15.75pt;border-top:none">Main Contact: mageswari_kanapathy@moe.edu.sg</td></tr><tr height="41" style="height:30.75pt"><td height="41" class="xl72" width="565" style="height:30.75pt;border-top:none;
   width:424pt">CCA Schedule<span style="mso-spacerun:yes">
 <br></span>Tuesday 2.00 – 4.00<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr height="12" style="mso-height-source:userset;height:9.0pt"><td height="12" class="xl65" style="height:9.0pt"></td><td class="xl67"></td></tr></tbody></table>
-
-
-
-	
-	
-
-	
-
