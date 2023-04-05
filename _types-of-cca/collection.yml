@@ -2,6 +2,7 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Malay Dance.md
       - Chinese Dance.md
       - Choir.md
       - Recreational Badminton.md
