@@ -14,6 +14,3 @@ description: ""
 ![pic (450 X 720)](/images/picture%20(450%20×%20720%20px).png)
 
 ![pic (480 X 300)](/images/picture%20(480%20×%20300%20px).png)
-
-
-
