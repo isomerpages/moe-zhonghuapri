@@ -4,8 +4,8 @@ permalink: /departments/CCE/NationalEducation-NE/
 description: ""
 third_nav_title: CCE
 ---
-**Information**
-<br>**6 NE messages**
+### **Information**
+**6 NE messages**
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore is our homeland; this is where we belong.  
 (We treasure our heritage and take pride in shaping our own unique way of life)**
 
