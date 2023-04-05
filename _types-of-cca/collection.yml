@@ -2,5 +2,6 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Recreational Badminton.md
       - Football.md
       - Volleyball.md
