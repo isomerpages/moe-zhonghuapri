@@ -2,4 +2,5 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Football.md
       - Volleyball.md
