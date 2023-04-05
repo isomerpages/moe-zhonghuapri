@@ -2,6 +2,7 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Indian Dance.md
       - Malay Dance.md
       - Chinese Dance.md
       - Choir.md
