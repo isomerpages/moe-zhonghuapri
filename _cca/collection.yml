@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Volleyball.md
       - CCA Information.md
       - CCA Schedule for Semester 1 (2023).md
