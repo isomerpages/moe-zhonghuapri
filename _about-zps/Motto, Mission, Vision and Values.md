@@ -19,22 +19,14 @@ The letter "Z" and the wording will be turquoise and black respectively against 
 The colour turquoise represents vibrant youth.
 
 **Motto**
-<br>Diligence Before Success
+<br>Diligence Before Success.
 
-##### **Motto**<br>Diligence Before Success<br>
-
-**School Vision**
-<br>A Learner. A Thinker. A Leader.
-##### <center>**Zhonghua Primary: A Forward-looking School, Preparing Future-ready Students**</center>
+**Vision**
 <br>A Learner. A Thinker. A Leader.
 
-**School Mission**
-<br>Ignite Passion For Learning, Nurture Strength of Character.
-##### <center>**Zhonghua Primary: A Forward-looking School, Preparing Future-ready Students**</center>
+**Mission**
 <br>Ignite Passion For Learning, Nurture Strength of Character.
 
-**School Values**
+**Values**
 <br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony, Resilience.
 
-##### <center>**Zhonghua Primary: A Forward-looking School, Preparing Future-ready Students**</center>
-<br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony, Resilience.
