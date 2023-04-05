@@ -3,6 +3,44 @@ title: CCA Information
 permalink: /cca/permalink/
 description: ""
 ---
+### **CCA Programme in ZPS**
+CCA is an important part of our pupils’ holistic education. In ZPS, we offer a wide range of CCAs, catering to the varied interest and capabilities of our pupils. It is also our objective not only to teach them the CCA specific skills, but also to cultivate in our pupils the spirit of teamwork, integrity in their pursuit for excellence. Having the CCA experience with the other Zhonghuarians will also allow them to build camaraderie and desirable social behaviours.
+
+While CCA is not compulsory in Primary Schools, we strongly encourage our pupils to participate in a CCA. We strongly believe that CCAs are important platforms to inculcate good values in our pupils, as well as to develop them with competencies to adapt to the demands of the 21st century.
+
+**Timeframe for CCA Work Year 2023**
+
+CCAs will commence in January 2023 and run till Nov 2023.
+
+**CCA Policy in ZPS**
+
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA will be offered to all P3 to P6 pupils.
+
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The P3 CCA Recruitment will be conducted at the end of Term 1. Once allocated to a CCA, the P3 pupils will be attending their first CCA session in Term 2.
+
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each pupil in ZPS is only allowed to join one CCA per work year as CCA requires effort and commitment.
+
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pupil who has been successfully accepted to a CCA has to remain committed in that CCA until the end of the CCA work year (i.e. January 2023 to Nov 2023)
+
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All CCAs have an approximated number of 20 sessions for each work year with the exception of the Competitive Sports and Performing Arts CCAs which will have more.
+
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils who do not achieve 80% of CCA attendance without valid reasons will be de-registered as members of the CCA at the end of the work year.
+
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
+
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to Mr Azman @ azman\_mohamed\_hamzah@moe.edu.sg (For Sports/Clubs/Uniformed Group CCAs) or Mr Tang Qisheng @ tang\_qisheng@moe.edu.sg (For Performing Arts CCAs).
+
+
+
+
+
+
+
+
+
+
+
+
 <table border="0" cellpadding="0" cellspacing="0" width="605" style="border-collapse:
  collapse;width:454pt"><colgroup><col width="40" style="mso-width-source:userset;mso-width-alt:1462;width:30pt"> <col width="565" style="mso-width-source:userset;mso-width-alt:20662;width:424pt"></colgroup><tbody><tr height="10" style="mso-height-source:userset;height:7.5pt"><td height="10" class="xl65" width="40" style="height:7.5pt;width:30pt"><a name="RANGE!C2:D61"></a></td><td class="xl67" width="565" style="width:424pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt">No</td><td class="xl68" style="border-left:none">CCA&nbsp;&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td rowspan="6" height="372" class="xl65" style="height:279.0pt">1&nbsp;</td><td class="xl70" style="border-top:none">Volleyball</td></tr><tr height="87" style="mso-height-source:userset;height:65.25pt"><td height="87" class="xl71" width="565" style="height:65.25pt;border-top:none;
   width:424pt">ZPS Volleyball aims to cultivate values and attitudes in pupils like Perseverance, Team Spirit and Sportsmanship. We believe that the game of volleyball helps to improve the decision-making process within individuals. The improvement comes through as: One always needs to predict and read the minds of opposition players to act accordingly. It assists in boosting one’s intellect and allow them to make some very delicate impromptu decision.</td></tr><tr height="81" style="height:60.75pt"><td height="81" class="xl72" width="565" style="height:60.75pt;width:424pt">Programmes and Activities<span style="mso-spacerun:yes"></span>
@@ -18,7 +56,7 @@ description: ""
 <br>Tuesday 2.00 – 3.45 (School Team &amp; Recreational)<span style="mso-spacerun:yes"></span>
 <br>Thursday 3.30 – 5.00 (School Team Only)</td></tr><tr height="21" style="height:15.75pt"><td rowspan="6" height="550" class="xl65" style="height:412.5pt">&nbsp; 2 &nbsp;</td><td class="xl70" style="border-top:none">Football (School Team &amp; Recreational)</td></tr><tr height="165" style="mso-height-source:userset;height:123.75pt"><td height="165" class="xl72" width="565" style="height:123.75pt;border-top:none;
   width:424pt">ZPS Football shapes its members to become resilient by exposing them to challenging training routines and exposing them to many different competitions in the local football scene. Members build up physical and mental strength and in turn make improvements in their performance in the sport as well as their general health and fitness.<span style="mso-spacerun:yes">
-<br></span>The CCA Programme is designed to run over 20 sessions (Recreational CCA) and about 45 sessions (Junior & Senior School Teams) per year. With this programme, the Football teachers’ in-charge and coaches will run the pupils through a series of planned activities designed to enhance their skills as well as improve coordination, fitness and enjoyment of the game of football.</td></tr><tr height="201" style="height:150.75pt"><td height="201" class="xl72" width="565" style="height:150.75pt;border-top:none;
+<br></span>The CCA Programme is designed to run over 20 sessions (Recreational CCA) and about 45 sessions (Junior &amp; Senior School Teams) per year. With this programme, the Football teachers’ in-charge and coaches will run the pupils through a series of planned activities designed to enhance their skills as well as improve coordination, fitness and enjoyment of the game of football.</td></tr><tr height="201" style="height:150.75pt"><td height="201" class="xl72" width="565" style="height:150.75pt;border-top:none;
   width:424pt">Programmes and Activities<span style="mso-spacerun:yes">
 	<br></span>• Football tactics (theory &amp; practical)<span style="mso-spacerun:yes">
 	<br></span>• Basic and advanced footwork training<span style="mso-spacerun:yes">
