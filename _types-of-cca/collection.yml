@@ -2,6 +2,7 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Choir.md
       - Recreational Badminton.md
       - Football (School Team & Recreational).md
       - Volleyball.md
