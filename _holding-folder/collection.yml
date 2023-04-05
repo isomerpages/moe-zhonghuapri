@@ -2,6 +2,7 @@ collections:
   holding-folder:
     output: true
     order:
+      - Volleyball.md
       - CCA Introduction.md
       - Teaching Staff.md
       - Staff Information.md
