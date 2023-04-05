@@ -3,8 +3,7 @@ title: MOE Cyberwellness Resource
 permalink: /for-parent/moe-cyberwellness-resource/
 description: ""
 ---
-Information
-============================
+###  **Information**
 
 **What is Cyber Wellness?**  
   
