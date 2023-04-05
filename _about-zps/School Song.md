@@ -6,9 +6,9 @@ description: ""
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rUmt70xGtvA" height="315" width="560"></iframe>
 
 
-**Music: JJ de Souza**
 
-**Lyrics: Seah Lye Huat**
+**<center>Music: JJ de Souza**
+<br>**Lyrics: Seah Lye Huat</center>**
 
 
 When nineteen eighty-seven dawned,
