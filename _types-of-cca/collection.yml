@@ -2,6 +2,7 @@ collections:
   types-of-cca:
     output: true
     order:
+      - Scouts.md
       - Infocomm Technology Club.md
       - Art Club.md
       - Environment Science Club.md
