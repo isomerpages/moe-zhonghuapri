@@ -41,16 +41,16 @@ The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as f
  collapse;width:483pt" width="645" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7862;
  width:161pt" span="3" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:161pt" width="215" class="xl63" height="9"></td><td style="width:161pt" width="215" class="xl63"></td><td style="width:161pt" width="215" class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl63" height="20">Sports and Games</td><td class="xl63">Performing Arts</td><td class="xl63">Clubs and Uniformed Groups</td></tr><tr style="height:15.0pt;mso-yfti-irow:1" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-Volleyball</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Choir</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Environmental Science Club</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+[Volleyball](https://staging.dibz2r776ygiu.amplifyapp.com/cca/volleyball/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Choir](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/choir/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Environment Science Club](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/environment-science-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-Football</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Chinese Dance</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Art Club</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+[Football](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/football-school-team-recreational/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Chinese Dance](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/chinese-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Art Club](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/art-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-Recreational Badminton</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Malay Dance</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Infocomm Technology Club</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes" height="20"><td style="height:15.0pt" class="xl63" height="20"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Indian Dance</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-Scouts</span></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl63" height="8"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
+[Recreational Badminton](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/recreational-badminton/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Malay Dance](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/malay-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Infocomm Technology Club](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/infocomm-technology-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes" height="20"><td style="height:15.0pt" class="xl63" height="20"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Indian Dance](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/indian-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Scouts](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/scouts/)</span></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl63" height="8"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
