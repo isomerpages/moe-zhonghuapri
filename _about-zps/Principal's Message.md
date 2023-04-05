@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/P%20Photo%202022-h280.jpg)
 
-**Zhonghua Primary:**
-**A Forward-looking School, Preparing Future-ready Students**
+<center>Zhonghua Primary:</center>
+A Forward-looking School, Preparing Future-ready Students
 
 A lot has been said lately about preparing our students for the future. Our Minister for Education, Mr Chan Chun Sing, in his message to schools in 2022 has also reiterated that it is not enough to prepare our children for just the first 15 years of their education, it is even more important to look at the next 50 years and to ensure they continue learning and be equipped for the future.
 
-What will the next “50 years” be like? Some may envision flying cars, living on the moon, no more diseases…stuff that science fiction is made of.  But importantly, we should also ask what the economy will be like, what kind of work will our children be doing and how will people interact with one another. VUCA is the term very commonly used to describe this future: Volatile, Uncertain, Complex and Ambiguous.
+What will the next “50 years” be like? Some may envision flying cars, living on the moon, no more diseases…stuff that science fiction is made of.&nbsp; But importantly, we should also ask what the economy will be like, what kind of work will our children be doing and how will people interact with one another. VUCA is the term very commonly used to describe this future: Volatile, Uncertain, Complex and Ambiguous.
 
 We already had a taste of this VUCA future when we experienced the Covid-19 pandemic in 2020-2022 and the accompanying trials and tribulations that it brought about. Many valuable lessons could be drawn as we observed how Singapore and the world coped with the VUCA uncertainty of Covid-19. **Volatility** was countered with **Vision** and an action-oriented approach, **Uncertainty** was replaced with **Understanding** through perspective-taking and challenging assumptions. **Complexity** was changed to **Clarity** by breaking issues into parts and forming teams to deal with the parts in a flexible and creative manner. **Ambiguity** was substituted with **Agility** through taking an experimentation and innovation approach and firm decision-making by leaders.
 
