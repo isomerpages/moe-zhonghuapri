@@ -3,7 +3,7 @@ title: Parent Volunteers (ZEST)
 permalink: /for-parent/parent-volunteers-zest/
 description: ""
 ---
-**Zhonghua Educational Support Team (ZEST)**
+### **Zhonghua Educational Support Team (ZEST)**
 
 Zhonghua Educational Support Team (ZEST) that was established in February 1997 is a vital link in helping to promote a strong partnership between home and school.&nbsp;
 
