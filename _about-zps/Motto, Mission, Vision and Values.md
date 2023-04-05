@@ -21,7 +21,7 @@ The colour turquoise represents vibrant youth.
 **Motto**
 <br>Diligence Before Success
 
-##### **Motto**<br>Diligence Before Success
+**Motto**<br> Diligence Before Success<br>
 
 **School Vision**
 <br>A Learner. A Thinker. A Leader.
