@@ -4,9 +4,7 @@ permalink: /departments/CCE/School-Based-CCE/
 description: ""
 third_nav_title: CCE
 ---
-Information
-================
-
+### **Information**
 To promote ownership of CCE and to meet the needs of the students in each school, part of the CCE syllabus and programmes will be designed and implemented by schools. Schools will be provided curriculum time to deliver school-based CCE. School-based CCE could include activities or lessons on school values or assembly programmes related to CCE.
 
 **Values Talk by School Leaders**
