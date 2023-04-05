@@ -12,3 +12,5 @@ description: ""
 ![pic (480 X 300)](/images/picture%20(480%20×%20300%20px).png)
 
 ![pic (720 x 450)](/images/picture%20(720%20×%20450%20px).png)
+
+![new hero (1920 X 720)](/images/new%20hero%201920%20x%20720.png)
