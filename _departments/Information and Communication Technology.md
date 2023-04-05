@@ -3,7 +3,7 @@ title: Information and Communication Technology
 permalink: /departments/Information-and-Communication-Technology/
 description: ""
 ---
-**Coding and Making – Developing Digital Literacy in Our Pupils**
+### **Coding and Making – Developing Digital Literacy in Our Pupils**
 
 In 2020, MOE unveiled the National Digital Literacy Programme so that at different stages of their education journey, pupils will be able to acquire digital skills across four components in the “Find, Think, Apply, Create” framework.
 
