@@ -4,9 +4,7 @@ permalink: /departments/CCE/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: CCE
 ---
-**Information**
-
-**About ZPS CCE Department**
+### **About ZPS CCE Department**
 
 The goal of CCE is to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens. The desired outcomes of CCE are aligned to MOE’s Key Stages Outcomes (KSOs) and Desired Outcomes of Education (DOE).
 
