@@ -2,14 +2,14 @@ collections:
   types-of-cca:
     output: true
     order:
-      - Scouts.md
-      - Infocomm Technology Club.md
-      - Art Club.md
-      - Environment Science Club.md
-      - Indian Dance.md
-      - Malay Dance.md
-      - Chinese Dance.md
-      - Choir.md
-      - Recreational Badminton.md
-      - Football (School Team & Recreational).md
       - Volleyball.md
+      - Football (School Team & Recreational).md
+      - Recreational Badminton.md
+      - Choir.md
+      - Chinese Dance.md
+      - Malay Dance.md
+      - Indian Dance.md
+      - Environment Science Club.md
+      - Art Club.md
+      - Infocomm Technology Club.md
+      - Scouts.md
