@@ -52,8 +52,8 @@ description: ""
   2px">&nbsp;T1W10 / 7 March<span style="mso-spacerun:yes">
 <br></span>(Tuesday)</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;
   margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;CCA Session 5</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;
-  margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;</td></tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;
-  margin-right:0px;padding-bottom:0px;padding-top:0px"><td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;
+  margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;</td></tr><tr height="41" style="mso-height-source:userset;height:34.5pt;outline: 0px;
+  margin-right:0px;padding-bottom:0px;padding-top:0px"><td colspan="3" height="41" class="xl72" width="750" style="height:34.5pt;width:563pt;
   outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 <center>Term 1 Break (13 March – 21 March)</center></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
   0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;
