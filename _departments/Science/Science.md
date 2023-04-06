@@ -4,6 +4,7 @@ permalink: /departments/Science/Science/
 description: ""
 third_nav_title: Science
 ---
+### **Information**
 **Mission**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br>Engaged Learning through IDEAs
 <br>(Inquiry, Discovery, Exploration and Applications)
