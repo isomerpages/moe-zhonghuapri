@@ -3,7 +3,7 @@ title: Indian Dance
 permalink: /types-of-cca/indian-dance/
 description: ""
 ---
-![](/images/2023-cca-indian%20dance.png)
+![](/images/CCAs/cca-%20indian%20dance%202023.png)
 In our Indian Dance CCA, students from diverse ethnic background come together to learn various forms of folk and classical dances. Our experienced dance instructor and the CCA teachers guide our students during their practice sessions. This provides them the platform to showcase their talents. They get the opportunities to perform for the various occasions and events such as The Singapore Youth Festival, Prize Giving Day and Deepavali concert. Through this
 
 CCA, they will develop holistically and gain experience to the different cultures, boost their confidence and learn to work in harmony.
