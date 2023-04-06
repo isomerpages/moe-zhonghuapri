@@ -18,11 +18,11 @@ description: ""
 [TAMIL LANGUAGE PAGE](/departments/Mother-Tongue/Tamil-Language/)
 
 
-**Vision:**
+**Vision**
 <br>Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
 
 
-**Mission:**
+**Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
 
 **2017 PSLE NEW FORMAT**
