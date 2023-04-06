@@ -30,7 +30,7 @@ This programme aims to make learning of Mathematics joyful and relevant to their
 
 2)&nbsp;Learning Support for Mathematics (LSM) programme for Primary 1 to 2
 
-Early Success. Strong Basics. Steady Progress
+**Early Success. Strong Basics. Steady Progress**
 
 Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.
 
