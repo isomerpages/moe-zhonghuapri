@@ -39,13 +39,3 @@ Mock up- This takes place on the first day of school. The students will be intro
 [Insert] Submit suitable pictures and it will be presented here.
 
 [insert] A write up for the activity will be presented in this location.
-
-##### P1 PAL
-[Insert] Submit suitable pictures and it will be presented here.
-
-[insert] A write up for the activity will be presented in this location.
-
-
-![](/images/image%202.jpeg)
-
-![](/images/image%203.jpeg)
