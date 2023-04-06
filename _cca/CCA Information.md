@@ -9,8 +9,7 @@ CCA is an important part of our pupils’ holistic education. In ZPS, we offer a
 While CCA is not compulsory in Primary Schools, we strongly encourage our pupils to participate in a CCA. We strongly believe that CCAs are important platforms to inculcate good values in our pupils, as well as to develop them with competencies to adapt to the demands of the 21st century.
 
 **Timeframe for CCA Work Year 2023**
-
-CCAs will commence in January 2023 and run till Nov 2023.
+<br>CCAs will commence in January 2023 and run till Nov 2023.
 
 **CCA Policy in ZPS**
 
