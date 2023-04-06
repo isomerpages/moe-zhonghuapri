@@ -3,6 +3,8 @@ title: Lower Primary
 permalink: /the-zhonghua-experience/lowerprimary/
 description: ""
 ---
+### Learning Dispositions
+
 Learning dispositions are **positive behaviours and attitudes that are important for life-long learning.**
 
 In Zhonghua Primary, the lower primary will be nurtured to develop the following dispositions:
@@ -13,6 +15,10 @@ In Zhonghua Primary, the lower primary will be nurtured to develop the following
 | -------- | -------- | -------- |
 | Positive about learning and ready to try     | Being Curious and asks questions     | Able to care for self     || -------- | -------- | -------- |
 | Able to share views    | Able to accept changes     | Being considerate towards others    |
+
+### Programmes
+
+The lower primary programmes that help support the development of the dispositions are:
 
 ##### P1 orientation 
 ![](/images/Lower%20Primary%20Experience/p1-2%20orientation%202023.png)
