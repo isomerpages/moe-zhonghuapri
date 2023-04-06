@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-![](/images/P%20Photo%202022-h280.jpg)
+![](/images/madam%20rostinah%20high%20res.jpg)
 
 ### **<center>Zhonghua Primary: A Forward-looking School, Preparing Future-ready Students</center>**
 
