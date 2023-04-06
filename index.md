@@ -11,5 +11,5 @@ sections:
         - title: Quick Link
           description: For Parents
           url: https://www.moe.gov.sg/primary/curriculum
-      background: /images/new hero 1920 x 720.png
+      background: /images/hero page no filter gif 1920 x 720.gif
 ---
