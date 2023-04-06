@@ -9,6 +9,8 @@ description: ""
 
 ![](/images/960%20720%20picture.png)
 
+![](/images/picture1.jpg)
+
 
 Key experiences would be OLE and PAL activities
 
