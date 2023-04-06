@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /mother-tongue/Chinese-Language/
 description: ""
 ---
+### **Information**
 **愿景：**
 
 **学生有信心使用华语，并以华语和华族文化为豪。**
