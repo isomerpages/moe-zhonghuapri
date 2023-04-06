@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /departments/Aesthetics/
 description: ""
 ---
+### **Information**
 **Mission**
 <br>Instilling a lifelong appreciation for the Arts through an integrated and holistic aesthetics programme.
 
@@ -28,7 +29,7 @@ The Department’s objective is to develop a passion for the Arts in every Zhong
 
 
 
-Aesthetics Highlights
+**Aesthetics Highlights**
 
 ZARTs Fest
 
