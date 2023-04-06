@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /departments/Mathematics/
 description: ""
 ---
-### **Signature Programmes:**
+### **Signature Programmes**
 
 1)&nbsp;Fun with Mathematics
 
