@@ -3,11 +3,11 @@ title: Aesthetics
 permalink: /departments/Aesthetics/
 description: ""
 ---
-**Vision**
-<br>Developing individuals with a passion for the Arts.
-
 **Mission**
 <br>Instilling a lifelong appreciation for the Arts through an integrated and holistic aesthetics programme.
+
+**Vision**
+<br>Developing individuals with a passion for the Arts.
 
 The Department’s objective is to develop a passion for the Arts in every Zhonghuarian through an integrated and holistic aesthetics programme. Adopting the Thematic Approach, units of learning are designed based on broad themes, as defined below.
 
@@ -34,8 +34,6 @@ ZARTs Fest
 
 An annual aesthetics festival that is held over a week in Term 2/3. This week-long event showcases a myriad of aesthetics activities ranging from assembly performances to recess programmes for pupils to enjoy and take part in.
 
-TAP      
+TAP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 TAP, short for Talent Appreciation Programme aims to promote a vibrant aesthetics culture through visual and performing arts. Pupils are encouraged to showcase talents they might have, ranging from playing of instruments, dancing, singing, acting, poem recitations and even the unique talent of performing tricks with the yoyo.
-
-
