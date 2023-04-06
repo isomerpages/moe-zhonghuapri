@@ -4,7 +4,8 @@ permalink: /departments/Science/Assessment-and-Review/
 description: ""
 third_nav_title: Science
 ---
-The school uses AoL and AfL to assess pupils’ learning.
+### **Information**
+<br>The school uses AoL and AfL to assess pupils’ learning.
 
 The school will decide on the modes of summative assessment
 
