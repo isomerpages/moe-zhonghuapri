@@ -3,7 +3,7 @@ title: Chinese Dance
 permalink: /types-of-cca/chinese-dance/
 description: ""
 ---
-![](/images/2023-cca-chinese%20dance.png)
+![](/images/CCAs/cca-%20chinese%20dance%202023.png)
 ZPS Chinese Dance CCA aims to lead pupils to enjoy the process of dancing, to increase their confidence and to showcase their dancing talents. At ZPS Chinese Dance CCA, pupils learn the basic and advanced techniques of Chinese dance, the proper posture for the stage, and finally present and create their own dance steps. Pupils have the opportunity to perform on stage during Chinese New Year Celebration and Prize Giving Day, as well as outside the school for Singapore Youth Festival (SYF) and other performances and competitions. We hope that our children will not only acquire dance skills, but also develop a spirit of diligence and perseverance in their character development when participating in Chinese Dance CCA.
 
 **Teachers-In-Charge**
