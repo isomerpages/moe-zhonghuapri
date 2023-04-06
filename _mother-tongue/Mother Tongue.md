@@ -18,6 +18,7 @@ description: ""
 [TAMIL LANGUAGE PAGE](/departments/Mother-Tongue/Tamil-Language/)
 
 
+
 **Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
 
