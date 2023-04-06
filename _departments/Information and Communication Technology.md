@@ -9,7 +9,7 @@ In 2020, MOE unveiled the National Digital Literacy Programme so that at differe
 
 In line with the national development pathway, the school has a systemic approach to develop computational thinking in our pupils through coding and making.
 
-Computational Skills
+**Computational Skills**
 
 The intent of coding is to develop computational thinking in our pupils starting from Primary 1. The programme spiral upwards and develop pupils progressively in this higher order thinking competencies. Computational thinking includes elements such as:
 
