@@ -25,7 +25,7 @@ The lower primary programmes that help support the development of the dispositio
 
 Mock up- This takes place on the first day of school. The students will be introduced to their classrooms and spend quality time getting to know their new classmates. They will also set personal goals for the year ahead. The P4 Zhonghuarians will take care of their new P1 Zhonghuarians buddies for 2 weeks! 
 
-##### Shining Stars
+**##### Shining Stars**
 [Insert] Submit suitable pictures and it will be presented here.
 
 [insert] A write up for the activity will be presented in this location.
