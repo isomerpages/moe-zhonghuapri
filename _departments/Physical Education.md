@@ -11,28 +11,28 @@ description: ""
 <br>For every Zhonghuarian Pupil to be nurtured into an active and physically competent individual. 
 
 
-**ASPIRATION**
+ASPIRATION
 
 ![](/images/PE-Pic%201.png)
 
 
 
-**CURRICULUM PLAN**
+CURRICULUM PLAN
 
 ![](/images/PE-Pic%202.png)
 
-**PROGRESSIVE DEVELOPMENT PLAN**
+PROGRESSIVE DEVELOPMENT PLAN
 
 ![](/images/PE-Pic%203.png)
 
-**OUTDOOR EDUCATION PROGRESSION**
+OUTDOOR EDUCATION PROGRESSION
 
 ![](/images/PE%20-%20Pic%204.png)
 
 ![](/images/PE-Pic%205.png)
 
 
-**Guiding Principle**
+Guiding Principle
 
 The Outdoor Education component provides opportunities for theoretical concepts to be enacted in authentic outdoor settings. It focuses on three strands –
 
