@@ -9,12 +9,12 @@ third_nav_title: CCE
 ![](/images/CCE.gif)
 
 
-**Values-In-Action for Primary 1 (May 2015)**
+Values-In-Action for Primary 1 (May 2015)
 
 Making of Bookmarks
 <br>During the CCE lessons, pupils from the various Mother Tongue Languages (MTL) and Non-Mother Tongue (NMT) classes were involved in the designing and colouring of paper bookmarks meant for the incoming juniors and invited guests.
 
-**Values-In-Action for Primary 3 (Feb 2015)**
+Values-In-Action for Primary 3 (Feb 2015)
 
 Distribution of Mandarin Oranges
 <br>On 12 and 13 February, pupils from the Non-Mother Tongue (NMT) class championed the packing of mandarin oranges into bags while the various Mother Tongue Language (MTL) classes went about the distribution of these ‘bags of love’ during the Mother tongue periods on 16 February.
@@ -24,7 +24,7 @@ Distribution of Mandarin Oranges
 
 ![](/images/CCE2.gif)
 
-**Values-In-Action for Primary 4 (Apr - May 2015)**
+Values-In-Action for Primary 4 (Apr - May 2015)
 
 Visit to St. Luke’s Eldercare (Serangoon)
 <br>In April and May of Term 2, primary 4 pupils from various Mother Tongue and Non-Mother Tongue (NMT) classes were rostered to visit our community partner – St Luke’s Eldercare (Serangoon).
