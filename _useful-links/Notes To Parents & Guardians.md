@@ -4,23 +4,23 @@ permalink: /for-parent/notes-to-parents-guardians/
 description: ""
 ---
 ### **Information**
-**Communication**
+Communication
 <br>Your child’s form teacher would have issued an introductory letter to you on the first day of school concerning class routines, expectations, and preferred modes of communication.
 
 Please refer to the Pupil’s Diary 2023 for updated information and other useful information about the school. Do communicate with us through the diary, phone calls or emails. If you wish to see anyone of us, kindly make an appointment and wait at the General Office for the required staff member.
 
 It is the child’s responsibility to ensure that they take down what needs to be done in their diary. This is about teaching responsibility. If we do not start now, they will never learn.
 
-**Absence from School**
+Absence from School
 <br>We would appreciate it if you could call or WhatsApp in the morning to let us know if your child is absent. The office phone number or the school’s WhatsApp number is 6283 5413. Medical certificates should be submitted to the form teacher upon the child’s return to school. If your children are sick, please keep them at home.
 
-**School Attire**
+School Attire
 <br>Pupils are to be attired in their full school uniform on all days that they do not have PE or PAL periods. On the days they have PE or PAL periods, they may wear their PE attire instead of their shirts/blouses throughout the day.
 
-**Road Safety**
+Road Safety
 <br>Please ensure that your children follow the traffic rules and cross safely at pedestrian crossings. They should always look both ways and listen for oncoming traffic before crossing roads. A school attendant will be present to ensure that they cross safely at the zebra crossing outside the school.
 
-**Opening and Dismissal Time**
+Opening and Dismissal Time
 <br>The opening hours for the Main (vehicular) Gate, Side Gate and the Back Gate are as follows:
 
 <table border="0" cellpadding="0" cellspacing="0" width="675" style="border-collapse:
@@ -46,12 +46,12 @@ From 7.40 a.m., the Main (vehicular) Gate will be manned by barrier control. The
 
 Security guards will man both the Main (vehicular) Gate and Side Gate.
 
-**Security and Safety**
+Security and Safety
 <br>To ensure the safety of our pupils, staff and stakeholders, several procedures have been put in place to make the school a safe place for all.
 
 Due to limited parking space in the school, parents who wish to come into the school for an appointment are to park at the nearby HDB car parks if the visitor parking lots are occupied. All visitors are required to report to the Guard Post and sign-in, indicating the purpose of their visit. The security guard will then issue a Visitor Pass to the visitor and accompany the visitor to the General Office to seek further assistance. The Visitor Pass must be visibly displayed at all times during your visit. Visitors must be accompanied by a member of staff during their visit and are not to wander around the school premises unaccompanied. Visitors without Visitor Passes will be questioned by the school staff or security guards on their business in school.
 
-**Early Dismissal**
+Early Dismissal
 <br>In the interest of safety, pupils are not allowed to leave the school unaccompanied during curriculum time. Pupils may leave the school early, in the company of an authorised person e.g.; father, mother, grandparent, helper or guardian. The following procedures are to be followed:
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authorised persons are to report to the security guard.
