@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 ---
 ### **Information**
-**6 NE messages**
+6 NE messages
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore is our homeland; this is where we belong.  
 (We treasure our heritage and take pride in shaping our own unique way of life)**
 
@@ -25,7 +25,7 @@ third_nav_title: CCE
 (United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation)
 
 
-**4 NE Commemorative Events**
+4 NE Commemorative Events
 <br>Schools are required to commemorate 4 core NE events which have been identified as defining moments in Singapore's history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation. As part of each Zhonghuarian’s experience in the school, the CCE department provides the opportunity for them to experience the following NE events:
 
 Total Defence Day (TDD)  
