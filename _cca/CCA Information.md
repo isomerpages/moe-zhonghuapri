@@ -42,7 +42,7 @@ The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as f
   mso-bidi-font-weight:bold">
 [Volleyball](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/volleyball/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
 [Choir](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/choir/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Environment Science Club](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/environment-science-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+[Environment Science Club](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/environment-science-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
 [Football](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/football-school-team-recreational/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
 [Chinese Dance](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/chinese-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
