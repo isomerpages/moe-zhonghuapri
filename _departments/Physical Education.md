@@ -11,21 +11,21 @@ description: ""
 <br>For every Zhonghuarian Pupil to be nurtured into an active and physically competent individual. 
 
 
-ASPIRATION
+Aspiration
 
 ![](/images/PE-Pic%201.png)
 
 
 
-CURRICULUM PLAN
+Curriculum Plan
 
 ![](/images/PE-Pic%202.png)
 
-PROGRESSIVE DEVELOPMENT PLAN
+Progressive Development Plan
 
 ![](/images/PE-Pic%203.png)
 
-OUTDOOR EDUCATION PROGRESSION
+Outdoor Education Progression
 
 ![](/images/PE%20-%20Pic%204.png)
 
