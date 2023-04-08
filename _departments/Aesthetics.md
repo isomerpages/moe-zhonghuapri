@@ -29,7 +29,7 @@ The Department’s objective is to develop a passion for the Arts in every Zhong
 
 
 
-**Aesthetics Highlights**
+Aesthetics Highlights
 
 ZARTs Fest
 
