@@ -28,7 +28,7 @@ description: ""
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
 
-**OVERVIEW OF ZHONGHUA PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
+OVERVIEW OF ZHONGHUA PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -38,15 +38,15 @@ a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science&nbs
 
 b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
-**Sexuality Education Lessons:**&nbsp;
+Sexuality Education Lessons:
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.&nbsp;
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;
 
-**At Zhonghua Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023**:
+At Zhonghua Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:
 
-**PRIMARY 5**
+PRIMARY 5
 
 <table border="0" cellpadding="0" cellspacing="0" width="699" style="border-collapse:
  collapse;width:525pt"><colgroup><col width="61" style="mso-width-source:userset;mso-width-alt:2230;width:46pt"> <col width="138" style="mso-width-source:userset;mso-width-alt:5046;width:104pt"> <col width="355" style="mso-width-source:userset;mso-width-alt:12982;width:266pt"> <col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl63" width="61" style="height:6.0pt;width:46pt"><a name="RANGE!D4:G9"></a></td><td class="xl63" width="138" style="width:104pt"></td><td class="xl64" width="355" style="width:266pt"></td><td class="xl63" width="145" style="width:109pt"></td></tr><tr height="61" style="height:45.75pt"><td height="61" class="xl65" width="61" style="height:45.75pt;width:46pt">CCE<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>(FTGP) THEME</td><td class="xl65" width="138" style="width:104pt">LESSON TITLE / DURATION</td><td class="xl63">LESSON OVERVIEW&nbsp;</td><td class="xl65" width="145" style="width:109pt">&nbsp; &nbsp; &nbsp; TIME PERIOD<span style="mso-spacerun:yes"> </span><br>(e.g. Term 1 Week 2)</td></tr><tr height="225" style="mso-height-source:userset;height:168.75pt;mso-yfti-irow:
@@ -71,7 +71,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character a
 
 
 
-**Primary 6**
+Primary 6
 
 <table border="0" cellpadding="0" cellspacing="0" width="699" style="border-collapse:
  collapse;width:525pt"><colgroup><col width="61" style="mso-width-source:userset;mso-width-alt:2230;width:46pt"> <col width="138" style="mso-width-source:userset;mso-width-alt:5046;width:104pt"> <col width="355" style="mso-width-source:userset;mso-width-alt:12982;width:266pt"> <col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl65" width="61" style="height:6.0pt;width:46pt"><a name="RANGE!D4:G9"></a></td><td class="xl65" width="138" style="width:104pt"></td><td class="xl66" width="355" style="width:266pt"></td><td class="xl65" width="145" style="width:109pt"></td></tr><tr height="61" style="height:45.75pt"><td height="61" class="xl67" width="61" style="height:45.75pt;width:46pt">CCE<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>(FTGP) THEME</td><td class="xl67" width="138" style="width:104pt">LESSON TITLE / DURATION</td><td class="xl65">LESSON OVERVIEW&nbsp;</td><td class="xl67" width="145" style="width:109pt">&nbsp; &nbsp; &nbsp; TIME PERIOD<span style="mso-spacerun:yes"> </span><br>(e.g. Term 1 Week 2)</td></tr><tr height="218" style="mso-height-source:userset;height:163.5pt;mso-yfti-irow:
@@ -90,7 +90,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character a
 
 [2023 Info on SEd for schs website - Primary 6.docx](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20-%20Primary%206.docx)
 
-**INFORMATION FOR PARENTS**
+INFORMATION FOR PARENTS
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;
 
