@@ -45,7 +45,7 @@ The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as f
 [Environment Science Club](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/environment-science-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
 [Football](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/football-school-team-recreational/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Chinese Dance](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/chinese-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Chinese Dance](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/chinese-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
 [Art Club](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/art-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
 [Recreational Badminton](https://staging.dibz2r776ygiu.amplifyapp.com/types-of-cca/recreational-badminton/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
