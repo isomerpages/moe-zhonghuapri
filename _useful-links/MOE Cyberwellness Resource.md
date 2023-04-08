@@ -5,7 +5,7 @@ description: ""
 ---
 ###  **Information**
 
-**What is Cyber Wellness?**  
+What is Cyber Wellness?  
   
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of Cyber Wellness is about helping students to become responsible digital learners. This digital age brings with it tremendous opportunities and risks. The online world is especially rich with content for learning, socialising and entertainment. As your child learns to access, use and create such content, it is important that they do so safely and responsibly.  
   
