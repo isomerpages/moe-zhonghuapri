@@ -4,7 +4,7 @@ permalink: /for-parent/primary-education/
 description: ""
 ---
 ### **Information**
-**Parents Gateway**
+Parents Gateway
 <br>Follow this link to download the app and read more about it. Watch the MOE onboarding video here. Click here for additional Instructions and FAQs.
 
 
@@ -12,5 +12,5 @@ description: ""
 
 [Frequently Asked Questions for Parents.pdf ](/files/Frequently%20Asked%20Questions%20for%20Parents.pdf)
 
-**MOE Portal**
+MOE Portal
 <br>Click [here](https://www.moe.gov.sg/) to access to all school information.
