@@ -7,8 +7,8 @@ description: ""
 
 
 
-**<center>Music: JJ de Souza**
-<br>**Lyrics: Seah Lye Huat</center>**
+**<center>Music: JJ de Souza
+<br>Lyrics: Seah Lye Huat</center>**
 
 
 When nineteen eighty-seven dawned,
