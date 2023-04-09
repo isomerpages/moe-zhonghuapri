@@ -1,20 +1,20 @@
 logo: /images/logo.png
 links:
   - title: About ZPS
-    url: /about-us/Principals-Message/
+    url: /about-zps/Principals-Message/
     sublinks:
       - title: Principal's Message
-        url: /about-us/Principals-Message/
+        url: /about-zps/Principals-Message/
       - title: Motto, Mission, Vision &Values
-        url: /about-us/motto-mission-vision-and-values
+        url: /about-zps/motto-mission-vision-and-values
       - title: School History
-        url: /about-us/School-History/
+        url: /about-zps/School-History/
       - title: School Facilities
-        url: /about-us/School-Facilities/
+        url: /about-zps/School-Facilities/
       - title: School Song
-        url: /about-us/School-Song/
+        url: /about-zps/School-Song/
       - title: Staff Information
-        url: /about-us/staff-information/staff-information/
+        url: /about-zps/staff-information/staff-information/
   - title: Niche Programme
     collection: niche-programme
   - title: The Zhonghua Experience
