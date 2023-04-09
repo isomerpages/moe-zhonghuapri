@@ -2,22 +2,24 @@ collections:
   departments:
     output: true
     order:
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue/.keep
       - Mother Tongue/Tamil Language.md
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Chinese Language.md
-      - Mother Tongue/.keep
-      - English Language.md
-      - Mathematics.md
+      - Science/.keep
       - Science/Science.md
       - Science/Themes and Topics.md
       - Science/Assessment and Review.md
-      - Science/.keep
       - Information and Communication Technology.md
+      - Physical Education.md
       - Aesthetics.md
+      - Partnership/.keep
       - Partnership/Partnership.md
       - Partnership/Zhonghua Educational Support Team (ZEST).md
-      - Partnership/.keep
+      - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/MOE Character and Citizenship Education Learning Outcomes (LOs).md
       - CCE/National Education (NE).md
@@ -27,5 +29,3 @@ collections:
       - CCE/Character & Citizenship Education (CCE) lessons.md
       - CCE/School Based CCE.md
       - CCE/Photo Gallery on CCE programmes.md
-      - CCE/.keep
-      - Physical Education.md
