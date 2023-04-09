@@ -2,7 +2,6 @@ collections:
   staff-information:
     output: true
     order:
-      - School Advisory Committee.md
       - Teaching Staff/.keep
       - Teaching Staff/Primary 1.md
       - Teaching Staff/Primary 2.md
