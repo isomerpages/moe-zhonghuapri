@@ -36,40 +36,31 @@ tang_qisheng@moe.edu.sg
 
 The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as follows:
 
-<table style="border-collapse:
- collapse;width:483pt" width="645" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7862;
- width:161pt" span="3" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:161pt" width="215" class="xl63" height="9"></td><td style="width:161pt" width="215" class="xl63"></td><td style="width:161pt" width="215" class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl63" height="20">Sports and Games</td><td class="xl63">Performing Arts</td><td class="xl63">Clubs and Uniformed Groups</td></tr><tr style="height:15.0pt;mso-yfti-irow:1" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+<table border="0" cellpadding="0" cellspacing="0" width="645" style="border-collapse:
+ collapse;width:483pt"><colgroup><col width="215" span="3" style="mso-width-source:userset;mso-width-alt:7862;
+ width:161pt"></colgroup><tbody><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl63" width="215" style="height:6.75pt;width:161pt"></td><td class="xl63" width="215" style="width:161pt"></td><td class="xl63" width="215" style="width:161pt"></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl63" style="height:15.0pt">Sports and Games</td><td class="xl63">Performing Arts</td><td class="xl63">Clubs and Uniformed Groups</td></tr><tr height="20" style="height:15.0pt;mso-yfti-irow:1"><td height="20" class="xl63" style="height:15.0pt"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-[Volleyball]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/volleyball/
+Volleyball
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Choir]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/choir/</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Environment Science Club]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/environment-science-club/</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:2" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+Choir
+</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+Environment Science Club
+</span></td></tr><tr height="20" style="height:15.0pt;mso-yfti-irow:2"><td height="20" class="xl63" style="height:15.0pt"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-[Football (School Team &amp; Recreational)]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/football-school-team-recreational/
+Football (School Team &amp; Recreational)
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Chinese Dance]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/chinese-dance/
+Chinese Dance
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Art Club]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/art-club/
-</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+Art Club
+</span></td></tr><tr height="20" style="height:15.0pt;mso-yfti-irow:3"><td height="20" class="xl63" style="height:15.0pt"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-[Recreational Badminton]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/recreational-badminton/
+Recreational Badminton
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Malay Dance]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/malay-dance/
+Malay Dance
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Infocomm Technology Club]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/infocomm-technology-club/
-</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes" height="20"><td style="height:15.0pt" class="xl63" height="20"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Indian Dance]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/indian-dance/
+Infocomm Technology Club
+</span></td></tr><tr height="20" style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes"><td height="20" class="xl63" style="height:15.0pt"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+Indian Dance
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Scouts]
-https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/scouts/
-</span></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl63" height="8"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
+Scouts
+</span></td></tr><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl63" style="height:6.0pt"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
