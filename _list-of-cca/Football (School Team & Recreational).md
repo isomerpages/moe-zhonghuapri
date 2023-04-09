@@ -16,6 +16,5 @@ ZPS Football shapes its members to become resilient by exposing them to challeng
 **CCA Schedule**
 <br>Tuesday
 <br>2.00 – 3.45pm (School Team &amp; Recreational)
-
-Thursday
+<br>Thursday
 <br>3.30 – 5.00pm (School Team Only)
