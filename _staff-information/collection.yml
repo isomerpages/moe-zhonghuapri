@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teaching Staff/.keep
-      - Teaching Staff/Malay Language Teachers.md
       - Teaching Staff/Tamil Language Teachers.md
       - Teaching Staff/Allied Educators.md
       - Teaching Staff/Learning Support Programme (LSP).md
