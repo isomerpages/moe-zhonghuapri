@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 ### **Information**
-
-<img src="/images/CL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
+<br><img src="/images/CL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
 
 [CHINESE LANGUAGE PAGE](/departments/Mother-Tongue/Chinese-Language/)
 
@@ -17,10 +16,6 @@ third_nav_title: Mother Tongue
 <img src="/images/TL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
 
 [TAMIL LANGUAGE PAGE](/departments/Mother-Tongue/Tamil-Language/)
-
-
-
-
 
 <br><br>**Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
