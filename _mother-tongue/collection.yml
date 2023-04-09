@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Tamil Language.md
+      - Tamil Language/Programmes.md
       - Tamil Language/.keep
