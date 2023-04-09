@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Staff Information/.keep
       - School Advisory Committee.md
       - Principal's Message.md
       - Motto, Mission, Vision and Values.md
