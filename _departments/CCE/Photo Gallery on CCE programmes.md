@@ -6,8 +6,7 @@ third_nav_title: CCE
 ---
 ### **Information**
 
-
-![](/images/CCE.gif)
+<br>![](/images/CCE.gif)
 
 
 Values-In-Action for Primary 1 (May 2015)
