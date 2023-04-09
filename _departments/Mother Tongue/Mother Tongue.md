@@ -17,7 +17,7 @@ third_nav_title: Mother Tongue
 
 [TAMIL LANGUAGE PAGE](/departments/Mother-Tongue/Tamil-Language/)
 
-<br><br>**Mission**
+<br>**Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
 
 **Vision**
