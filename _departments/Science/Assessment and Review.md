@@ -5,15 +5,11 @@ description: ""
 third_nav_title: Science
 ---
 ### **Information**
-<br>The school uses AoL and AfL to assess pupils’ learning.
-
-The school will decide on the modes of summative assessment
-
-The Science teachers together with the guidance of the level representative will deliberate on the appropriate formative assessment tasks during professional learning platforms.
+The school uses AoL and AfL to assess pupils’ learning.
+<br>The school will decide on the modes of summative assessment
+<br>The Science teachers together with the guidance of the level representative will deliberate on the appropriate formative assessment tasks during professional learning platforms.
 
 Table 1.1 specifies the modes of summative and formative assessments for each level.
-
-
 
 <table border="0" cellpadding="0" cellspacing="0" width="715" style="border-collapse:
  collapse;width:537pt"><colgroup><col width="110" style="mso-width-source:userset;mso-width-alt:4022;width:83pt"> <col width="180" style="mso-width-source:userset;mso-width-alt:6582;width:135pt"> <col width="425" style="mso-width-source:userset;mso-width-alt:15542;width:319pt"></colgroup><tbody><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" class="xl63" width="110" style="height:6.0pt;width:83pt"><a name="RANGE!C2:E10"></a></td><td class="xl63" width="180" style="width:135pt"></td><td class="xl63" width="425" style="width:319pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl67" style="height:15.75pt">Level</td><td class="xl64" style="border-left:none">Mode of Summative Assessment</td><td class="xl65" style="border-left:none">Mode of Formative Assessment</td></tr><tr height="60" style="mso-height-source:userset;height:45.0pt"><td rowspan="2" height="81" class="xl68" width="110" style="height:60.75pt;
