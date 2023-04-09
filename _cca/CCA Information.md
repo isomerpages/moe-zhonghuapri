@@ -54,10 +54,22 @@ https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/football-school-team-re
 [Chinese Dance]
 https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/chinese-dance/
 </span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Art Club](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/art-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
+[Art Club]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/art-club/
+</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:3" height="20"><td style="height:15.0pt" class="xl63" height="20"><span style="line-height:115%;
   mso-bidi-font-weight:bold">
-[Recreational Badminton](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/recreational-badminton/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Malay Dance](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/malay-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Infocomm Technology Club](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/infocomm-technology-club/)</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes" height="20"><td style="height:15.0pt" class="xl63" height="20"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Indian Dance](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/indian-dance/)</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
-[Scouts](https://staging.dibz2r776ygiu.amplifyapp.com/categoriesofcca/scouts/)</span></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl63" height="8"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
+[Recreational Badminton]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/recreational-badminton/
+</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Malay Dance]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/malay-dance/
+</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Infocomm Technology Club]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/infocomm-technology-club/
+</span></td></tr><tr style="height:15.0pt;mso-yfti-irow:4;mso-yfti-lastrow:yes" height="20"><td style="height:15.0pt" class="xl63" height="20"></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Indian Dance]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/indian-dance/
+</span></td><td class="xl63"><span style="line-height:115%;mso-bidi-font-weight:bold">
+[Scouts]
+https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/scouts/
+</span></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl63" height="8"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
