@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Teaching Staff/.keep
-      - Teaching Staff/Allied Educators.md
       - Teaching Staff/Learning Support Programme (LSP).md
