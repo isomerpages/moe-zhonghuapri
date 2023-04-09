@@ -1,5 +1,5 @@
 collections:
-  categories-of-cca:
+  list-of-cca:
     output: true
     order:
       - Volleyball.md
