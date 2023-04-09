@@ -20,7 +20,10 @@ third_nav_title: Mother Tongue
 
 
 
-**Mission**
+
+
+
+<br>**Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
 
 **Vision**
