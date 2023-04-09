@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teaching Staff/.keep
-      - Teaching Staff/Primary 4.md
       - Teaching Staff/Primary 5.md
       - Teaching Staff/Primary 6.md
       - Teaching Staff/Chinese Language Teachers.md
