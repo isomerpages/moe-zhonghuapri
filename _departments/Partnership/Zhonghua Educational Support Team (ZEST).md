@@ -13,7 +13,7 @@ Joining ZEST is a commitment from parents to be actively involved in their child
 
 Register&nbsp;[online](https://go.gov.sg/zpszest)&nbsp;now or you may approach our General Office staff for an application form.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzS-0BK4MaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="850" height="315" src="https://www.youtube.com/embed/bzS-0BK4MaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
