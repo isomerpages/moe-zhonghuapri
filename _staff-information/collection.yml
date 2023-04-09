@@ -1,5 +1,0 @@
-collections:
-  staff-information:
-    output: true
-    order:
-      - Teaching Staff/.keep
