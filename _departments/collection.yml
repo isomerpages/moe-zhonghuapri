@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue/.keep
@@ -20,3 +19,4 @@ collections:
       - Partnership/.keep
       - Partnership/Partnership.md
       - Partnership/Zhonghua Educational Support Team (ZEST).md
+      - CCE.md
