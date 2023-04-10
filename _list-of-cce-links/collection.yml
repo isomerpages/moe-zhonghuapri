@@ -1,4 +1,5 @@
 collections:
   list-of-cce-links:
     output: true
-    order: []
+    order:
+      - MOE Character and Citizenship Education Learning Outcomes (LOs).md
