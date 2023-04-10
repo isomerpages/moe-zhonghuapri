@@ -23,7 +23,7 @@ All in all, the above learning platforms and experiences aim to bring to focus t
 
 Please click on the following links to understand about the various components of CCE:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOECharacter and Citizenship Education Learning Outcomes (LOs)
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Character and Citizenship Education Learning Outcomes (LOs)
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NationalEducation (NE)
 
