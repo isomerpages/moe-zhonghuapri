@@ -2,15 +2,15 @@ collections:
   about-zps:
     output: true
     order:
-      - Non Teaching Staff/Executive and Administrative Staff.md
-      - Non Teaching Staff/Key Personnel.md
-      - Non Teaching Staff/School Advisory Committee.md
-      - Non Teaching Staff/.keep
       - Principal's Message.md
       - Motto, Mission, Vision and Values.md
       - School History.md
       - School Song.md
       - Staff Information/.keep
+      - Non Teaching Staff/.keep
+      - Non Teaching Staff/Executive and Administrative Staff.md
+      - Non Teaching Staff/Key Personnel.md
+      - Non Teaching Staff/School Advisory Committee.md
       - Teaching Staff/.keep
       - Teaching Staff/Primary 1.md
       - Teaching Staff/Primary 2.md
