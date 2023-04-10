@@ -42,58 +42,13 @@ third_nav_title: Mother Tongue
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt" colspan="2">தமிழ்மொழி நடவடிக்கைகள் 2020<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt">தவணை 1</td>
-    <td class="tg-ii8k">P3 பேசுதலும் நடித்தலும்  </td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt" rowspan="3"><br><br><br><br>தவணை 2</td>
-    <td class="tg-ii8k">P3 பேசுதலும் நடித்தலும்</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">P4 தமிழ்மொழி முகாம்</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">P5 தமிழ் மொழி கற்றல் பயணம்<br>   (லீ கொங் சியேன் இயற்கை அரும்பொருளகம் )</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt" rowspan="2"><br><br><br>தவணை 3</td>
-    <td class="tg-ii8k">P3 &amp; P4 தமிழ் மொழி கற்றல் பயணம் (குட்டி இந்தியா)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">P1 – P5 தமிழ்மொழி மற்றும் கலாச்சார நடவடிக்கைகள்</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt" rowspan="2"><br>
-			<br>தவணை 4</td>
-    <td class="tg-ii8k">P2 தமிழ் தட்டச்சுப் பயிலரங்கம்</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">தீபாவளிக் கொண்டாட்டம்</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt"><br><br><br>ஆண்டுமுழுவதும்</td>
-    <td class="tg-n4qt">வாசிப்பு நடவடிக்கைகள் <br>-  பெற்றோர் பிள்ளை வாசிப்பு<br>-    காலை நேர வாசிப்பு<br>-    வகுப்பு நூலக நடவடிக்கைகள்<br>-    சுட்டி மயில் (P5 – P6)</td>
-  </tr>
-</tbody>
-</table>
 
+<table style="border-collapse:
+ collapse;width:454pt" width="605" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;width:135pt" width="180"> <col style="mso-width-source:userset;mso-width-alt:15542;width:319pt" width="425"></colgroup><tbody><tr style="mso-height-source:userset;height:3.75pt" height="5"><td style="height:3.75pt;width:135pt" width="180" height="5"><a name="RANGE!F3:G14"></a></td><td style="width:319pt" width="425"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl71" height="21" colspan="2">தமிழ்மொழி நடவடிக்கைகள் 2020</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl66" height="21">தவணை 1</td><td style="border-top:none" align="left" class="xl64">P3&nbsp;பேசுதலும் நடித்தலும் &nbsp;</td></tr><tr style="height:15.75pt" height="21"><td style="height:62.25pt;
+  width:135pt" width="180" class="xl70" height="83" rowspan="3">தவணை 2</td><td style="border-top:none" align="left" class="xl64">P3&nbsp;பேசுதலும் நடித்தலும்</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" align="left" class="xl64" height="21">P4&nbsp;தமிழ்மொழி முகாம்</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;border-top:none;
+  width:319pt" width="425" class="xl67" height="41">P5&nbsp;தமிழ் மொழி கற்றல் பயணம் (லீ கொங் சியேன் இயற்கை அரும்பொருளகம் )</td></tr><tr style="mso-height-source:userset;height:19.5pt" height="26"><td style="height:50.25pt;
+  width:135pt" width="180" class="xl70" height="67" rowspan="2">தவணை 3</td><td class="xl68">P3 &amp; P4&nbsp;தமிழ் மொழி கற்றல் பயணம் (குட்டி இந்தியா)</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;
+  border-top:none;width:319pt" width="425" align="left" class="xl65" height="41">P1&nbsp;–&nbsp;P5&nbsp;தமிழ்மொழி மற்றும் கலாச்சார நடவடிக்கைகள்</td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:135pt" width="180" class="xl70" height="42" rowspan="2">தவணை 4</td><td style="border-top:none" align="left" class="xl64">P2&nbsp;தமிழ் தட்டச்சுப் பயிலரங்கம்</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" align="left" class="xl64" height="21">தீபாவளிக் கொண்டாட்டம்</td></tr><tr style="mso-height-source:userset;height:109.5pt" height="146"><td style="height:109.5pt" class="xl66" height="146">ஆண்டுமுழுவதும்</td><td style="border-top:none;width:319pt" width="425" class="xl69">வாசிப்புநடவடிக்கைகள்<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-பெற்றோர் பிள்ளை வாசிப்பு<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-காலை நேர வாசிப்பு<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-வகுப்பு நூலக நடவடிக்கைகள்<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-சுட்டி மயில் (P5&nbsp;–&nbsp;P6)</td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" height="8"></td><td></td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="605" style="border-collapse:
  collapse;width:454pt"><colgroup><col width="180" style="mso-width-source:userset;mso-width-alt:6582;width:135pt"> <col width="425" style="mso-width-source:userset;mso-width-alt:15542;width:319pt"></colgroup><tbody><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" width="180" style="height:3.75pt;width:135pt"><a name="RANGE!F3:G9"></a></td><td width="425" style="width:319pt"></td></tr><tr height="62" style="mso-height-source:userset;height:46.5pt"><td colspan="2" height="62" class="xl66" width="605" style="height:46.5pt;width:454pt"><span lang="TA" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:
