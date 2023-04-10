@@ -18,4 +18,4 @@ Register&nbsp;[online](https://go.gov.sg/zpszest)&nbsp;now or you may approach o
 
 
 **For Alumni**
-<br>Kindly&nbsp;[click](https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform)&nbsp;here to register.
+<br>Kindly&nbsp;click&nbsp;[here]((https://docs.google.com/forms/d/e/1FAIpQLScjpLGv8EQlZhI6gVn36KTDGsrXSKOBJg3f47R7moJcPf9kbw/viewform)) to register.
