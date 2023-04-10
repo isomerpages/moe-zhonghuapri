@@ -15,7 +15,7 @@ third_nav_title: Science
 **Rationale**
 <br>Science teaching aims to inculcate the spirit of inquiry and a passion for Science, resulting in our pupils being engaged and excited about learning Science. We hope that pupils value Science and see it as a meaningful and important tool in helping them to explore the world that they live in.
 
-**Aims of Department**
+Aims of Department
 
 The Science department aims to:
 
