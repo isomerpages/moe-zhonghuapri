@@ -3,7 +3,7 @@ title: Volleyball
 permalink: /list-of-cca/volleyball/
 description: ""
 ---
-![](/images/CCAs/cca-%20volleyball%202023.png)
+![](/images/CCAs/cca-%20volley%20ball%202023%20new.png)
 ZPS Volleyball aims to cultivate values and attitudes in pupils like Perseverance, Team Spirit and Sportsmanship. We believe that the game of volleyball helps to&nbsp;improve the decision-making process within individuals. The improvement comes through as: One always needs to predict and read the minds of opposition players to act accordingly. It assists in boosting one’s intellect and allow them to make some very delicate impromptu decision.
 
 **Teachers In-Charge**
