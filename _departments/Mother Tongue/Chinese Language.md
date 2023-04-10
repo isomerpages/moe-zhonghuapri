@@ -7,11 +7,11 @@ third_nav_title: Mother Tongue
 ### **Information**
 **愿景：**
 
-**学生有信心使用华语，并以华语和华族文化为豪。**
+学生有信心使用华语，并以华语和华族文化为豪。
 
 **使命：**
 
-**启迪学生，对华语及华族传统持有热忱。**
+启迪学生，对华语及华族传统持有热忱。
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="640" style="border-collapse:
