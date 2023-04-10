@@ -1,0 +1,22 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language & Programmes.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Themes and Topics.md
+      - Science/Assessment and Review.md
+      - Information and Communication Technology.md
+      - Physical Education.md
+      - Aesthetics.md
+      - Partnership/.keep
+      - Partnership/Partnership.md
+      - Partnership/Zhonghua Educational Support Team (ZEST).md
+      - CCE.md

@@ -1,15 +1,46 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
+  - title: About ZPS
+    url: /about-zps/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-zps/principals-message/
+      - title: Motto, Mission,Vision & Values
+        url: /about-zps/motto-mission-vision-values/
+      - title: School History
+        url: /about-zps/school-history/
+      - title: School Song
+        url: /about-zps/school-song/
+      - title: Non Teaching Staff
+        url: /about-zps/non-teaching-staff/
+      - title: Teaching Staff
+        url: /about-zps/teaching-staff/
+  - title: Niche Programme
+    collection: niche-programme
+  - title: Departments
+    url: /departments/English-Language/
+    sublinks:
+      - title: English Language
+        url: /departments/English-Language/
+      - title: Mathematics
+        url: /departments/Mathematics/
+      - title: Mother Tongue
+        url: /mother-tongue/Mother-Tongue/
+      - title: Science
+        url: /departments/Science/Science/
+      - title: ICT
+        url: /departments/Information-and-Communication-Technology/
+      - title: Aesthetics
+        url: /departments/Aesthetics/
+      - title: Partnership
+        url: /departments/Partnership/Partnership/
+      - title: CCE
+        url: /departments/CCE/Character-and-Citizenship-Education/
+      - title: Physical Education
+        url: /departments/Physical-Education/
+  - title: CCA
+    collection: cca
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    collection: contact-us
+  - title: Useful Links
+    collection: useful-links

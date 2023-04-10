@@ -1,0 +1,6 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA Information.md
+      - CCA Schedule.md

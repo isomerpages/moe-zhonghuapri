@@ -1,0 +1,15 @@
+collections:
+  list-of-cca:
+    output: true
+    order:
+      - Volleyball.md
+      - Football (School Team & Recreational).md
+      - Recreational Badminton.md
+      - Choir.md
+      - Chinese Dance.md
+      - Malay Dance.md
+      - Indian Dance.md
+      - Environment Science Club.md
+      - Art Club.md
+      - Infocomm Technology Club.md
+      - Scouts.md
