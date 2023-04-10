@@ -19,21 +19,21 @@ In Zhonghua Primary, the lower primary will be nurtured to develop the following
 
 The lower primary programmes that help support the development of the dispositions are:
 
-**P1 Orientation** 
+P1 Orientation 
 ![](/images/Lower%20Primary%20Experience/p1-2%20orientation%202023.png)
 Mock up- This takes place on the first day of school. The students will be introduced to their classrooms and spend quality time getting to know their new classmates. They will also set personal goals for the year ahead. The P4 Zhonghuarians will take care of their new P1 Zhonghuarians buddies for 2 weeks! 
 
-**Shining Stars**
+Shining Stars
 <br>[Insert] Submit suitable pictures and it will be presented here.
 
 [insert] A write up for the activity will be presented in this location.
 
-**P1 &amp; P2 Fun with Math Day**
+P1 &amp; P2 Fun with Math Day
 <br>[Insert] Submit suitable pictures and it will be presented here.
 
 [insert] A write up for the activity will be presented in this location.
 
-**P1 OLE**
+P1 OLE
 <br>[Insert] Submit suitable pictures and it will be presented here.
 
 [insert] A write up for the activity will be presented in this location.
