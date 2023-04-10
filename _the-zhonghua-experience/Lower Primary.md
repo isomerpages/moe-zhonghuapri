@@ -11,7 +11,7 @@ In Zhonghua Primary, the lower primary will be nurtured to develop the following
 
 
 | Dispositions for a Learner |Dispositions for a Thinker | Dispositions for a Leader |
-| -------- | -------- | -------- |
+
 | Positive about learning and ready to try     | Being Curious and asks questions     | Able to care for self     || -------- | -------- | -------- |
 | Able to share views    | Able to accept changes     | Being considerate towards others    |
 
