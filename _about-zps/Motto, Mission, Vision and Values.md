@@ -21,11 +21,11 @@ The colour turquoise represents vibrant youth.
 **Motto**
 <br>Diligence Before Success.
 
-**Vision**
-<br>A Learner. A Thinker. A Leader.
-
 **Mission**
 <br>Ignite Passion For Learning, Nurture Strength of Character.
+
+**Vision**
+<br>A Learner. A Thinker. A Leader.
 
 **Values**
 <br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony, Resilience.
