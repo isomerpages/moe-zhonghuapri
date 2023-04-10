@@ -1,0 +1,4 @@
+collections:
+  list-of-cce-links:
+    output: true
+    order: []
