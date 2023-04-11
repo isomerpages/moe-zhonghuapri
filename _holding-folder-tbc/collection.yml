@@ -2,6 +2,7 @@ collections:
   holding-folder-tbc:
     output: true
     order:
+      - Ex Students.md
       - Green My Mind.md
       - Students.md
       - Parents.md
