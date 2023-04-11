@@ -1,0 +1,4 @@
+collections:
+  list-of-mother-tongue-links:
+    output: true
+    order: []
