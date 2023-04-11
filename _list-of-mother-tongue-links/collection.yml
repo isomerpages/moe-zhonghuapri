@@ -1,4 +1,5 @@
 collections:
   list-of-mother-tongue-links:
     output: true
-    order: []
+    order:
+      - Chinese Language.md
