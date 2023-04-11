@@ -2,6 +2,7 @@ collections:
   holding-folder-tbc:
     output: true
     order:
+      - Students.md
       - Parents.md
       - Photo Gallery on CCE programmes.md
       - CCA Introduction.md
