@@ -1,5 +1,5 @@
 collections:
-  the-zhonghua-experience:
+  the-zhonghua-experience-tbc:
     output: true
     order:
       - Lower Primary.md
