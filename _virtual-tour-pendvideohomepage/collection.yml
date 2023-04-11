@@ -1,0 +1,4 @@
+collections:
+  virtual-tour-pendvideohomepage:
+    output: true
+    order: []
