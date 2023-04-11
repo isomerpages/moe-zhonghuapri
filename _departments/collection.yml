@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Science.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue.md
+      - Science.md
       - Science/.keep
       - Science/Science.md
       - Information and Communication Technology.md
