@@ -38,5 +38,3 @@ description: ""
  width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt;width:135pt" width="180" class="xl65" height="6"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;
   width:540pt" width="720" class="xl66" height="21" colspan="4">
 <center>HELPLINE</center></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Samaritans off Singapore (SOS)</td><td class="xl67" colspan="2">1800 - 221 4444</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Tinkle Friend</td><td class="xl67" colspan="2">1800 - 274 4788</td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl65" height="8"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
-	
-	
