@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Students.md
       - Students/Green My Mind.md
       - Ex Students.md
