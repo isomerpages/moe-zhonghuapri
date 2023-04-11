@@ -27,4 +27,4 @@ The Science department aims to:
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in
 
-Kindly click on Themes &amp; Topics and Assessment &amp; Review for further information. 
+Kindly click on Themes &amp; Topics and Assessment &amp; Review for further information.
