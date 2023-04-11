@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Partnership
 ---
 ### **Information**
-Zhonghua Primary School has forged many partnerships with various local organisations and groups to support our school’s vision and mission. We endeavour to nurture and develop our students into responsible, reflective, resilient and caring learners. With the school motto in mind, “Diligence Before Success”, Zhonghua Primary School works towards achieving our goal by engaging and collaborating with partners-in-education; School Advisory Committee, Parent Support Group (ZEST), external agencies, institutes of higher learning, the community and Alumni as webelieve that it takes a village to raise a child.
+Zhonghua Primary School has forged many partnerships with various local organisations and groups to support our school’s vision and mission. We endeavour to nurture and develop our students into responsible, reflective, resilient and caring learners. With the school motto in mind, “Diligence Before Success”, Zhonghua Primary School works towards achieving our goal by engaging and collaborating with partners-in-education; School Advisory Committee, Parent Support Group (ZEST), external agencies, institutes of higher learning, the community and Alumni as we elieve that it takes a village to raise a child.
 
 These partners support the school by designing programmes to develop our students in their academic, well-being, interest, character development and social-emotional learning needs.
 
