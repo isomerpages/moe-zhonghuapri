@@ -1,0 +1,4 @@
+collections:
+  list-of-cca-schedule:
+    output: true
+    order: []
