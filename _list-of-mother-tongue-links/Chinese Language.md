@@ -15,7 +15,7 @@ description: ""
 
 <table border="0" cellpadding="0" cellspacing="0" width="640" style="border-collapse:
  collapse;width:480pt"><colgroup><col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt"> <col width="495" style="mso-width-source:userset;mso-width-alt:18102;width:371pt"></colgroup><tbody><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" width="145" style="height:3.75pt;width:109pt"><a name="RANGE!F3:G15"></a></td><td width="495" style="width:371pt"></td></tr><tr height="21" style="height:15.75pt"><td colspan="2" height="21" class="xl65" width="640" style="height:15.75pt;
-  width:480pt">2020　华文部活动／计划</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  width:480pt">华文部活动／计划</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
   0px;padding-top:0px"><td rowspan="2" height="82" class="xl66" width="145" style="height:61.5pt;width:109pt;
   outline: 0px">一、二年级</td><td class="xl64" style="border-top:none;outline: 0px">• 二维码户外教学活动</td></tr><tr height="61" style="height:45.75pt"><td height="61" class="xl68" width="495" style="height:45.75pt;border-top:none;
   width:371pt">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; o 走出课室，让学生扫描张贴在校园各处的二维码，认识课文字词，手脑并 用，加深记忆。</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
