@@ -2,6 +2,6 @@ collections:
   the-zhonghua-experience-tbc:
     output: true
     order:
-      - Upper Primary Under Construction.md
-      - Middle Primary Under Construction.md
       - Lower Primary Under Construction.md
+      - Middle Primary Under Construction.md
+      - Upper Primary Under Construction.md
