@@ -2,5 +2,6 @@ collections:
   the-zhonghua-experience-tbc:
     output: true
     order:
+      - Upper Primary.md
       - Middle Primary.md
       - Lower Primary.md
