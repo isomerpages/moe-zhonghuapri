@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Partnership.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue.md
@@ -10,6 +9,7 @@ collections:
       - Information and Communication Technology.md
       - Physical Education.md
       - Aesthetics.md
+      - Partnership.md
       - Partnership/.keep
       - Partnership/Partnership.md
       - CCE.md
