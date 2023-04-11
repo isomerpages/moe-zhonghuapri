@@ -2,5 +2,6 @@ collections:
   list-of-mother-tongue-links:
     output: true
     order:
+      - Tamil Language & Programmes.md
       - Malay Language.md
       - Chinese Language.md
