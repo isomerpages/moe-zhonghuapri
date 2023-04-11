@@ -12,12 +12,12 @@ description: ""
 
 <br><img src="/images/CL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
 
-[CHINESE LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/mother-tongue/Chinese-Language/)
+[CHINESE LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/list-of-mother-tongue-links/Chinese-Language/)
 
 <img src="/images/ML%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
 
-[MALAY LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/mother-tongue/Malay-Language/)
+[MALAY LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/list-of-mother-tongue-links/Malay-Language/)
 
 <img src="/images/TL%20TAB.png" style="width:160px;height:60px;margin-right:15px;" align="left">
 
-[TAMIL LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/mother-tongue/tamil-language/tamil-language-programmes/)
+[TAMIL LANGUAGE PAGE](https://staging.dibz2r776ygiu.amplifyapp.com/list-of-mother-tongue-links/tamil-language-and-programmes/)
