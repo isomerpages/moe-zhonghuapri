@@ -27,9 +27,12 @@ CCA Policy in ZPS
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
 
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please click to view 2023 CCA Schedule.
+
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 <br>[Mr Azman]( azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
 <br>[Mr Tang Qisheng](tang_qisheng@moe.edu.sg ) (For Performing Arts CCAs).
+
 
 The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as follows:
 
