@@ -23,6 +23,8 @@ Let's learn to be safe and smart digital users together!
 
 [Ways To Spot Fake News](/files/Ways%20To%20Spot%20Fake%20News.pdf) 
 
+[ways to spot fake news](/files/Ways%20To%20Spot%20Fake%20News.pdf)
+
 More helpful resources can be found here:  
 
   
