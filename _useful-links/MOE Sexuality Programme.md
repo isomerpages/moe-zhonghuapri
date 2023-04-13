@@ -67,11 +67,7 @@ PRIMARY 5
 <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.&nbsp;</span></td><td class="xl63"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">Term 2 Week 5</span></td></tr><tr height="9" style="mso-height-source:userset;height:6.75pt"><td height="9" class="xl63" style="height:6.75pt"></td><td class="xl63"></td><td class="xl64"></td><td class="xl63"></td></tr></tbody></table>
 
-[2023 Info on SEd for schs website - Primary 5.docx](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20-%20Primary%205.docx)
-
 [2023 infor on SEd for P5](https://go.gov.sg/2023-info-on-sed-p5)
-
-
 
 Primary 6
 
