@@ -9,8 +9,6 @@ Thinknovate is our unique signature STEM-based Applied Learning Programme. STEM 
 
 ![](/images/ALP1.png)
 
-![](/images/ALP2.png)
 
-![](/images/ALP3.png)
 
 ![](/images/ALP4.png)
