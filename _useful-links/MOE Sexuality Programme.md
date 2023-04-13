@@ -94,6 +94,6 @@ INFORMATION FOR PARENTS
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://zhonghuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u610/2023/GY2023%20Opt-out%20Form%20Sch%20Website.pdf)&nbsp;([GY2023 Opt-Out Form School Website](/files/gy2023%20opt-out%20form%20(sch%20website).pdf)). The completed opt-out form is to be submitted by 10/02/2023.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable at ([GY2023 Opt-Out Form School Website](/files/gy2023%20opt-out%20form%20(sch%20website).pdf)). The completed opt-out form is to be submitted by 10/02/2023.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6283 5413 for discussion or to seek clarification about the school’s Sexuality Education programme.
