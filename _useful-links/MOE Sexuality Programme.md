@@ -69,6 +69,8 @@ PRIMARY 5
 
 [2023 Info on SEd for schs website - Primary 5.docx](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20-%20Primary%205.docx)
 
+[2023 infor on SEd for P5](https://go.gov.sg/2023-info-on-sed-p5)
+
 
 
 Primary 6
