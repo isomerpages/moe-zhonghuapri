@@ -88,7 +88,7 @@ Primary 6
 
 **\*For&nbsp;2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**&nbsp;
 
-[2023 Info on SEd for schs website - Primary 6.docx](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20-%20Primary%206.docx)
+[2023 Info on SEd for P6](https://go.gov.sg/2023-info-on-sed-p6)
 
 INFORMATION FOR PARENTS
 
