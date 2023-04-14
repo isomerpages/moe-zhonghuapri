@@ -21,6 +21,8 @@ Let's learn to be safe and smart digital users together!
 
 [Meaning And Forms of Fake News](https://go.gov.sg/meaning-and-forms-of-fake-news)
 
+[Meaning And Forms of Fake News](/files/Meaning%20and%20Forms%20of%20Fake%20News.pdf)
+
 More helpful resources can be found here:  
 
   
