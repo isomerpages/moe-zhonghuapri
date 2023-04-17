@@ -29,7 +29,8 @@ Outdoor Education Progression
 
 ![](/images/PE%20-%20Pic%204.png)
 
-![](/images/PE-Pic%205.png)
+
+![](/images/pe%20-%20july%20%202020-%20icon%20email-mrazman%20n%20mr%20ravi%20-%20pic%203.PNG)
 
 
 Guiding Principle
