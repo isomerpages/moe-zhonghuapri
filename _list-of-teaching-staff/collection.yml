@@ -2,12 +2,12 @@ collections:
   list-of-teaching-staff:
     output: true
     order:
-      - Allied Educators.md
-      - Learning Support Programme (LSP).md
-      - Mother Tongue Language Teachers.md
-      - Primary 6.md
-      - Primary 5.md
-      - Primary 4.md
-      - Primary 3.md
-      - Primary 2.md
       - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5.md
+      - Primary 6.md
+      - Mother Tongue Language Teachers.md
+      - Learning Support Programme (LSP).md
+      - Allied Educators.md
