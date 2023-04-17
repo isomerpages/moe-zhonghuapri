@@ -2,19 +2,19 @@ collections:
   about-zps:
     output: true
     order:
-      - Allied Educators.md
-      - Learning Support Programme (LSP).md
-      - Mother Tongue Language Teachers.md
-      - Primary 6.md
-      - Primary 5.md
-      - Primary 4.md
-      - Primary 3.md
-      - Primary 2.md
-      - Primary 1.md
-      - Executive and Administrative Staff.md
-      - Key Personnel.md
-      - School Advisory Committee.md
       - Principal's Message.md
       - Motto, Mission, Vision & Values.md
-      - School Song.md
       - School History.md
+      - School Song.md
+      - School Advisory Committee.md
+      - Key Personnel.md
+      - Executive and Administrative Staff.md
+      - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5.md
+      - Primary 6.md
+      - Mother Tongue Language Teachers.md
+      - Learning Support Programme (LSP).md
+      - Allied Educators.md
