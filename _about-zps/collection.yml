@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teaching Staff.md
-      - Non Teaching Staff.md
       - Principal's Message.md
       - Motto, Mission, Vision & Values.md
       - School History.md
