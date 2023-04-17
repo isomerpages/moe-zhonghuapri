@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - School Song.md
       - Benny/Motto, Mission, Vision & Values.md
       - Benny/Principal's Message.md
       - Benny/.keep
