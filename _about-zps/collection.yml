@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Primary 2.md
       - Primary 1.md
       - Executive and Administrative Staff.md
       - Key Personnel.md
