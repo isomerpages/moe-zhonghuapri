@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Learning Support Programme (LSP).md
       - Mother Tongue Language Teachers.md
       - Primary 6.md
       - Primary 5.md
