@@ -2,6 +2,7 @@ collections:
   list-of-non-teaching-staff:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Key Personnel.md
       - School Advisory Committee.md
       - Non Teaching Staff.md
