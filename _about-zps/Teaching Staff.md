@@ -8,3 +8,4 @@ description: ""
 <br>[Primary 2](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%202.md)
 <br>[Primary 3](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%203.md)
 <br>[Primary 4](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%204.md)
+<br>[Primary 5](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%205.md)
