@@ -12,3 +12,4 @@ description: ""
 <br>[Primary 6](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%206.md)
 <br>[Mother Tongue Language Teachers](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Mother%20Tongue%20Language%20Teachers.md)
 <br>[Learning Support Programme (LSP)](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Learning%20Support%20Programme%20(LSP).md)
+<br>[Allied Educators](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Allied%20Educators.md)
