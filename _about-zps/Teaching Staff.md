@@ -5,7 +5,5 @@ description: ""
 ---
 ### **Information**
 [Primary 1](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%201.md)
-
-[Primary 2](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%202.md)
-
-[Primary 3](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%203.md)
+<br>[Primary 2](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%202.md)
+<br>[Primary 3](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-teaching-staff/editPage/Primary%203.md)
