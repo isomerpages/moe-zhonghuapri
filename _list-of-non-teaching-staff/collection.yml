@@ -2,5 +2,6 @@ collections:
   list-of-non-teaching-staff:
     output: true
     order:
+      - Key Personnel.md
       - School Advisory Committee.md
       - Non Teaching Staff.md
