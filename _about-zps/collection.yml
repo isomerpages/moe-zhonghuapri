@@ -2,12 +2,12 @@ collections:
   about-zps:
     output: true
     order:
-      - Non Teaching Staff.md
-      - Teaching Staff.md
       - Principal's Message.md
       - Motto, Mission, Vision & Values.md
       - School History.md
       - School Song.md
+      - Non Teaching Staff.md
+      - Teaching Staff.md
       - Primary 1.md
       - Primary 2.md
       - Primary 3.md
