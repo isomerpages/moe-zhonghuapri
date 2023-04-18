@@ -10,14 +10,14 @@ CCA is an important part of our pupils’ holistic education. In ZPS, we offer a
 <br>CCAs will commence in January 2023 and run till Nov 2023.
 
 CCA Policy in ZPS
-<br>1.  CCA will be offered to all P3 to P6 pupils.
-<br>2.  The P3 CCA Recruitment will be conducted at the end of Term 1. Once allocated to a CCA, the P3 pupils will be attending their first CCA session in Term 2.
-<br>3.  Each pupil in ZPS is only allowed to join one CCA per work year as CCA requires effort and commitment.
+<br>1.  CCA will be offered to all P3 to P6 pupils.<br>
+<br>2.  The P3 CCA Recruitment will be conducted at the end of Term 1. Once allocated to a CCA, the P3 pupils will be attending their first CCA session in Term 2.<br>
+<br>3.  Each pupil in ZPS is only allowed to join one CCA per work year as CCA requires effort and commitment.<br>
 <br>4.  A pupil who has been successfully accepted to a CCA has to remain committed in that CCA until the end of the CCA work year (i.e. January 2023 to Nov 2023)
-<br>5.  All CCAs have an approximated number of 20 sessions for each work year with the exception of the Competitive Sports and Performing Arts CCAs which will have more.
-<br>6.  Pupils who do not achieve 80% of CCA attendance without valid reasons will be de-registered as members of the CCA at the end of the work year.
-<br>7.  If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
-<br>8.  Please click to view [2023 CCA Schedule for Semester 1](/list-of-cca-schedule/cca-schedule-for-semester-1/)
+<br>5.  All CCAs have an approximated number of 20 sessions for each work year with the exception of the Competitive Sports and Performing Arts CCAs which will have more.<br>
+<br>6.  Pupils who do not achieve 80% of CCA attendance without valid reasons will be de-registered as members of the CCA at the end of the work year.<br>
+<br>7.  If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.<br>
+<br>8.  Please click to view [2023 CCA Schedule for Semester 1](/list-of-cca-schedule/cca-schedule-for-semester-1/)<br>
 <br>9.  A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 <br>[Mr Azman]( azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
 <br>[Mr Tang Qisheng](tang_qisheng@moe.edu.sg ) (For Performing Arts CCAs).
