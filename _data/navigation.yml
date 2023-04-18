@@ -18,10 +18,10 @@ links:
   - title: Niche Programme
     collection: niche-programme
   - title: Departments
-    url: /departments/English-Language/
+    url: /departments/english-language/
     sublinks:
       - title: English Language
-        url: /departments/English-language/
+        url: /departments/english-language/
       - title: Mathematics
         url: /departments/Mathematics/
       - title: Mother Tongue
