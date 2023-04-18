@@ -22,6 +22,3 @@ Let's learn to be safe and smart digital users together!
 <br>[Meaning And Forms Of Fake News](https://go.gov.sg/meaningandformsoffakenews)
 <br>[MOE Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
-[testing](/files/meaning%20and%20forms%20of%20fake%20news.pdf)
-
-[testing2](/files/meaning%20and%20forms%20of%20fake%20news.pdf)
