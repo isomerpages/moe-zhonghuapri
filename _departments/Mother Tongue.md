@@ -9,7 +9,6 @@ description: ""
 
 **Vision**
 <br>Confident users of Mother Tongue Language who take pride in their Mother Tongue and heritage
-
 <br>Please visit individual mother tongue language page for more detail
 <br>1.  [Chinese Language Page](/list-of-mother-tongue-links/chinese-language/)
 <br>2.  [Malay Language Page](/list-of-mother-tongue-links/malay-language/)
