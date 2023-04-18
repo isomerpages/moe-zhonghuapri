@@ -17,14 +17,7 @@ Let's learn to be safe and smart digital users together!
 
 <img src="/images/Cyber.png" style="width:70%">
 
-[Ways To Spot Fake News](https://go.gov.sg/ways-to-spot-fake-news)
-
-[Meaning And Forms of Fake News](https://go.gov.sg/meaning-and-forms-of-fake-news)
-
-
-
-More helpful resources can be found here:  
-
-  
-
-1.  [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+<br>[Ways To Spot Fake News](https://go.gov.sg/ways-to-spot-fake-news)
+<br>[Meaning And Forms of Fake News](https://go.gov.sg/meaning-and-forms-of-fake-news)
+<br>More helpful resources can be found here:
+<br>1.  [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
