@@ -15,4 +15,4 @@ The Recreational Badminton Team aims to develop discipline, resilience, responsi
 
 **CCA Schedule**
 <br>Tuesday
-<br>2.00 – 3.45pm
+<br>2.00pm – 3.45pm
