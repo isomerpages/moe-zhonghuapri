@@ -26,8 +26,8 @@ Outdoor Education Progression
 ![](/images/pe%20-%20july%20%202020-%20icon%20email-mrazman%20n%20mr%20ravi%20-%20pic%203.PNG)
 <br>Guiding Principle
 <br>The Outdoor Education component provides opportunities for theoretical concepts to be enacted in authentic outdoor settings. It focuses on three strands –
-<br>1.  Enhancing physical health and wellbeing;
-<br>2. Building competency in assessing and managing risk;
+<br>1.  Enhancing physical health and wellbeing
+<br>2. Building competency in assessing and managing risk
 <br>3. Developing a sense of place
 
 ![](/images/pe%20-%20july%20%202020-%20icon%20email-mrazman%20n%20mr%20ravi%20-%20pic%202.PNG)
