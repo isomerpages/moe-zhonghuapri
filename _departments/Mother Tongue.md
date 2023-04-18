@@ -13,4 +13,4 @@ description: ""
 Please visit individual mother tongue language page for more detail.
 <br>1.  [Chinese Language Page](/list-of-mother-tongue-links/chinese-language/)
 <br>2.  [Malay Language Page](/list-of-mother-tongue-links/malay-language/)
-<br>3.  [Tamil Language page](/list-of-mother-tongue-links/tamil-language-and-programmes/)
+<br>3.  [Tamil Language Page](/list-of-mother-tongue-links/tamil-language-and-programmes/)
