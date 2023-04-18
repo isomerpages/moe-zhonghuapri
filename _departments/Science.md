@@ -18,10 +18,10 @@ Aims of Department
 
 The Science department aims to:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide our pupils with first-hand opportunities to physically Inquire, Discover and Explore Science through a variety of teaching strategies/approaches and stimulating activities.&nbsp;&nbsp;
+1.  provide our pupils with first-hand opportunities to physically Inquire, Discover and Explore Science through a variety of teaching strategies/approaches and stimulating activities.&nbsp;&nbsp;
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide pupils with basic scientific terms and concepts to help them understand themselves and the world around them.
+2.  provide pupils with basic scientific terms and concepts to help them understand themselves and the world around them.
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry thus Applying Science to the world they live in.
+3.  provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry thus Applying Science to the world they live in.
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in.
+4.  equip pupils with ethics and attitudes hence allowing them to make informed decisions and take responsible actions towards the environment they live in.
