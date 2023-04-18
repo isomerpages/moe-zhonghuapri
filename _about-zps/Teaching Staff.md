@@ -11,3 +11,4 @@ description: ""
 <br>[Primary 5](/list-of-teaching-staff/primary-5/)
 <br>[Primary 6](/list-of-teaching-staff/primary-6/)
 <br>[Mother Tongue Language Teachers](/list-of-teaching-staff/mother-tongue-language-teachers/)
+<br>[Learning Support Programme (LSP)](/list-of-teaching-staff/learning-support-programme-lsp/)
