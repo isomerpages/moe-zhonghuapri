@@ -26,7 +26,7 @@ description: ""
   overflow-wrap: break-word">Fun with Math: Ratio</td><td></td></tr><tr height="8" style="mso-height-source:userset;height:6.0pt"><td height="8" style="height:6.0pt"></td><td></td><td></td></tr></tbody></table>
 
 <br>2.  Learning Support for Mathematics (LSM) programme for Primary 1 to 2
-**Early Success. Strong Basics. Steady Progress**
+<br>**Early Success. Strong Basics. Steady Progress**
 <br>Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.<br>
 <br>3.  Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4<br>
 <br>ICAN aims to provide more support for Primary &amp; 3 and Primary 4 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among the pupils.<br>
