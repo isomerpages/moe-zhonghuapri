@@ -6,5 +6,5 @@ description: ""
 ### **Information**
 [School Advisory Committee](/about-zps/list-of-non-teaching-staff/school-advisory-committee/)
 <br>[Key Personnel](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-non-teaching-staff/editPage/Key%20Personnel.md)
-<br>[Key Personnel](https://www.open.gov.sg/about-zps/list-of-non-teaching-staff/key-personnel/)
+<br>[Key Personnel](/about-zps/list-of-non-teaching-staff/key-personnel/)
 <br>[Executive and Administrative Staff](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-non-teaching-staff/editPage/Executive%20and%20Administrative%20Staff.md)
