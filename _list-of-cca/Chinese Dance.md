@@ -13,6 +13,6 @@ ZPS Chinese Dance CCA aims to lead pupils to enjoy the process of dancing, to in
 
 **CCA Schedule**
 <br>Tuesday
-<br>2.00 – 4.15pm
+<br>2.00pm – 4.15pm
 <br>Thursday
-<br>3.30 – 5.30pm
+<br>3.30pm – 5.30pm
