@@ -28,7 +28,7 @@ description: ""
 <br>2.  Learning Support for Mathematics (LSM) programme for Primary 1 to 2
 <br>**Early Success. Strong Basics. Steady Progress**
 <br>Learning Support for Mathematics (LSM) aims to provide early success for Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme focuses on basic mathematical skills and concepts to build strong foundation in the pupils.<br>
-<br>3.  Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4<br>
+<br>3.  Improving Confidence and Achievement in Numeracy (ICAN) programme for Primary 3 to 4
 <br>ICAN aims to provide more support for Primary &amp; 3 and Primary 4 pupils with weak numeracy skills. The programme focuses on basic mathematical skills and concepts to build strong foundation and confidence among the pupils.<br>
 <br>4.  Family Mathematics
 <br>This programme aims to build factual fluency among our pupils through bonding activities with their family members. Pupils bring cards and board games home to play with their family members and learn Mathematics in a joyful way.
