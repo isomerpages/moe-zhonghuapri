@@ -8,3 +8,4 @@ description: ""
 <br>[Primary 2](/teaching-staff/primary-2/)
 <br>[Primary 3](/list-of-teaching-staff/primary-3/)
 <br>[Primary 4](/list-of-teaching-staff/primary-4/)
+<br>[Primary 5](/list-of-teaching-staff/primary-5/)
