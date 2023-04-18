@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Information**
 **Mission**
-<br>Engaged Learning through IDEAs
+<br>Engaged Learning through IDEAs.
 <br>(Inquiry, Discovery, Exploration and Applications)
 
 **Vision**
