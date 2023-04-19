@@ -10,16 +10,16 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7ztq{background-color:#FFF;color:#4372D6;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 503px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 195px">
-<col style="width: 22px">
-<col style="width: 21px">
-<col style="width: 265px">
+<col style="width: 235px">
+<col style="width: 27px">
+<col style="width: 25px">
+<col style="width: 233px">
 </colgroup>
 <thead>
   <tr>
@@ -28,24 +28,24 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" class="tg-ogew">School Address</td>
-    <td colspan="2" class="tg-ogew">12 Serangoon Ave 4 Singapore 556095</td>
+    <td colspan="2" class="tg-06je">School Address</td>
+    <td colspan="2" class="tg-06je">12 Serangoon Ave 4 Singapore 556095</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-ogew">General Office Tel</td>
-    <td colspan="2" class="tg-ogew">6283 5413</td>
+    <td colspan="2" class="tg-06je">General Office Tel</td>
+    <td colspan="2" class="tg-06je">6283 5413</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-ogew">School Fax</td>
-    <td colspan="2" class="tg-ogew">6282 3882</td>
+    <td colspan="2" class="tg-06je">School Fax</td>
+    <td colspan="2" class="tg-06je">6282 3882</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-ogew">School E-mail</td>
-    <td colspan="2" class="tg-7ztq"><a href="mailto:zhonghua_ps@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">zhonghua_ps@moe.edu.sg</span></a></td>
+    <td colspan="2" class="tg-06je">School E-mail</td>
+    <td colspan="2" class="tg-wjv8"><a href="mailto:zhonghua_ps@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">zhonghua_ps@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-ogew">Location</td>
-    <td colspan="2" class="tg-7ztq"><a href="https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598585,103.8673854,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29"><span style="text-decoration:underline;color:#4372D6">Map to Zhonghua Primary School</span></a></td>
+    <td colspan="2" class="tg-06je">Location</td>
+    <td colspan="2" class="tg-wjv8"><a href="https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598585,103.8673854,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29"><span style="text-decoration:underline;color:#4372D6">Map to Zhonghua Primary School</span></a></td>
   </tr>
 </tbody>
 </table>
