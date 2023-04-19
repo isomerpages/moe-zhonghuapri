@@ -51,6 +51,8 @@ description: ""
 </tbody>
 </table>
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -60,12 +62,12 @@ description: ""
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 512px" class="tg">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
-<col style="width: 220px">
-<col style="width: 25px">
-<col style="width: 23px">
-<col style="width: 244px">
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
 </colgroup>
 <thead>
   <tr>
