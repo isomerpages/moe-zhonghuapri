@@ -4,10 +4,51 @@ permalink: /contact-us/admin-matter/
 description: ""
 ---
 ### **Information**
-<table style="border-collapse:
- collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
- width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:135pt" width="180" class="xl65" height="10"><a name="RANGE!C2:F9"></a></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl66" height="21" colspan="4">
-<center>SCHOOL CONTACT DETAILS</center></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">School Address</td><td class="xl68" colspan="2">12 Serangoon Ave 4 Singapore 556095</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">General Office Tel</td><td class="xl68" colspan="2">6283 5413</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">School Fax</td><td class="xl68" colspan="2">6282 3882</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">School E-mail</td><td class="xl67" colspan="2"><a href="mailto:zhonghua_ps@moe.edu.sg">zhonghua_ps@moe.edu.sg</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Location</td><td class="xl67" colspan="2"><a href="https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598585,103.8673854,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29">Map to Zhonghua Primary School</a></td></tr><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt" class="xl65" height="7"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7ztq{background-color:#FFF;color:#4372D6;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 503px" class="tg">
+<colgroup>
+<col style="width: 195px">
+<col style="width: 22px">
+<col style="width: 21px">
+<col style="width: 265px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">SCHOOL CONTACT DETAILS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" class="tg-ogew">School Address</td>
+    <td colspan="2" class="tg-ogew">12 Serangoon Ave 4 Singapore 556095</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-ogew">General Office Tel</td>
+    <td colspan="2" class="tg-ogew">6283 5413</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-ogew">School Fax</td>
+    <td colspan="2" class="tg-ogew">6282 3882</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-ogew">School E-mail</td>
+    <td colspan="2" class="tg-7ztq"><a href="mailto:zhonghua_ps@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">zhonghua_ps@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-ogew">Location</td>
+    <td colspan="2" class="tg-7ztq"><a href="https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598585,103.8673854,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29"><span style="text-decoration:underline;color:#4372D6">Map to Zhonghua Primary School</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <table style="border-collapse:
  collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
@@ -40,4 +81,3 @@ description: ""
 <center>SCHOOL DENTAL SERVICES</center></td></tr><tr style="mso-height-source:userset;height:45.75pt" height="61"><td style="height:45.75pt;
   width:540pt" width="720" class="xl74" height="61" colspan="4">A roving dental team will serve our students’ dental needs.<span style="mso-spacerun:yes">&nbsp; </span>Depending on their schedule, they will station in our school for a period in the year.<span style="mso-spacerun:yes">&nbsp; </span>If parents need quick attention for their children’s dental needs, please make appointment with contacts below:</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;border-top:none;
   width:135pt" width="180" class="xl71" height="41">Schools Mobile Dental Buddy Clinic&nbsp;</td><td style="border-top:none;border-left:none" class="xl70">Address</td><td style="border-top:none;border-left:none" class="xl72">Mobile number</td><td style="border-top:none;border-left:none" class="xl66">Remarks</td></tr><tr style="height:105.75pt" height="141"><td style="height:105.75pt;width:135pt" width="180" class="xl67" height="141">Xinghua Primary School</td><td style="border-top:none;width:135pt" width="180" class="xl69">45 Hougang Avenue 1 Singapore 538882</td><td style="border-top:none;border-left:none" class="xl72">98389102</td><td style="border-top:none;border-left:none;width:135pt" width="180" class="xl68">This is the first point of contact.<span style="mso-spacerun:yes">&nbsp;</span><br>Note: The dentist may not be available to pick up your call immediately.<span style="mso-spacerun:yes">&nbsp; </span>Do leave your phone number for him/her to call you back.</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;width:135pt" width="180" class="xl67" height="41">Yangzheng Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">15 Serangoon Ave 3 (556108)</td><td style="border-top:none;border-left:none" class="xl72">89400314</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl67" height="21">Punggol Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">61 Hougang Ave 8 (538787)</td><td style="border-top:none;border-left:none" class="xl72">89091753&nbsp;</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl67" height="21">Holy Innocents’ Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">5 Lor Low Koon (536451)</td><td style="border-top:none;border-left:none" class="xl72">87647746&nbsp;</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21">MDC 5</td><td style="border-top:none" class="xl70">&nbsp;</td><td style="border-top:none;border-left:none" class="xl72">92707796</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl77" height="21">HPB School Dental Centre</td><td class="xl66" colspan="2">Please email to HPD Youth Preventive Service:</td><td style="border-top:none" class="xl73"><a href="mailto:Contact_yps@hpb.gov.sg">Contact_yps@hpb.gov.sg</a></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl65" height="8"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
-	
