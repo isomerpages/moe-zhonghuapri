@@ -133,11 +133,56 @@ description: ""
 </tbody>
 </table>
 
-<table style="border-collapse:
- collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
- width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt;width:135pt" width="180" class="xl65" height="8"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;
-  width:540pt" width="720" class="xl67" height="21" colspan="4">
-<center>SCHOOL UNIFORM</center></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Supplier</td><td class="xl69" colspan="2">Shirley Season Wear</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Telephone No</td><td class="xl69" colspan="2">6280 4917</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Fax No</td><td class="xl69" colspan="2">6285 9727</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Email</td><td class="xl68" colspan="2"><a href="mailto:getintouch@shirleyuni.com">getintouch@shirleyuni.com</a></td></tr><tr style="mso-height-source:userset;height:29.25pt" height="39"><td style="height:29.25pt" class="xl65" height="39" colspan="2">Note</td><td style="width:270pt" width="360" class="xl66" colspan="2">School uniform can be ordered through the school bookshop during term time</td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl65" height="9"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zl8{background-color:#FFF;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 588px" class="tg">
+<colgroup>
+<col style="width: 253px">
+<col style="width: 28px">
+<col style="width: 27px">
+<col style="width: 280px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">SCHOOL UNIFORM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" class="tg-06je">Supplier</td>
+    <td colspan="2" class="tg-06je">Shirley Season Wear</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Telephone No</td>
+    <td colspan="2" class="tg-06je">6280 4917</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Fax No</td>
+    <td colspan="2" class="tg-06je">6285 9727</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Email</td>
+    <td colspan="2" class="tg-wjv8"><a href="mailto:getintouch@shirleyuni.com"><span style="text-decoration:underline;color:#4372D6">getintouch@shirleyuni.com</span></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Note</td>
+    <td colspan="2" class="tg-1zl8">School uniform can be ordered through the school bookshop during term time</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Website</td>
+    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 	
 <table style="border-collapse:
  collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
