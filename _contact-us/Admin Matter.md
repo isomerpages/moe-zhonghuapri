@@ -50,11 +50,38 @@ description: ""
 </tbody>
 </table>
 
-<table style="border-collapse:
- collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
- width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:135pt" width="180" class="xl65" height="7"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21" colspan="4">
-<center>SCHOOL OPERATING HOURS</center></td></tr><tr style="mso-height-source:userset;height:30.75pt" height="41"><td style="height:30.75pt;mso-ignore:colspan" colspan="2" class="xl65" height="41">General Office Operating Hours</td><td style="width:270pt" width="360" class="xl67" colspan="2">7:00 am to 6:00 pm (Term Time)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
-<br>8:00 am to 5:00 pm (School Holidays)</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Student Reporting Time (during Term Time)</td><td class="xl69" colspan="2">7:30 am</td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" class="xl65" height="6"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 512px" class="tg">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 25px">
+<col style="width: 23px">
+<col style="width: 244px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">SCHOOL OPERATING HOURS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" class="tg-06je">General Office Operating Hours</td>
+    <td colspan="2" class="tg-06je">7:00 am to 6:00 pm (Term Time)<span style="font-weight:inherit;font-style:inherit">                  </span><br>8:00 am to 5:00 pm (School Holidays)</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Student Reporting Time (during Term Time)</td>
+    <td colspan="2" class="tg-06je">7:30 am</td>
+  </tr>
+</tbody>
+</table>
 
 <table style="border-collapse:
  collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
