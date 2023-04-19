@@ -83,11 +83,55 @@ description: ""
 </tbody>
 </table>
 
-<table style="border-collapse:
- collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
- width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt;width:135pt" width="180" class="xl65" height="6"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21" colspan="4">
-<center>SCHOOL-BASED STUDENT CARE CENTRE</center></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Supplier</td><td class="xl70" colspan="2">Learning Studio Educare</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20" colspan="2">Telephone No</td><td class="xl71" colspan="2">8102 7268</td></tr><tr style="mso-height-source:userset;height:14.25pt" height="19"><td style="height:14.25pt;
-  width:270pt" width="360" class="xl66" height="19" colspan="2">Operating Hours (Term Time)</td><td style="width:270pt" width="360" class="xl66" colspan="2">Monday to Friday: 1:30 pm to 7:00 pm</td></tr><tr style="mso-height-source:userset;height:14.25pt" height="19"><td style="height:14.25pt" class="xl65" height="19" colspan="2">Operating Hours (School Holidays)</td><td class="xl68" colspan="2">Monday to Friday: 7:30 am to 7:00 pm</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Email</td><td class="xl69" colspan="2"><a href="mailto:enquiry@learningstudioeducare.com">enquiry@learningstudioeducare.com</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21" colspan="2">Website</td><td class="xl69" colspan="2"><a href="http://www.zenitant.com.sg/">www.zenitant.com.sg</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" class="xl65" height="6"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 588px" class="tg">
+<colgroup>
+<col style="width: 253px">
+<col style="width: 28px">
+<col style="width: 27px">
+<col style="width: 280px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">SCHOOL-BASED STUDENT CARE CENTRE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" class="tg-06je">Supplier</td>
+    <td colspan="2" class="tg-06je">Learning Studio Educare</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Telephone No</td>
+    <td colspan="2" class="tg-06je">8102 7268</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 1:30 pm to 7:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 7:30 am to 7:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Email</td>
+    <td colspan="2" class="tg-wjv8"><a href="mailto:enquiry@learningstudioeducare.com"><span style="text-decoration:underline;color:#4372D6">enquiry@learningstudioeducare.com</span></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Website</td>
+    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <table style="border-collapse:
  collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
