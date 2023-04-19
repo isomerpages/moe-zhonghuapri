@@ -86,6 +86,8 @@ description: ""
 </tbody>
 </table>
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -96,12 +98,12 @@ description: ""
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 588px" class="tg">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
-<col style="width: 253px">
-<col style="width: 28px">
-<col style="width: 27px">
-<col style="width: 280px">
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
 </colgroup>
 <thead>
   <tr>
