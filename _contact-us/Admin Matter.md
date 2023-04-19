@@ -235,10 +235,74 @@ description: ""
 </tbody>
 </table>
 
-<table style="border-collapse:
- collapse;width:540pt" width="720" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6582;
- width:135pt" span="4" width="180"></colgroup><tbody><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt;width:135pt" width="180" class="xl65" height="8"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td><td style="width:135pt" width="180" class="xl65"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;
-  width:540pt" width="720" class="xl75" height="21" colspan="4">
-<center>SCHOOL DENTAL SERVICES</center></td></tr><tr style="mso-height-source:userset;height:45.75pt" height="61"><td style="height:45.75pt;
-  width:540pt" width="720" class="xl74" height="61" colspan="4">A roving dental team will serve our students’ dental needs.<span style="mso-spacerun:yes">&nbsp; </span>Depending on their schedule, they will station in our school for a period in the year.<span style="mso-spacerun:yes">&nbsp; </span>If parents need quick attention for their children’s dental needs, please make appointment with contacts below:</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;border-top:none;
-  width:135pt" width="180" class="xl71" height="41">Schools Mobile Dental Buddy Clinic&nbsp;</td><td style="border-top:none;border-left:none" class="xl70">Address</td><td style="border-top:none;border-left:none" class="xl72">Mobile number</td><td style="border-top:none;border-left:none" class="xl66">Remarks</td></tr><tr style="height:105.75pt" height="141"><td style="height:105.75pt;width:135pt" width="180" class="xl67" height="141">Xinghua Primary School</td><td style="border-top:none;width:135pt" width="180" class="xl69">45 Hougang Avenue 1 Singapore 538882</td><td style="border-top:none;border-left:none" class="xl72">98389102</td><td style="border-top:none;border-left:none;width:135pt" width="180" class="xl68">This is the first point of contact.<span style="mso-spacerun:yes">&nbsp;</span><br>Note: The dentist may not be available to pick up your call immediately.<span style="mso-spacerun:yes">&nbsp; </span>Do leave your phone number for him/her to call you back.</td></tr><tr style="height:30.75pt" height="41"><td style="height:30.75pt;width:135pt" width="180" class="xl67" height="41">Yangzheng Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">15 Serangoon Ave 3 (556108)</td><td style="border-top:none;border-left:none" class="xl72">89400314</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl67" height="21">Punggol Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">61 Hougang Ave 8 (538787)</td><td style="border-top:none;border-left:none" class="xl72">89091753&nbsp;</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl67" height="21">Holy Innocents’ Pr School</td><td style="border-top:none;width:135pt" width="180" class="xl69">5 Lor Low Koon (536451)</td><td style="border-top:none;border-left:none" class="xl72">87647746&nbsp;</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl65" height="21">MDC 5</td><td style="border-top:none" class="xl70">&nbsp;</td><td style="border-top:none;border-left:none" class="xl72">92707796</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;width:135pt" width="180" class="xl77" height="21">HPB School Dental Centre</td><td class="xl66" colspan="2">Please email to HPD Youth Preventive Service:</td><td style="border-top:none" class="xl73"><a href="mailto:Contact_yps@hpb.gov.sg">Contact_yps@hpb.gov.sg</a></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl65" height="8"></td><td class="xl65"></td><td class="xl65"></td><td class="xl65"></td></tr></tbody></table>
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wzj2{background-color:#ffffff;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 888px" class="tg">
+<colgroup>
+<col style="width: 294px">
+<col style="width: 163px">
+<col style="width: 181px">
+<col style="width: 250px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">SCHOOL DENTAL SERVICES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4" class="tg-ycr8">A roving dental team will serve our students’ dental needs.<span style="font-weight:inherit;font-style:inherit"> </span> Depending on their schedule, they will station in our school for a period in the year.<span style="font-weight:inherit;font-style:inherit"> </span> If parents need quick attention for their children’s dental needs, please make appointment with contacts below:</td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">Schools Mobile Dental Buddy Clinic </td>
+    <td class="tg-ycr8">Address</td>
+    <td class="tg-ycr8">Mobile number</td>
+    <td class="tg-ycr8">Remarks</td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">Xinghua Primary School</td>
+    <td class="tg-ycr8">45 Hougang Avenue 1 Singapore 538882</td>
+    <td class="tg-ycr8">98389102</td>
+    <td class="tg-ycr8">This is the first point of contact.<span style="font-weight:inherit;font-style:inherit"> </span><br>Note: The dentist may not be available to pick up your call immediately.<span style="font-weight:inherit;font-style:inherit"> </span> Do leave your phone number for him/her to call you back.</td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">Yangzheng Pr School</td>
+    <td class="tg-ycr8">15 Serangoon Ave 3 (556108)</td>
+    <td class="tg-ycr8">89400314</td>
+    <td class="tg-ycr8"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">Punggol Pr School</td>
+    <td class="tg-ycr8">61 Hougang Ave 8 (538787)</td>
+    <td class="tg-ycr8">89091753 </td>
+    <td class="tg-ycr8"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">Holy Innocents’ Pr School</td>
+    <td class="tg-ycr8">5 Lor Low Koon (536451)</td>
+    <td class="tg-ycr8">87647746 </td>
+    <td class="tg-ycr8"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">MDC 5</td>
+    <td class="tg-ycr8"> </td>
+    <td class="tg-ycr8">92707796</td>
+    <td class="tg-ycr8"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8">HPB School Dental Centre</td>
+    <td colspan="2" class="tg-ycr8">Please email to HPD Youth Preventive Service:</td>
+    <td class="tg-wzj2"><a rel="noopener noreferrer" target="_blank" href="mailto:Contact_yps@hpb.gov.sg"><span style="text-decoration:underline;color:#4372D6">Contact_yps@hpb.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
