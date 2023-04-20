@@ -53,51 +53,51 @@ YHs
 <br>P5 Oracy Debate?
 <br>HOD EL/ LH EL
 
-P5 SC Programmes / Activities
-pic
-information not available
-HOD SC
+**P5 SC Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD SC
 
-P5 MTL Programmes / Activities
-pic
-information not available
-HOD MT
+**P5 MTL Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD MT
 
-P6 OLE
-pic
-The OLE programme provide opportunities for our pupils to connect with nature, work together as a team, and learn about environmental issues. For P6, the pupils will spend a day at the Southern Ridges and Hort Park where they will get to do a simple hiking activity to experience and see flora and fauna up close and personal as part of their learning experience and work together as a team to complete challenging tasks.
-SH PE
+**P6 OLE**
+<br>pic
+<br>The OLE programme provide opportunities for our pupils to connect with nature, work together as a team, and learn about environmental issues. For P6, the pupils will spend a day at the Southern Ridges and Hort Park where they will get to do a simple hiking activity to experience and see flora and fauna up close and personal as part of their learning experience and work together as a team to complete challenging tasks.
+<br>SH PE
 
-P6 PW
-pic
-Project Work will be carried out as part of their Post PSLE Programme as it allows them more time and space to truly focus on working on the project. At P6 the PW aims to provide the pupils with the opportunity to apply their knowledge and make links across different areas of knowledgeas well as to generate, develop and evaluate ideas and information. Students will also hone their communication skills when they learn to present ideas clearly and coherently to their selected audience in both the written and oral forms. Apart from working collaboratively, students will also have the opportunity to learn on their own, reflect on their learning and take appropriate actions to improve. More information will be provided at a later time.
-PW Leader Talib
+**P6 PW**
+<br>pic
+<br>Project Work will be carried out as part of their Post PSLE Programme as it allows them more time and space to truly focus on working on the project. At P6 the PW aims to provide the pupils with the opportunity to apply their knowledge and make links across different areas of knowledgeas well as to generate, develop and evaluate ideas and information. Students will also hone their communication skills when they learn to present ideas clearly and coherently to their selected audience in both the written and oral forms. Apart from working collaboratively, students will also have the opportunity to learn on their own, reflect on their learning and take appropriate actions to improve. More information will be provided at a later time.
+<br>PW Leader Talib
 
-P6 POST PSLE Programme
-pic
-The POST PSLE programme is designed to meaningfully occupy the pupils with holistic programmes that will not only continue to develop them to be learners, thinkers and leaders, but also to help prepare them to transit to secondary school smoothly. Programmes include outdoor learning experiences, programmes to pick up new skills and interests, career guidance programmes, a secondary school fair as well as transition programmes to ready them for secondary school.
-YH UP
+**P6 POST PSLE Programme**
+<br>pic
+<br>The POST PSLE programme is designed to meaningfully occupy the pupils with holistic programmes that will not only continue to develop them to be learners, thinkers and leaders, but also to help prepare them to transit to secondary school smoothly. Programmes include outdoor learning experiences, programmes to pick up new skills and interests, career guidance programmes, a secondary school fair as well as transition programmes to ready them for secondary school.
+<br>YH UP
 
-P6 Enrichment Programmes (for HAL) TO BE CONFIRMED if we'd like to put this on website OR just break it down based on programmes by subject
-pic
-Enrichment programmes that are designed to help stretch the learning for our High Ability Learners and provide them opportunites to explore learning beyond the curriculum. At P6, the rpgrammes include Math E2K as well as... P6 HAL only for MATH?
-Ms Liang Lifang / IP Heads (to confirm the programmes)
+**P6 Enrichment Programmes (for HAL)** TO BE CONFIRMED if we'd like to put this on website OR just break it down based on programmes by subject
+<br>pic
+<br>Enrichment programmes that are designed to help stretch the learning for our High Ability Learners and provide them opportunites to explore learning beyond the curriculum. At P6, the rpgrammes include Math E2K as well as... P6 HAL only for MATH?
+<br>Ms Liang Lifang / IP Heads (to confirm the programmes)
 
-P6 Math Programmes / Activities
-pic
-information not available
-HOD MA
+**P6 Math Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD MA
 
-P6 EL Programmes / Activities
-pic
-information not available
-HOD EL
+**P6 EL Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD EL
 
-P6 SC Programmes / Activities
-P6 Science ZPS (Zoom Powered Speedster) Plan &amp; Vehicle Competition The P6 Science ZPS Plan &amp; Vehicle Competition is an opportunity for pupils to apply their Science knowledge and concepts on a hands-on project. Pupils are tasked to create their very own toy vehicle/plan and are guided to conduct their own research and construction of their toy vehicle/plan. Pupils are recognised for their efforts in different phases of the competition, for Design (The Plan) and the Product (The vehicle) As the closing event for the competition, a level wide "Race" is also conducted to recognise the best built vehicle in the level. Through this competition, pupils get to practice important Values, Ethics and Attitudes in Science (eg. Curiosity, Creativity, Resilience and Responsibility)
-HOD SC
+**P6 SC Programmes / Activities**
+<br>P6 Science ZPS (Zoom Powered Speedster) Plan &amp; <br>Vehicle Competition The P6 Science ZPS Plan &amp; Vehicle Competition is an opportunity for pupils to apply their Science knowledge and concepts on a hands-on project. Pupils are tasked to create their very own toy vehicle/plan and are guided to conduct their own research and construction of their toy vehicle/plan. Pupils are recognised for their efforts in different phases of the competition, for Design (The Plan) and the Product (The vehicle) As the closing event for the competition, a level wide "Race" is also conducted to recognise the best built vehicle in the level. Through this competition, pupils get to practice important Values, Ethics and Attitudes in Science (eg. Curiosity, Creativity, Resilience and Responsibility)
+<br>HOD SC
 
-P5 MTL Programmes / Activities
-pic
-information not available
-HOD MT
+**P5 MTL Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD MT
