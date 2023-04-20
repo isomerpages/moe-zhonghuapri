@@ -17,7 +17,7 @@ Circle Time
 pic
 <br>Circle Time is a time set aside for teachers and pupils to build positive relationships, to listen to one another, to solve problems that they are facing as a class. It is also a time for teachers and pupils to chat about matters that are important to the class. Through Circle Time, we hope to promote a positive classroom culture and positive interactions between pupils and teachers. Topics of discussions range from classbased issues, making and looking out for friends, social skills such as seeking help, hobbies and many more.
 YHs
-
+S:\\ZPS\_Levels\\Circle Time\\Circle Time Photos
 
 P1 Orientation - First Day of School
 pic
@@ -58,7 +58,3 @@ PAL Programme
 pic
 The Programme for Active Learning (PAL) is an integral part of the Primary 1 and 2 curriculum. Through PAL, the P1 and P2 pupils at ZPS undergo learning experiences that are active, hands-on, and meaningful. They get to develop and hone soft skills (also known as social emotional learning – SEL) such as the ability to communicate clearly and cooperate with others. At ZPS, we do this through the experiential nature of PAL within four main domains - Sports &amp; Games, Outdoor Education, Performing Arts and Visual Arts.
 SH PAM Mr Tang
-
-
-
-
