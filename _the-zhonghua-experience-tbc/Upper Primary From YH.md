@@ -9,47 +9,49 @@ Learning Dispositions UP
 <br>Leader : A Zhonghuarian who influences others positively and is able to lead in showing care to others.
 YHs
 
-Circle Time
-pic
-Circle Time is a time that we have set aside for teachers and pupils to build positive relationships, to listen to one another as well as to solve problems that they are facing as a class. It is a dedicate time set aside for teachers and pupils to chat about matters that are important to the class. Through Circle Time, we hope to promote a positive classroom culture and positive interactions between pupils and teachers. At Upper Primary, topics of discussion range from managing workload and homework, managing expectations, managing friendships as well as coping with stress.
-YHs
-S:\\ZPS\_Levels\\Circle Time\\Circle Time Photos
+**Circle Time**
+<br>pic
+<br>Circle Time is a time that we have set aside for teachers and pupils to build positive relationships, to listen to one another as well as to solve problems that they are facing as a class. It is a dedicate time set aside for teachers and pupils to chat about matters that are important to the class. Through Circle Time, we hope to promote a positive classroom culture and positive interactions between pupils and teachers. At Upper Primary, topics of discussion range from managing workload and homework, managing expectations, managing friendships as well as coping with stress.
+<br>YHs
+<br>S:\\ZPS\_Levels\\Circle Time\\Circle Time Photos
 
-P5
-P5 OLE
-pic
-The P5 Outdoor Learning Experience this year is a 2D1N residential programme that aims to facilitate students’ learning about Outdoor, Leadership and Environmental Education with the overarching theme of Nurturing the Joy of Learning and Developing Entrepreneurial Dare. The programme must achieve the following objectives: - Develop students’ Leadership of good character, understanding others’ needs, leading others; - Develop students’ resilience such as learning from setbacks, building confidence, adaptability, motivation to learn; - Unleash the students’ potential such as daring to try, pushing boundaries, managing risk; - Create students’ understanding of the Environmental issues and Environmental Sustainability. Among the activities include team building activities, outdooor experiential, high element, outdoor cooking and campfire.
-SH PE / Mr Abdul Mutalib
+**P5**
 
-P5 Project Work
-pic
-Project Work at P5 aims to provide the pupils with the opportunity to apply their knowledge and make links across different areas of knowledgeas well as to generate, develop and evaluate ideas and information. Students will also hone their communication skills when they learn to present ideas clearly and coherently to their selected audience in both the written and oral forms. Apart from working collaboratively, students will also have the opportunity to learn on their own, reflect on their learning and take appropriate actions to improve. The P5 pupils will learn how to code and fly a drone. With this knowledge, pupils will need to use the drone to assist them with their solution. Pupils will create a diorama of their solution and present their project work to their peers.
-PW Leader Talib
+**P5 OLE**
+<br>pic
+<br>The P5 Outdoor Learning Experience this year is a 2D1N residential programme that aims to facilitate students’ learning about Outdoor, Leadership and Environmental Education with the overarching theme of Nurturing the Joy of Learning and Developing Entrepreneurial Dare. The programme must achieve the following objectives: - Develop students’ Leadership of good character, understanding others’ needs, leading others; - Develop students’ resilience such as learning from setbacks, building confidence, adaptability, motivation to learn; - Unleash the students’ potential such as daring to try, pushing boundaries, managing risk; - Create students’ understanding of the Environmental issues and Environmental Sustainability. Among the activities include team building activities, outdooor experiential, high element, outdoor cooking and campfire.
+<br>SH PE / Mr Abdul Mutalib
 
-P5 NE Show
-pic
-As part of the National Education programme, the P5 pupils are given the opportunity to be part of the National Day Preview. The NE show is a key cohort experience for Primary 5 pupils to gain a deeper understanding of what it means to be Singaporean. Through this collective experience, we also hope that the pupils will have a deepened appreciation of what we can do as a nation and how we can forge ahead, as a nation, in the future.
-HOD CCE
+**P5 Project Work**
+<br>pic
+<br>Project Work at P5 aims to provide the pupils with the opportunity to apply their knowledge and make links across different areas of knowledgeas well as to generate, develop and evaluate ideas and information. Students will also hone their communication skills when they learn to present ideas clearly and coherently to their selected audience in both the written and oral forms. Apart from working collaboratively, students will also have the opportunity to learn on their own, reflect on their learning and take appropriate actions to improve. The P5 pupils will learn how to code and fly a drone. With this knowledge, pupils will need to use the drone to assist them with their solution. Pupils will create a diorama of their solution and present their project work to their peers.
+<br>PW Leader Talib
 
-P5 LJ to Science Centre
-pic
-information not available
-HOD SC
+**P5 NE Show**
+<br>pic
+<br>As part of the National Education programme, the P5 pupils are given the opportunity to be part of the National Day Preview. The NE show is a key cohort experience for Primary 5 pupils to gain a deeper understanding of what it means to be Singaporean. Through this collective experience, we also hope that the pupils will have a deepened appreciation of what we can do as a nation and how we can forge ahead, as a nation, in the future.
+<br>HOD CCE
 
-P5 Enrichment Programmes (for HAL) 
+**P5 LJ to Science Centre**
+<br>pic
+<br>information not available
+<br>HOD SC
+
+**P5 Enrichment Programmes (for HAL) **
 <br>TO BE CONFIRMED if we'd like to put this on website OR just break it down based on programmes by subject
+
 <br>Enrichment programmes that are designed to help stretch the learning for our High Ability Learners and provide them opportunites to explore learning beyond the curriculum. At P5, the rpgrammes include English Oracy Enrichment, Debate, Math and Science E2K as well as... As part of the Science E2K prgoramme, pupils had the opportunity to go on a learning journey and experience a Flight Simulator. ...
-Ms Liang Lifang / IP Heads (to confirm the programmes)
+<br>Ms Liang Lifang / IP Heads (to confirm the programmes)****
 
-P5 Math Programmes / Activities
-pic
-information not available
-HOD MA
+**P5 Math Programmes / Activities**
+<br>pic
+<br>information not available
+<br>HOD MA
 
-P5 EL Programmes / Activities
-pic
-P5 Oracy Debate?
-HOD EL/ LH EL
+**P5 EL Programmes / Activities**
+<br>pic
+<br>P5 Oracy Debate?
+<br>HOD EL/ LH EL
 
 P5 SC Programmes / Activities
 pic
@@ -99,5 +101,3 @@ P5 MTL Programmes / Activities
 pic
 information not available
 HOD MT
-
-
