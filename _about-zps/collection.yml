@@ -2,6 +2,7 @@ collections:
   about-zps:
     output: true
     order:
+      - Non Taching Staff/.keep
       - Principal's Message.md
       - Motto, Mission, Vision & Values.md
       - School History.md
