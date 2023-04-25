@@ -28,4 +28,9 @@ contacts:
       - email: enquiry@learningstudioeducare.com
       - other: "Mon - Fri : 1.30 pm (Sch Term) / 7.30 am (Sch Holidays) - 7.00 pm"
     title: School-Based Student Care Ctr
+  - content:
+      - phone: +65 6280 4917
+      - email: getintouch@shirleyuni.com
+      - other: School uniform is on sale in the school bookshop
+    title: School Uniform
 ---
