@@ -75,4 +75,9 @@ contacts:
       - email: ""
       - other: 61 Hougang Ave 8 (538787)
     title: School Dental-Punggol Pr Sch
+  - content:
+      - phone: +65 8764 7746
+      - email: ""
+      - other: 5 Lor Low Koon (536451)
+    title: "School Dental-Holy Innocents’ "
 ---
