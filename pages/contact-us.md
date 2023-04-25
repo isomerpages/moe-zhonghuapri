@@ -43,4 +43,9 @@ contacts:
       - email: ""
       - other: ""
     title: Helpline - SOS
+  - content:
+      - phone: 1 800 274 4788
+      - email: ""
+      - other: ""
+    title: Helpline - Tinkle Friend
 ---
