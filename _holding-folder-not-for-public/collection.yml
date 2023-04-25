@@ -2,7 +2,6 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
-      - faq.md
       - Zhonghua Educational Support Team (ZEST).md
       - Science.md
       - Assessment and Review.md
