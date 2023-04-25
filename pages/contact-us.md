@@ -48,4 +48,13 @@ contacts:
       - email: ""
       - other: ""
     title: Helpline - Tinkle Friend
+  - content:
+      - phone: ""
+      - email: ""
+      - other: A roving dental team will serve our students’ dental service.  Depending
+          on their schedule, they will station in our school for a few months in
+          the year.  If parents need quick attention for their children, please
+          call the hotline below to make appointments.  For emergencies, please
+          contact SGH School Dental Centre.
+    title: School Dental Services
 ---
