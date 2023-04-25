@@ -2,7 +2,6 @@ collections:
   about-zps:
     output: true
     order:
-      - Non Teaching Staff folder/Key Personnel.md
       - Non Teaching Staff folder/School Advisory Committee.md
       - Non Teaching Staff folder/.keep
       - Principal's Message.md
