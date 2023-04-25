@@ -33,4 +33,9 @@ contacts:
       - email: getintouch@shirleyuni.com
       - other: School uniform is on sale in the school bookshop
     title: School Uniform
+  - content:
+      - phone: +65 6748 3101
+      - email: cascoedusupply@singnet.com.sg
+      - other: "Mon - Fri : 8.30 am - 3.30 pm"
+    title: School Bookshop
 ---
