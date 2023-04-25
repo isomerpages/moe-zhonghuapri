@@ -21,7 +21,6 @@ locations:
       - ""
       - ""
       - ""
-    title: "School "
     operating_hours:
       - days: Mon - Thurs
         time: 7.45 am - 1.30 pm
@@ -30,12 +29,13 @@ locations:
         time: 7.45 am - 1.15 pm
         description: Reporting time for all student  is at 7.30am
     maps_link: ""
+    title: "School "
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6283 5413
+      - email: zhonghua_ps@moe.edu.sg
+      - other: "Mon - Fri : 7.00 am - 5.00 pm  "
+    title: General Office
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
