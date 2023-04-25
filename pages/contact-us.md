@@ -80,4 +80,9 @@ contacts:
       - email: ""
       - other: 5 Lor Low Koon (536451)
     title: "School Dental-Holy Innocents’ "
+  - content:
+      - phone: +65 9270 7796
+      - email: ""
+      - other: ""
+    title: School Dental-MDC 5
 ---
