@@ -57,4 +57,12 @@ contacts:
           call the hotline below to make appointments.  For emergencies, please
           contact SGH School Dental Centre.
     title: School Dental Services
+  - content:
+      - phone: +65 9838 9102
+      - email: ""
+      - other: "45 Hougang Avenue 1 Singapore 538882. Please call this number
+          first.  The dentist may not be able to pick up your call
+          immediately.  Do leave your phone number for the dentist to call you
+          back. "
+    title: School Dental-Xinghua Pri Sch
 ---
