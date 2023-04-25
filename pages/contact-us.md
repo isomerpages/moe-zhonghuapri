@@ -2,31 +2,30 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Zhonghua Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 12 Serangoon Avenue 4
+      - Singapore 556095
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 6.00pm
+        description: Term Time
+      - days: Mon - Fri
+        time: 7.00am - 5.00pm
+        description: School Holidays
+    maps_link: https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598531,103.8695741,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29_yk
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6123 4567
+      - email: enquiries@abc.gov.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
 ---
