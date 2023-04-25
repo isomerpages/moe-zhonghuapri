@@ -70,4 +70,9 @@ contacts:
       - email: ""
       - other: 15 Serangoon Ave 3 (556108)
     title: School Dental-Yangzheng Pr Sch
+  - content:
+      - phone: +65 8909 1753
+      - email: ""
+      - other: 61 Hougang Ave 8 (538787)
+    title: School Dental-Punggol Pr Sch
 ---
