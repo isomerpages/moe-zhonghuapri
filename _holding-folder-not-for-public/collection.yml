@@ -2,6 +2,7 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - privacy.md
       - terms-of-use.md
       - Zhonghua Educational Support Team (ZEST).md
       - Science.md
