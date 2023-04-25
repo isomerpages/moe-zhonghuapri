@@ -65,4 +65,9 @@ contacts:
           immediately.  Do leave your phone number for the dentist to call you
           back. "
     title: School Dental-Xinghua Pri Sch
+  - content:
+      - phone: +65 8940 0314
+      - email: ""
+      - other: 15 Serangoon Ave 3 (556108)
+    title: School Dental-Yangzheng Pr Sch
 ---
