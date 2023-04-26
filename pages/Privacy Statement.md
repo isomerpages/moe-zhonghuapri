@@ -3,4 +3,6 @@ title: Privacy Statement
 permalink: /privacy-statement/
 description: ""
 ---
-testing
+### **Information**
+
+[Privacy Statement](https://www.moe.gov.sg/privacy-statement)
