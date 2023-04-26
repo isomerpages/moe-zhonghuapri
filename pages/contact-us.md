@@ -22,32 +22,32 @@ contacts:
       - phone: +65 6283 5413
       - email: zhonghua_ps@moe.edu.sg
       - other: "Mon - Fri : 7.00 am - 5.00 pm  "
-    title: Zhonghua Pri Sch-Gen Office
+    title: 1. Zhonghua Pri Sch-Gen Office
   - content:
       - phone: +65 8102 7268
       - email: enquiry@learningstudioeducare.com
       - other: "Mon - Fri : 1.30 pm (Sch Term) / 7.30 am (Sch Holidays) - 7.00 pm"
-    title: School-Based Student Care Ctr
+    title: "2. School-Based Student Care "
   - content:
       - phone: +65 6280 4917
       - email: getintouch@shirleyuni.com
       - other: School uniform is on sale in the school bookshop
-    title: School Uniform
+    title: 3. School Uniform
   - content:
       - phone: +65 6748 3101
       - email: cascoedusupply@singnet.com.sg
       - other: "Mon - Fri : 8.30 am - 3.30 pm"
-    title: School Bookshop
+    title: 4. School Bookshop
   - content:
       - phone: 1 800 221 4444
       - email: ""
       - other: ""
-    title: Helpline - SOS
+    title: 5. Helpline - SOS
   - content:
       - phone: 1 800 274 4788
       - email: ""
       - other: ""
-    title: Helpline - Tinkle Friend
+    title: 5a. Helpline - Tinkle Friend
   - content:
       - phone: ""
       - email: ""
@@ -56,7 +56,7 @@ contacts:
           the year.  If parents need quick attention for their children, please
           call the hotline below to make appointments.  For emergencies, please
           contact SGH School Dental Centre.
-    title: School Dental Services
+    title: 6. School Dental Services
   - content:
       - phone: +65 9838 9102
       - email: ""
@@ -64,25 +64,25 @@ contacts:
           first.  The dentist may not be able to pick up your call
           immediately.  Do leave your phone number for the dentist to call you
           back. "
-    title: School Dental-Xinghua Pri Sch
+    title: 6a. Sch Dental-Xinghua Pri
   - content:
       - phone: +65 8940 0314
       - email: ""
       - other: 15 Serangoon Ave 3 (556108)
-    title: School Dental-Yangzheng Pr Sch
+    title: "6b. Sch Dental-Yangzheng Pri "
   - content:
       - phone: +65 8909 1753
       - email: ""
       - other: 61 Hougang Ave 8 (538787)
-    title: School Dental-Punggol Pr Sch
+    title: 6c. Sch Dental-Punggol Pri
   - content:
       - phone: +65 8764 7746
       - email: ""
       - other: 5 Lor Low Koon (536451)
-    title: "School Dental-Holy Innocents’ "
+    title: 6d. Sch Dental-Holy Innocents'
   - content:
       - phone: +65 9270 7796
       - email: ""
       - other: ""
-    title: School Dental-MDC 5
+    title: 6e. Sch Dental-MDC 5
 ---
