@@ -38,7 +38,7 @@ description: ""
 
 **P3 Maths Activities/Programmes** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD MATH
 
 
@@ -50,7 +50,7 @@ description: ""
 
 **P3 MTL Activities/Programmes** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD MTL
 
 
@@ -82,7 +82,7 @@ description: ""
 
 **P4 Maths Activites/Programmes** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD MATH
 
 
@@ -105,5 +105,5 @@ description: ""
 
 **P4 HAL** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD MATH/ IP Heads
