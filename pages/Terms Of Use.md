@@ -3,4 +3,6 @@ title: Terms Of Use
 permalink: /terms-of-use/
 description: ""
 ---
-testing 
+### **Information**
+
+[Terms Of Use](https://www.moe.gov.sg/terms-of-use)
