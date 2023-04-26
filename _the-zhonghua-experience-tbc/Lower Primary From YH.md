@@ -39,13 +39,13 @@ description: ""
 
 **P1 &amp; P2 Fun with Math** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD Math/Math Rep
 
 
 **P1 &amp; P2 MTL Fortnight** - Date?
 <br>pic
-<br>information not available
+<br>**information not available**
 <br>HOD MTL Mr Liew
 
 
