@@ -7,9 +7,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
@@ -55,9 +55,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
@@ -90,9 +90,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
@@ -142,9 +142,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zl8{background-color:#FFF;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
@@ -195,9 +195,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zl8{background-color:#FFF;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
@@ -248,9 +248,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;ffont-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
