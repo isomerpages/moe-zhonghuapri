@@ -32,13 +32,13 @@ contacts:
   - content:
       - phone: +65 6280 4917
       - email: getintouch@shirleyuni.com
-      - other: "School uniform is on sale in the school bookshop from Mon-Fri :
-          8.30am-3.30pm (Term Time)."
+      - other: School uniform is on sale in the school bookshop from
+          Mon-Fri:8.30am-3.30pm (Term Time).
     title: 3. School Uniform
   - content:
       - phone: +65 6748 3101
       - email: cascoedusupply@singnet.com.sg
-      - other: "Mon-Fri : 8.30am-3.30 pm (Term Time)"
+      - other: Mon-Fri:8.30am-3.30pm (Term Time)
     title: 4. School Bookshop
   - content:
       - phone: 1 800 221 4444
