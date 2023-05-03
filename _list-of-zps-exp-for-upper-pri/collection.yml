@@ -2,5 +2,6 @@ collections:
   list-of-zps-exp-for-upper-pri:
     output: true
     order:
+      - P5 Project Work.md
       - P5 OLE.md
       - Circle Time.md
