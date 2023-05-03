@@ -17,10 +17,6 @@ description: ""
 **P1 Orientation - First Day of School** 
 
 **P1 Outdoor leadership and Environmental Education**
-<br>pic
-<br>The OLE programme provide opportunities for our pupils to connect with nature, work together as a team, and learn about environmental issues. For P1, the pupils spent a day in school where they learn to distinguish the recyclable and non-recyclable materials, build confidence through basic obstacle courses such as the River Crossing and work together as a team to complete challenging tasks.
-<br>SH PHE Mr Azman
-
 
 **P2 Outdoor leadership and Environmental Education** - Date?
 <br>pic
