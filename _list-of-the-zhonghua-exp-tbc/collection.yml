@@ -2,5 +2,6 @@ collections:
   list-of-the-zhonghua-exp-tbc:
     output: true
     order:
+      - Lower Primary P1 Outdoor Leadership And Environmental Education.md
       - Lower Primary P1 Orientation First Day Of School.md
       - Lower Primary Circle Time.md
