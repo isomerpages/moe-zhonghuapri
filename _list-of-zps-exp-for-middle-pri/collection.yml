@@ -2,10 +2,10 @@ collections:
   list-of-zps-exp-for-middle-pri:
     output: true
     order:
-      - P3 MTL Activities Or Programmes.md
-      - P3 English Activities Or Programmes.md
-      - P3 Maths Activities or Programmes.md
-      - P3 Project Work.md
-      - P3 CCA Selection.md
-      - P3 Outdoor Leadership Environmental Education.md
       - Circle Time.md
+      - P3 Outdoor Leadership Environmental Education.md
+      - P3 CCA Selection.md
+      - P3 Project Work.md
+      - P3 Maths Activities or Programmes.md
+      - P3 English Activities Or Programmes.md
+      - P3 MTL Activities Or Programmes.md
