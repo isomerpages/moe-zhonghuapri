@@ -192,7 +192,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Note</td>
-    <td colspan="2" class="tg-1zl8">School uniform is on sale in the school bookshop</td>
+    <td colspan="2" class="tg-06je">School uniform is on sale in the school bookshop</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je"></td>
@@ -240,7 +240,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours in School</td>
-    <td colspan="2" class="tg-1zl8">Monday to Friday: 8:30 am to 3:30 pm</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Email</td>
