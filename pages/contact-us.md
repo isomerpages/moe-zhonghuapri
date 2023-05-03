@@ -9,8 +9,8 @@ locations:
       - ""
       - ""
     operating_hours:
-      - days: Mon - Thurs
-        time: 7.45 am - 1.30 pm
+      - days: Mon-Thurs
+        time: 7.45am - 1.30pm
         description: ""
       - days: Fri
         time: 7.45 am - 1.15 pm
