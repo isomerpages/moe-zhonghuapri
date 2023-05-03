@@ -2,4 +2,5 @@ collections:
   list-of-zps-exp-for-middle-pri:
     output: true
     order:
+      - P3 Outdoor Leadership Environmental Education.md
       - Circle Time.md
