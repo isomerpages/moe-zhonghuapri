@@ -2,6 +2,7 @@ collections:
   list-of-zps-exp-for-lower-pri:
     output: true
     order:
+      - PAL Programme.md
       - Shining Stars.md
       - Project Work.md
       - P1 & P2 MTL Fortnight.md
