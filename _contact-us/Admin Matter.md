@@ -243,7 +243,7 @@ description: ""
     <td colspan="2" class="tg-06je">6748 9139</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">Operating Hours in School</td>
+    <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
     <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
   </tr>
   <tr>
