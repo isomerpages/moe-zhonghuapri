@@ -258,6 +258,46 @@ description: ""
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zl8{background-color:#FFF;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
+<colgroup>
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
+<col style="width: 175px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="4" class="tg-8vr4">HELPLINE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" class="tg-06je">Samaritans Of Singapore (SOS) </td>
+    <td colspan="2" class="tg-06je">1800 - 221 4444</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Tinkle Friend</td>
+    <td colspan="2" class="tg-06je">18010 - 274 4788</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je"></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;ffont-family: Lato, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
