@@ -26,7 +26,7 @@ contacts:
   - content:
       - phone: +65 8102 7268
       - email: enquiry@learningstudioeducare.com
-      - other: "Mon - Fri : 1.30 pm (Sch Term) / 7.30 am (Sch Holidays) - 7.00 pm"
+      - other: "Mon-Fri : 1.30pm-7pm (Term Time) Mon-Fri : 7.30am-7pm (School Holidays)"
     title: "2. School-Based Student Care "
   - content:
       - phone: +65 6280 4917
