@@ -12,20 +12,20 @@ description: ""
 <br>A Leader - A Zhonghuarian who is able to care for self and seeks help when faced with challenges. He/she is reflective and shows consideration towards others.
 
 
-**Circle Time** 
+Circle Time 
 
-**P1 Orientation - First Day of School** 
+P1 Orientation - First Day of School 
 
-**P1 Outdoor leadership and Environmental Education**
+P1 Outdoor leadership and Environmental Education
 
-**P2 Outdoor leadership and Environmental Education** 
+P2 Outdoor leadership and Environmental Education 
 
-**P1 &amp; P2 Fun with Math** - 
+P1 &amp; P2 Fun with Math - 
 
-**P1 &amp; P2 MTL Fortnight** 
+P1 &amp; P2 MTL Fortnight 
 
-**LP Project Work**
+LP Project Work
 
-**Shining Stars** 
+Shining Stars 
 
-**PAL Programme** 
+PAL Programme
