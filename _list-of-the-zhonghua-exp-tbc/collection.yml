@@ -1,4 +1,5 @@
 collections:
   list-of-the-zhonghua-exp-tbc:
     output: true
-    order: []
+    order:
+      - Lower Primary Circle Time.md
