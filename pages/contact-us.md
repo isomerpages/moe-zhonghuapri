@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: +65 6283 5413
       - email: zhonghua_ps@moe.edu.sg
-      - other: "Mon - Fri : 7.00 am - 5.00 pm  "
+      - other: "Mon-Fri : 7am-6pm (Term Time) Mon-Fri : 8am-5pm (School Holidays)  "
     title: 1. Zhonghua Pri Sch-Gen Office
   - content:
       - phone: +65 8102 7268
