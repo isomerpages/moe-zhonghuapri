@@ -1,5 +1,5 @@
 collections:
-  list-of-the-zhonghua-exp-tbc:
+  list-of-zps-exp-for-lower-pri:
     output: true
     order:
       - Lower Primary P1 & P2 Fun With Math.md
