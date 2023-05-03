@@ -247,6 +247,10 @@ description: ""
     <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
   </tr>
   <tr>
+    <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
+    <td colspan="2" class="tg-06je">Information Not Available</td>
+  </tr>
+  <tr>
     <td colspan="2" class="tg-06je">Email</td>
     <td colspan="2" class="tg-wjv8"><a href="mailto:cascoedusupply@singnet.com.sg"><span style="text-decoration:underline;color:#4372D6">cascoedusupply@singnet.com.sg</span></a></td>
   </tr>
