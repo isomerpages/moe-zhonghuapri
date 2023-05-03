@@ -364,5 +364,6 @@ description: ""
     <td colspan="2" class="tg-ycr8">Please email to HPD Youth Preventive Service:</td>
     <td class="tg-wzj2"><a rel="noopener noreferrer" target="_blank" href="mailto:Contact_yps@hpb.gov.sg"><span style="text-decoration:underline;color:#4372D6">Contact_yps@hpb.gov.sg</span></a></td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
