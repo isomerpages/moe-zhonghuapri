@@ -2,6 +2,7 @@ collections:
   list-of-zps-exp-for-middle-pri:
     output: true
     order:
+      - P4 MTL  Activities Or Programmes.md
       - P4 Science  Activities Or Programmes.md
       - P4 English Activities Or Programmes.md
       - P4 Maths Activites Or Programmes.md
