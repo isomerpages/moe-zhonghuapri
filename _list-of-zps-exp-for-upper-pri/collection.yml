@@ -2,13 +2,13 @@ collections:
   list-of-zps-exp-for-upper-pri:
     output: true
     order:
-      - P5 MTL Programmes Or Activities.md
-      - P5 SC Programmes Or Activities.md
-      - P5 EL Programmes Or Activities.md
-      - P5 Math Programmes Or Activities.md
-      - P5 Enrichment Programmes (for HAL).md
-      - P5 LJ to Science Centre.md
-      - P5 NE Show.md
-      - P5 Project Work.md
-      - P5 OLE.md
       - Circle Time.md
+      - P5 OLE.md
+      - P5 Project Work.md
+      - P5 NE Show.md
+      - P5 LJ to Science Centre.md
+      - P5 Enrichment Programmes (for HAL).md
+      - P5 Math Programmes Or Activities.md
+      - P5 EL Programmes Or Activities.md
+      - P5 SC Programmes Or Activities.md
+      - P5 MTL Programmes Or Activities.md
