@@ -82,7 +82,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">School Operating Hours (Term Time)</td>
-    <td colspan="2" class="tg-06je">7:45 am to 1.30 pm (Mon - Thurs) /  1.15 pm (Fri) Student reporting time is at 7.30 am</td>
+    <td colspan="2" class="tg-06je">7:45 am to 1.30 pm (Mon - Thurs) /  1.15 pm (Fri) Reporting time for all student is at 7.30 am</td>
   </tr>
 	<tr>
 </tr></tbody>
