@@ -14,7 +14,7 @@ locations:
         description: ""
       - days: Fri
         time: 7.45 am - 1.15 pm
-        description: Reporting time for all student  is at 7.30am
+        description: Reporting time for all student  is at 7.30am (Term Time)
     maps_link: https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598531,103.8695741,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29_yk
     title: Zhonghua Primary School
 contacts:
