@@ -2,6 +2,7 @@ collections:
   list-of-zps-exp-for-middle-pri:
     output: true
     order:
+      - Museum Based Learning.md
       - P4 Buddy System.md
       - P4 OLE.md
       - Circle Time.md
