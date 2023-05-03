@@ -14,11 +14,7 @@ description: ""
 
 **Circle Time** 
 
-**P1 Orientation - First Day of School** - Date?
-<br>pic
-<br>P1 Orientation Day is organised on the first day of school for the new P1 cohort to familiarise them with the new school environment, classroom setting and routines. Pupils are engaged in fun activities to learn EL and Math as well as bond with new classmates and teachers.
-<br>YH &amp; Event I/C
-
+**P1 Orientation - First Day of School** 
 
 **P1 Outdoor leadership and Environmental Education**
 <br>pic
