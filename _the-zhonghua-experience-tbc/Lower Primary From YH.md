@@ -12,12 +12,7 @@ description: ""
 <br>A Leader - A Zhonghuarian who is able to care for self and seeks help when faced with challenges. He/she is reflective and shows consideration towards others.
 
 
-**Circle Time** -  Date?
-<br>pic
-<br>Circle Time is a time set aside for teachers and pupils to build positive relationships, to listen to one another, to solve problems that they are facing as a class. It is also a time for teachers and pupils to chat about matters that are important to the class. Through Circle Time, we hope to promote a positive classroom culture and positive interactions between pupils and teachers. Topics of discussions range from classbased issues, making and looking out for friends, social skills such as seeking help, hobbies and many more.
-<br>YHs
-<br>S:\\ZPS\_Levels\\Circle Time\\Circle Time Photos
-
+**Circle Time** 
 
 **P1 Orientation - First Day of School** - Date?
 <br>pic
