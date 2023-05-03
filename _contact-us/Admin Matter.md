@@ -48,7 +48,8 @@ description: ""
     <td colspan="2" class="tg-06je">Location</td>
     <td colspan="2" class="tg-wjv8"><a href="https://www.google.com/maps/place/Zhonghua+Primary+School/@1.3598585,103.8673854,17z/data=!3m2!4b1!5s0x31da17aa2967fb09:0xcf3121e3b5fa38f6!4m6!3m5!1s0x31da17aa39517ac9:0xec3925b798d00a36!8m2!3d1.3598531!4d103.8695741!16s%2Fg%2F1tg29"><span style="text-decoration:underline;color:#4372D6">Map to Zhonghua Primary School</span></a></td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <br>
