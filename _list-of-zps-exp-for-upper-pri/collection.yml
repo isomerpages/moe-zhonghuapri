@@ -2,6 +2,7 @@ collections:
   list-of-zps-exp-for-upper-pri:
     output: true
     order:
+      - P6 POST PSLE Programme.md
       - P6 Project Work.md
       - P6 OLE.md
       - Circle Time.md
