@@ -18,37 +18,14 @@ description: ""
 
 **P1 Outdoor leadership and Environmental Education**
 
-**P2 Outdoor leadership and Environmental Education** - Date?
-<br>pic
-<br>The OLE programme provide opportunities for our pupils to connect with nature, work together as a team, and learn about environmental issues. For P2, the pupils spent a day in Jacob Ballas Children’s Garden where they get to do simple orienteering, experience and see plants up close and personal, build confidence through basic obstacle courses such as the Flying Fox and work together as a team to complete challenging tasks.
-<br>SH PHE Mr Azman
+**P2 Outdoor leadership and Environmental Education** 
 
+**P1 &amp; P2 Fun with Math** - 
 
-**P1 &amp; P2 Fun with Math** - Date?
-<br>pic
-<br>**information not available**
-<br>HOD Math/Math Rep
+**P1 &amp; P2 MTL Fortnight** 
 
+**LP Project Work**
 
-**P1 &amp; P2 MTL Fortnight** - Date?
-<br>pic
-<br>**information not available**
-<br>HOD MTL Mr Liew
+**Shining Stars** 
 
-
-**LP Project Work** - Date?
-<br>pic
-<br>P1 &amp; P2 pupils will embark on Project Work (PW) for the first time in 2023. Pupils will have the opportunity to collaborate and work to address a current real world issue. Their PW journey will be crafted using the Design Thinking process and will culminate in a showcase by each group on the last day. Pupils will demonstrate learning dispositions suitable for their age group while gaining experience in dealing with the real world problem of pollution.
-<br>PW leader Mr Gerald Low
-
-
-**Shining Stars** - Date?
-<br>pic
-<br>ZPS P1 and P2 Shining Stars is a speech and drama programme that culminates in a showcase performance. It is a platform to build confident and resilient Zhonghuarians from their early formative years, through the use of speech and drama techniques. The programme provides a stimulating environment aligned with ZPS’ focus on developing confident, compassionate and critical thinkers.
-<br>SH PAM Mr Tang
-
-
-**PAL Programme** - Date?
-<br>pic
-<br>The Programme for Active Learning (PAL) is an integral part of the Primary 1 and 2 curriculum. Through PAL, the P1 and P2 pupils at ZPS undergo learning experiences that are active, hands-on, and meaningful. They get to develop and hone soft skills (also known as social emotional learning – SEL) such as the ability to communicate clearly and cooperate with others. At ZPS, we do this through the experiential nature of PAL within four main domains - Sports &amp; Games, Outdoor Education, Performing <br>Arts and Visual Arts.
-<br>SH PAM Mr Tang
+**PAL Programme** 
