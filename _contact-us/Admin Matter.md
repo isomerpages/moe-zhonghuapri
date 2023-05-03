@@ -81,7 +81,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Student Reporting Time (during Term Time)</td>
-    <td colspan="2" class="tg-06je">7:30 am</td>
+    <td colspan="2" class="tg-06je">7:30 am to 1.30 pm (Mon - Thurs) /  1.15 pm (Fri)</td>
   </tr>
 </tbody>
 </table>
@@ -177,16 +177,25 @@ description: ""
     <td colspan="2" class="tg-06je">6285 9727</td>
   </tr>
   <tr>
+    <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
+    <td colspan="2" class="tg-06je">Information Not Available</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
     <td colspan="2" class="tg-06je">Email</td>
     <td colspan="2" class="tg-wjv8"><a href="mailto:getintouch@shirleyuni.com"><span style="text-decoration:underline;color:#4372D6">getintouch@shirleyuni.com</span></a></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Note</td>
-    <td colspan="2" class="tg-1zl8">School uniform can be ordered through the school bookshop during term time</td>
+    <td colspan="2" class="tg-1zl8">School uniform is on sale in the school bookshop</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">Website</td>
-    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td>
+    <td colspan="2" class="tg-06je"></td>
   </tr>
 </tbody>
 </table>
@@ -238,8 +247,7 @@ description: ""
     <td colspan="2" class="tg-wjv8"><a href="mailto:cascoedusupply@singnet.com.sg"><span style="text-decoration:underline;color:#4372D6">cascoedusupply@singnet.com.sg</span></a></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">Website</td>
-    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td>
+    <td colspan="2" class="tg-06je"></td>
   </tr>
 </tbody>
 </table>
