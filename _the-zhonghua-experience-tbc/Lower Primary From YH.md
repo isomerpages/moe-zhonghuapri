@@ -12,20 +12,20 @@ description: ""
 <br>A Leader - A Zhonghuarian who is able to care for self and seeks help when faced with challenges. He/she is reflective and shows consideration towards others.
 
 
-Circle Time 
+[Circle Time](/list-of-zps-exp-for-lower-pri/circle-time/) 
 
-P1 Orientation - First Day of School 
+[P1 Orientation - First Day Of School](/list-of-zps-exp-for-lower-pri/p1-orientation-first-day-of-school/)
 
-P1 Outdoor leadership and Environmental Education
+[P1 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p1-outdoor-leadership-and-environmental-education/)
 
-P2 Outdoor leadership and Environmental Education 
+[P2 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p2-outdoor-leadership-and-environmental-education/)
 
-P1 &amp; P2 Fun with Math - 
+[P1 &amp; P2 Fun With Math](/list-of-zps-exp-for-lower-pri/p1-p2-fun-with-math/)
 
-P1 &amp; P2 MTL Fortnight 
+[P1 &amp; P2 MTL Fortnight](/list-of-zps-exp-for-lower-pri/p1-p2-mtl-fortnight/)
 
-LP Project Work
+[Project Work](/list-of-zps-exp-for-lower-pri/project-work/)
 
-Shining Stars 
+[Shining Stars](/list-of-zps-exp-for-lower-pri/shining-stars/)
 
-PAL Programme
+[PAL Programme](/list-of-zps-exp-for-lower-pri/pal-programme/)
