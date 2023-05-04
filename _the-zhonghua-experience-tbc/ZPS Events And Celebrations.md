@@ -11,7 +11,7 @@ description: ""
 4. PTC Day (Online) on 9 & 10 Mar 2023
 5. P3 to P6 English Parent Workshop on 25 Mar 2023
 6. P2 to P6 Math Parent Workshop on 1 Apr 2023
-7. MTL Parent Workshop on 15 Apr or 6 May 2023
+7. MTL Parent Workshop (CL:P1 to P6), (ML:P1 to P3) & (TL:P2 & P3) on 6 May 2023
 8. Science Parent Workshop on 13 May 2023
 9. PCTC on 25 May 2023
 10. Hari Raya Concert on
