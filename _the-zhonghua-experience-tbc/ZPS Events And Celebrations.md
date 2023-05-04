@@ -8,7 +8,7 @@ description: ""
 1. Chinese New Year Celebrations on 20 Jan 2023
 2. TDD Commemoration on 14 Feb 2023
 3. Total Defence Day on 15 Feb 2023
-4. PTC Day on 9 & 10 Mar 2023
+4. PTC Day (Online) on 9 & 10 Mar 2023
 5. English Parent Workshop on 25 Mar 2023
 6. Math Parent Workshop on 1 Apr 2023
 7. MTL Parent Workshop on 15 Apr or 6 May 2023
