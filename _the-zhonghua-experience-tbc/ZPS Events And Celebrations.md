@@ -13,7 +13,7 @@ description: ""
 6. P2 to P6 Math Parent Workshop on 1 Apr 2023
 7. MTL Parent Workshop (CL:P1 to P6), (ML:P1 to P3) & (TL:P2 & P3) on 6 May 2023
 8. P3 to P6 Science Parent Workshop on 13 May 2023
-9. PCTC on 25 May 2023
+9. P1 to P6 PCTC (face to face) on 25 May 2023
 10. Hari Raya Concert on
 11. Sports Carnival on 7 July 2023
 12. 12.Deepavali Concert on
