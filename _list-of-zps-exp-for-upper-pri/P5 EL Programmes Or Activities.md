@@ -4,9 +4,4 @@ permalink: /list-of-zps-exp-for-upper-pri/p5-el-programmes-or-activities/
 description: ""
 ---
 ### **Date**
-
-pic
-
-P5 Oracy Debate?
-
-HOD EL/ LH EL
+pic<br>P5 Oracy Debate?<br>HOD EL/ LH EL
