@@ -5,7 +5,7 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-zps/principals-message/
-      - title: Motto, Mission,Vision & Values
+      - title: Motto,Mission,Vision & Values
         url: /about-zps/motto-mission-vision-values/
       - title: School History
         url: /about-zps/school-history/
@@ -18,26 +18,26 @@ links:
   - title: Niche Programme
     collection: niche-programme
   - title: Departments
-    url: /departments/English-Language/
+    url: /departments/english-language/
     sublinks:
       - title: English Language
-        url: /departments/English-Language/
+        url: /departments/english-language/
       - title: Mathematics
-        url: /departments/Mathematics/
+        url: /departments/mathematics/
       - title: Mother Tongue
-        url: /mother-tongue/Mother-Tongue/
+        url: /departments/mother-tongue/
       - title: Science
-        url: /departments/Science/Science/
+        url: /departments/science/
       - title: ICT
-        url: /departments/Information-and-Communication-Technology/
+        url: /departments/information-and-communication-technology/
       - title: Aesthetics
-        url: /departments/Aesthetics/
+        url: /departments/aesthetics/
       - title: Partnership
-        url: /departments/Partnership/Partnership/
+        url: /departments/partnership/
       - title: CCE
-        url: /departments/CCE/Character-and-Citizenship-Education/
+        url: /departments/cce/
       - title: Physical Education
-        url: /departments/Physical-Education/
+        url: /departments/physical-education/
   - title: CCA
     collection: cca
   - title: Contact Us

@@ -14,4 +14,4 @@ The Infocomm Technology Club aims to broaden and deepen members’ knowledge in 
 
 **CCA Schedule**
 <br>Tuesday
-<br>2.00 – 3.45pm
+<br>2.00pm – 3.45pm

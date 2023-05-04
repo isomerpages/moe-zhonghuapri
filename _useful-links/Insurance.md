@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Information**
 
-Click [Product fact Sheet](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2023/Product%20Fact%20Sheet%20Year%202023.pdf) for Year 2023 and [User Guide](https://zhonghuapri.moe.edu.sg/qql/slot/u610/2022/User%20Guide%20for%20parents%20for%20submission.pdf) for submission.
+Click [product fact sheet](https://go.gov.sg/2023-insurance-product-fact-sheet) for Year 2023 and [user guide](https://go.gov.sg/2023-insurance-user-guide) for submission.

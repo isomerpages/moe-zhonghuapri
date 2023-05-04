@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /departments/Aesthetics/
+permalink: /departments/aesthetics/
 description: ""
 ---
 ### **Information**

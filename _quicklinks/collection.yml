@@ -1,9 +1,0 @@
-collections:
-  quicklinks:
-    output: true
-    order:
-      - Parents.md
-      - Students/.keep
-      - Students/Students.md
-      - Students/Green My Mind.md
-      - Ex Students.md

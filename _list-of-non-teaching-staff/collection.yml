@@ -1,0 +1,7 @@
+collections:
+  list-of-non-teaching-staff:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Key Personnel.md
+      - Executive and Administrative Staff.md

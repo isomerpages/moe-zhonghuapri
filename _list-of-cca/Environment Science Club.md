@@ -16,4 +16,4 @@ The Environmental Science Club (ESC) is an exciting CCA where students who are p
 
 **CCA Schedule**
 <br>Tuesday
-<br>2.00 – 3.45pm
+<br>2.00pm – 3.45pm
