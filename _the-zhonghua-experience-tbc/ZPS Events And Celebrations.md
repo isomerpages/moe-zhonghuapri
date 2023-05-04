@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Name of Event / Celebration**
 
-1. Chinese New Year Concert on
+1. Chinese New Year Celebrations on 20 Jan 2023
 2. TDD Commemoration on 14 Feb 2023
 3. Total Defence Day on 15 Feb 2023
 4. PTC Day on 9 & 10 Mar 2023
