@@ -4,9 +4,4 @@ permalink: /list-of-zps-exp-for-middle-pri/p3-maths-activities-or-programmes/
 description: ""
 ---
 ### **Date**
-
-pic
-
-P3 Fun with Math
-
-HOD MATH/ Math Rep
+pic<br>P3 Fun with Math<br>HOD MATH/ Math Rep
