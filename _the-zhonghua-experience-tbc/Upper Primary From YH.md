@@ -14,7 +14,7 @@ YHs
 
 **P5**
 
-[P5 OLE](/list-of-zps-exp-for-upper-pri/p5-ole/)
+[P5 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p5-ole/)
 
 [P5 Project Work](/list-of-zps-exp-for-upper-pri/p5-project-work/)
 
@@ -34,7 +34,7 @@ YHs
 
 **P6**
 
-[P6 OLE](/list-of-zps-exp-for-upper-pri/p6-ole/)
+[P6 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p6-ole/)
 
 [P6 Project Work](/list-of-zps-exp-for-upper-pri/p6-project-work/)
 
