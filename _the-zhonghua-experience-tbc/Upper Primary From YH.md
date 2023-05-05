@@ -20,7 +20,7 @@ YHs
 
 [P5 NE Show](/list-of-zps-exp-for-upper-pri/p5-ne-show/)
 
-[P5 LJ to Science Centre](/list-of-zps-exp-for-upper-pri/p5-lj-to-science-centre/)
+[P5 Learning Journey to Science Centre](/list-of-zps-exp-for-upper-pri/p5-lj-to-science-centre/)
 
 [P5 Enrichment Programmes (for HAL)](/list-of-zps-exp-for-upper-pri/p5-enrichment-programmes-for-hal/) 
 
