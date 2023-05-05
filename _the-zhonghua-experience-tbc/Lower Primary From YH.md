@@ -17,7 +17,9 @@ description: ""
 <br>[Project Work](/list-of-zps-exp-for-lower-pri/project-work/)
 <br>[Shining Stars](/list-of-zps-exp-for-lower-pri/shining-stars/)
 <br>[PAL Programme](/list-of-zps-exp-for-lower-pri/pal-programme/)
-<br><br>Diverse Experience For P1 And P2
+<br><br>Diverse Experiences For
+<br>P1
 <br>[P1 Orientation - First Day Of School](/list-of-zps-exp-for-lower-pri/p1-orientation-first-day-of-school/)
 <br>[P1 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p1-outdoor-leadership-and-environmental-education/)
+<br>P2
 <br>[P2 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p2-outdoor-leadership-and-environmental-education/)
