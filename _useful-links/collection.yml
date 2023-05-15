@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Service Providers.md
-      - School Bus.md
       - Collection of Data.md
       - Primary Education.md
       - Notes To Parents & Guardians.md
