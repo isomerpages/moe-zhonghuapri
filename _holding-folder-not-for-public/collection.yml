@@ -2,6 +2,7 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - Service Providers.md
       - School Bus.md
       - School Canteen.md
       - Zhonghua Educational Support Team (ZEST).md
