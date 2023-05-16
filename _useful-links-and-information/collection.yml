@@ -1,5 +1,5 @@
 collections:
-  useful-links:
+  useful-links-and-information:
     output: true
     order:
       - Collection of Data.md
