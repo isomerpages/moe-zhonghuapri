@@ -16,5 +16,5 @@ description: ""
 9. P1 to P6 PCTC (face to face) on 25 May 2023
 10. Hari Raya Concert on 8 May 2023
 11. Sports Carnival on 7 July 2023
-12. 12.Deepavali Concert on
+12. Deepavali Concert on
 13. P1 Classroom Experience Day on 17 Nov 2023
