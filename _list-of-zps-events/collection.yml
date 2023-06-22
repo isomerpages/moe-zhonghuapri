@@ -1,0 +1,4 @@
+collections:
+  list-of-zps-events:
+    output: true
+    order: []
