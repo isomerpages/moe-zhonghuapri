@@ -251,7 +251,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Email</td>
-    <td colspan="2" class="tg-wjv8"><a href="mailto:cascoedusupply@singnet.com.sg"><span style="text-decoration:underline;color:#4372D6">info@printpak.com.sg</span></a></td>
+    <td colspan="2" class="tg-wjv8"><a href="mailto:info@printpak.com.sg"><span style="text-decoration:underline;color:#4372D6">info@printpak.com.sg</span></a></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je"></td>
