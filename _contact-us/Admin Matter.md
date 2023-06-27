@@ -181,7 +181,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
-    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:00 pm</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
