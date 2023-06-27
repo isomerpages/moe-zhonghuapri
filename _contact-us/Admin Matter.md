@@ -181,7 +181,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
-    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:00 pm</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
@@ -231,19 +231,19 @@ description: ""
 <tbody>
   <tr>
     <td colspan="2" class="tg-06je">Supplier </td>
-    <td colspan="2" class="tg-06je">Casco Educational Supply Pte Ltd</td>
+    <td colspan="2" class="tg-06je">Print-Pak &amp; Marketing Pte Limited</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Telephone No</td>
-    <td colspan="2" class="tg-06je">6748 3101</td>
+    <td colspan="2" class="tg-06je">6288 4890 / 6286 2871</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Fax</td>
-    <td colspan="2" class="tg-06je">6748 9139</td>
+    <td colspan="2" class="tg-06je">6288 4896</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (Term Time)</td>
-    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:30 pm</td>
+    <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:00 pm</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
@@ -251,7 +251,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Email</td>
-    <td colspan="2" class="tg-wjv8"><a href="mailto:cascoedusupply@singnet.com.sg"><span style="text-decoration:underline;color:#4372D6">cascoedusupply@singnet.com.sg</span></a></td>
+    <td colspan="2" class="tg-wjv8"><a href="mailto:info@printpak.com.sg"><span style="text-decoration:underline;color:#4372D6">info@printpak.com.sg</span></a></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je"></td>

@@ -1,6 +1,6 @@
 ---
-title: Notes To Parents &amp; Guardians
-permalink: /for-parent/notes-to-parents-guardians/
+title: Notes To Parents & Guardians
+permalink: /useful-links-and-information/notes-to-parents-guardians/
 description: ""
 ---
 ### **Information**

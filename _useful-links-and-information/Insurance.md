@@ -1,6 +1,6 @@
 ---
 title: Insurance
-permalink: /for-parent/Insurance/
+permalink: /useful-links-and-information/insurance/
 description: ""
 ---
 ### **Information**

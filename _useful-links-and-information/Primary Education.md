@@ -1,6 +1,6 @@
 ---
 title: Primary Education
-permalink: /for-parent/primary-education/
+permalink: /useful-links-and-information/primary-education/
 description: ""
 ---
 ### **Information**

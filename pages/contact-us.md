@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: School Service Partners
 locations:
   - address:
       - ""
@@ -21,14 +21,14 @@ contacts:
   - content:
       - phone: +65 6283 5413
       - email: zhonghua_ps@moe.edu.sg
-      - other: "Mon-Fri:7am-6pm (Term Time)                   Mon-Fri:8am-5pm (School
-          Holidays)  "
+      - other: Mon-Fri:7am-6pm (Term Time)                   Mon-Fri:8am-5pm (School
+          Holidays)
     title: 1. Zhonghua Pri Sch-Gen Office
   - content:
       - phone: +65 8102 7268
       - email: enquiry@learningstudioeducare.com
       - other: Mon-Fri:1.30pm-7pm (Term Time) Mon-Fri:7.30am-7pm (School Holidays)
-    title: "2. School-Based Student Care "
+    title: 2. School-Based Student Care
   - content:
       - phone: +65 6280 4917
       - email: getintouch@shirleyuni.com
@@ -62,16 +62,15 @@ contacts:
   - content:
       - phone: +65 9838 9102
       - email: ""
-      - other: "45 Hougang Avenue 1 Singapore 538882. Please call this number
-          first.  The dentist may not be able to pick up your call
-          immediately.  Do leave your phone number for the dentist to call you
-          back. "
+      - other: 45 Hougang Avenue 1 Singapore 538882. Please call this number first.  The
+          dentist may not be able to pick up your call immediately.  Do leave
+          your phone number for the dentist to call you back.
     title: 6a. Sch Dental-Xinghua Pri
   - content:
       - phone: +65 8940 0314
       - email: ""
       - other: 15 Serangoon Ave 3 (556108)
-    title: "6b. Sch Dental-Yangzheng Pri "
+    title: 6b. Sch Dental-Yangzheng Pri
   - content:
       - phone: +65 8909 1753
       - email: ""

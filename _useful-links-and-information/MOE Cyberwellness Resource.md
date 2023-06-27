@@ -1,6 +1,6 @@
 ---
 title: MOE Cyberwellness Resource
-permalink: /for-parent/moe-cyberwellness-resource/
+permalink: /useful-links-and-information/moe-cyberwellness-resource/
 description: ""
 ---
 ###  **Information**
@@ -21,4 +21,3 @@ Let's learn to be safe and smart digital users together!
 <br>[Ways To Spot Fake News](https://go.gov.sg/ways-to-spot-fake-news)
 <br>[Meaning And Forms Of Fake News](https://go.gov.sg/meaningandformsoffakenews)
 <br>[MOE Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-

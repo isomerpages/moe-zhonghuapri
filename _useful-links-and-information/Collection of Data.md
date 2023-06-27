@@ -1,6 +1,6 @@
 ---
 title: Collection of Data
-permalink: /useful-links/collection-of-data/
+permalink: /useful-links-and-information/collection-of-data/
 description: ""
 ---
 ### **Information**

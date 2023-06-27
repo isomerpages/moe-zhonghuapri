@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Programme
-permalink: /for-parent/moe-sexuality-programme/
+permalink: /useful-links-and-information/moe-sexuality-programme/
 description: ""
 ---
 ###  **Message**

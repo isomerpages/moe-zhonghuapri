@@ -1,11 +1,12 @@
 collections:
-  useful-links:
+  useful-links-and-information:
     output: true
     order:
+      - Notes To Parents & Guardians.md
       - Collection of Data.md
       - Primary Education.md
-      - Notes To Parents & Guardians.md
       - MOE Cyberwellness Resource.md
       - MOE Sexuality Programme.md
+      - Leave of Absence (LOA) scheme.md
       - Parent Volunteers (ZEST).md
       - Insurance.md

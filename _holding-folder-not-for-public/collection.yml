@@ -2,6 +2,9 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - Service Providers.md
+      - School Bus.md
+      - School Canteen.md
       - Zhonghua Educational Support Team (ZEST).md
       - Science.md
       - Assessment and Review.md
@@ -19,7 +22,6 @@ collections:
       - Subject BASED BANDING.md
       - Useful Links.md
       - Library Matters.md
-      - Leave of Absence (LOA) scheme.md
       - 2022 & 2023 Financial Assistance Scheme (FAS).md
       - PSLE infosheet.md
       - Publicity Video for Social Studies.md
