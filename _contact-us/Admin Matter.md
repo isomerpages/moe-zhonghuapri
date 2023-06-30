@@ -81,8 +81,8 @@ description: ""
     <td colspan="2" class="tg-06je">7:00 am to 6:00 pm (Term Time)<span style="font-weight:inherit;font-style:inherit">                  </span><br>8:00 am to 5:00 pm (School Holidays)</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">School Operating Hours (Term Time)</td>
-    <td colspan="2" class="tg-06je">7:45 am to 1.30 pm (Mon - Thurs) /  1.15 pm (Fri) Reporting time for all student is at 7.30 am</td>
+    <td colspan="2" class="tg-06je">Student Reporting Time ( during Term Time)</td>
+    <td colspan="2" class="tg-06je">7:30 am </td>
   </tr>
 	<tr>
 </tr></tbody>
@@ -184,8 +184,7 @@ description: ""
     <td colspan="2" class="tg-06je">Monday to Friday: 8:30 am to 3:00 pm</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">Operating Hours (School Holidays)</td>
-    <td colspan="2" class="tg-06je">Information Not Available</td>
+
   </tr>
   <tr>
   </tr>
@@ -195,7 +194,7 @@ description: ""
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Note</td>
-    <td colspan="2" class="tg-06je">School uniform is on sale in the school bookshop</td>
+    <td colspan="2" class="tg-06je">School uniform can be ordered through the school bookshop during term time.</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je"></td>
@@ -252,46 +251,6 @@ description: ""
   <tr>
     <td colspan="2" class="tg-06je">Email</td>
     <td colspan="2" class="tg-wjv8"><a href="mailto:info@printpak.com.sg"><span style="text-decoration:underline;color:#4372D6">info@printpak.com.sg</span></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-06je"></td>
-  </tr>
-</tbody>
-</table>
-
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family: Lato, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1zl8{background-color:#FFF;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 700px" class="tg">
-<colgroup>
-<col style="width: 175px">
-<col style="width: 175px">
-<col style="width: 175px">
-<col style="width: 175px">
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="4" class="tg-8vr4">HELPLINE</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" class="tg-06je">Samaritans Of Singapore (SOS) </td>
-    <td colspan="2" class="tg-06je">1800 - 221 4444</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-06je">Tinkle Friend</td>
-    <td colspan="2" class="tg-06je">18010 - 274 4788</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-06je"></td>
