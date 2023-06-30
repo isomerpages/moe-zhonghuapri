@@ -41,16 +41,6 @@ contacts:
       - other: Mon-Fri:8.30am-3.30pm (Term Time)
     title: 4. School Bookshop
   - content:
-      - phone: 1 800 221 4444
-      - email: ""
-      - other: ""
-    title: 5. Helpline - SOS
-  - content:
-      - phone: 1 800 274 4788
-      - email: ""
-      - other: ""
-    title: 5a. Helpline - Tinkle Friend
-  - content:
       - phone: ""
       - email: ""
       - other: A roving dental team will serve our students’ dental service.  Depending
@@ -58,32 +48,32 @@ contacts:
           the year.  If parents need quick attention for their children, please
           call the hotline below to make appointments.  For emergencies, please
           contact SGH School Dental Centre.
-    title: 6. School Dental Services
+    title: 5. School Dental Services
   - content:
       - phone: +65 9838 9102
       - email: ""
       - other: 45 Hougang Avenue 1 Singapore 538882. Please call this number first.  The
           dentist may not be able to pick up your call immediately.  Do leave
           your phone number for the dentist to call you back.
-    title: 6a. Sch Dental-Xinghua Pri
+    title: 5a. Sch Dental-Xinghua Pri
   - content:
       - phone: +65 8940 0314
       - email: ""
       - other: 15 Serangoon Ave 3 (556108)
-    title: 6b. Sch Dental-Yangzheng Pri
+    title: 5b. Sch Dental-Yangzheng Pri
   - content:
       - phone: +65 8909 1753
       - email: ""
       - other: 61 Hougang Ave 8 (538787)
-    title: 6c. Sch Dental-Punggol Pri
+    title: 5c. Sch Dental-Punggol Pri
   - content:
       - phone: +65 8764 7746
       - email: ""
       - other: 5 Lor Low Koon (536451)
-    title: 6d. Sch Dental-Holy Innocents'
+    title: 5d. Sch Dental-Holy Innocents'
   - content:
       - phone: +65 9270 7796
       - email: ""
       - other: ""
-    title: 6e. Sch Dental-MDC 5
+    title: 5e. Sch Dental-MDC 5
 ---
