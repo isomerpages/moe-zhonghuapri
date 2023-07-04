@@ -17,7 +17,7 @@ CCA Policy in ZPS
 <br>5.  All CCAs have an approximated number of 20 sessions for each work year with the exception of the Competitive Sports and Performing Arts CCAs which will have more.<br>
 <br>6.  Pupils who do not achieve 80% of CCA attendance without valid reasons will be de-registered as members of the CCA at the end of the work year.<br>
 <br>7.  If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.<br>
-<br>8.  Please click to view [2023 CCA Schedule for Semester 1](/list-of-cca-schedule/cca-schedule-for-semester-1/)<br>
+<br>8.  Please click to view [2023 CCA Schedule for Semester 1 &amp; 2](/list-of-cca-schedule/cca-schedule-for-semester-1/)<br>
 <br>9.  A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 <br>[Mr Azman]( azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
 <br>[Mr Tang Qisheng](tang_qisheng@moe.edu.sg ) (For Performing Arts CCAs).
