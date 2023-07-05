@@ -2,6 +2,7 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 12 P1 Classroom Experience Day.md
       - 11 Deepavali Concert.md
       - 10 Sports Carnival.md
       - 9 Hari Raya Concert.md
