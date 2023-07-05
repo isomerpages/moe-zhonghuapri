@@ -1,4 +1,5 @@
 collections:
   list-of-zps-events:
     output: true
-    order: []
+    order:
+      - Chinese New Year Celebrations.md
