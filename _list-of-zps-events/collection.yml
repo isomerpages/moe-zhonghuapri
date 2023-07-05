@@ -2,6 +2,7 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 8 P1 to P6 Parent Child Teacher Conference.md
       - 7 P3 to P6 Science Parent Workshop.md
       - 6 Mother Tongue Language Parent Workshop.md
       - 5 P2 to P6 Math Parent Workshop.md
