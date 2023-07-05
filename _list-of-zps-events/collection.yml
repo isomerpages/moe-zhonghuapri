@@ -2,4 +2,5 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 2 Total Defence Day Commemoration.md
       - Chinese New Year Celebrations.md
