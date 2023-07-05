@@ -5,7 +5,8 @@ description: ""
 ---
 ### **Name of Event / Celebration**
 
-1. Chinese New Year Celebrations on 20 Jan 2023
+[1. Chinese New Year Celebrations on 20 Jan 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/1%20Chinese%20New%20Year%20Celebrations.md)
+
 2. TDD Commemoration on 14 Feb 2023
 3. Total Defence Day on 15 Feb 2023
 4. PTC Day (Online) on 9 & 10 Mar 2023
