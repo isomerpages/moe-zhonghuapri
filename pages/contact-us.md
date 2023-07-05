@@ -36,9 +36,9 @@ contacts:
           Mon-Fri:8.30am-3.30pm (Term Time).
     title: 3. School Uniform
   - content:
-      - phone: +65 6748 3101
-      - email: cascoedusupply@singnet.com.sg
-      - other: Mon-Fri:8.30am-3.30pm (Term Time)
+      - phone: +65 6288 4890
+      - email: info@printpak.com.sg
+      - other: Mon-Fri:8.30am-3.00pm (Term Time)
     title: 4. School Bookshop
   - content:
       - phone: ""
