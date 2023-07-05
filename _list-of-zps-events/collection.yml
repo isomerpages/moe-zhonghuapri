@@ -2,6 +2,7 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 4 P3 to P6 English Parent Workshop.md
       - 3 Parent Teacher Conference.md
       - 2 Total Defence Day Commemoration.md
       - 1 Chinese New Year Celebrations.md
