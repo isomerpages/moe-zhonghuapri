@@ -28,4 +28,4 @@ description: ""
 <br>[P6 Maths Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20Math%20Programmes%20Or%20Activities.md) 
 <br>[P6 EL Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20EL%20Programmes%20Or%20Activities.md)
 <br>[P6 Sc Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20SC%20Programmes%20Or%20Activities.md)
-<br>[P6 MTL Programmes or Activities](/list-of-zps-exp-for-upper-pri/p6-mtl-programmes-or-activities/)
+<br>[P6 MTL Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20MTL%20Programmes%20Or%20Activities.md)
