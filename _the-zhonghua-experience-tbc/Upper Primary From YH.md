@@ -24,7 +24,7 @@ description: ""
 <br>[P6 Outdoor Leadership Environmental Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20OLE.md)
 <br>[P6 Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20Project%20Work.md)
 <br>[P6 Post PSLE Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20POST%20PSLE%20Programme.md)
-<br>[P6 Enrichment Programmes (for HAL)](/list-of-zps-exp-for-upper-pri/p6-enrichment-programmes-for-hal/) 
+<br>[P6 Enrichment Programmes for HAL](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P6%20Enrichment%20Programmes%20(for%20HAL).md)
 <br>[P6 Math Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p6-math-programmes-or-activities/) 
 <br>[P6 EL Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p6-el-programmes-or-activities/) 
 <br>[P6 Sc Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p6-sc-programmes-or-activities/)
