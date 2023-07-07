@@ -19,7 +19,7 @@ description: ""
 <br>[PAL Programme](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/PAL%20Programme.md)
 <br><br>Diverse Experiences For
 <br>P1
-<br>[P1 Orientation - First Day Of School](/list-of-zps-exp-for-lower-pri/p1-orientation-first-day-of-school/)
+<br>[P1 Orientation - First Day Of School](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20Orientation%20First%20Day%20Of%20School.md)
 <br>[P1 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p1-outdoor-leadership-and-environmental-education/)
 <br>P2
 <br>[P2 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p2-outdoor-leadership-and-environmental-education/)
