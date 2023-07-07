@@ -8,7 +8,7 @@ description: ""
 <br>Thinker : A Zhonghuarian who is onfident in espousing varied ideas and is flexible to changing circumstances
 <br>Leader : A Zhonghuarian who influences others positively and is able to lead in showing care to others.
 <br><br>Identical Programmes And Activities For P5 And P6
-<br>[Circle Time](/list-of-zps-exp-for-upper-pri/circle-time/)
+<br>[Circle Time](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/Circle%20Time.md)
 <br><br>Diverse Experiences For
 <br>P5
 <br>[P5 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p5-ole/)
