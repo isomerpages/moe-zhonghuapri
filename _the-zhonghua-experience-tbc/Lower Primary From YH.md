@@ -22,4 +22,4 @@ description: ""
 <br>[P1 Orientation - First Day Of School](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20Orientation%20First%20Day%20Of%20School.md)
 <br>[P1 Outdoor Leadership And Environmental Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20Outdoor%20Leadership%20And%20Environmental%20Education.md)
 <br>P2
-<br>[P2 Outdoor Leadership And Environmental Education](/list-of-zps-exp-for-lower-pri/p2-outdoor-leadership-and-environmental-education/)
+<br>[P2 Outdoor Leadership And Environmental Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P2%20Outdoor%20Leadership%20And%20Environmental%20Education.md)
