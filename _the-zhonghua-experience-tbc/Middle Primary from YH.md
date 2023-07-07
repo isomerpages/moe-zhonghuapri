@@ -12,7 +12,7 @@ description: ""
 <br><br>Diverse Experiences For
 <br>P3
 <br>[P3 Outdoor Leadership Environmental Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P3%20Outdoor%20Leadership%20Environmental%20Education.md)
-<br>[P3 CCA Selection](/list-of-zps-exp-for-middle-pri/p3-cca-selection/)
+<br>[P3 CCA Selection](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P3%20CCA%20Selection.md)
 <br>[P3 Project Work](/list-of-zps-exp-for-middle-pri/p3-project-work/)
 <br>[P3 Maths Activities Or Programmes](/list-of-zps-exp-for-middle-pri/p3-maths-activities-or-programmes/) 
 <br>[P3 English Activities Or Programmes](/list-of-zps-exp-for-middle-pri/p3-english-activities-or-programmes/) 
