@@ -18,7 +18,7 @@ description: ""
 <br>[P3 English Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P3%20English%20Activities%20Or%20Programmes.md)
 <br>[P3 MTL Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P3%20MTL%20Activities%20Or%20Programmes.md)
 <br>P4
-<br>[P4 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-middle-pri/p4-ole/)
+<br>[P4 Outdoor Leadership Environmental Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20OLE.md)
 <br>[P4 Buddy System](/list-of-zps-exp-for-middle-pri/p4-buddy-system/)
 <br>[P4 Museum Based Learning](/list-of-zps-exp-for-middle-pri/p4-museum-based-learning/)
 <br>[P4 Project Work](/list-of-zps-exp-for-middle-pri/p4-project-work/) 
