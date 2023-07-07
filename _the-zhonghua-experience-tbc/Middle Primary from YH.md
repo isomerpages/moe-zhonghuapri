@@ -8,7 +8,7 @@ description: ""
 <br>A Thinker: A Zhonghuarian who is reflective, able to adapt to changes and is willing to explore and respect varied ideas. 
 <br>A Leader: A Zhonghuarian who is able to work responsibly with peers and shows care for their peers and teachers.
 <br><br>Identical Programmes And Activities For P3 And P4
-<br>[Circle Time](/list-of-zps-exp-for-middle-pri/circle-time/) 
+<br>[Circle Time](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/Circle%20Time.md)
 <br><br>Diverse Experiences For
 <br>P3
 <br>[P3 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-middle-pri/p3-outdoor-leadership-environmental-education/)
