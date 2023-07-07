@@ -16,7 +16,7 @@ description: ""
 <br>[P1 &amp; P2 MTL Fortnight](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20%26%20P2%20MTL%20Fortnight.md)
 <br>[Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/Project%20Work.md)
 <br>[Shining Stars](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/Shining%20Stars.md)
-<br>[PAL Programme](/list-of-zps-exp-for-lower-pri/pal-programme/)
+<br>[PAL Programme](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/PAL%20Programme.md)
 <br><br>Diverse Experiences For
 <br>P1
 <br>[P1 Orientation - First Day Of School](/list-of-zps-exp-for-lower-pri/p1-orientation-first-day-of-school/)
