@@ -24,6 +24,6 @@ description: ""
 <br>[P4 Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20Project%20Work.md) 
 <br>[P4 Maths Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20Maths%20Activites%20Or%20Programmes.md)
 <br>[P4 English Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20English%20Activities%20Or%20Programmes.md)
-<br>[P4 Science Activities Or Programmes](/list-of-zps-exp-for-middle-pri/p4-science-activites-or-programmes/) [P4 Science Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20Science%20%20Activities%20Or%20Programmes.md)
+<br>[P4 Science Activities or Programmes](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-middle-pri/editPage/P4%20Science%20%20Activities%20Or%20Programmes.md)
 <br>[P4 MTL Activities Or Programmes](/list-of-zps-exp-for-middle-pri/p4-mtl-activities-or-programmes/) 
 <br>[P4 HAL](/list-of-zps-exp-for-middle-pri/p4-hal/)
