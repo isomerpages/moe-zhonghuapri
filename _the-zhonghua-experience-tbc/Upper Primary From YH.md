@@ -19,7 +19,7 @@ description: ""
 <br>[P5 Math Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Math%20Programmes%20Or%20Activities.md)
 <br>[P5 EL Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20EL%20Programmes%20Or%20Activities.md)
 <br>[P5 Sc Programmes or Activites](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20SC%20Programmes%20Or%20Activities.md)
-<br>[P5 MTL Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-mtl-programmes-or-activities/)
+<br>[P5 MTL Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20MTL%20Programmes%20Or%20Activities.md)
 <br>P6
 <br>[P6 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p6-ole/)
 <br>[P6 Project Work](/list-of-zps-exp-for-upper-pri/p6-project-work/)
