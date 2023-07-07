@@ -12,7 +12,7 @@ description: ""
 <br><br>Diverse Experiences For
 <br>P5
 <br>[P5 Outdoor Leadership Environment Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20OLE.md)
-<br>[P5 Project Work](/list-of-zps-exp-for-upper-pri/p5-project-work/)
+<br>[P5 Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Project%20Work.md)
 <br>[P5 NE Show](/list-of-zps-exp-for-upper-pri/p5-ne-show/)
 <br>[P5 Learning Journey to Science Centre](/list-of-zps-exp-for-upper-pri/p5-lj-to-science-centre/)
 <br>[P5 Enrichment Programmes (for HAL)](/list-of-zps-exp-for-upper-pri/p5-enrichment-programmes-for-hal/) 
