@@ -11,7 +11,7 @@ description: ""
 <br>[Circle Time](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/Circle%20Time.md)
 <br><br>Diverse Experiences For
 <br>P5
-<br>[P5 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p5-ole/)
+<br>[P5 Outdoor Leadership Environment Education](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20OLE.md)
 <br>[P5 Project Work](/list-of-zps-exp-for-upper-pri/p5-project-work/)
 <br>[P5 NE Show](/list-of-zps-exp-for-upper-pri/p5-ne-show/)
 <br>[P5 Learning Journey to Science Centre](/list-of-zps-exp-for-upper-pri/p5-lj-to-science-centre/)
