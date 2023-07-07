@@ -18,7 +18,7 @@ description: ""
 <br>[P5 Enrichment Programmes for HAL](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Enrichment%20Programmes%20(for%20HAL).md)
 <br>[P5 Math Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Math%20Programmes%20Or%20Activities.md)
 <br>[P5 EL Programmes or Activities](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20EL%20Programmes%20Or%20Activities.md)
-<br>[P5 Sc Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-sc-programmes-or-activities/)
+<br>[P5 Sc Programmes or Activites](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20SC%20Programmes%20Or%20Activities.md)
 <br>[P5 MTL Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-mtl-programmes-or-activities/)
 <br>P6
 <br>[P6 Outdoor Leadership Environmental Education](/list-of-zps-exp-for-upper-pri/p6-ole/)
