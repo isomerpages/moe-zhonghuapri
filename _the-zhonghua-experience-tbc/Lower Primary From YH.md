@@ -14,7 +14,7 @@ description: ""
 <br>[Circle Time](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/Circle%20Time.md)
 <br>[P1 &amp; P2 Fun With Math](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20%26%20P2%20Fun%20With%20Math.md)
 <br>[P1 &amp; P2 MTL Fortnight](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/P1%20%26%20P2%20MTL%20Fortnight.md)
-<br>[Project Work](/list-of-zps-exp-for-lower-pri/project-work/)
+<br>[Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-lower-pri/editPage/Project%20Work.md)
 <br>[Shining Stars](/list-of-zps-exp-for-lower-pri/shining-stars/)
 <br>[PAL Programme](/list-of-zps-exp-for-lower-pri/pal-programme/)
 <br><br>Diverse Experiences For
