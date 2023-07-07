@@ -15,7 +15,7 @@ description: ""
 <br>[P5 Project Work](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Project%20Work.md)
 <br>[P5 NE Show](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20NE%20Show.md)
 <br>[P5 Learning Journey to Science Centre ](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20LJ%20to%20Science%20Centre.md)
-<br>[P5 Enrichment Programmes (for HAL)](/list-of-zps-exp-for-upper-pri/p5-enrichment-programmes-for-hal/) 
+<br>[P5 Enrichment Programmes for HAL](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-exp-for-upper-pri/editPage/P5%20Enrichment%20Programmes%20(for%20HAL).md)
 <br>[P5 Math Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-math-programme-or-activities/)
 <br>[P5 EL Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-el-programmes-or-activities/) 
 <br>[P5 Sc Programmes Or Activities](/list-of-zps-exp-for-upper-pri/p5-sc-programmes-or-activities/)
