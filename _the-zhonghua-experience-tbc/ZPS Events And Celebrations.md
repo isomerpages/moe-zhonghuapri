@@ -13,9 +13,8 @@ description: ""
 5. P3 to P6 English Parent Workshop on 25 Mar 2023
 6. P2 to P6 Math Parent Workshop on 1 Apr 2023
 7. MTL Parent Workshop (CL:P1 to P6), (ML:P1 to P3) &amp; (TL:P2 &amp; P3) on 6 May 2023
-8. [P3 to P6 Science Parent Workshop on 13 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/8%20P1%20to%20P6%20Parent%20Child%20Teacher%20Conference.md)
-9. P1 to P6 PCTC (face to face) on 25 May 2023
-10. Hari Raya Concert on 8 May 2023
-11. Sports Carnival on 7 July 2023
-12. Deepavali Concert on
-13. P1 Classroom Experience Day on 17 Nov 2023
+8. [P1 to P6 Science Parent Workshop on 13 &amp; 25 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/8%20P1%20to%20P6%20Parent%20Child%20Teacher%20Conference.md)
+9. Hari Raya Concert on 8 May 2023
+10. Sports Carnival on 7 July 2023
+11. Deepavali Concert on
+12. P1 Classroom Experience Day on 17 Nov 2023
