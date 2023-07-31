@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-zps/list-of-non-teaching-staff/key-personnel/
+permalink: /list-of-teaching-staff/key-personnel/
 description: ""
 ---
 <table style="border-collapse:
