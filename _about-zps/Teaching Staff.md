@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Information**
 
-[Key Personnel](/about-zps/list-of-non-teaching-staff/key-personnel/)
+[Key Personnel](/list-of-teaching-staff/key-personnel/)
 <br>[Primary 1](/list-of-teaching-staff/primary-1/)
 <br>[Primary 2](/list-of-teaching-staff/primary-2/)
 <br>[Primary 3](/list-of-teaching-staff/primary-3/)
