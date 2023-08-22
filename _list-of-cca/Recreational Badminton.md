@@ -11,7 +11,7 @@ The Recreational Badminton Team aims to develop discipline, resilience, responsi
 <br>Mrs Chan Hong Wei
 <br>Mdm Feng Yijun
 
-**Main Contact**: junainah\_mohamed\_eusuff@moe.edu.sg
+**Main Contact**: junainah_mohamed_eusuff@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
