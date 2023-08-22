@@ -10,7 +10,7 @@ The Infocomm Technology Club aims to broaden and deepen members’ knowledge in 
 <br>Mdm Angelina Mok (Main)
 <br>Mdm Liu Yusi
 
-**Main Contact**: angelina\_mok\_yin\_peng@moe.edu.sg
+**Main Contact**: angelina_mok_yin_peng@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
