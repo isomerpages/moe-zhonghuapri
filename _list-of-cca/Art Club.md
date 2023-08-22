@@ -10,7 +10,7 @@ ZPS Art Club is the choice CCA for pupils who love and enjoy Visual Arts. In our
 <br>Ms Constance Chong (Main)
 <br>Mrs Wendy Ng
 
-**Main Contact**: chong\_hui\_min\_constance@moe.edu.sg
+**Main Contact**: chong_hui_min_constance@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
