@@ -12,7 +12,7 @@ The Environmental Science Club (ESC) is an exciting CCA where students who are p
 <br>Ms Alicia Wee (Main)
 <br>Ms Leela
 
-**Main Contact**: alicia\_wee\_su\_ping@moe.edu.sg
+**Main Contact**: alicia_wee_su_ping@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday

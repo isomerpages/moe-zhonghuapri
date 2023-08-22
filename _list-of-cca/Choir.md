@@ -12,7 +12,7 @@ Our ZPS Choir is made up of a group of young members who are full of zest and di
 <br>Ms Shirley Yeh
 <br>Mdm Tan Wee Theng
 
-**Main Contact**: sandra\_wang\_chai\_lin@moe.edu.sg
+**Main Contact**: sandra_wang_chai_lin@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday

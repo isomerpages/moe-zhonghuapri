@@ -12,7 +12,7 @@ In our Indian Dance CCA, students from diverse ethnic background come together t
 <br>Ms Tan Sok Gway (Main)
 <br>Ms Hafiqa
 
-**Main Contact**: tan\_sok\_gway@moe.edu.sg
+**Main Contact**: tan_sok_gway@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday

@@ -11,7 +11,7 @@ Football is a team sport that requires players to work together towards a common
 <br>Mr Oswald Lee
 <br>Mdm Suriana (Recreational)
 
-**Main Contact**: muhammad\_firdaus\_amir@moe.edu.sg
+**Main Contact**: muhammad_firdaus_amir@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
