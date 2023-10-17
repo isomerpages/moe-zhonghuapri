@@ -8,17 +8,19 @@ The LOA scheme allows your child to rejoin their school after they return from o
 
 **Eligibility**
 
-LOA applies to all SC and PR children in primary school, secondary school, junior colleges and Millennia Institute.
+LOA applies to all children who are Singapore Citizen or Singapore Permanent Resident only.  To be granted LOA, your child must fulfil all two (2) of the following criteria:
 
-To be granted LOA, your child must fulfil all 3 of the following criteria:
+1.       Our current student who is a Singapore Citizen or Singapore Permanent Resident.
 
-1.       An SC or PR.
+2.       Accompanying the parent overseas only due to the reasons below with the intention of rejoining their school after returning to Singapore:
 
-2.       Presently studying in a Singapore school.
+-       Parents are on overseas posting; OR
 
-3.       Accompanying you on an overseas posting with the intention of rejoining their school after returning to Singapore.
+-       Parents are attending to their business overseas; OR
 
-4.       Your child also qualifies for LOA if they are already registered for Primary 1 (P1) but will be overseas at the start of the year.
+-       Parents are going overseas for a company-related training/further studies.
+
+Your child also qualifies for LOA if they are already registered for Primary 1 (P1) but will be overseas at the start of the year.
 
 **Fees**
 
@@ -28,25 +30,25 @@ At the end of each year, you will need to decide whether to renew the LOA for an
 
 **Support for your child**
 
-The school will provide support in the following areas to ease your child's return:
+The school will provide support in the following areas to ease your child's return upon parent's request:
 
 1.       Administrative: Renewal of LOA, returning arrangements, updates on important dates for admissions exercises, etc.
 
-2.       Academic: Major test and examination papers with answers, where appropriate, on a regular basis, and access to Student Learning Space (SLS) portal that enables your child to keep up-to-date with our national curriculum.
+2.       Academic: Provide major test and examination papers with answers, where appropriate, on a regular basis, and access to Student Learning Space (SLS) portal that enables your child to keep up-to-date with our national curriculum.
 
-3.       Relationship: Developments in the school and local education scene.
+3.       Relationship: Provide developments in the school and local education scene.
 
 **How to apply**
 
 Follow these steps to apply for LOA:
 
-1.       Complete the application form.    [https://form.gov.sg/63d889ae8de097001206c240](https://form.gov.sg/63d889ae8de097001206c240)  
+1.       Complete the application [form](https://form.gov.sg/60b9bf89f6792300111af5de) 
   
 
-2.       LOA application is subject to the Principal’s approval, and the school will notify you of the outcome.  If you do not receive any reply, please email to the school at [zhonghua\_ps@moe.edu.sg](mailto:zhonghua_ps@moe.edu.sg).  
+2.       LOA application is subject to the Principal’s approval, and the school will notify you of the outcome.    
   
 
-3.       Relating to the payment of LOA fees, after LOA approval, the school will email you the details.  
+3.       After the school issue a tax invoice to you, please make necessary e-payment as stated on the tax invoice.  
   
 
-4.       If you are renewing LOA for the following academic year, please submit a fresh LOA application form in November using the same link above.  E.g. If you are renewing your child’s LOA for the year 2024, please submit by November 2023.
+4.       Renew LOA in November each year by submitting the renewal application form together with the required payment.
