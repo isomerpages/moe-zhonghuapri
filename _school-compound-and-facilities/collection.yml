@@ -1,4 +1,5 @@
 collections:
   school-compound-and-facilities:
     output: true
-    order: []
+    order:
+      - Images.md
