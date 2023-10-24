@@ -3,6 +3,6 @@ title: "Applied Learning Programme: Thinknovate"
 permalink: /niche-programme/applied-learning-programme-thinknovate/
 description: ""
 ---
-![](/images/School%20Tour/School%20Building%20&%20Amenities/Concourse.jpg)![](/images/School%20Tour/School%20Building%20&%20Amenities/Garden%20Panaroma.jpg)### **Information**
+### **Information**
 ![](/images/Thinknovate%20Section/thinknovate%20combined%20new.gif)
 Thinknovate is our unique signature STEM-based Applied Learning Programme. STEM stands for Science, Technology, Engineering and Mathematics. At Zhonghua Primary School, every pupil goes through a progressive Applied Learning Programme starting from P1 to P6. The programme is school-based and designed by our teachers contextualised to the needs of our pupils. It begins with P1 young learners exploring with screen-free coding tool such as MatataLab and learning to code through mini-challenges provided by their pupils.
