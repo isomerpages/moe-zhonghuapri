@@ -1,5 +1,4 @@
 collections:
   virtual-tour-tbc4homepage:
     output: true
-    order:
-      - Concourse.md
+    order: []
