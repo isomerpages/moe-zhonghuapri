@@ -13,6 +13,6 @@ sections:
           url: https://www.moe.gov.sg/primary/curriculum
         - title: School Compound & Facilities
           description: Explore here
-          url: ""
+          url: https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/school-compound-and-facilities/editPage/Images.md
       background: /images/gif heronew 10 april.gif
 ---
