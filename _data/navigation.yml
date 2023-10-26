@@ -28,6 +28,8 @@ links:
         url: /departments/mother-tongue/
       - title: Science
         url: /departments/science/
+      - title: Physical Education
+        url: /departments/physical-education/
       - title: ICT
         url: /departments/information-and-communication-technology/
       - title: Aesthetics
@@ -36,8 +38,6 @@ links:
         url: /departments/partnership/
       - title: CCE
         url: /departments/cce/
-      - title: Physical Education
-        url: /departments/physical-education/
   - title: CCA
     collection: cca
   - title: Contact Us
