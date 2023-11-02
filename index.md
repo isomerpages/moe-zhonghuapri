@@ -15,4 +15,5 @@ sections:
           description: Explore here
           url: https://go.gov.sg/24octimages
       background: /images/gif heronew 10 april.gif
+      url: https://go.gov.sg/24octimages
 ---
