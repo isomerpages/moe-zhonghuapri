@@ -2,8 +2,9 @@
 title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Mother Tongue Languages**
 **Mission**
 <br>To instil in our pupils a love for their Mother Tongue and heritage.
 
