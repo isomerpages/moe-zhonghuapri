@@ -2,7 +2,7 @@
 title: Non Teaching Staff
 permalink: /about-zps/non-teaching-staff/
 description: ""
+variant: markdown
 ---
-### **Information**
-[School Advisory Committee](/about-zps/list-of-non-teaching-staff/school-advisory-committee/)
-<br>[Executive And Administrative Staff](/about-zps/list-of-non-teaching-staff/executive-and-administrative-staff/)
+# **Non Teaching Staff**
+[Executive And Administrative Staff](/about-zps/list-of-non-teaching-staff/executive-and-administrative-staff/)
