@@ -1,7 +1,8 @@
 ---
-title: Motto, Mission, Vision &amp; Values
+title: Motto,Mission,Vision & Values
 permalink: /about-zps/motto-mission-vision-values/
 description: ""
+variant: tiptap
 ---
 ![](/images/Logo5.png)
 
