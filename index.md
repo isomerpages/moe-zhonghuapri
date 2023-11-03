@@ -13,6 +13,6 @@ sections:
           url: https://www.moe.gov.sg/primary/curriculum
         - title: School Compound
           description: Explore Here
-          url: ""
+          url: /Workspace/School Compound And Facilities/Images/
       background: /images/gif heronew 10 april.gif
 ---
