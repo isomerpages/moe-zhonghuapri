@@ -13,6 +13,6 @@ sections:
           url: https://www.moe.gov.sg/primary/curriculum
         - title: School Compound
           description: Images In Progress
-          url: /images/SchoolTour/24October/Images/Concourse.jpg
+          url: ""
       background: /images/gif heronew 10 april.gif
 ---
