@@ -2,8 +2,9 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Aesthetics**
 **Mission**
 <br>Instilling a lifelong appreciation for the Arts through an integrated and holistic aesthetics programme.
 
