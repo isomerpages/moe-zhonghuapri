@@ -2,8 +2,9 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Science**
 **Mission**
 <br>Engaged Learning through IDEAs.
 <br>(Inquiry, Discovery, Exploration and Applications)
