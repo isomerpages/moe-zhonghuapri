@@ -11,6 +11,6 @@ variant: markdown
 <br>[Primary 4](/list-of-teaching-staff/primary-4/)
 <br>[Primary 5](/list-of-teaching-staff/primary-5/)
 <br>[Primary 6](/list-of-teaching-staff/primary-6/)
-<br>[Mother Tongue Language Teachers](/list-of-teaching-staff/mother-tongue-language-teachers/)
+<br>[Mother Tongue Languages](/list-of-teaching-staff/mother-tongue-language-teachers/)
 <br>[Learning Support Programme (LSP)](/list-of-teaching-staff/learning-support-programme-lsp/)
 <br>[Allied Educators](/list-of-teaching-staff/allied-educators/)
