@@ -2,8 +2,9 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Physical Education**
 **Mission**
 <br>To create an environment for pupils to pursue physical activities, sports of their interest and ability and to enjoy nature and the outdoors.
 

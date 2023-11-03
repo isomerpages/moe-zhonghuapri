@@ -6,15 +6,19 @@ links:
       - title: Principal's Message
         url: /about-zps/principals-message/
       - title: Motto,Mission,Vision & Values
-        url: /about-zps/motto-mission-vision-values/
+        url: /about-zps/motto-mission-vision-&-values/
       - title: School History
         url: /about-zps/school-history/
       - title: School Song
         url: /about-zps/school-song/
-      - title: Non Teaching Staff
-        url: /about-zps/non-teaching-staff/
+      - title: Key Personnel
+        url: /about-zps/key-personnel/
       - title: Teaching Staff
         url: /about-zps/teaching-staff/
+      - title: Executive Administrative Staff
+        url: /about-zps/executive-administrative-staff/
+      - title: School Advisory Committee
+        url: /about-zps/school-advisory-committee/
   - title: Niche Programme
     collection: niche-programme
   - title: Departments
@@ -24,20 +28,20 @@ links:
         url: /departments/english-language/
       - title: Mathematics
         url: /departments/mathematics/
-      - title: Mother Tongue
-        url: /departments/mother-tongue/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
       - title: Science
         url: /departments/science/
-      - title: ICT
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Information & Communications T
         url: /departments/information-and-communication-technology/
       - title: Aesthetics
         url: /departments/aesthetics/
       - title: Partnership
         url: /departments/partnership/
-      - title: CCE
-        url: /departments/cce/
-      - title: Physical Education
-        url: /departments/physical-education/
+      - title: Character & Citizenship Edu
+        url: /departments/character-&-citizenship-education/
   - title: CCA
     collection: cca
   - title: Contact Us

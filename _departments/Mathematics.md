@@ -2,8 +2,10 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
-### **Signature Programmes**
+# **Mathematics**
+**Signature Programmes**
 <br>1.  Fun with Mathematics
 <br>This programme aims to make learning of Mathematics joyful and relevant to their everyday life by providing them with meaningful learning experiences.<br>
 
