@@ -1,0 +1,5 @@
+collections:
+  school-compound:
+    output: true
+    order:
+      - School Compound.md

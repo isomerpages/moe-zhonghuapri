@@ -2,8 +2,9 @@
 title: Social Studies (SS)
 permalink: /departments/CCE/Social-Studies-SS/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Social Studies (SS)**
 At the heart of the Singapore Social Studies (SS) curriculum is the preparation of our pupils to be citizens of tomorrow by helping them to better understand the interconnectedness in Singapore and the world they live in, and appreciate the complexities of the human experience. Drawing on the social life that is of meaning and interest to the learners, SS seeks to ignite pupils’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, SS helps pupils to attain relevant knowledge and understandings of these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. SS seeks to inculcate in pupils a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS pupil as an informed, concerned and participative citizen who is competent in quality decision-making with an impassioned spirit to contribute responsibly in the world he/she lives in.
 
 Curriculum Aims SS seeks to develop the civic competencies of our pupils by the end of a full course in Social Studies education. Civic competencies, which encompass the body of knowledge, skills and values expressed in the philosophy of SS, will empower students to be informed, concerned and participative citizens.

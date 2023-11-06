@@ -1,9 +1,10 @@
 ---
-title: CCA Schedule for Semester 2
+title: CCA Schedule For Semester 2
 permalink: /list-of-cca-schedule/cca-schedule-for-semester-2/
 description: ""
+variant: markdown
 ---
-### **For 2023**     
+# **CCA Schedule For Semester 2**     
 <table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:
  collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl68" width="215" style="height:5.25pt;width:161pt"></td><td class="xl68" width="250" style="width:188pt"></td><td class="xl68" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl69" style="height:15.75pt">Week / Day</td><td class="xl70" style="border-left:none">&nbsp;Event</td><td class="xl71" style="border-left:none">Remarks&nbsp;</td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt"><td height="43" class="xl72" width="215" style="height:32.25pt;border-top:none;
 width:161pt">

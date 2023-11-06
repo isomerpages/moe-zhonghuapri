@@ -2,8 +2,9 @@
 title: National Education (NE)
 permalink: /departments/CCE/NationalEducation-NE/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **National Education (NE)**
 6 NE messages
 <br>1.  Singapore is our homeland; this is where we belong.  
 (We treasure our heritage and take pride in shaping our own unique way of life)

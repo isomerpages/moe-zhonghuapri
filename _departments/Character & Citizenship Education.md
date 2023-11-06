@@ -1,10 +1,10 @@
 ---
-title: Character And Citizenship Education
+title: Character & Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
 variant: markdown
 ---
-# **Character And Citizenship Education**
+# **Character &amp; Citizenship Education**
 **Mission**
 <br>To equip every pupil with the values, social &amp; emotional competencies and citizenship competencies to be a leader and an active citizen.
 

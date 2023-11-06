@@ -2,8 +2,9 @@
 title: CCA Information
 permalink: /cca/cca-information/list-of-cca/
 description: ""
+variant: markdown
 ---
-### **CCA Programme in ZPS**
+# **CCA Information**
 CCA is an important part of our pupils’ holistic education. In ZPS, we offer a wide range of CCAs, catering to the varied interest and capabilities of our pupils. It is also our objective not only to teach them the CCA specific skills, but also to cultivate in our pupils the spirit of teamwork, integrity in their pursuit for excellence. Having the CCA experience with the other Zhonghuarians will also allow them to build camaraderie and desirable social behaviours.
 <br>While CCA is not compulsory in Primary Schools, we strongly encourage our pupils to participate in a CCA. We strongly believe that CCAs are important platforms to inculcate good values in our pupils, as well as to develop them with competencies to adapt to the demands of the 21st century.
 <br><br>Timeframe for CCA Work Year 2023

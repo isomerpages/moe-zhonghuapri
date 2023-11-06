@@ -2,8 +2,9 @@
 title: Primary Education
 permalink: /useful-links-and-information/primary-education/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Primary Education**
 Parents Gateway
 <br>Follow this link to download the app and read more about it. Watch the MOE onboarding video here. Click here for additional Instructions and FAQs.
 

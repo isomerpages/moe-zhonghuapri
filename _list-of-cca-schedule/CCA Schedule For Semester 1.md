@@ -1,9 +1,10 @@
 ---
-title: CCA Schedule for Semester 1
+title: CCA Schedule For Semester 1
 permalink: /list-of-cca-schedule/cca-schedule-for-semester-1/
 description: ""
+variant: markdown
 ---
-### **For 2023**
+# **CCA Schedule For Semester 1**
 <table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:
  collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl67" width="215" style="height:5.25pt;width:161pt"><a name="RANGE!E3:G24"></a></td><td class="xl67" width="250" style="width:188pt"></td><td class="xl67" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt"><span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Week / Day</span></td><td class="xl69" style="border-left:none">&nbsp;Event</td><td class="xl66" style="border-left:none"><span lang="EN-SG" style="outline: 0px;
   margin-right:0px;padding-bottom:0px;padding-top:0px">Remarks&nbsp;</span></td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;
