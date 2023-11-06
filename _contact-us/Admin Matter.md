@@ -137,10 +137,7 @@ variant: markdown
   </tr>
   <tr>
     <td colspan="2" class="tg-06je">Website</td>
-    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td>
-  </tr>
-	<tr>
-</tr></tbody>
+    <td colspan="2" class="tg-wjv8"><a href="http://www.zenitant.com.sg/"><span style="text-decoration:underline;color:#4372D6">www.zenitant.com.sg</span></a></td></tr><tr></tr></tbody>
 </table>
 
 <br>
