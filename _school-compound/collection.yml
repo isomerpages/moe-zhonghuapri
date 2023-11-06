@@ -2,4 +2,4 @@ collections:
   school-compound:
     output: true
     order:
-      - Images.md
+      - School Compound.md
