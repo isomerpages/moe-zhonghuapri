@@ -79,11 +79,12 @@ variant: markdown
 <tbody>
   <tr>
     <td colspan="2" class="tg-06je">General Office Operating Hours</td>
-    <td colspan="2" class="tg-06je">7:00 am to 6:00 pm (Term Time)<span style="font-weight:inherit;font-style:inherit">                  </span><br>8:00 am to 5:00 pm (School Holidays)</td>
+    <td colspan="2" class="tg-06je">7:00 am to 6:00 pm (Term Time)<span style="font-weight:inherit;font-style:inherit">                  </span><br>8:00 am to 5:00 pm (School Holidays)
+	</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-06je">Student Reporting Time ( during Term Time)</td>
-    <td colspan="2" class="tg-06je">7:30 am </td>
+    <td colspan="2" class="tg-06je">Student Reporting Time (during Term Time)</td>
+    <td colspan="2" class="tg-06je">7:30 am</td>
   </tr>
 	<tr>
 </tr></tbody>
