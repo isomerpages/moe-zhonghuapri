@@ -2,8 +2,9 @@
 title: Notes To Parents & Guardians
 permalink: /useful-links-and-information/notes-to-parents-guardians/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Notes To Parents &amp; Guardians**
 Communication
 <br>Your child’s form teacher would have issued an introductory letter to you on the first day of school concerning class routines, expectations, and preferred modes of communication.
 
