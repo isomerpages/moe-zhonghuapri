@@ -2,8 +2,9 @@
 title: Leave of Absence (LOA) scheme
 permalink: /holding-folder-not-for-public/leave-of-absence-loa-scheme/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Leave of Absence (LOA) scheme**
 The LOA scheme allows your child to rejoin their school after they return from overseas. They can be re-admitted to the school directly after returning to Singapore.
 
 **Eligibility**
