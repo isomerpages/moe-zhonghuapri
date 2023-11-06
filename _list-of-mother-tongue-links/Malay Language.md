@@ -2,8 +2,9 @@
 title: Malay Language
 permalink: /list-of-mother-tongue-links/malay-language/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Malay Language**
 
 **Mission**
 <br>To instill in our pupils a love for their Mother Tongue and heritage.
