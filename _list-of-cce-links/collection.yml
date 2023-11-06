@@ -2,7 +2,7 @@ collections:
   list-of-cce-links:
     output: true
     order:
-      - MOE Character And Citizenship Education Learning Outcomes (LOs).md
+      - MOE Character & Citizenship Education Learning Outcomes (LOs).md
       - National Education (NE).md
       - Social Studies (SS).md
       - Values In Action (VIA).md
