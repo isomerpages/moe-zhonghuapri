@@ -2,8 +2,9 @@
 title: MOE Cyberwellness Resource
 permalink: /useful-links-and-information/moe-cyberwellness-resource/
 description: ""
+variant: markdown
 ---
-###  **Information**
+#  **MOE Cyberwellness Resource**
 
 What is Cyber Wellness?  
   
