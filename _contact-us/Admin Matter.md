@@ -2,8 +2,9 @@
 title: Admin Matter
 permalink: /contact-us/admin-matter/
 description: ""
+variant: markdown
 ---
-### **Information**
+# **Admin Matter**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
