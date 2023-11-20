@@ -4,11 +4,14 @@ permalink: /school-compound/school-compound/
 description: ""
 variant: markdown
 ---
-Concourse
-![](/images/School%20Tour/24%20October%20Images/Concourse.jpg)
-
 Front Gate Pick-up Point
 ![](/images/School%20Tour/24%20October%20Images/Front%20Gate%20Pick-up%20Point.jpg)
+
+Back Gate 
+![](/images/2023%20Pics%20%20%2010%20Nov/Backgate_panorama.png)
+
+Concourse
+![](/images/School%20Tour/24%20October%20Images/Concourse.jpg)
 
 Eco Garden
 ![](/images/School%20Tour/24%20October%20Images/Garden%20Panaroma.jpg)
@@ -37,8 +40,11 @@ Soccer Field
 Vegetable Garden
 ![](/images/School%20Tour/24%20October%20Images/Vegetable%20Garden.jpg)
 
-Wet Weather Pick-up Point
-![](/images/School%20Tour/24%20October%20Images/Wet%20Weather%20Pick-up%20Point.jpg)
+Wet Weather Pick-up Point at Front Porch
+![](/images/2023%20Pics%20%20%2010%20Nov/Front_Porch_with_Mdm_Ros_Car.png)
+
+Wet Weather Pick-up Point at Concourse Porch
+![](/images/2023%20Pics%20%20%2010%20Nov/Concourse_Porch.png)
 
 Zest Room
 ![](/images/School%20Tour/24%20October%20Images/Zest%20Room.jpg)
