@@ -2,6 +2,7 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 13 Teachers' Day Celebration.md
       - 12 National Day Celebration.md
       - 3 Total Defence Day.md
       - 1 Chinese New Year Celebrations.md
