@@ -2,22 +2,22 @@ collections:
   list-of-zps-events:
     output: true
     order:
-      - 18 P1 Classroom Experience Day.md
-      - 17 Speech & Prize Giving Day.md
-      - 16 CCA Appreciation Day.md
-      - 14 Children's Day Celebration.md
-      - 13 Teachers' Day Celebration.md
-      - 12 National Day Celebration.md
-      - 3 Total Defence Day.md
       - 1 Chinese New Year Celebrations.md
       - 2 Total Defence Commemoration Day.md
+      - 3 Total Defence Day.md
       - 4 Parent Teacher Conference.md
       - 5 P3 to P6 English Language Parent Workshop.md
       - 6 P2 to P6 Math Parent Workshop.md
       - 7 Mother Tongue Languages Parent Workshop.md
+      - 8 Hari Raya Concert.md
       - 9 P3 to P6 Science Parent Workshop.md
       - 10 P1 to P6 Parent Child Teacher Conference.md
-      - 8 Hari Raya Concert.md
       - 11 Sports Carnival.md
+      - 12 National Day Celebration.md
+      - 13 Teachers' Day Celebration.md
+      - 14 Children's Day Celebration.md
       - 15 Deepavali Concert.md
+      - 16 CCA Appreciation Day.md
+      - 17 Speech & Prize Giving Day.md
+      - 18 P1 Classroom Experience Day.md
       - 12 P1 Classroom Experience Day.md
