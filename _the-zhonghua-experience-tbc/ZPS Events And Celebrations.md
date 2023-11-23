@@ -13,10 +13,10 @@ variant: markdown
 <br>5. P3 to P6 English Language Parent Workshop on 25 Mar 2023
 <br>6. P2 to P6 Math Parent Workshop on 1 Apr 2023
 <br>7. Mother Tongue Languages Parent Workshop (CL:P1 to P6), (ML:P1 to P3) &amp; (TL:P2 &amp; P3) on 6 May 2023
-<br>[8. Hari Raya Concert on 8 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/9%20Hari%20Raya%20Concert.md)
+<br>[8. Hari Raya Concert on 8 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/8%20Hari%20Raya%20Concert.md)
 <br>9. P1 to P6 Science Parent Workshop on 13 &amp; 25 May 203
-<br>[10. P1 to P6 Parent Child Teacher Conference on 25 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/8%20P1%20to%20P6%20Parent%20Child%20Teacher%20Conference.md)
-<br>[11. Sports Carnival on 7 July 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/10%20Sports%20Carnival.md)
+<br>[10. P1 to P6 Parent Child Teacher Conference on 25 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/10%20P1%20to%20P6%20Parent%20Child%20Teacher%20Conference.md)
+<br>[11. Sports Carnival on 7 July 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/11%20Sports%20Carnival.md)
 <br>12. National Day Celebration on 8 Aug 2023
 <br>13. Teachers' Day Celebration on 31 Aug 2023
 <br>14. Children's Day Celebration on 5 Oct 2023
