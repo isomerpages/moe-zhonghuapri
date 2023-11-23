@@ -17,5 +17,10 @@ variant: markdown
 <br>[9. P1 to P6 Parent Child Teacher Conference on 25 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/8%20P1%20to%20P6%20Parent%20Child%20Teacher%20Conference.md)
 <br>[10. Hari Raya Concert on 8 May 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/9%20Hari%20Raya%20Concert.md)
 <br>[11. Sports Carnival on 7 July 2023](https://cms.isomer.gov.sg/sites/moe-zhonghuapri/folders/list-of-zps-events/editPage/10%20Sports%20Carnival.md)
-<br>12. Deepavali Concert on
-<br>13. P1 Classroom Experience Day on 17 Nov 2023
+<br>12. National Day Celebration on 8 Aug 2023
+<br>13. Teachers' Day Celebration on 31 Aug 2023
+<br>14. Children's Day Celebration on 5 Oct 2023
+<br>15. Deepavali Concert on 14 Nov 2023
+<br>16. CCA Appreciation Day on 17 Nov 2023
+<br>17. Speech &amp; Prize Giving Day on 17 Nov 2023
+<br>18. P1 Classroom Experience Day on 17 Nov 2023
