@@ -2,6 +2,7 @@ collections:
   list-of-zps-events:
     output: true
     order:
+      - 18 P1 Classroom Experience Day.md
       - 17 Speech & Prize Giving Day.md
       - 16 CCA Appreciation Day.md
       - 14 Children's Day Celebration.md
