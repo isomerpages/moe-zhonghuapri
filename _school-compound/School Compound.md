@@ -41,10 +41,10 @@ Vegetable Garden
 ![](/images/School%20Tour/24%20October%20Images/Vegetable%20Garden.jpg)
 
 Wet Weather Pick-up Point at Front Porch
-![](/images/2023%20Pics%20%20%2010%20Nov/Front_Porch_with_Mdm_Ros_Car.png)
+![](/images/School%20Tour/24%20October%20Images/Front_Porch_with_Mdm_Ros_Car_brighter.png)
 
 Wet Weather Pick-up Point at Concourse Porch
-![](/images/2023%20Pics%20%20%2010%20Nov/Concourse_Porch.png)
+![](/images/School%20Tour/24%20October%20Images/Concourse_Porch_super_bright.png)
 
 Zest Room
 ![](/images/School%20Tour/24%20October%20Images/Zest%20Room.jpg)
