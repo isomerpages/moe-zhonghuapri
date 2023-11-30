@@ -10,8 +10,23 @@ Front Gate Pick-up Point
 Back Gate 
 ![](/images/2023%20Pics%20%20%2010%20Nov/Backgate_panorama.png)
 
+School Hall
+![](/images/28%20November/School_Hall.png)
+
 Concourse
 ![](/images/School%20Tour/24%20October%20Images/Concourse.jpg)
+
+Thinknovate Room
+![](/images/28%20November/Thinknovate.png)
+
+Thinknovate Challenge Submissions 
+![](/images/28%20November/Thinknovate_Inside.png)
+
+Makerspace Room
+![](/images/28%20November/Makerspace_Outside.png)
+
+Building Creativity and Problem Solving Skills
+![](/images/28%20November/Makerspace_Inside.png)
 
 Eco Garden
 ![](/images/School%20Tour/24%20October%20Images/Garden%20Panaroma.jpg)
