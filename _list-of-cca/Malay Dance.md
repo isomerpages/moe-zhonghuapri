@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/28%20November/_2023_CCA_Malay_Dance.gif)
-
-![](/images/28%20November/_2023_CCA_Malay_Dance.gif)
 The Malay Dance CCA aims to promote joy for learning the traditional dance forms of the Malay communities in Singapore which are wide-ranging and diverse. They include&nbsp;zapin,&nbsp;joget,&nbsp;asli&nbsp;and&nbsp;inang amongst others. Male and female dancers of the CCA, under the guidance of our professional instructors, will be given opportunities to showcase their dance skills for Singapore Youth Festival and other community events. Overall, being in a Malay dance CCA can develop a student holistically and provide a unique cultural experience that enriches their personal growth and learning.
 
 **Teachers-In-Charge**
