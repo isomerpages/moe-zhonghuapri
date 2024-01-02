@@ -2,17 +2,30 @@
 title: Primary 1
 permalink: /list-of-teaching-staff/primary-1/
 description: ""
+variant: markdown
 ---
 ### **Form Teachers**
 <table style="border-collapse:
  collapse;width:457pt" width="610" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2742;width:56pt" width="75"> <col style="mso-width-source:userset;mso-width-alt:6582;width:135pt" width="180"> <col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:56pt" width="75" class="xl66" height="7"></td><td style="width:135pt" width="180"></td><td style="width:266pt" width="355"></td></tr><tr style="mso-height-source:userset;height:30.75pt" height="41"><td style="height:30.75pt;width:56pt" width="75" class="xl68" height="41">No</td><td style="border-left:none;width:135pt" width="180" class="xl67">Class</td><td style="border-left:none;width:266pt" width="355" class="xl67">Name of Form Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>1</td><td class="xl71" rowspan="2">
-<br>P1 Care</td><td style="border-top:none" class="xl72"><a href="mailto:leeladevi_panneerselvam@moe.edu.sg">Mdm Leeladevi</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21"><a href="mailto:tan_wee_theng@moe.edu.sg">Mdm Tan Wee Theng</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
+<br>P1 Care</td><td style="border-top:none" class="xl72"><a href="mailtopremala_devi_kandasamy_a@moe.edu.sg">Mdm Premala Devi (Mrs Raj)
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
+<a href="mailto:tan_sok_gway@moe.edu.sg">Ms Tan Sok Gway
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>2</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P1 Diligence</td><td style="border-top:none" class="xl72"><a href="mailto:foo_yun_xi_hannah@moe.edu.sg">Mrs Hannah Wong</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21"><a href="mailto:mageswari_kanapathy@moe.edu.sg">Mdm Mageswari Kanapathy</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
+<br>P1 Diligence</td><td style="border-top:none" class="xl72"><a href="mailto:kavinchelvan_kalaivani@moe.edu.sg">Mrs Kavinchelvan Kalaivani
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
+<a href="mailto:tan_hui_lin_a@moe.edu.sg">Ms Tan Hui Lin 
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>3</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P1 Discipline</td><td style="border-top:none" class="xl72"><a href="mailto:feng_yijun@moe.edu.sg">Mdm Feng Yijun</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21"><a href="mailto:suriana_samat@moe.edu.sg">Mdm Suriana B Samat</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
+<br>P1 Discipline</td><td style="border-top:none" class="xl72">
+<a href="mailto:azman_mohamed_hamzah@moe.edu.sg">Mr Azman Bin Mohd Hamzah 
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
+<a href="mailto:tan_chai_hsien_gladys@moe.edu.sg">Mrs Gladys Tan Chai Hsien (Chen Caixian)</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>4</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P1 Harmony</td><td style="border-top:none" class="xl72"><a href="mailto:rafidawati_abdul_rahman@moe.edu.sg">Mdm Rafidawati B Ab Rahman</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21"><a href="mailto:sandra_wang_chai_lin@moe.edu.sg">Mrs Sandra Leong</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
-<br>5</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P1 Integrity</td><td style="border-top:none" class="xl72"><a href="mailto:chong_hui_min_constance@moe.edu.sg">Ms Constance Chong</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21"><a href="mailto:nuriah_abdullah@moe.edu.sg">Mdm Nuriah B Abdullah</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl66" height="9"></td><td></td><td></td></tr></tbody></table>
+<br>P1 Harmony</td><td style="border-top:none" class="xl72">
+<a href="mailto:chen_guiyun@moe.edu.sg">Mdm Chen Guiyun
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
+<a href="mailto:choo_meining_serene@moe.edu.sg">Mrs Serene Choo Meining (Mrs Koh)
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
+</td><td style="height:6.75pt" class="xl66" height="9"></td><td></td><td></td></tr></tbody></table>
