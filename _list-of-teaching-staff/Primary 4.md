@@ -26,14 +26,13 @@ variant: markdown
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>4</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
 <br>P4 Harmony</td><td style="border-top:none" class="xl71">
-<a href="mailto:farida_kader@moe.edu.sg">Mdm Farida Bte Mohd Abdul Kader<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl71" height="21">
+<a href="mailto:farida_kader@moe.edu.sg">Mdm Farida Bte Mohd Abdul Kader
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl71" height="21">
 <a href="mailto:lee_cher_kiak@moe.edu.sg">Ms Chiam Pei Ling Joycelyn
-</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" class="xl66" height="6">
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>5</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
 <br>P4 Integrity</td><td style="border-top:none" class="xl71">
-<a href="mailto:ho_mei_lian@moe.edu.sg">Mrs Lim Lee Fong (Mrs Chan Lee Fong)
-<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl71" height="21">
+<a href="mailto:lim_lee_fong@moe.edu.sg">Mrs Lim Lee Fong (Mrs Chan Lee Fong) 
+</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl71" height="21">
 <a href="mailto:wong_weng_choy@moe.edu.sg">Mr Wong Weng Choy
-</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" class="xl66" height="6">
-
-</td></tr></tbody></table>
+</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" class="xl66" height="6"></td><td></td><td></td></tr></tbody></table>	
