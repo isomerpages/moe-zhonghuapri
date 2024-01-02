@@ -7,7 +7,7 @@ description: ""
 # **School Advisory Committee**
 1.            Mr Tang Chuan Ann – Chairman
 
-2.            Mdm Rostinah Mohamad Said – Honorary Secretary
+2.            Mrs Chan Tiong Le Chin – Honorary Secretary
 
 3.           Er Soo Chee Sern
 
