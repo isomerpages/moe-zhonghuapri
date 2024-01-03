@@ -43,5 +43,3 @@ Malay Language and Tamil Language</td><td style="border-top:none;border-left:non
 Science</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:ang_wei_wen_justin@moe.edu.sg">Mr Justin Ang</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
 Information &amp; Communications Technology</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:tang_qisheng@moe.edu.sg">Mr Tang Qisheng</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
 PAL / Art / Music (Covering)</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:alicia_wee_su_ping@moe.edu.sg">Ms Alicia Wee</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" height="6"></td><td></td></tr></tbody></table>
-
-
