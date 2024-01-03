@@ -4,7 +4,7 @@ permalink: /about-zps/principals-message/
 description: ""
 variant: markdown
 ---
-### **<center>Warmest Greetings from Zhonghua Primary School.</center>**
+#### **<center>Warm greeting from Zhonghua Primary.</center>**
       
 I am thankful to be given the opportunity to lead Zhonghua Primary School (ZPS) and to build on the excellent work of Mdm Rostinah and her predecessors. The ZPS vision, mission, values and motto resonate with me and I admire how the entire school community has come together to make a positive difference to past and current Zhonghuarians.
 
