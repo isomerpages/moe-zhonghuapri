@@ -2,21 +2,21 @@
 title: Mother Tongue Language Teachers
 permalink: /list-of-teaching-staff/mother-tongue-language-teachers/
 description: ""
+variant: markdown
 ---
 ### **Information**
 <table style="border-collapse:
  collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Chinese Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
 1</td><td style="border-top:none" class="xl70"><a href="mailto:liew_yong_chew@moe.edu.sg">Mr Liew Yong Chew</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none" class="xl70"><a href="mailto:angelina_mok_yin_peng@moe.edu.sg">Ms Angelina Mok</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-3</td><td style="border-top:none" class="xl70"><a href="mailto:hsu_hui-chien@moe.edu.sg">Mrs Chang Hsu Hui-Chien</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-4</td><td style="border-top:none" class="xl70"><a href="mailto:ng_yen_tin@moe.edu.sg">Ms Ng Yen Tin</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-5</td><td style="border-top:none" class="xl70"><a href="mailto:yu_xiaocheng@moe.edu.sg">Mdm Daisy Yu Xiaocheng</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-6</td><td style="border-top:none" class="xl70"><a href="mailto:liu_yusi@moe.edu.sg">Mdm Liu Yusi</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-7</td><td style="border-top:none" class="xl70"><a href="mailto:ng_ai_li_shirleywijaya@moe.edu.sg">Mrs Shirley Yeh Ai Li</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-8</td><td style="border-top:none" class="xl70"><a href="mailto:chen_guiyun@moe.edu.sg">Mdm&nbsp;Chen Gui Yun</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:15.75pt" class="xl67" height="9">
-9</td><td style="border-top:none" class="x170"><a href="mailto:leong_shi_ern@moe.edu.sg">Mdm&nbsp;Leong Shi Ern</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;" class="x167" height="21">
-10</td><td style="border-top:none" class="x170"><a href="mailto:feng_yijun@moe.edu.sg">Mdm&nbsp;Feng Yijun</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="x167" height="21">
-11</td><td style="border-top:none" class="x170"><a href="mailto:tan_wee_theng@moe.edu.sg">Mdm&nbsp;Tan Wee Theng</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;." class="x167" height="21"></td><td class="xl66"></td></tr></tbody></table>
+2</td><td style="border-top:none" class="xl70"><a href="mailto:hsu_hui-chien@moe.edu.sg">Mrs Chang Hsu Hui-Chien</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+3</td><td style="border-top:none" class="xl70"><a href="mailto:ng_yen_tin@moe.edu.sg">Ms Ng Yen Tin</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+4</td><td style="border-top:none" class="xl70"><a href="mailto:yu_xiaocheng@moe.edu.sg">Mdm Daisy Yu Xiaocheng</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+5</td><td style="border-top:none" class="xl70"><a href="mailto:liu_yusi@moe.edu.sg">Mdm Liu Yusi</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+6</td><td style="border-top:none" class="xl70"><a href="mailto:ng_ai_li_shirleywijaya@moe.edu.sg">Mrs Shirley Yeh Ai Li</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+7</td><td style="border-top:none" class="xl70"><a href="mailto:chen_guiyun@moe.edu.sg">Mdm&nbsp;Chen Gui Yun</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:15.75pt" class="xl67" height="9">
+8</td><td style="border-top:none" class="x170"><a href="mailto:leong_shi_ern@moe.edu.sg">Mdm&nbsp;Leong Shi Ern</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;" class="x167" height="21">
+9</td><td style="border-top:none" class="x170"><a href="mailto:feng_yijun@moe.edu.sg">Mdm&nbsp;Feng Yijun</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="x167" height="21">
+10</td><td style="border-top:none" class="x170"><a href="mailto:tan_wee_theng@moe.edu.sg">Mdm&nbsp;Tan Wee Theng</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;." class="x167" height="21"></td><td class="xl66"></td></tr></tbody></table>
  
  <table style="border-collapse:
  collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:30pt" width="40" class="xl67" height="7"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Malay Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
