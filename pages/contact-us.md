@@ -23,7 +23,7 @@ contacts:
       - email: zhonghua_ps@moe.edu.sg
       - other: Mon-Fri:7am-6pm (Term Time)                   Mon-Fri:8am-5pm (School
           Holidays)
-    title: 1. Zhonghua Pri Sch-Gen Office
+    title: 1. Zhonghua Pri Sch-Gen Off
   - content:
       - phone: +65 8102 7268
       - email: enquiry@learningstudioeducare.com
@@ -43,37 +43,32 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: A roving dental team will serve our students’ dental service.  Depending
-          on their schedule, they will station in our school for a few months in
-          the year.  If parents need quick attention for their children, please
-          call the hotline below to make appointments.  For emergencies, please
-          contact SGH School Dental Centre.
+      - other: "The Roving team (RDC8) serves our school, Xinghua Primary and Blangah
+          Rise Primary.  Depending on their schedule, they will station at one
+          of the schools for a few months before shifting to the next school.If
+          parents need quick attention for their children’s dental needs,
+          parents may make appointment with contacts below:           "
     title: 5. School Dental Services
   - content:
       - phone: +65 9838 9102
       - email: ""
-      - other: 45 Hougang Avenue 1 Singapore 538882. Please call this number first.  The
-          dentist may not be able to pick up your call immediately.  Do leave
-          your phone number for the dentist to call you back.
-    title: 5a. Sch Dental-Xinghua Pri
-  - content:
-      - phone: +65 8940 0314
-      - email: ""
-      - other: 15 Serangoon Ave 3 (556108)
-    title: 5b. Sch Dental-Yangzheng Pri
+      - other: Zhonghua Primary School The team will station in our school in term 1
+          2024 and open on Mondays, Tuesdays as well as Wednesdays. Please book
+          dental appointment by call or what’sapp.  The dental team will respond
+          within 1-3 working days.
+    title: 5a. RDC8
   - content:
       - phone: +65 8909 1753
       - email: ""
-      - other: 61 Hougang Ave 8 (538787)
-    title: 5c. Sch Dental-Punggol Pri
+      - other: 61 Hougang Ave 8 S(538787). If you require any URGENT treatment and the
+          above number is uncontactable. Please book dental appointment by call
+          or what’sapp.  The dental team will respond within 1-3 working days.
+    title: 5b. Punggol Primary School
   - content:
-      - phone: +65 8764 7746
-      - email: ""
-      - other: 5 Lor Low Koon (536451)
-    title: 5d. Sch Dental-Holy Innocents'
-  - content:
-      - phone: +65 9270 7796
-      - email: ""
-      - other: ""
-    title: 5e. Sch Dental-MDC 5
+      - phone: ""
+      - email: Contact_YPS@hpb.gov.sg
+      - other: "If you are unable to get through to any of the clinics above, please
+          email to the above link. "
+    title: "5c. HPB School Dental Centre "
+feedback: ""
 ---
