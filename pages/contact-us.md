@@ -23,7 +23,7 @@ contacts:
       - email: zhonghua_ps@moe.edu.sg
       - other: Mon-Fri:7am-6pm (Term Time)                   Mon-Fri:8am-5pm (School
           Holidays)
-    title: 1. Zhonghua Pri Sch-Gen Office
+    title: 1. Zhonghua Pri Sch-Gen Off
   - content:
       - phone: +65 8102 7268
       - email: enquiry@learningstudioeducare.com
@@ -57,23 +57,14 @@ contacts:
           your phone number for the dentist to call you back.
     title: 5a. Sch Dental-Xinghua Pri
   - content:
-      - phone: +65 8940 0314
-      - email: ""
-      - other: 15 Serangoon Ave 3 (556108)
-    title: 5b. Sch Dental-Yangzheng Pri
-  - content:
       - phone: +65 8909 1753
       - email: ""
       - other: 61 Hougang Ave 8 (538787)
     title: 5c. Sch Dental-Punggol Pri
   - content:
-      - phone: +65 8764 7746
-      - email: ""
-      - other: 5 Lor Low Koon (536451)
-    title: 5d. Sch Dental-Holy Innocents'
-  - content:
       - phone: +65 9270 7796
       - email: ""
       - other: ""
     title: 5e. Sch Dental-MDC 5
+feedback: ""
 ---
