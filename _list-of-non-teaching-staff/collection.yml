@@ -1,0 +1,5 @@
+collections:
+  list-of-non-teaching-staff:
+    output: true
+    order:
+      - Executive and Administrative Staff.md

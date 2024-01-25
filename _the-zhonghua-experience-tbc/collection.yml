@@ -1,0 +1,9 @@
+collections:
+  the-zhonghua-experience-tbc:
+    output: true
+    order:
+      - Lower Primary From YH.md
+      - Middle Primary from YH.md
+      - Upper Primary From YH.md
+      - ZPS Events And Celebrations.md
+      - Lower Primary Under Construction.md

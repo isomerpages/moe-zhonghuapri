@@ -1,0 +1,50 @@
+logo: /images/logo.png
+links:
+  - title: About ZPS
+    url: /about-zps/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-zps/principals-message/
+      - title: Motto,Mission,Vision & Values
+        url: /about-zps/motto-mission-vision-values/
+      - title: School History
+        url: /about-zps/school-history/
+      - title: School Song
+        url: /about-zps/school-song/
+      - title: Key Personnel
+        url: /about-zps/key-personnel/
+      - title: Teaching Staff
+        url: /about-zps/teaching-staff/
+      - title: Non Teaching Staff
+        url: /about-zps/non-teaching-staff/
+      - title: School Advisory Committee
+        url: /about-zps/school-advisory-committee/
+  - title: Niche Programme
+    collection: niche-programme
+  - title: Departments
+    url: /departments/english-language/
+    sublinks:
+      - title: English Language
+        url: /departments/english-language/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
+      - title: Science
+        url: /departments/science/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Information & Communications T
+        url: /departments/information-and-communications-technology/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: Partnership
+        url: /departments/partnership/
+      - title: Character & Citizenship Edu
+        url: /departments/character-and-citizenship-education/
+  - title: CCA
+    collection: cca
+  - title: Contact Us
+    collection: contact-us
+  - title: Useful Links And Information
+    collection: useful-links-and-information

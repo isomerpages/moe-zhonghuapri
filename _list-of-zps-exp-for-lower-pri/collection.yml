@@ -1,0 +1,13 @@
+collections:
+  list-of-zps-exp-for-lower-pri:
+    output: true
+    order:
+      - Circle Time.md
+      - P1 & P2 Fun With Math.md
+      - P1 & P2 MTL Fortnight.md
+      - Project Work.md
+      - Shining Stars.md
+      - PAL Programme.md
+      - P1 Orientation First Day Of School.md
+      - P1 Outdoor Leadership And Environmental Education.md
+      - P2 Outdoor Leadership And Environmental Education.md

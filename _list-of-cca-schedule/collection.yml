@@ -1,0 +1,6 @@
+collections:
+  list-of-cca-schedule:
+    output: true
+    order:
+      - CCA Schedule For Semester 1.md
+      - CCA Schedule For Semester 2.md

@@ -1,0 +1,36 @@
+---
+title: Values In Action (VIA)
+permalink: /departments/CCE/Values-In-Action-VIA/
+description: ""
+variant: markdown
+---
+# **Values In Action (VIA)**
+Values In Action (VIA) refers to learning experiences that support pupils’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of knowledge, skills and values. VIA encourages pupils’ ownership of their learning, and how they contribute to the community. As part of VIA, pupils reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. Students will reflect on their VIA experiences, to reinforce the learning and internalise the values. Curriculum time will be set aside during Character and Citizenship Education (CCE) lessons for reflection. At Zhonghua Primary, the VIA outcomes for pupils include demonstrating care, taking an active part to better the lives of others, having a strong sense of civic responsibility, staying rooted to Singapore and being informed about Singapore and the World.
+
+As part of each Zhonghuarian’s experience in the school, the CCE department provides the opportunity for them to embark on the following Values-in-Action activities in the various domains:
+
+<table border="0" cellpadding="0" cellspacing="0" width="834" style="border-collapse:
+ collapse;width:626pt"><colgroup><col width="122" style="mso-width-source:userset;mso-width-alt:4461;width:92pt"> <col width="173" style="mso-width-source:userset;mso-width-alt:6326;width:130pt"> <col width="539" style="mso-width-source:userset;mso-width-alt:19712;width:404pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl63" width="122" style="height:5.25pt;width:92pt"><a name="RANGE!C4:E14"></a></td><td width="173" style="width:130pt"></td><td width="539" style="width:404pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl67" style="height:15.75pt"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Level</span></td><td class="xl64" style="border-left:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Domain</span></td><td class="xl68" style="border-left:none;outline: 0px">VIA programme</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 1</span></td><td class="xl64" style="border-top:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">School</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">Welcome to Zhonghua!</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 2</span></td><td class="xl64" style="border-top:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Family</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">I'm a Great Helper!</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 3</span></td><td class="xl64" style="border-top:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Community</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">I’m a Good Neighbour!</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 4</span></td><td class="xl64" style="border-top:none;outline: 0px">Nation</td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">I’m a Green Planeteer! (Reduce Food Waste)</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 5</span></td><td class="xl64" style="border-top:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Nation</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">Doing our part for Singapore (Food Waste Management)</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td height="21" class="xl66" style="height:15.75pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">Primary 6</span></td><td class="xl64" style="border-top:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Nation</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">Doing our part for Singapore (Elderly)</td></tr><tr height="21" style="height:15.75pt;outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px"><td rowspan="2" height="42" class="xl65" style="height:31.5pt;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">
+	<br>All Levels</span></td><td class="xl64" style="border-top:none;border-left:none;outline: 0px"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:0px;
+  padding-top:0px">School</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">Use Your Hand Campaign</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl64" style="height:15.75pt;border-top:none;border-left:
+  none"><span lang="EN-US" style="outline: 0px;margin-right:0px;padding-bottom:
+  0px;padding-top:0px">Community</span></td><td class="xl68" style="border-top:none;border-left:none;outline: 0px">Charity Donation Drive</td></tr><tr height="5" style="mso-height-source:userset;height:3.75pt"><td height="5" class="xl63" style="height:3.75pt"></td><td></td><td></td></tr></tbody></table>
+
+
+**ZPS Values In Action (VIA) Platinum Award**
+
+The ZPS VIA Platinum Award recognises the efforts of Zhonghuarians who have contributed significantly to either the school, community and/or the environment. In order to qualify for the VIA Platinum Award, Zhonghuarians will need to attain the minimum number of VIA hours in the respective levels.
