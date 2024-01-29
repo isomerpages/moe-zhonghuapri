@@ -33,7 +33,7 @@ CCA Policy in ZPS
 <a href="/list-of-cca/football-school-team-recreational/">Football</a></td><td class="xl65">
 <a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/chinese-dance/">Chinese Dance</a></td><td class="xl65">
 <a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/art-club/">Art Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/recreational-badminton/">Recreational Badminton</a></td><td class="xl65">
+<a href="/list-of-cca/recreational-badminton/">Recreational Badminton</a></td><td class="xl65">
 <a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/malay-dance/">Malay Dance</a></td><td class="xl65">
 <a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/infocomm-technology-club/">Infocomm Technology Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20"></td><td class="xl65">
 <a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/indian-dance/">Indian Dance</a></td><td class="xl65">
