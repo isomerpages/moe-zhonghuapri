@@ -29,13 +29,13 @@ CCA Policy in ZPS
  width:161pt" span="3" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:161pt" width="215" class="xl64" height="9"></td><td style="width:161pt" width="215" class="xl64"></td><td style="width:161pt" width="215" class="xl64"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20">Sports and Games</td><td class="xl64">Performing Arts</td><td class="xl64">Clubs and Uniformed Groups</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 <a href="/list-of-cca/volleyball/">Volleyball</a></td><td class="xl65">
 <a href="/list-of-cca/choir/">Choir</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/environment-science-club/">Environmental Science Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
+<a href="/list-of-cca/environment-science-club/">Environmental Science Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 <a href="/list-of-cca/football-school-team-recreational/">Football</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/chinese-dance/">Chinese Dance</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/art-club/">Art Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
+<a href="/list-of-cca/chinese-dance/">Chinese Dance</a></td><td class="xl65">
+<a href="/list-of-cca/art-club/">Art Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 <a href="/list-of-cca/recreational-badminton/">Recreational Badminton</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/malay-dance/">Malay Dance</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/infocomm-technology-club/">Infocomm Technology Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20"></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/indian-dance/">Indian Dance</a></td><td class="xl65">
-<a href="https://staging.dibz2r776ygiu.amplifyapp.com/list-of-cca/scouts/">Scouts</a></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl64" height="8"></td><td class="xl64"></td><td class="xl64">
+<a href="/list-of-cca/malay-dance/">Malay Dance</a></td><td class="xl65">
+<a href="/list-of-cca/infocomm-technology-club/">Infocomm Technology Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20"></td><td class="xl65">
+<a href="/list-of-cca/indian-dance/">Indian Dance</a></td><td class="xl65">
+<a href="/list-of-cca/scouts/">Scouts</a></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" class="xl64" height="8"></td><td class="xl64"></td><td class="xl64">
 </td></tr></tbody></table>
