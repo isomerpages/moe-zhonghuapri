@@ -21,7 +21,7 @@ CCA Policy in ZPS
 <br>8.  Please click to view [2023 CCA Schedule for Semester 1 &amp; 2](/list-of-cca-schedule/cca-schedule-for-semester-1/)<br>
 <br>9.  A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to:
 <br>[Mr Azman]( azman_mohamed_hamzah@moe.edu.sg) (For Sports/Clubs/Uniformed Group CCAs) or
-<br>[Mr Tang Qisheng](tang_qisheng@moe.edu.sg ) (For Performing Arts CCAs).
+<br>[Ms Alicia Wee](alicia_wee_su_ping@moe.edu.sg)(For Performing Arts CCAs).
 <br><br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as follows:
 
 <table style="border-collapse:
