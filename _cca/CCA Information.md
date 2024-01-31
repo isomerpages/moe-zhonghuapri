@@ -30,7 +30,7 @@ CCA Policy in ZPS
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/volleyball/">Volleyball</a></td><td class="xl65">
 <a href="/list-of-cca/choir/">Choir</a></td><td class="xl65">
 <a href="/list-of-cca/environment-science-club/">Environmental Science Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
-<a href="/list-of-cca/football-school-team-recreational/">Football</a></td><td class="xl65">
+<a href="/https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-recreational/">Football</a></td><td class="xl65">
 <a href="/list-of-cca/chinese-dance/">Chinese Dance</a></td><td class="xl65">
 <a href="/list-of-cca/art-club/">Art Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 <a href="/list-of-cca/recreational-badminton/">Recreational Badminton</a></td><td class="xl65">
