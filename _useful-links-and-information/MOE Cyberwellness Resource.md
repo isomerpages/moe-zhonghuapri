@@ -20,5 +20,5 @@ Let's learn to be safe and smart digital users together!
 
 <br>Helpful resources:
 <br>[Ways To Spot Fake News](https://go.gov.sg/ways-to-spot-fake-news)  [Ways To Spot Fake News 1](https://go.gov.sg./ways-to-spot-fake-news)
-<br>[Meaning And Forms Of Fake News](https://go.gov.sg/meaningandformsoffakenews)
+<br>[Meaning And Forms Of Fake News](https://go.gov.sg/meaningandformsoffakenews) [Meaning And Forms Of Fake News 1](https://go.gov.sg./meaning-and-forms-of-fake-news)
 <br>[MOE Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
