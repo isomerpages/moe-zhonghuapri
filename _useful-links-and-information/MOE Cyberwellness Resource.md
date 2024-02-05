@@ -19,6 +19,7 @@ Let's learn to be safe and smart digital users together!
 <img src="/images/Cyber.png" style="width:70%">
 
 <br>Helpful resources:
-<br>[Ways To Spot Fake News](https://go.gov.sg/ways-to-spot-fake-news)
-<br>[Meaning And Forms Of Fake News](https://go.gov.sg/meaningandformsoffakenews)
+<br>[Ways To Spot Fake News](/files/Ways_To_Spot_Fake_News.pdf)
+<br>[Meaning And Forms Of Fake News](/files/meaning_and_forms_of_fake_news.pdf)
 <br>[MOE Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+
