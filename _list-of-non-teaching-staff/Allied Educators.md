@@ -4,28 +4,10 @@ permalink: /list-of-non-teaching-staff/allied-educators/
 variant: markdown
 description: ""
 ---
-<p>### <strong>Allied Educators</strong>
-</p>
-<p>&lt;table border="0" cellpadding="0" cellspacing="0" width="540" style="border-collapse:</p>
-<p>collapse;width:405pt"&gt;&lt;colgroup&gt;&lt;col width="40" style="mso-width-source:userset;mso-width-alt:1462;width:30pt"&gt;
-&lt;col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"&gt;
-&lt;col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr
-height="10" style="mso-height-source:userset;height:7.5pt"&gt;&lt;td height="10"
-class="xl67" width="40" style="height:7.5pt;width:30pt"&gt;&lt;/td&gt;&lt;td
-class="xl66" width="285" style="width:214pt"&gt;&lt;/td&gt;&lt;td class="xl66"
-width="215" style="width:161pt"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="21"
-style="height:15.75pt"&gt;&lt;td height="21" class="xl68" style="height:15.75pt"&gt;No&lt;/td&gt;&lt;td
-class="xl69" style="border-left:none"&gt;Designation&lt;/td&gt;&lt;td class="xl70"
-style="border-left:none"&gt;Name of Officer&lt;/td&gt;&lt;/tr&gt;&lt;tr
-height="21" style="height:15.75pt"&gt;&lt;td height="21" class="xl67" style="height:15.75pt"&gt;</p>
-<p>1&lt;/td&gt;&lt;td class="xl71" width="285" style="width:214pt"&gt;School
-Counsellor&lt;/td&gt;&lt;td class="xl72" width="215" style="border-top:none;width:161pt"&gt;</p>
-<p>&lt;a href="mailto:<a href="mailto:sze_kiat_geok_elisha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sze_kiat_geok_elisha@moe.edu.sg</a>"&gt;Ms
-Elisha Sze&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="21" style="height:15.75pt"&gt;&lt;td
-height="21" class="xl67" style="height:15.75pt"&gt;</p>
-<p>2&lt;/td&gt;&lt;td class="xl69" style="border-top:none"&gt;Roving Student
-Welfare Officer&lt;/td&gt;&lt;td class="xl73" style="border-top:none;border-left:none"&gt;</p>
-<p>&lt;a href="mailto:<a href="mailto:hemalatha_rrajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hemalatha_rrajendran@schools.gov.sg</a>"&gt;Ms
-Hemalatha Rajendran&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="9" style="mso-height-source:userset;height:6.75pt"&gt;&lt;td
-height="9" class="xl67" style="height:6.75pt"&gt;&lt;/td&gt;&lt;td class="xl66"&gt;&lt;/td&gt;&lt;td
-class="xl66"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</p>
+### **Allied Educators**
+<table style="border-collapse:
+ collapse;width:405pt" width="540" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"> <col style="mso-width-source:userset;mso-width-alt:7862;width:161pt" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:214pt" width="285" class="xl66"></td><td style="width:161pt" width="215" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Designation</td><td style="border-left:none" class="xl70">Name of Officer</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+1</td><td style="width:214pt" width="285" class="xl71">School Counsellor</td><td style="border-top:none;width:161pt" width="215" class="xl72">
+<a href="mailto:sze_kiat_geok_elisha@moe.edu.sg">Ms Elisha Sze</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
+2</td><td style="border-top:none" class="xl69">Roving Student Welfare Officer</td><td style="border-top:none;border-left:none" class="xl73">
+<a href="mailto:hemalatha_rrajendran@schools.gov.sg">Ms Hemalatha Rajendran</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl67" height="9"></td><td class="xl66"></td><td class="xl66"></td></tr></tbody></table>
