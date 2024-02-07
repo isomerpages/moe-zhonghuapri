@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 ## **Teaching Staff**
-[Primary 1](/list-of-teaching-staff/primary-1/)
+[Key Personnel](/list-of-teaching-staff/key-personnel/)
+<br>[Primary 1](/list-of-teaching-staff/primary-1/)
 <br>[Primary 2](/list-of-teaching-staff/primary-2/)
 <br>[Primary 3](/list-of-teaching-staff/primary-3/)
 <br>[Primary 4](/list-of-teaching-staff/primary-4/)
