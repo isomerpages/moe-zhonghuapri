@@ -14,7 +14,7 @@ While CCA is not compulsory in Primary Schools, we strongly encourage our pupils
 
 #### **Timeframe for CCA Work Year 2024**
 
-CCAs will commence in [January 2024](https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1/) and run till Nov 2024.
+CCAs will commence in [January 2024](https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1/) and run till [Nov 2024](https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2/).
 
 #### **CCA Policy in ZPS**
 
