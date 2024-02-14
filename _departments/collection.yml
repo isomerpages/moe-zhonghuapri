@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Physical and Health Education.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Science.md
+      - Physical and Health Education.md
       - Information & Communications Technology.md
       - Aesthetics.md
       - Partnership.md
