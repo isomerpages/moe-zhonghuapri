@@ -36,10 +36,7 @@ CCAs will commence in January 2024 and run till Nov 2024.
 
 9.&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to Mr Azman @ azman\_mohamed\_hamzah@moe.edu.sg.
 <br><br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as follows:
-
-
-<br>2. Recreational Badminton (Sem 1)
-<br>3. Recreational Floorball / Touch Rugby (Sem 2) <table style="border-collapse:
+<table style="border-collapse:
  collapse;width:483pt" width="645" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7862;
  width:161pt" span="3" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:161pt" width="215" class="xl64" height="9"></td><td style="width:161pt" width="215" class="xl64"></td><td style="width:161pt" width="215" class="xl64"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20">Sports and Games</td><td class="xl64">Performing Arts</td><td class="xl64">Clubs and Uniformed Groups</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/volleyball/">Volleyball</a></td><td class="xl65">
@@ -50,7 +47,9 @@ CCAs will commence in January 2024 and run till Nov 2024.
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/art-club/">Art Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">
 Multi-Sports
 <br>
-<a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-recreational/">1. Recreational Football (Sem 1 &amp;2)</a></td><td class="xl65">
+<a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-recreational/">1. Recreational Football (Sem 1 &amp; 2)
+<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/badminton-recreational/">2. Recreational Badminton (Sem 1)
+<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/floorball/touch-rugby-recreational/">3. Recreational Floorball/Touch Rugby (Sem 2)</a></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/malay-dance/">Malay Dance</a></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/infocomm-technology-club/">Infocomm Technology Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20"></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/indian-dance/">Indian Dance</a></td><td class="xl65">
