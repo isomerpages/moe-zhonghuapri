@@ -10,7 +10,6 @@ The Recreational Badminton Team aims to develop discipline, resilience, responsi
 **Teachers-In-Charge**
 <br>Mdm Junainah (Main)
 <br>Mrs Chan Hong Wei
-<br>Mdm Feng Yijun
 
 **Main Contact**: junainah_mohamed_eusuff@moe.edu.sg
 
