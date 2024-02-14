@@ -34,7 +34,7 @@ CCAs will commence in January 2024 and run till Nov 2024.
 
 8.&nbsp;&nbsp;&nbsp; If a pupil is absent from CCA, the absence should be communicated by the parents via email, written letter or medical certificate to their CCA Teachers.
 
-9.&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to [Mr Azman](azman_mohamed_hamzah@moe.edu.sg.) @ azman_mohamed_hamzah@moe.edu.sg.
+9.&nbsp;&nbsp;&nbsp; A change of CCA will only be allowed during the transfer window (i.e. Nov/Dec Holidays and before the start of the first CCA session of the work year). Request must be communicated by the parents via email to the CCA Teacher and cced to [Mr Azman](azman_mohamed_hamzah@moe.edu.sg.) @ [azman_mohamed_hamzah@moe.edu.sg.](azman_mohamed_hamzah@moe.edu.sg.)
 <br><br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils are as follows:
 <table style="border-collapse:
  collapse;width:483pt" width="645" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7862;
