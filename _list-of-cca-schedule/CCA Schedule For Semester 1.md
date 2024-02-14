@@ -60,7 +60,7 @@ variant: markdown
   margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA 
 </td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;
   margin-right:0px;padding-bottom:2px;padding-top:2px">Chinese New Year School Holiday
-	<br>(In Lieu)
+<br>(In Lieu)
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:
   0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;
   width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:
