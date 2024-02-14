@@ -11,12 +11,12 @@ In our Indian Dance CCA, students from diverse ethnic background come together t
 
 **Teachers-In-Charge**
 <br>Ms Tan Sok Gway (Main)
-<br>Ms Hafiqa
+<br>Mdm Suriana
 
 **Main Contact**: tan_sok_gway@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
 <br>2.00pm – 4.15pm
-<br>Thursday (Starting Semester 2)
+<br>Thursday
 <br>3.30pm – 5.30pm
