@@ -49,7 +49,7 @@ Multi-Sports
 <br>
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-recreational-team/">1. Recreational Football (Sem 1 &amp; 2)
 <br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/">2. Recreational Badminton (Sem 1)
-<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-touch-rugby-sem-2/">3. Recreational Floorball/Touch Rugby (Sem 2)</a></td><td class="xl65">
+<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/">3. Recreational Floorball/Touch Rugby (Sem 2)</a></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/malay-dance/">Malay Dance</a></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/infocomm-technology-club/">Infocomm Technology Club</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl64" height="20"></td><td class="xl65">
 <a href="https://zhonghuapri.moe.edu.sg/list-of-cca/indian-dance/">Indian Dance</a></td><td class="xl65">
