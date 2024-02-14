@@ -4,19 +4,15 @@ permalink: /departments/physical-and-health-education/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Physical and Health Education</u></strong>
-</p>
-<p><strong>Vision</strong>
-</p>
+<h1><strong>Physical and Health Education</strong></h1>
+<h4><strong>Vision</strong></h4>
 <p>To cultivate a school environment where every Zhonghuarian not only participates
 but also finds joy and fulfillment in a diverse range of physical activities,
 fostering a love for an active and healthy lifestyle.</p>
-<p><strong>Mission</strong>
-</p>
+<h4><strong>Mission</strong></h4>
 <p>Instilling a lifelong passion for Active and Healthy Living through an
 integrated and holistic Physical Health and Safety Programme.</p>
-<p><strong>Our Aspirations</strong>
-</p>
+<h4><strong>Our Aspirations</strong></h4>
 <p>Through the holistic Physical Health and Safety Programmes conducted,
 we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate and enjoy a wide variety
@@ -36,15 +32,37 @@ shared societal and national values.</p>
 <p>o&nbsp;&nbsp; Integrity</p>
 <p>o&nbsp;&nbsp; Care</p>
 <p>o&nbsp;&nbsp; Harmony</p>
-<p><strong>Our Key Programmes (For 2024)</strong>
-</p>
+<h4><strong>Our Key Programmes (For 2024)</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Recess Play @ ZPS</p>
+</li>
+<li>
 <p>Holistic Health Week</p>
+</li>
+<li>
 <p>Programme for Active Learning (PAL)</p>
+</li>
+<li>
 <p>P1 to P6 Outdoor, Leadership and Environmental Education Programme (OLE)</p>
+</li>
+<li>
 <p>P3 &amp; P4 Swimsafer Programme</p>
+</li>
+<li>
 <p>P4 &amp; P6 National Physical Fitness Award (NAPFA) Fitness Stars</p>
+</li>
+<li>
 <p>P5 Adventure Camp (Dairy Farm Outdoor Adventure Learning Centre)</p>
+</li>
+<li>
 <p>Sports Carnival Day</p>
+</li>
+<li>
 <p>Sports Education Programme (SEP)</p>
+</li>
+<li>
 <p>P6 Virtual Overseas Engagement Programme</p>
+</li>
+</ol>
+<p></p>
