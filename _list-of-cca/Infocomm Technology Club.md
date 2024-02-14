@@ -8,10 +8,10 @@ variant: markdown
 The Infocomm Technology Club aims to broaden and deepen members’ knowledge in Technological skills and Computational Thinking skills through various learning programmes such as Game Design, Programming, Makers and Artificial Intelligence. Students will also get to apply what they have learnt, with hands on experience in making prototypes related to sustainability themes. These programmes develop our members’ interest in the various areas and hone their 21st Century skills, dispositions and competencies. Students are given the opportunity to lead in, both national competitions and activities within the club. Through these experiences, students will acquire values such as teamwork and resilience.
 
 **Teachers-In-Charge**
-<br>Mdm Angelina Mok (Main)
-<br>Mdm Liu Yusi
+<br>Mdm Liu Yusi (Main)
+<br>Ms Chen Guiyun
 
-**Main Contact**: angelina_mok_yin_peng@moe.edu.sg
+**Main Contact**: liu_yusi@moe.edu.sg
 
 **CCA Schedule**
 <br>Tuesday
