@@ -5,34 +5,59 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Physical and Health Education</strong></h1>
-<h4><strong>Vision</strong></h4>
+<p><strong>Vision</strong>
+</p>
 <p>To cultivate a school environment where every Zhonghuarian not only participates
 but also finds joy and fulfillment in a diverse range of physical activities,
 fostering a love for an active and healthy lifestyle.</p>
-<h4><strong>Mission</strong></h4>
+<p><strong>Mission</strong>
+</p>
 <p>Instilling a lifelong passion for Active and Healthy Living through an
 integrated and holistic Physical Health and Safety Programme.</p>
-<h4><strong>Our Aspirations</strong></h4>
+<p><strong>Our Aspirations</strong>
+</p>
 <p>Through the holistic Physical Health and Safety Programmes conducted,
 we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate and enjoy a wide variety
-of physical activities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instill in them lifelong habits
-of maintaining a healthy and active lifestyle.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop social skills and positive
-relationships among their peers.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promote safe and responsible behavior
-during sports and recreational activities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instil in them the following core
-values which are acknowledged as values that are at the foundation of our
-shared societal and national values.</p>
-<p>o&nbsp;&nbsp; Respect</p>
-<p>o&nbsp;&nbsp; Responsibility</p>
-<p>o&nbsp;&nbsp; Resilience</p>
-<p>o&nbsp;&nbsp; Integrity</p>
-<p>o&nbsp;&nbsp; Care</p>
-<p>o&nbsp;&nbsp; Harmony</p>
-<h4><strong>Our Key Programmes (For 2024)</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Participate and enjoy a wide variety of physical activities.</p>
+</li>
+<li>
+<p>Instill in them lifelong habits of maintaining a healthy and active lifestyle.</p>
+</li>
+<li>
+<p>Develop social skills and positive relationships among their peers.</p>
+</li>
+<li>
+<p>Promote safe and responsible behavior during sports and recreational activities.</p>
+</li>
+<li>
+<p>Instil in them the following core values which are acknowledged as values
+that are at the foundation of our shared societal and national values.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Respect</p>
+</li>
+<li>
+<p>Responsibility</p>
+</li>
+<li>
+<p>Resilience</p>
+</li>
+<li>
+<p>Integrity</p>
+</li>
+<li>
+<p>Care</p>
+</li>
+<li>
+<p>Harmony</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>Our Key Programmes (For 2024)</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Recess Play @ ZPS</p>
