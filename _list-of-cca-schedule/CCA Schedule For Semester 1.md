@@ -11,8 +11,8 @@ variant: markdown
   margin-right:0px;padding-bottom:0px;padding-top:0px">
 <td height="43" class="xl70" width="215" style="height:32.25pt;border-top:none;
   width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:
-  2px">&nbsp;T1W2 / 9 January
-<span style="mso-spacerun:yes"></span>(Tuesday)&nbsp;
+  2px">&nbsp;T1W2 / 9 January<span style="mso-spacerun:yes">
+<br></span>(Tuesday)&nbsp;
 </td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;
   outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;CCA STARTS for <span style="mso-spacerun:yes"></span>COMPETITIVE CCAs ONLY
 </td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;
