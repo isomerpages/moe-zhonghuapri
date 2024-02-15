@@ -103,10 +103,9 @@ are as follows:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Multi-Sports
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/" rel="noopener noreferrer nofollow" target="_blank">1. Recreational Football (Sem 1 &amp; 2) <br></a>
-<a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/" rel="noopener noreferrer nofollow" target="_blank">2. Recreational Badminton (Sem 1)
-<br>
-</a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/" rel="noopener noreferrer nofollow" target="_blank">3. Recreational Floorball/Touch Rugby (Sem 2)</a>
+<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/" rel="noopener noreferrer nofollow" target="_blank">1. Recreational Football (Sem 1 &amp; 2)
+<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/" rel="noopener noreferrer nofollow" target="_blank">2. Recreational Badminton (Sem 1)
+<br></a><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/" rel="noopener noreferrer nofollow" target="_blank">3. Recreational Floorball/Touch Rugby (Sem 2)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
