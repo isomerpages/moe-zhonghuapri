@@ -103,9 +103,9 @@ are as follows:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Multi-Sports
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/">1. Recreational Football (Sem 1 &amp; 2)</a>
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/">2. Recreational Badminton (Sem 1)</a>
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/">3. Recreational Floorball/Touch Rugby (Sem 2)</a>
+<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/">1. Recreational Football-Sem 1 &amp; 2</a>
+<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/">2. Recreational Badminton-Sem 1</a>
+<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/">3. Recreational Floorball/Touch Rugby-Sem 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
