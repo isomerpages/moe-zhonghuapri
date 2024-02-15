@@ -74,7 +74,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/volleyball/">Volleyball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
