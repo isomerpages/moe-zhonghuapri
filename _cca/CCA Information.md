@@ -18,8 +18,8 @@ our pupils to participate in a CCA. We strongly believe that CCAs are important
 platforms to inculcate good values in our pupils, as well as to develop
 them with competencies to adapt to the demands of the 21st century.</p>
 <h4><strong>Timeframe for CCA Work Year 2024</strong></h4>
-<p>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1/">January 2024</a> and
-run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2/" rel="noopener noreferrer nofollow" target="_blank">Nov 2024</a>.</p>
+<p>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1/" rel="noopener noreferrer nofollow" target="_blank">January 2024</a> and
+run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2/" rel="noopener noreferrer nofollow" target="_blank">November 2024</a>.</p>
 <h4><strong>CCA Policy in ZPS</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp; CCA will be offered to all P3 to P6 pupils.</p>
 <p>2.&nbsp;&nbsp;&nbsp; The P6 students will be discharged from their respective
