@@ -1,6 +1,6 @@
 ---
-title: Physical Education
-permalink: /departments/physical-education/
+title: Physical Education till 14 Feb 2024
+permalink: /departments/physical-education-till-14-feb-2024/
 description: ""
 variant: markdown
 ---

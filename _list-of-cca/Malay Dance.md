@@ -9,7 +9,7 @@ The Malay Dance CCA aims to promote joy for learning the traditional dance forms
 
 **Teachers-In-Charge**
 <br>Mrs Irene Gomez (Main)
-<br>Mdm Daisy Yu
+<br>Ms Nurul Hafiqa
 
 **Main Contact**: zacharias_irene_hilda@moe.edu.sg
 
