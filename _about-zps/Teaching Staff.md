@@ -2,7 +2,7 @@
 title: Teaching Staff
 permalink: /about-zps/teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>Teaching Staff</strong></h2>
 <p><a href="/list-of-teaching-staff/key-personnel/" rel="noopener noreferrer nofollow" target="_blank">Key Personnel</a> 
