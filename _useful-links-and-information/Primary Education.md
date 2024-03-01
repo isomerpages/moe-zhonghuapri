@@ -2,16 +2,16 @@
 title: Primary Education
 permalink: /useful-links-and-information/primary-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Primary Education**
-Parents Gateway
-<br>Follow this link to download the app and read more about it. Watch the MOE onboarding video here. Click here for additional Instructions and FAQs.
-
-
-[Parents Gateway Instruction Guide.pdf ](/files/Parents%20Gateway%20Instruction%20Guide.pdf)
-
-[Frequently Asked Questions for Parents.pdf ](/files/Frequently%20Asked%20Questions%20for%20Parents.pdf)
-
-MOE Portal
-<br>Click [here](https://www.moe.gov.sg/) to access to all school information.
+<h1><strong>Primary Education</strong></h1>
+<p>Parents Gateway
+<br>Follow this link to download the app and read more about it. Watch the
+MOE onboarding video here. Click here for additional Instructions and FAQs.</p>
+<p><a href="/files/Parents%20Gateway%20Instruction%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway Instruction Guide.pdf</a>
+</p>
+<p><a href="/files/Frequently%20Asked%20Questions%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for Parents.pdf</a>
+</p>
+<p>MOE Portal
+<br>Click <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access to all school information.</p>
