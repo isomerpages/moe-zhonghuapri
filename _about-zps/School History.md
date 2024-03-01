@@ -13,12 +13,12 @@ In 1980, Chung Hua Girls' Primary School at Niven Road was closed down due to de
 Zhonghua Primary School, based on the P101 design, was built next to the Zhonghua Secondary School at a cost of $4.6 million. It is equipped with all modern facilities. It is a government school which started functioning on 2 January 1987 as a single session. It was officially opened by Mr Goh Choon Kang, MP for Braddell Heights on 6 July 1989.
 
 List of past and present principals, they are:
-1. Mr Tan Eng Chai from to 2 October 1989
-2. Mdm Jenny Law from 3 October 1989 to 15 December 1996
-3. Mdm Zahara Yusoff from 16 December 1996 to 15 December 2002
-4. Mr Stephen Chua Tong Hee from 16 December 2002 to 15 December 2007
-5. Mr Bucktha Seelan from 16 December 2007 to 31 December 2014
-6. Mdm Rostinah from 15 December 2014 to 31 December 2023
-7. Mrs Chan Le Chin from 1 January 2024 to present
+1. Mr Tan Eng Chai (2 January 1987 to 2 October 1989)
+2. Mdm Jenny Law (3 October 1989 to 15 December 1996)
+3. Mdm Zahara Yusoff (16 December 1996 to 15 December 2002)
+4. Mr Stephen Chua Tong Hee (16 December 2002 to 15 December 2007)
+5. Mr Bucktha Seelan (16 December 2007 to 31 December 2014)
+6. Mdm Rostinah (15 December 2014 to 31 December 2023)
+7. Mrs Chan Le Chin (1 January 2024 to present)
 
 The school had undergone PERI Upgrading works from 2015 to 2017 and is now equipped with facilities of the latest specifications. The upgrading has resulted in Redesigned Classroom, Subject Based Banding Room, Learning Support Rooms, Band Room, Dance Studio, Performing Arts Studio, outdoor running track, an Outdoor Experiential Learning Area, a Flexi dynamic play area with specialised equipment and a purpose built Student Care Centre.
