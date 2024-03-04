@@ -4,7 +4,7 @@ permalink: /niche-programme/green-education-movement-zhonghua-primary-school-gem
 description: ""
 variant: tiptap
 ---
-<h1><strong>Green Education Movement @ Zhonghua Primary School (GEM@ZPS)</strong></h1>
+<h2><strong>Green Education Movement @ Zhonghua Primary School (GEM@ZPS)</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Green Education Movement @ Zhonghua Primary School (GEM@ZPS)" src="/images/sis%20banner%20on%20ee%20llp%20(zhonghua%20pri%20sch)(3)%20(1).jpg">
 </div>
