@@ -4,7 +4,7 @@ permalink: /departments/physical-and-health-education/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Physical and Health Education</strong></h1>
+<h2><strong>Physical and Health Education</strong></h2>
 <p><strong>Vision</strong>
 </p>
 <p>To cultivate a school environment where every Zhonghuarian not only participates
@@ -23,7 +23,7 @@ we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
 <p>Participate and enjoy a wide variety of physical activities.</p>
 </li>
 <li>
-<p>Instill in them lifelong habits of maintaining a healthy and active lifestyle.</p>
+<p>Instil in them lifelong habits of maintaining a healthy and active lifestyle.</p>
 </li>
 <li>
 <p>Develop social skills and positive relationships among their peers.</p>
