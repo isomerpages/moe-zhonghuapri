@@ -35,7 +35,7 @@ area with specialised equipment and a purpose-built Student Care Centre.</p>
 The current Principal, Mrs Chan Le Chin, is the 7th Principal of the school.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Tan Eng Chai (2 January 1987 to 2 October 1989) testing</p>
+<p>Mr Tan Eng Chai (2 January 1987 to 2 October 1989)</p>
 </li>
 <li>
 <p>Mdm Jenny Law (3 October 1989 to 15 December 1996)</p>
