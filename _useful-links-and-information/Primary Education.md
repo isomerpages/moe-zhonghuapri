@@ -4,7 +4,7 @@ permalink: /useful-links-and-information/primary-education/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Primary Education</strong></h1>
+<h2><strong>Primary Education</strong></h2>
 <p>Parents Gateway
 <br>Follow this link to download the app and read more about it. Watch the
 MOE onboarding video here. Click here for additional Instructions and FAQs.</p>
