@@ -4,28 +4,49 @@ permalink: /about-zps/school-advisory-committee/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Advisory Committee</strong></h1>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr
-Tang Chuan Ann – Chairman</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs
-Chan Le Chin – Honorary Secretary</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Er
-Soo Chee Sern</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr
-Fan Chun Keong</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr
-Hendra Gunawan</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mdm
-Ho We Ling</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Tan
-Ai Ling Kelly</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr
-Yeo Eng Guan</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Christopher
-Lim Hong Jim</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Ng Zizhang</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Jameson Teh
-Pei Yuan</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Yeap Chin Lee</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Lum Yuen Mei</p>
-<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Yap Jun Weng</p>
+<h2><strong>School Advisory Committee</strong></h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Tang Chuan Ann – Chairman</p>
+</li>
+<li>
+<p>Mrs Chan Le Chin – Honorary Secretary</p>
+</li>
+<li>
+<p>Er Soo Chee Sern</p>
+</li>
+<li>
+<p>Mr Fan Chun Keong</p>
+</li>
+<li>
+<p>Mr Hendra Gunawan</p>
+</li>
+<li>
+<p>Mdm Ho We Ling</p>
+</li>
+<li>
+<p>Dr Tan Ai Ling Kelly</p>
+</li>
+<li>
+<p>Dr Yeo Eng Guan</p>
+</li>
+<li>
+<p>Mr Christopher Lim Hong Jim</p>
+</li>
+<li>
+<p>Mr Ng Zizhang</p>
+</li>
+<li>
+<p>Mr Jameson Teh Pei Yuan</p>
+</li>
+<li>
+<p>Mr Yeap Chin Lee</p>
+</li>
+<li>
+<p>Mdm Lum Yuen Mei</p>
+</li>
+<li>
+<p>Mr Yap Jun Weng</p>
+</li>
+</ol>
+<p></p>
