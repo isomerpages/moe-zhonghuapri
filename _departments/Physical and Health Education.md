@@ -5,19 +5,16 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Physical and Health Education</strong></h2>
-<p><strong>Vision</strong>
-</p>
-<p>To cultivate a school environment where every Zhonghuarian not only participates
+<p><strong>Vision</strong> 
+<br>To cultivate a school environment where every Zhonghuarian not only participates
 but also finds joy and fulfillment in a diverse range of physical activities,
 fostering a love for an active and healthy lifestyle.</p>
-<p><strong>Mission</strong>
-</p>
-<p>Instilling a lifelong passion for Active and Healthy Living through an
+<p><strong>Mission</strong> 
+<br>Instilling a lifelong passion for Active and Healthy Living through an
 integrated and holistic Physical Health and Safety Programme.</p>
-<p><strong>Our Aspirations</strong>
-</p>
-<p>Through the holistic Physical Health and Safety Programmes conducted,
-we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
+<p><strong>Our Aspirations</strong> 
+<br>Through the holistic Physical Health and Safety Programmes conducted,
+we hope that after 6 years in Zhonghua, every Zhonghuarian will...</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Participate and enjoy a wide variety of physical activities.</p>
@@ -34,29 +31,15 @@ we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
 <li>
 <p>Instil in them the following core values which are acknowledged as values
 that are at the foundation of our shared societal and national values.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Respect</p>
-</li>
-<li>
-<p>Responsibility</p>
-</li>
-<li>
-<p>Resilience</p>
-</li>
-<li>
-<p>Integrity</p>
-</li>
-<li>
-<p>Care</p>
-</li>
-<li>
-<p>Harmony</p>
+<p>1.Respect</p>
+<p>2.Responsibility</p>
+<p>3.Resilience</p>
+<p>4.Integrity</p>
+<p>5.Care</p>
+<p>6.Harmony</p>
 </li>
 </ol>
-</li>
-</ol>
-<p><strong>Our Key Programmes (For 2024)</strong>
+<p><strong>Our Key Programmes (For 2024)</strong> 
 </p>
 <ol data-tight="true" class="tight">
 <li>
