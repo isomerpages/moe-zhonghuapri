@@ -4,7 +4,7 @@ permalink: /departments/english-language/
 description: ""
 variant: tiptap
 ---
-<h1><strong>English Language</strong></h1>
+<h2><strong>English Language</strong></h2>
 <p>At ZPS, we don’t just prepare our pupils for examinations. We are committed
 to developing our pupils language skills – reading, writing, listening,
 speaking, viewing and representing – to prepare them for life. We envisioned
