@@ -4,7 +4,7 @@ permalink: /departments/ict-ed-tech/
 description: ""
 variant: tiptap
 ---
-<h1><strong>ICT &amp; Ed Tech</strong></h1>
+<h2><strong>ICT &amp; Ed Tech</strong></h2>
 <p>Coding and Making – Developing Digital Literacy in Our Pupils
 <br>In 2020, MOE unveiled the National Digital Literacy Programme so that
 at different stages of their education journey, pupils will be able to
