@@ -8,9 +8,7 @@ variant: tiptap
 <p><strong>Signature Programmes</strong> 
 <br>1. Fun with Mathematics
 <br>This programme aims to make learning of Mathematics joyful and relevant
-to their everyday life by providing them with meaningful learning experiences.
-<br>
-</p>
+to their everyday life by providing them with meaningful learning experiences.</p>
 <table>
 <tbody>
 <tr>
@@ -84,8 +82,7 @@ to their everyday life by providing them with meaningful learning experiences.
 </tr>
 </tbody>
 </table>
-<p>
-<br>2. Learning Support for Mathematics (LSM) programme for Primary 1 to 2
+<p>2. Learning Support for Mathematics (LSM) programme for Primary 1 to 2
 <br><strong>Early Success. Strong Basics. Steady Progress</strong> 
 <br>Learning Support for Mathematics (LSM) aims to provide early success for
 Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme
