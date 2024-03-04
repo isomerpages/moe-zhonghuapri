@@ -1,6 +1,6 @@
 ---
 title: Values In Action (VIA)
-permalink: /departments/CCE/Values-In-Action-VIA/
+permalink: /departments/cce/values-in-action-via/
 description: ""
 variant: markdown
 ---

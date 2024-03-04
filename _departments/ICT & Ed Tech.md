@@ -1,10 +1,10 @@
 ---
-title: Information & Communications Technology
-permalink: /departments/information-and-communications-technology/
+title: ICT & Ed Tech
+permalink: /departments/ict-ed-tech/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Information &amp; Communications Technology</strong></h1>
+<h1><strong>ICT &amp; Ed Tech</strong></h1>
 <p>Coding and Making – Developing Digital Literacy in Our Pupils
 <br>In 2020, MOE unveiled the National Digital Literacy Programme so that
 at different stages of their education journey, pupils will be able to
