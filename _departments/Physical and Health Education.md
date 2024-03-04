@@ -39,7 +39,7 @@ that are at the foundation of our shared societal and national values.</p>
 <p>6.Harmony</p>
 </li>
 </ol>
-<p><strong>Our Key Programmes (For 2024)</strong> 
+<p><strong>Our Key Programmes (For 2024)</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
