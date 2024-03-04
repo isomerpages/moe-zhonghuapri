@@ -33,10 +33,27 @@ running track, an Outdoor Experiential Learning Area, a Flexi dynamic play
 area with specialised equipment and a purpose-built Student Care Centre.</p>
 <p>The school has built a strong foundation through the past Principals.
 The current Principal, Mrs Chan Le Chin, is the 7th Principal of the school.</p>
-<p>1. Mr Tan Eng Chai (2 January 1987 to 2 October 1989)</p>
-<p>2. Mdm Jenny Law (3 October 1989 to 15 December 1996)</p>
-<p>3. Mdm Zahara Yusoff (16 December 1996 to 15 December 2002)</p>
-<p>4. Mr Stephen Chua Tong Hee (16 December 2002 to 15 December 2007)</p>
-<p>5. Mr Bucktha Seelan (16 December 2007 to 31 December 2014)</p>
-<p>6. Mdm Rostinah (15 December 2014 to 31 December 2023)</p>
-<p>7. Mrs Chan Le Chin (1 January 2024 to present)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Tan Eng Chai (2 January 1987 to 2 October 1989) testing</p>
+</li>
+<li>
+<p>Mdm Jenny Law (3 October 1989 to 15 December 1996)</p>
+</li>
+<li>
+<p>Mdm Zahara Yusoff (16 December 1996 to 15 December 2002)</p>
+</li>
+<li>
+<p>Mr Stephen Chua Tong Hee (16 December 2002 to 15 December 2007)</p>
+</li>
+<li>
+<p>Mr Bucktha Seelan (16 December 2007 to 31 December 2014)</p>
+</li>
+<li>
+<p>Mdm Rostinah (15 December 2014 to 31 December 2023)</p>
+</li>
+<li>
+<p>Mrs Chan Le Chin (1 January 2024 to present)</p>
+</li>
+</ol>
+<p></p>
