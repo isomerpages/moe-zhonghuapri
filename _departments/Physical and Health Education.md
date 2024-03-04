@@ -31,14 +31,28 @@ we hope that after 6 years in Zhonghua, every Zhonghuarian will...</p>
 <li>
 <p>Instil in them the following core values which are acknowledged as values
 that are at the foundation of our shared societal and national values.</p>
-<p>1.Respect</p>
-<p>2.Responsibility</p>
-<p>3.Resilience</p>
-<p>4.Integrity</p>
-<p>5.Care</p>
-<p>6.Harmony</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respect</p>
+</li>
+<li>
+<p>Responsibility</p>
+</li>
+<li>
+<p>Resilience</p>
+</li>
+<li>
+<p>Integrity</p>
+</li>
+<li>
+<p>Care</p>
+</li>
+<li>
+<p>Harmony</p>
+</li>
+</ul>
 <p><strong>Our Key Programmes (For 2024)</strong>
 </p>
 <ol data-tight="true" class="tight">
