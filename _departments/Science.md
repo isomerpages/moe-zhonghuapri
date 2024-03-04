@@ -4,7 +4,7 @@ permalink: /departments/science/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Science</strong></h1>
+<h2><strong>Science</strong></h2>
 <p><strong>Mission</strong> 
 <br>Engaged Learning through IDEAs.
 <br>(Inquiry, Discovery, Exploration and Applications)</p>
