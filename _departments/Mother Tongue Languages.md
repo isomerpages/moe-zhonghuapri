@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mother Tongue Languages</strong></h1>
+<h2><strong>Mother Tongue Languages</strong></h2>
 <p><strong>Mission</strong> 
 <br>To instil in our pupils a love for their Mother Tongue and heritage.</p>
 <p><strong>Vision</strong> 
