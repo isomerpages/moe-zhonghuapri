@@ -4,7 +4,7 @@ permalink: /niche-programme/applied-learning-programme-thinknovate/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Applied Learning Programme : Thinknovate</strong></h1>
+<h2><strong>Applied Learning Programme : Thinknovate</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate%20Section/Thinknovate_combined.gif">
 </div>
