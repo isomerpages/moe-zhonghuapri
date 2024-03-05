@@ -2,30 +2,246 @@
 title: Non Teaching Staff
 permalink: /about-zps/non-teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Executive and Administrative Staff**
-<table style="border-collapse:
- collapse;width:458pt" width="610" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:10422;
- width:214pt" span="2" width="285"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl66" height="10"></td><td style="width:214pt" width="285" class="xl67"></td><td style="width:214pt" width="285" class="xl67"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl68" height="20">No</td><td style="border-left:none" class="xl69">Name</td><td style="border-left:none" class="xl69">Designation
-</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-1</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:mary_yap@schools.gov.sg">Mdm Mary Yap Pei Imm<span style="mso-spacerun:yes">&nbsp;</span></a></td><td style="border-top:none;border-left:none" class="xl69">Adminstration Manager</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-2</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:mohammed_hissam_khan@schools.gov.sg">Mr Mohammed Hissam Khan<span style="mso-spacerun:yes">&nbsp;</span></a></td><td style="border-top:none;border-left:none" class="xl69">Operations Manager</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-3</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:junaidah_jumadi@schools.gov.sg">Mdm Junaidah Bte Jumadi<span style="mso-spacerun:yes">&nbsp;</span></a></td><td style="border-top:none;border-left:none" class="xl69">ICT Manager</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-4</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:siti_aisah_ahmad@schools.gov.sg">Ms Siti Aisah Bte Ahmad<span style="mso-spacerun:yes">&nbsp;</span></a></td><td style="border-top:none;border-left:none" class="xl69">Adminstration Executive Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-5</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:tan_ang_see@schools.gov.sg">Ms Tan Ang See</a></td><td style="border-top:none;border-left:none" class="xl69">Corporate Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-6</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:karasi_vythilingam@schools.gov.sg">Ms Karasi Vythilingam</a></td><td style="border-top:none;border-left:none" class="xl69">Corporate Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-7</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:tew_yeng_peng@schools.gov.sg">Ms Sandra Tew Yeng Peng</a></td><td style="border-top:none;border-left:none" class="xl69">Corporate Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-8</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:norita_ahmad@schools.gov.sg">Mdm Norita Bte Ahmad<span style="mso-spacerun:yes">&nbsp;</span></a></td><td style="border-top:none;border-left:none" class="xl69">Operations Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-9</td><td style="border-top:none;border-left:none" class="xl69">Mr Karpayar Meyappan</td><td style="border-top:none;border-left:none" class="xl69">Operations Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-10</td><td style="border-top:none;border-left:none" class="xl69">Mr Othman Bin Rawi<span style="mso-spacerun:yes">&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl69">Operations Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-11</td><td style="border-top:none;border-left:none" class="xl69">Mr Johari Bin Basri<span style="mso-spacerun:yes">&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl69">Operations Support Officer</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl68" height="20">
-12</td><td style="border-top:none;border-left:none" class="xl69">Mr Bob Lim Boon Boo<span style="mso-spacerun:yes">&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl69">Operations Support Officer</td></tr><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt" class="xl66" height="7"></td><td class="xl67"></td><td class="xl67"></td></tr></tbody></table>
-
-### **Allied Educators**
-<table style="border-collapse:
- collapse;width:405pt" width="540" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"> <col style="mso-width-source:userset;mso-width-alt:7862;width:161pt" width="215"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:214pt" width="285" class="xl66"></td><td style="width:161pt" width="215" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Designation</td><td style="border-left:none" class="xl70">Name of Officer</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-1</td><td style="width:214pt" width="285" class="xl71">School Counsellor</td><td style="border-top:none;width:161pt" width="215" class="xl72">
-<a href="mailto:sze_kiat_geok_elisha@moe.edu.sg">Ms Elisha Sze</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none" class="xl69">Roving Student Welfare Officer</td><td style="border-top:none;border-left:none" class="xl73">
-<a href="mailto:hemalatha_rrajendran@schools.gov.sg">Ms Hemalatha Rajendran</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl67" height="9"></td><td class="xl66"></td><td class="xl66"></td></tr></tbody></table>
+<h2><strong>Executive and Administrative Staff</strong></h2>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mary_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mary Yap Pei Imm&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adminstration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammed_hissam_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammed Hissam Khan&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:junaidah_jumadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Junaidah Bte Jumadi&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_aisah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Aisah Bte Ahmad&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adminstration Executive Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ang_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Ang See</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karasi_vythilingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karasi Vythilingam</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sandra Tew Yeng Peng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norita_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norita Bte Ahmad&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Karpayar Meyappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Othman Bin Rawi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johari Bin Basri&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bob Lim Boon Boo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Allied Educators</strong></h2>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sze_kiat_geok_elisha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elisha Sze</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roving Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hemalatha_rrajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hemalatha Rajendran</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
