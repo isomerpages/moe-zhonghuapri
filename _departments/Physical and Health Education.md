@@ -4,26 +4,23 @@ permalink: /departments/physical-and-health-education/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Physical and Health Education</strong></h1>
-<p><strong>Vision</strong>
-</p>
-<p>To cultivate a school environment where every Zhonghuarian not only participates
+<h2><strong>Physical and Health Education</strong></h2>
+<p><strong>Vision</strong> 
+<br>To cultivate a school environment where every Zhonghuarian not only participates
 but also finds joy and fulfillment in a diverse range of physical activities,
 fostering a love for an active and healthy lifestyle.</p>
-<p><strong>Mission</strong>
-</p>
-<p>Instilling a lifelong passion for Active and Healthy Living through an
+<p><strong>Mission</strong> 
+<br>Instilling a lifelong passion for Active and Healthy Living through an
 integrated and holistic Physical Health and Safety Programme.</p>
-<p><strong>Our Aspirations</strong>
-</p>
-<p>Through the holistic Physical Health and Safety Programmes conducted,
-we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
+<p><strong>Our Aspirations</strong> 
+<br>Through the holistic Physical Health and Safety Programmes conducted,
+we hope that after 6 years in Zhonghua, every Zhonghuarian will...</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Participate and enjoy a wide variety of physical activities.</p>
 </li>
 <li>
-<p>Instill in them lifelong habits of maintaining a healthy and active lifestyle.</p>
+<p>Instil in them lifelong habits of maintaining a healthy and active lifestyle.</p>
 </li>
 <li>
 <p>Develop social skills and positive relationships among their peers.</p>
@@ -34,7 +31,9 @@ we hope that after 6 years in Zhonghua, every Zhonghuarian will…</p>
 <li>
 <p>Instil in them the following core values which are acknowledged as values
 that are at the foundation of our shared societal and national values.</p>
-<ol data-tight="true" class="tight">
+</li>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Respect</p>
 </li>
@@ -53,9 +52,7 @@ that are at the foundation of our shared societal and national values.</p>
 <li>
 <p>Harmony</p>
 </li>
-</ol>
-</li>
-</ol>
+</ul>
 <p><strong>Our Key Programmes (For 2024)</strong>
 </p>
 <ol data-tight="true" class="tight">
