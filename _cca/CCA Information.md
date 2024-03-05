@@ -21,32 +21,51 @@ them with competencies to adapt to the demands of the 21st century.</p>
 <p>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1/" rel="noopener noreferrer nofollow" target="_blank">January 2024</a> and
 run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2/" rel="noopener noreferrer nofollow" target="_blank">November 2024</a>.</p>
 <h4><strong>CCA Policy in ZPS</strong></h4>
-<p>1. CCA will be offered to all P3 to P6 pupils.</p>
-<p>2. The P6 students will be discharged from their respective CCAs at the
-end of Semester 1.</p>
-<p>3. The P3 CCA Recruitment will be conducted at the end of Term 1. Once
-allocated to a CCA, the P3 pupils will be attending their first CCA session
-in Term 2.</p>
-<p>4. Each pupil in ZPS is only allowed to join one CCA per work year as
-CCA requires effort and commitment.</p>
-<p>5. A pupil who has been successfully accepted to a CCA has to remain committed
+<ol data-tight="true" class="tight">
+<li>
+<p>CCA will be offered to all P3 to P6 pupils.</p>
+</li>
+<li>
+<p>The P6 students will be discharged from their respective CCAs at the end
+of Semester 1.</p>
+</li>
+<li>
+<p>The P3 CCA Recruitment will be conducted at the end of Term 1. Once allocated
+to a CCA, the P3 pupils will be attending their first CCA session in Term
+2.</p>
+</li>
+<li>
+<p>Each pupil in ZPS is only allowed to join one CCA per work year as CCA
+requires effort and commitment.</p>
+</li>
+<li>
+<p>A pupil who has been successfully accepted to a CCA has to remain committed
 in that CCA until the end of the CCA work year (i.e. January 2024 to Nov
 2024)</p>
-<p>6. All CCAs have an approximated number of 20 sessions for each work year
+</li>
+<li>
+<p>All CCAs have an approximated number of 20 sessions for each work year
 with the exception of the Competitive Sports and Performing Arts CCAs which
 will have more.</p>
-<p>7. Pupils who do not achieve 80% of CCA attendance without valid reasons
+</li>
+<li>
+<p>Pupils who do not achieve 80% of CCA attendance without valid reasons
 will be de-registered as members of the CCA at the end of the work year.</p>
-<p>8. If a pupil is absent from CCA, the absence should be communicated by
-the parents via email, written letter or medical certificate to their CCA
-Teachers.</p>
-<p>9. A change of CCA will only be allowed during the transfer window (i.e.
+</li>
+<li>
+<p>If a pupil is absent from CCA, the absence should be communicated by the
+parents via email, written letter or medical certificate to their CCA Teachers.</p>
+</li>
+<li>
+<p>A change of CCA will only be allowed during the transfer window (i.e.
 Nov/Dec Holidays and before the start of the first CCA session of the work
 year). Request must be communicated by the parents via email to the CCA
 Teacher and cced to <a href="mailto:azman_mohamed_hamzah@moe.edu.sg." rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a> @ <a href="mailto:azman_mohamed_hamzah@moe.edu.sg." rel="noopener noreferrer nofollow" target="_blank">azman_mohamed_hamzah@moe.edu.sg.</a> 
 <br>
 <br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils
 are as follows:</p>
+</li>
+</ol>
 <table>
 <tbody>
 <tr>
