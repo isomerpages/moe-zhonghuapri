@@ -78,7 +78,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> Name</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ description: ""
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_yasmeen_yussoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mdm Norisah Yasmeen</a>
+<p><a href="mailto:norisah_yasmeen_yussoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norisah Yasmeen</a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ description: ""
 <p>English Language / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rindaherlina_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mdm Rindaherlina&nbsp;</a>
+<p><a href="mailto:rindaherlina_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rindaherlina&nbsp;</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ description: ""
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_lifang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Ms Liang Lifang</a>
+<p><a href="mailto:liang_lifang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liang Lifang</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ description: ""
 <p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yong_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mr Liew Yong Chew &nbsp;</a>
+<p><a href="mailto:liew_yong_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Yong Chew &nbsp;</a>
 </p>
 </td>
 </tr>
@@ -123,7 +123,7 @@ description: ""
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azman_mohamed_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mr Azman</a>
+<p><a href="mailto:azman_mohamed_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ description: ""
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gerald_low_hui_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mr Gerald Low</a>
+<p><a href="mailto:Gerald_low_hui_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gerald Low</a>
 </p>
 </td>
 </tr>
@@ -141,7 +141,7 @@ description: ""
 <p>Pupil Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chui_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Ms Ong Chui Hoon</a>
+<p><a href="mailto:ong_chui_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ description: ""
 <p>Information &amp; Communications Technology (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> Mr Tang Qisheng</a>
+<p><a href="mailto:tang_qisheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
 </p>
 </td>
 </tr>
