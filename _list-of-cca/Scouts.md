@@ -11,7 +11,7 @@ Scouts CCA aims to build and develop life skills that can help its members to fa
 <br>Mdm Mages (Main)
 <br>Mr Benny Lau Mun Yip
 
-**Main Contact**: mageswari_kanapathy@moe.edu.sg
+**Main Contact**: [mageswari_kanapathy@schools.gov.sg](mageswari_kanapathy@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
