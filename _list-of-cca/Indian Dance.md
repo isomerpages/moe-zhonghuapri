@@ -13,7 +13,7 @@ In our Indian Dance CCA, students from diverse ethnic background come together t
 <br>Ms Tan Sok Gway (Main)
 <br>Mdm Suriana
 
-**Main Contact**: tan_sok_gway@moe.edu.sg
+**Main Contact**: [tan_sok_gway@schools.gov.sg](tan_sok_gway@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
