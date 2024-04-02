@@ -12,7 +12,7 @@ Volleyball is a mentally challenging sport that requires players to stay focused
 <br>Mdm Junainah
 <br>Mrs Serene Koh
 
-**Main Contact**: ng_yen_tin@moe.edu.sg
+**Main Contact**: ng_yen_tin@schools.gov.sg
 
 **CCA Schedule**
 <br>Tuesday
