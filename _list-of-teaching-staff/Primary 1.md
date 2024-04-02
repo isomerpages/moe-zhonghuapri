@@ -8,7 +8,7 @@ variant: markdown
 <table style="border-collapse:
  collapse;width:457pt" width="610" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2742;width:56pt" width="75"> <col style="mso-width-source:userset;mso-width-alt:6582;width:135pt" width="180"> <col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:56pt" width="75" class="xl66" height="7"></td><td style="width:135pt" width="180"></td><td style="width:266pt" width="355"></td></tr><tr style="mso-height-source:userset;height:30.75pt" height="41"><td style="height:30.75pt;width:56pt" width="75" class="xl68" height="41">No</td><td style="border-left:none;width:135pt" width="180" class="xl67">Class</td><td style="border-left:none;width:266pt" width="355" class="xl67">Name of Form Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
 <br>1</td><td class="xl71" rowspan="2">
-<br>P1 Care</td><td style="border-top:none" class="xl72"><a href="mailto:premala_devi_kandasamy_a@schools.gov.sg">Mdm Premala Devi (Mrs Raj)
+<br>P1 Care</td><td style="border-top:none" class="xl72"><a href="mailto:premala_devi_kandasamy_a@moe.edu.sg">Mdm Premala Devi (Mrs Raj)
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
 <a href="mailto:tan_sok_gway@schools.gov.sg">Ms Tan Sok Gway
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
