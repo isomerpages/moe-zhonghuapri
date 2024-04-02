@@ -11,7 +11,7 @@ Our ZPS Choir is made up of a group of young members who are full of zest and di
 <br>Mrs Shirley Yeh (Main)
 <br>Mdm Leong Shi Ern
 
-**Main Contact**: ng_ai_li_shirleywijaya@moe.edu.sg
+**Main Contact**: [ng_ai_li_shirleywijaya@schools.gov.sg](ng_ai_li_shirleywijaya@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
