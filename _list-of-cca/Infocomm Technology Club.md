@@ -11,7 +11,7 @@ The Infocomm Technology Club aims to broaden and deepen members’ knowledge in 
 <br>Mdm Liu Yusi (Main)
 <br>Ms Chen Guiyun
 
-**Main Contact**: liu_yusi@moe.edu.sg
+**Main Contact**: [liu_yusi@schools.gov.sg](liu_yusi@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
