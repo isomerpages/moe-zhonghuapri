@@ -28,7 +28,8 @@ coordination, fitness and enjoyment of the game of football.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mr Firdaus (Main)
 <br>Mr Oswald Lee (Recreational)</p>
-<p><strong>Main Contact</strong>: muhammad_firdaus_amir@moe.edu.sg</p>
+<p><strong>Main Contact</strong>: <a href="muhammad_firdaus_amir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_firdaus_amir@schools.gov.sg</a>
+</p>
 <p><strong>CCA Schedule</strong> 
 <br>Tuesday
 <br>2.00pm – 3.45pm (School Team &amp; Recreational Team)
