@@ -11,7 +11,7 @@ The Malay Dance CCA aims to promote joy for learning the traditional dance forms
 <br>Mrs Irene Gomez (Main)
 <br>Ms Nurul Hafiqa
 
-**Main Contact**: zacharias_irene_hilda@moe.edu.sg
+**Main Contact**: [zacharias_irene_hilda@schools.gov.sg](zacharias_irene_hilda@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
