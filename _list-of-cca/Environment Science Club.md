@@ -12,7 +12,7 @@ The Environmental Science Club (ESC) is an exciting CCA where students who are p
 **Teachers-In-Charge**
 <br>Ms Leela (Main)
 
-**Main Contact**: leeladevi_panneerselvam@moe.edu.sg
+**Main Contact**: [leeladevi_panneerselvam@schools.gov.sg](leeladevi_panneerselvam@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
