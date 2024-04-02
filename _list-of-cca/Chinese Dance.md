@@ -11,7 +11,7 @@ ZPS Chinese Dance CCA aims to lead pupils to enjoy the process of dancing, to in
 <br>Mrs Chang Hsu (Main)
 <br>Ms Chen Gui Yun
 
-**Main Contact**: hsu_hui-chien@moe.edu.sg
+**Main Contact**: [hsu_hui-chien@schools.gov.sg](hsu_hui-chien@schools.gov.sg)
 
 **CCA Schedule**
 <br>Tuesday
