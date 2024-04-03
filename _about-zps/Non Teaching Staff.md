@@ -215,7 +215,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sze_kiat_geok_elisha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elisha Sze</a>
+<p><a href="mailto:sze_kiat_geok_elisha@schools.gov.sgsg" rel="noopener noreferrer nofollow" target="_blank">Ms Elisha Sze</a>
 </p>
 </td>
 </tr>
