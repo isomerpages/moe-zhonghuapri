@@ -2,6 +2,7 @@ collections:
   useful-links-and-information:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - 2024 PTC.md
       - P1 Orientation Google Site.md
       - Notes To Parents & Guardians.md
