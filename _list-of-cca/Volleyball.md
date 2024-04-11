@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/volleyball primary school girls - championship 2024.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/national school games volleyball championship (senior division - girls) league 3 - champion.gif">
 </div>
 <p></p>
 <p>Volleyball is a mentally challenging sport that requires players to stay
