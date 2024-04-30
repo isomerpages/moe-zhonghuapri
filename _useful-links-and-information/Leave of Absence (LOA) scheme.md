@@ -5,55 +5,55 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Leave of Absence (LOA) scheme</strong></h2>
-<p>The LOA scheme allows your child to rejoin their school after they return
-from overseas. They can be re-admitted to the school directly after returning
-to Singapore.</p>
-<p><strong>Eligibility</strong>
+<p><strong>Information</strong>
 </p>
-<p>LOA applies to all children who are Singapore Citizen or Singapore Permanent
-Resident only.&nbsp; To be granted LOA, your child must fulfil all two
-(2) of the following criteria:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our current student who is a Singapore
-Citizen or Singapore Permanent Resident.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accompanying the parent overseas
-only due to the reasons below with the intention of rejoining their school
-after returning to Singapore:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are on overseas posting;
-OR</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are attending to their business
-overseas; OR</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are going overseas for a
-company-related training/further studies.</p>
-<p>Your child also qualifies for LOA if they are already registered for Primary
-1 (P1) but will be overseas at the start of the year.</p>
-<p><strong>Fees</strong>
+<p>The LOA scheme allows re-admission of your child (Singaporean and Permanent
+Resident only) to our school after they return from overseas to Singapore.</p>
+<p>&nbsp;<strong>Eligibility</strong>
 </p>
-<p>Schools will charge an annual nominal fee for a child on LOA. The amount
-will be determined by individual schools.</p>
-<p>At the end of each year, you will need to decide whether to renew the
-LOA for another year. Your child’s LOA status will expire if you choose
-not to renew.</p>
+<p>To be granted LOA, your child must fulfil <strong><u>both</u></strong> of
+the following criteria:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Our current student who is a Singapore Citizen or Singapore Permanent
+Resident; and</p>
+</li>
+<li>
+<p>Accompanying the parent overseas <u>only</u> due to the reasons below with
+the intention of rejoining our school after returning to Singapore:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are on overseas posting; OR</p>
+</li>
+<li>
+<p>Parents are attending to their business overseas; OR</p>
+</li>
+<li>
+<p>Parents are going overseas for a company-related training/further studies.</p>
+</li>
+</ul>
+<p>Your child also qualifies for LOA if he/she has already registered for
+Primary 1 (P1) but will be overseas at the start of the schooling year.</p>
+<p><strong>&nbsp;Outcome of LOA Application</strong>
+</p>
+<p>After we receive your request, we will process your application/renewal
+of your child’s LOA and will inform you the outcome of the application/renewal
+via your email.&nbsp; Please note LOA application/renewal is subject to
+the Principal's approval.&nbsp;</p>
 <p><strong>Support for your child</strong>
 </p>
-<p>The school will provide support in the following areas to ease your child's
-return upon parent's request:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative: Renewal of LOA,
-returning arrangements, updates on important dates for admissions exercises,
-etc.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic: Provide major test and
-examination papers with answers, where appropriate, on a regular basis,
-and access to Student Learning Space (SLS) portal that enables your child
-to keep up-to-date with our national curriculum.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relationship: Provide developments
-in the school and local education scene.</p>
-<p><strong>How to apply</strong>
+<p>Nearer to the date on the return of your child to Singapore, do reach
+out to us for the necessary returning arrangements.&nbsp;</p>
+<p>&nbsp;In the mean time, to help your child to be updated with our national
+curriculum, do feel free to email us at <a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a> to request for
+any major test and examination papers and/or access to the Student Learning
+Space (SLS) portal.&nbsp; &nbsp;We also encourage you to check the latest
+developments in our school and local education scene from our school website
+<a href="https://www.zhonghuapri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.zhonghuapri.moe.edu.sg/</a>and MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>.</p>
+<p>&nbsp;<strong>How to apply</strong>
 </p>
-<p>Follow these steps to apply for LOA:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete the application <a href="https://form.gov.sg/63d889ae8de097001206c240" rel="noopener noreferrer nofollow" target="_blank">form</a>
-</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LOA application is subject to the
-Principal’s approval, and the school will notify you of the outcome.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After the school issue a tax invoice
-to you, please make necessary e-payment as stated on the tax invoice.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Renew LOA in November each year
-by submitting the renewal application form together with the required payment.</p>
+<p>Please complete and submit the application form at the link below:</p>
+<p>&nbsp;<a href="https://go.gov.sg/zpsloa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zpsloa</a>.&nbsp;&nbsp;</p>
+<p>For any query, please email us at <a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a>.&nbsp;</p>
