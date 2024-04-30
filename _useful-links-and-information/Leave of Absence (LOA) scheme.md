@@ -47,12 +47,12 @@ the Principal's approval.&nbsp;</p>
 <p>Nearer to the date on the return of your child to Singapore, do reach
 out to us for the necessary returning arrangements.&nbsp;</p>
 <p>&nbsp;In the mean time, to help your child to be updated with our national
-curriculum, do feel free to email us at <a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a>  <a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a> to
-request for any major test and examination papers and/or access to the
-Student Learning Space (SLS) portal.&nbsp; &nbsp;We also encourage you
-to check the latest developments in our school and local education scene
-from our school website <a href="https://www.zhonghuapri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.zhonghuapri.moe.edu.sg/</a>and
-MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>.</p>
+curriculum, do feel free to email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg </a><a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a> 
+<a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a> <a href="zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a> to request for
+any major test and examination papers and/or access to the Student Learning
+Space (SLS) portal.&nbsp; &nbsp;We also encourage you to check the latest
+developments in our school and local education scene from our school website
+<a href="https://www.zhonghuapri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.zhonghuapri.moe.edu.sg/</a>and MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>.</p>
 <p>&nbsp;<strong>How to apply</strong>
 </p>
 <p>Please complete and submit the application form at the link below:</p>
