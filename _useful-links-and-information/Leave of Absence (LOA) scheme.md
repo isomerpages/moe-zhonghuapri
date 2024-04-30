@@ -47,7 +47,7 @@ the Principal's approval.&nbsp;</p>
 <p>Nearer to the date on the return of your child to Singapore, do reach
 out to us for the necessary returning arrangements.&nbsp;</p>
 <p>&nbsp;In the mean time, to help your child to be updated with our national
-curriculum, do feel free to email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg </a> to request
+curriculum, do feel free to email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg </a>to request
 for any major test and examination papers and/or access to the Student
 Learning Space (SLS) portal.&nbsp; &nbsp;We also encourage you to check
 the latest developments in our school and local education scene from our
