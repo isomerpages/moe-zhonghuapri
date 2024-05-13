@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Executive and Administrative Staff</strong></h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,8 +39,8 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mary_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mary Yap Pei Imm&nbsp;</a>
-</p>
+<p>To be updated</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adminstration Manager</p>
@@ -183,7 +188,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2><strong>Allied Educators</strong></h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
