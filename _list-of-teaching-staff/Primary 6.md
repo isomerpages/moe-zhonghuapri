@@ -41,5 +41,5 @@ variant: markdown
 <br>P6 Resilience</td><td style="border-top:none" class="xl72">
 <a href="mailto:teh_kian_hian@schools.gov.sg">Mr Teh Khen Hian 
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
-<a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg">Mr Yusman Bin Mohamad Eusope
+<a href="mailto:yusman_mohamad_eusope_a@moe.edu.sg">Mr Yusman Bin Mohamad Eusope
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2"></td><td></td><td></td></tr></tbody></table>
