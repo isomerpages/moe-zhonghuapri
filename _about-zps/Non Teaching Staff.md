@@ -75,6 +75,18 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="choo_meng_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Choo Meng Kwang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_aisah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Aisah Bte Ahmad&nbsp;</a>
 </p>
 </td>
@@ -84,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ang_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Ang See</a>
@@ -96,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karasi_vythilingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karasi Vythilingam</a>
@@ -108,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sandra Tew Yeng Peng</a>
@@ -120,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norita_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norita Bte Ahmad&nbsp;</a>
@@ -132,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Karpayar Meyappan</p>
@@ -143,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Othman Bin Rawi&nbsp;</p>
@@ -154,7 +166,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Johari Bin Basri&nbsp;</p>
@@ -165,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bob Lim Boon Boo&nbsp;</p>
@@ -222,7 +234,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sze_kiat_geok_elisha@schools.gov.sgsg" rel="noopener noreferrer nofollow" target="_blank">Ms Elisha Sze</a>
