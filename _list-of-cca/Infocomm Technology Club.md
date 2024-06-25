@@ -19,7 +19,7 @@ within the club. Through these experiences, students will acquire values
 such as teamwork and resilience.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Liu Yusi (Main)
-<br>Ms Chen Guiyun</p>
+<br>Ms Chen Gui Yun</p>
 <p><strong>Main Contact</strong>: <a href="liu_yusi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yusi@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
