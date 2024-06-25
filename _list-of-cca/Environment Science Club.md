@@ -24,7 +24,8 @@ aims to nurture social leaders who will grow into caring advocates who
 will inspire positive change in the protection of the environment.</p>
 <p>“We will never stop fighting for this planet.” - Greta Thunberg.</p>
 <p><strong>Teachers-In-Charge</strong> 
-<br>Ms Leela (Main) Ms Alicia Wee</p>
+<br>Ms Leela (Main)</p>
+<p>Ms Alicia Wee</p>
 <p><strong>Main Contact</strong>: <a href="leeladevi_panneerselvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leeladevi_panneerselvam@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
