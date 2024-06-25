@@ -19,7 +19,7 @@ in the Art Club will also have opportunities to participate in the Singapore
 Youth Festival (SYF) and other competitions.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Ms Constance Chong (Main)
-<br>Ms Laura Tan</p>
+<br>Mdm Abby Wong</p>
 <p><strong>Main Contact</strong>: <a href="chong_hui_min_constance@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hui_min_constance@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
