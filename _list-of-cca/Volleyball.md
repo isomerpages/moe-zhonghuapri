@@ -22,9 +22,10 @@ rules of the game. Overall, playing volleyball can help pupils develop
 a range of physical, social, and emotional skills that are valuable both
 on and off the court.</p>
 <p><strong>Teachers In-Charge</strong> 
-<br>Ms Ng Yen Tin (Main)
-<br>Mdm Junainah
-<br>Mrs Serene Koh</p>
+<br>Ms Ng Yen Tin (Main) - 2nd Session on Tuesdays
+<br>Mdm Junainah - 2nd CCA - 1st Session on Thursdays
+<br>Mrs Serene Koh - 1st Session on Tuesdays Mr Talib / Mr Tang Qisheng -
+Rotation - 2nd Session on Thursdays</p>
 <p><strong>Main Contact</strong>: <a href="ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
