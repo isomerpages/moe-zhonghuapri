@@ -27,7 +27,7 @@ planned activities designed to enhance their skills as well as improve
 coordination, fitness and enjoyment of the game of football.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mr Firdaus (Main - Tuesdays)
-<br>Mr Azman (Thursdays)</p>
+<br>Mr Azman (Thursdays) Ms Laura Tan (Main for Recreational Football)</p>
 <p><strong>Main Contact</strong>: <a href="muhammad_firdaus_amir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_firdaus_amir@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
