@@ -25,7 +25,7 @@ as their general health and fitness. With this programme, the Football
 teachers’ in-charge and coaches will run the pupils through a series of
 planned activities designed to enhance their skills as well as improve
 coordination, fitness and enjoyment of the game of football.</p>
-<p>Teachers-In-Charge
+<p><strong>Teachers-In-Charge</strong> 
 <br>Mr Firdaus (Main - Tuesdays)
 <br>Mr Azman (Thursdays)</p>
 <p>Ms Laura Tan (Main for Recreational Football)</p>
