@@ -21,10 +21,12 @@ how to win and lose gracefully, respect their opponents, and follow the
 rules of the game. Overall, playing volleyball can help pupils develop
 a range of physical, social, and emotional skills that are valuable both
 on and off the court.</p>
-<p><strong>Teachers In-Charge</strong> 
-<br>Ms Ng Yen Tin (Main)
-<br>Mdm Junainah
-<br>Mrs Serene Koh</p>
+<p><strong>Teachers In-Charge</strong>
+<br>Ms Ng Yen Tin (Main) - 2<sup>nd</sup> Session on Tuesdays</p>
+<p>Mdm Junainah - 2<sup>nd</sup> CCA - 1<sup>st</sup> Session on Thursdays</p>
+<p>Mrs Serene Koh - 1<sup>st</sup> Session on Tuesdays</p>
+<p>Mr Talib / Mr Tang Qisheng - Rotation - 2<sup>nd</sup> Session on Thursdays</p>
+<p></p>
 <p><strong>Main Contact</strong>: <a href="ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 

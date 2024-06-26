@@ -1,6 +1,6 @@
 ---
-title: Environment Science Club
-permalink: /list-of-cca/environment-science-club/
+title: Environmental Science Club
+permalink: /list-of-cca/environmental-science-club/
 description: ""
 variant: tiptap
 ---
@@ -25,6 +25,7 @@ will inspire positive change in the protection of the environment.</p>
 <p>“We will never stop fighting for this planet.” - Greta Thunberg.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Ms Leela (Main)</p>
+<p>Ms Alicia Wee</p>
 <p><strong>Main Contact</strong>: <a href="leeladevi_panneerselvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leeladevi_panneerselvam@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 

@@ -20,7 +20,7 @@ variant: markdown
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl70" height="42" rowspan="2">
 <br>3</td><td style="width:135pt" width="180" class="xl72" rowspan="2">
 <br>P2 Discipline</td><td style="border-top:none" class="xl74">
-<a href="mailto:lee_hao_han_oswald@schools.gov.sg">Mr Oswald Lee Hao Han
+<a href="mailto:serene_chew@moe.edu.sg">Mrs Serene Chew
 <span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl74" height="21">
 <a href="mailto:suriana_samat@schools.gov.sg">Mdm Suriana Bte Samat
 </a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl70" height="42" rowspan="2">

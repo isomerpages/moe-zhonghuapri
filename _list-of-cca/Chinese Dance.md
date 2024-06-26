@@ -19,7 +19,7 @@ skills, but also develop a spirit of diligence and perseverance in their
 character development when participating in Chinese Dance CCA.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mrs Chang Hsu (Main)
-<br>Ms Chen Gui Yun</p>
+<br>Mdm Feng Yijun</p>
 <p><strong>Main Contact</strong>: <a href="hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
