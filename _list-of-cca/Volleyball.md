@@ -26,7 +26,6 @@ on and off the court.</p>
 <br>Mdm Junainah - 2<sup>nd</sup> CCA - 1<sup>st</sup> Session on Thursdays
 <br>Mrs Serene Koh - 1<sup>st</sup> Session on Tuesdays
 <br>Mr Talib / Mr Tang Qisheng - Rotation - 2<sup>nd</sup> Session on Thursdays</p>
-<p></p>
 <p><strong>Main Contact</strong>: <a href="ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
