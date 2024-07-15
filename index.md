@@ -17,5 +17,5 @@ sections:
         - title: School Compound
           description: Explore Here
           url: /school-compound/school-compound/
-      background: /images/2024_ZPS_Website_banner_Version_3.gif
+      background: /images/2024_ZPS_Website_banner__version_3_.gif
 ---
