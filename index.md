@@ -17,5 +17,5 @@ sections:
         - title: School Compound
           description: Explore Here
           url: /school-compound/school-compound/
-      background: /images/gif heronew 10 april.gif
+      background: /images/11 July 2024 E OpenHouseBanner/2024_ZPS_Website_banner__1_.gif
 ---
