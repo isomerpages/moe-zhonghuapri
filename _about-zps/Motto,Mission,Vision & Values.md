@@ -5,13 +5,8 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo5.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ZPS_logo_2020_V2_turquoiseborder.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ZPS_logo_2020_V2_turquoiseborder.jpg">
-</div>
-<p></p>
 <p>The logo encompasses 2 "Zs", one upright and the other, inverted.</p>
 <p>This signifies training our pupils and staff to be flexible in their outlook
 in life, particularly in problem solving.</p>
