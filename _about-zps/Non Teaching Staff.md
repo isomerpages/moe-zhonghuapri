@@ -39,8 +39,8 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
-<p></p>
+<p><a href="mailto:lee_yen_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Yen Leng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adminstration Manager</p>
