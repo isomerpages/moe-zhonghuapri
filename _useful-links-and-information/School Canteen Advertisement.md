@@ -143,5 +143,5 @@ will need to possess the WSQ Basic Food Hygiene Certificate too.)</p>
 <h4><strong>Getting to Zhonghua Primary School</strong></h4>
 <p><strong><em>BUS</em></strong><em><br></em>Along Boundary Road
 <br>Bus No: 22, 24, 53, 156, 315, 109, 853</p>
-<p>Along Punggol Field Road
+<p>Along Yio Chu Kang Link
 <br>Bus No. 43, 70, 76, 103, 147, 109, 116, 317, 156</p>
