@@ -66,7 +66,12 @@ Teacher and cced to <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="no
 are as follows:</p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
