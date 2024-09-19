@@ -17,5 +17,5 @@ sections:
         - title: School Compound
           description: Explore Here
           url: /school-compound/school-compound/
-      background: /images/hero page nimbus filter gif 1920 x 720.gif
+      background: /images/gif heronew 10 april.gif
 ---
