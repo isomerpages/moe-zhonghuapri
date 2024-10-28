@@ -28,26 +28,12 @@ description: ""
 <p>Cooked Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>02 September 2024</p>
+<p>30 November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
 <p></p>
-<p>*estimated start date is after gas and licence has been approved or <strong>1 Jan 2025</strong> whichever
-is later</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drink and Cut Fruits Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>02 September 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>See Below</p>
-<p></p>
-<p>*estimated start date is after gas and licence has been approved or <strong>16 Sep 2024 </strong>whichever
+<p>*estimated start date is after gas and licence has been approved or <strong>02 Jan 2025</strong> whichever
 is later</p>
 </td>
 </tr>
