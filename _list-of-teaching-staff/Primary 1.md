@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Choo Meining (Mrs Koh)</a>
+<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Koh (Choo Meining)</a>
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener nofollow" target="_blank">Hsu Hui-Chien (Mrs Chang)</a>
+<p><a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chang (Hsu Hui-Chien)</a>
 </p>
 </td>
 </tr>
