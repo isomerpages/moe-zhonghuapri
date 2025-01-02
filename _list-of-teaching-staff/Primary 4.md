@@ -44,7 +44,7 @@ variant: tiptap
 <br>P4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwek_wei_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kwek Wei Ting </a>
+<p><a href="mailto:kwek_wei_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kwek Wei Ting</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <br>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus Bin Amir </a>
+<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus Bin Amir</a>
 </p>
 </td>
 </tr>
@@ -117,13 +117,13 @@ variant: tiptap
 <br>P4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_mun_yip_benny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Benny Lau Mun Yip </a>
+<p><a href="mailto:lau_mun_yip_benny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Benny Lau Mun Yip</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam Pei Ling </a>
+<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam Pei Ling</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ variant: tiptap
 <br>P4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee Cher Kiak </a>
+<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee Cher Kiak</a>
 </p>
 </td>
 </tr>
