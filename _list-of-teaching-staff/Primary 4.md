@@ -77,11 +77,15 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>
-<br>3</p>
+<br>
+</p>
+<p>3</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>
-<br>P4 Discipline</p>
+<br>
+</p>
+<p>P4 Discipline</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
