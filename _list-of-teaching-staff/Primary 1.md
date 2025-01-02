@@ -36,9 +36,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>1</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>P1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,9 +56,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>2</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,9 +76,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>3</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>P1 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,9 +96,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>4</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>P1 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,9 +116,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>5</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
