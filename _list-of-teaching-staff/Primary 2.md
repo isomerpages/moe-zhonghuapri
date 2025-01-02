@@ -44,7 +44,7 @@ variant: tiptap
 <br>P2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pek_Bee_Nai_Serene_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Chew </a>
+<p><a href="mailto:Pek_Bee_Nai_Serene_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Chew</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <br>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kavinchelvan Kalaivani </a>
+<p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kavinchelvan Kalaivani</a>
 </p>
 </td>
 </tr>
@@ -110,13 +110,13 @@ variant: tiptap
 <br>P2 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chen Guiyun</a> 
+<p><a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chen Guiyun</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati Bte Abdul Rahman </a>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati Bte Abdul Rahman</a>
 </p>
 </td>
 </tr>
