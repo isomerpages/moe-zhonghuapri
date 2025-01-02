@@ -13,9 +13,8 @@ variant: markdown
 2</td><td style="width:142pt" width="189" class="xl70" rowspan="2">P1 Diligence</td><td style="border-top:none" class="xl69">
 <a href="mailto:alattas_shahrazad_aqel@schools.gov.sg">Mdm Alattas Shahrazad Binte Aqel</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
 <a href="mailto:choo_meining_serene@schools.gov.sg">Mrs Serene Choo Meining (Mrs Koh)</a></td></tr><tr><td style="height:48.0pt;width:59pt" width="79" class="xl71" height="64" rowspan="3">
-3</td><td style="width:142pt" width="189" class="xl70" rowspan="3">
-	P1 Discipline</td><td style="border-top:none" class="xl69">
-<a href="mailto:azman_mohamed_hamzah@schools.gov.sg">Mr Azman Bin Mohd Hamzah<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
+3</td><td style="width:142pt" width="189" class="xl70" rowspan="3">P1 Discipline</td><td style="border-top:none" class="xl69">
+<a href="mailto:latha_balakrishnan@schools.gov.sg">Mdm Latha d/o Balakrishnan<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
 <a href="mailto:tan_chai_hsien_gladys@schools.gov.sg">Mrs Gladys Tan Chai Hsien (Chen Caixian)</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl69" height="20">
 <a href="mailto:tham_shook_yin@moe.edu.sg">Mdm Tham Shook Yin</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:33.0pt;width:59pt" width="79" class="xl71" height="44" rowspan="2">
 4</td><td style="width:142pt" width="189" class="xl70" rowspan="2">P1 Harmony</td><td style="border-top:none" class="xl73">
