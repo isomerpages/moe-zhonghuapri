@@ -44,7 +44,7 @@ variant: tiptap
 <br>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Feng Yijun </a>
+<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Feng Yijun</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <br>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping </a>
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <br>P5 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu Cheuk Yi </a>
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu Cheuk Yi</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <br>P5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom </a>
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian </a>
+<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
 </p>
 </td>
 </tr>
