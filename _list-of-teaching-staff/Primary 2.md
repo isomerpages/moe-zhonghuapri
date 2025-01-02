@@ -77,11 +77,15 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>
-<br>3</p>
+<br>
+</p>
+<p>3</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>
-<br>P2 Discipline</p>
+<br>
+</p>
+<p>P2 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_xiaocheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Daisy Yu XiaoCheng</a>
