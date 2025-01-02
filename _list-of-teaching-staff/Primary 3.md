@@ -44,7 +44,7 @@ variant: tiptap
 <br>P3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern </a>
+<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern</a>
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@ variant: tiptap
 <br>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nurul Hafiqa Binte Osman </a>
+<p><a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nurul Hafiqa Binte Osman</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ling_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Ling Siang </a>
+<p><a href="mailto:lim_ling_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Ling Siang</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <br>P3 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mageswari Kanapathy </a>
+<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mageswari Kanapathy</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <br>P3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Junainah Bte Mohamed Eusuff </a>
+<p><a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Junainah Bte Mohamed Eusuff</a>
 </p>
 </td>
 </tr>
@@ -124,13 +124,13 @@ variant: tiptap
 <br>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farida_kader@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Farida Bte Mohd Abdul Kader </a>
+<p><a href="mailto:farida_kader@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Farida Bte Mohd Abdul Kader</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ng Yen Tin (Huang Yanzhen) </a>
+<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ng Yen Tin (Huang Yanzhen)</a>
 </p>
 </td>
 </tr>
