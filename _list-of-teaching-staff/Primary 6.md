@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_joo_hwee_laura@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Laura Tan Joo Hwee </a>
+<p><a href="mailto:tan_joo_hwee_laura@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Laura Tan Joo Hwee</a>
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@ variant: tiptap
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq Bin Mohamed Hashim </a>
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq Bin Mohamed Hashim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon </a>
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon</a>
 </p>
 </td>
 </tr>
@@ -84,13 +84,13 @@ variant: tiptap
 <p>P6 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low Hui-Yang </a>
+<p><a href="mailto:gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low Hui-Yang</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liang Lifang </a>
+<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liang Lifang</a>
 </p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>P6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_beng_kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Beng Kim </a>
+<p><a href="mailto:lim_beng_kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Beng Kim</a>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusman Bin Mohamad Eusope </a>
+<p><a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusman Bin Mohamad Eusope</a>
 </p>
 </td>
 </tr>
