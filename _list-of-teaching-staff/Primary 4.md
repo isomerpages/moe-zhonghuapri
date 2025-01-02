@@ -75,11 +75,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>
 <br>3</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>
 <br>P4 Discipline</p>
 <p></p>
@@ -96,12 +96,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mui_mui_tricia@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan Mui Mui</a>
 </p>
