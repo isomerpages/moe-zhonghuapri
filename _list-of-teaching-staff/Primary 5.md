@@ -44,13 +44,13 @@ variant: tiptap
 <br>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Feng Yijun</a>
+<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Feng Yijun</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Sharon Loh Yeok Peng (Mrs Seah)</a>
+<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sharon Seah (Loh Yeok Peng)</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Joan Benjamin (Tan Lay Peng)</a>
+<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin (Tan Lay Peng)</a>
 </p>
 </td>
 </tr>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Joyce Seow Swee Yin (MrsTan)</a>
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan (Seow Swee Yin)</a>
 </p>
 </td>
 </tr>
@@ -121,10 +121,10 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>P5 integrity</p>
+<p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim Lee Fong (Mrs Chan Hong Wei)</a>
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan Hong Wei (Lim Lee Fong)</a>
 </p>
 </td>
 </tr>
@@ -132,6 +132,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
