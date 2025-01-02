@@ -2,21 +2,139 @@
 title: Primary 1
 permalink: /list-of-teaching-staff/primary-1/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Form Teachers**
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2746;width:59pt" width="79"> <col style="mso-width-source:userset;mso-width-alt:6586;width:142pt" width="189"> <col style="mso-width-source:userset;mso-width-alt:12986;width:279pt" width="372"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:59pt" width="79" class="xl66" height="9"></td><td style="width:142pt" width="189"></td><td style="width:279pt" width="372"></td></tr><tr style="mso-height-source:userset;height:30.75pt" height="41"><td style="height:30.75pt;width:59pt" width="79" class="xl68" height="41">No</td><td style="border-left:none;width:142pt" width="189" class="xl67">Class</td><td style="border-left:none;width:279pt" width="372" class="xl67">Name of Form Teacher</td></tr><tr style="height:15.0pt" height="20"><td style="height:31.5pt;width:59pt" width="79" class="xl71" height="42" rowspan="2">
-1</td><td class="xl72" rowspan="2">P1 Care</td><td style="border-top:none" class="xl69">
-<a href="mailto:premala_devi_kandasamy_a@moe.edu.sg">Mdm Premala Devi d/o Kandasamy (Mrs Raj)</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
-<a href="mailto:zurairi_samsuddin@schools.gov.sg">Mr Zurairi B Samsuddin</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:31.5pt;width:59pt" width="79" class="xl71" height="42" rowspan="2">
-2</td><td style="width:142pt" width="189" class="xl70" rowspan="2">P1 Diligence</td><td style="border-top:none" class="xl69">
-<a href="mailto:alattas_shahrazad_aqel@schools.gov.sg">Mdm Alattas Shahrazad Binte Aqel</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
-<a href="mailto:choo_meining_serene@schools.gov.sg">Mrs Serene Choo Meining (Mrs Koh)</a></td></tr><tr><td style="height:48.0pt;width:59pt" width="79" class="xl71" height="64" rowspan="3">
-3</td><td style="width:142pt" width="189" class="xl70" rowspan="3">P1 Discipline</td><td style="border-top:none" class="xl69">
-<a href="mailto:latha_balakrishnan@schools.gov.sg">Mdm Latha d/o Balakrishnan<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
-<a href="mailto:suriana_samat@schools.gov.sg">Mdm Suriana Bte Samat</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl69" height="20">
-<a href="mailto:tham_shook_yin@moe.edu.sg">Mdm Tham Shook Yin</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:33.0pt;width:59pt" width="79" class="xl71" height="44" rowspan="2">
-4</td><td style="width:142pt" width="189" class="xl70" rowspan="2">P1 Harmony</td><td style="border-top:none" class="xl73">
-<a href="mailto:chen_guiyun@schools.gov.sg">Mdm Chen Guiyun</a></td></tr><tr style="height:16.5pt" height="22"><td style="height:16.5pt;border-top:none" class="xl69" height="22">
-<a href="mailto:choo_meining_serene@schools.gov.sg">Mdm Serene Choo Meining (Mrs Koh)</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl66" height="9"></td><td></td><td></td></tr></tbody></table>
+<h3><strong>Form Teachers</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P1 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:premala_devi_kandasamy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy (Mrs Raj)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zurairi_samsuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zurairi B Samsuddin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alattas_shahrazad_aqel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alattas Shahrazad Binte Aqel</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Choo Meining (Mrs Koh)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P1 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:latha_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Latha d/o Balakrishnan&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Samat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P1 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Pan_Ci_Ern_Amelia_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amelia Pan Ci Ern</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Constance Chong Hui Min </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener nofollow" target="_blank">Hsu Hui-Chien (Mrs Chang)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nuriah Bte Abdullah </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
