@@ -2,32 +2,149 @@
 title: Primary 5
 permalink: /list-of-teaching-staff/primary-5/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-###  **Form Teachers**
-<table style="border-collapse:
- collapse;width:457pt" width="610" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2742;width:56pt" width="75"> <col style="mso-width-source:userset;mso-width-alt:6582;width:135pt" width="180"> <col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"></colgroup><tbody><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt;width:56pt" width="75" class="xl66" height="8"></td><td style="width:135pt" width="180"></td><td style="width:266pt" width="355"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;width:56pt" width="75" class="xl68" height="21">No</td><td style="border-left:none;width:135pt" width="180" class="xl67">Class</td><td style="border-left:none;width:266pt" width="355" class="xl67">Name of Form Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
-<br>1</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P5 Care</td><td style="border-top:none" class="xl72">
-<a href="mailto:tan_joo_hwee_laura@schools.gov.sg">Ms Laura Tan Joo Hwee 
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
-<a href="mailto:veni_vasanthakumar@schools.gov.sg">Miss Veni d/o Vasanthakumar
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
-<br>2</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P5 Diligence</td><td style="border-top:none" class="xl72">
-<a href="mailto:tan_shi_yi_melodie@schools.gov.sg">Mrs Melodie Tan Shi Yi (Mrs Lee)
-<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
-<a href="mailto:ong_chui_hoon@schools.gov.sg">Ms Ong Chui Hoon
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
-<br>3</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P5 Discipline</td><td style="border-top:none" class="xl72">
-<a href="mailto:siti_farhanah_mohamed_nass@schools.gov.sg">Mdm Siti Farhanah Bte Mohd Nasser
-<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
-<a href="mailto:zacharias_irene_hilda@schools.gov.sg">Mrs Irene Gomez (Zacharias Irene Hilda)
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2">
-<br>4</td><td style="width:135pt" width="180" class="xl70" rowspan="2">
-<br>P5 Harmony</td><td style="border-top:none" class="xl72">
-<a href="mailto:lim_beng_kim@schools.gov.sg">Mr Lim Beng Kim
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl72" height="21">
-<a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg">Mrs Shirley Yeh (Ng Ai Li Shirleywijaya)
-</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:31.5pt;width:56pt" width="75" class="xl69" height="42" rowspan="2"></td><td></td><td></td></tr></tbody></table>
+<h3><strong>Form Teachers</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>
+<br>1</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>
+<br>P5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Feng Yijun</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sharon Seah (Loh Yeok Peng)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>
+<br>2</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>
+<br>P5 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin (Tan Lay Peng)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>
+<br>3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>
+<br>P5 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu Cheuk Yi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rindaherlina Thamrin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>
+<br>4</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>
+<br>P5 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan (Seow Swee Yin)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan Hong Wei (Lim Lee Fong)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -2,45 +2,333 @@
 title: Key Personnel
 permalink: /list-of-teaching-staff/key-personnel/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Key Personnel**
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:266pt" width="355" height="7"></td><td style="width:214pt" width="285"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">School Leaders</td><td style="border-left:none" class="xl66">Name
-</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Principal</td><td style="border-top:none;border-left:none" class="xl69"><a href="mailto:Tiong_Le_Chin@schools.gov.sg">Mrs Chan Le Chin</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Vice Principal</td><td style="border-top:none;border-left:none" class="xl69"><a href="mailto:tan_siew_leng@schools.gov.sg">Mrs Tan Siew Leng</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Vice Principal</td><td style="border-top:none;border-left:none" class="xl69"><a href="mailto:trina_pook_sim_nar@schools.gov.sg">Mrs Trina Yee</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" height="6"></td><td></td></tr></tbody></table>
-
-
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"></colgroup><tbody><tr style="mso-height-source:userset;height:3.0pt" height="4"><td style="height:3.0pt;width:266pt" width="355" height="4"></td><td style="width:214pt" width="285"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-Heads of Department</td><td style="border-left:none" class="xl66">Name</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-School Staff Developer</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg">Mdm Norisah Yasmeen</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-English Language / Character &amp; Citizenship Education</td><td style="border-top:none;border-left:none;width:214pt" width="285" class="xl71"><a href="mailto:rindaherlina_thamrin@schools.gov.sg">Mdm Rindaherlina&nbsp;</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Mathematics</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:liang_lifang@schools.gov.sg">Ms Liang Lifang</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Mother Tongue Languages</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:liew_yong_chew@schools.gov.sg">Mr Liew Yong Chew &nbsp;</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Physical Education</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:azman_mohamed_hamzah@schools.gov.sg">Mr Azman</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Science</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:Gerald_low_hui_yang@schools.gov.sg">Mr Gerald Low</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Pupil Management</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:ong_chui_hoon@schools.gov.sg">Ms Ong Chui Hoon</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none;
-  width:266pt" width="355" class="xl69" height="21">
-ICT &amp; Ed Tech (Covering)</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:tang_qisheng@schools.gov.sg">Mr Tang Qisheng</a></td></tr><tr style="mso-height-source:userset;height:3.75pt" height="5"><td style="height:3.75pt" height="5"></td><td></td></tr></tbody></table>
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"></colgroup><tbody><tr style="mso-height-source:userset;height:3.75pt" height="5"><td style="height:3.75pt;width:266pt" width="355" height="5"></td><td style="width:214pt" width="285"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-Year Heads</td><td style="border-left:none" class="xl66">Name</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none;
-  width:266pt" width="355" class="xl69" height="21">
-Upper Primary</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:siti_farhanah_mohamed_nass@schools.gov.sg">Mdm Siti Farhanah</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Upper Primary (Covering) / AYH Upper Primary</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:teh_kian_hian@schools.gov.sg">Mr Teh Khen Hian</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Middle Primary (Covering) / AYH Middle Primary</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg">Mr Abdul Mutalib</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-Lower Primary</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:nuriah_abdullah@schools.gov.sg">Mdm Nuriah<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt" height="8"></td><td></td></tr></tbody></table>
-
-
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:12982;width:266pt" width="355"> <col style="mso-width-source:userset;mso-width-alt:10422;width:214pt" width="285"></colgroup><tbody><tr style="mso-height-source:userset;height:3.0pt" height="4"><td style="height:3.0pt;width:266pt" width="355" height="4"></td><td style="width:214pt" width="285"></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-Subject Heads / Level Heads</td><td style="border-left:none" class="xl66">Name</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-LH English Language</td><td style="border-top:none;border-left:none" class="x170"><a href="mailto:veni_vasanthakumar@schools.gov.sg">Miss Veni d/o Vasanthakumar</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="x168" height="21">
-SH Malay Language and Tamil Language</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:hariyati_hairom@schools.gov.sg">Ms Hariyati </a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-LH Science</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:ang_wei_wen_justin@schools.gov.sg">Mr Justin Ang</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-SH ICT &amp; Ed Tech </td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:tang_qisheng@schools.gov.sg">Mr Tang Qisheng</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">
-SH PAL / Art / Music (Covering)</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:alicia_wee_su_ping@schools.gov.sg">Ms Alicia Wee</a></td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;border-top:none" class="xl68" height="21">	
-SH Partnership (Covering)</td><td style="border-top:none;border-left:none" class="xl70"><a href="mailto:rozianah_rosli@schools.gov.sg">Ms Rozianah</a></td></tr><tr style="mso-height-source:userset;height:4.5pt" height="6"><td style="height:4.5pt" height="6"></td><td></td></tr></tbody></table>
+<h1><strong>Key Personnel</strong></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tiong_Le_Chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chan Le Chin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Siew Leng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:trina_pook_sim_nar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Trina Yee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Heads of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norisah Yasmeen</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rindaherlina&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liang Lifang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_yong_chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Yong Chew &nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Gerald_low_hui_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gerald Low</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chiu Cheuk Yi Ophelia</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pupil Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT &amp; Ed Tech (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Heads</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH Upper Primary (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Middle Primary (Covering) / AYH Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Heads / Level Heads</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language and Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hariyati</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_wei_wen_justin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Ang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH ICT &amp; Ed Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PAL / Art / Music (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Partnership (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

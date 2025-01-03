@@ -2,27 +2,139 @@
 title: Primary 6
 permalink: /list-of-teaching-staff/primary-6/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-###  **Form Teachers**
-<table style="border-collapse:
- collapse;width:480pt" width="640" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2746;width:59pt" width="79"> <col style="mso-width-source:userset;mso-width-alt:6586;width:142pt" width="189"> <col style="mso-width-source:userset;mso-width-alt:12986;width:279pt" width="372"></colgroup><tbody><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt;width:59pt" width="79" class="xl66" height="9"></td><td style="width:142pt" width="189"></td><td style="width:279pt" width="372"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:59pt" width="79" class="xl68" height="20">No</td><td style="border-left:none;width:142pt" width="189" class="xl67">Class</td><td style="border-left:none;width:279pt" width="372" class="xl67">Name of Form Teacher</td></tr><tr style="height:15.0pt" height="20"><td style="height:30.0pt;width:59pt" width="79" class="xl70" height="40" rowspan="2">1</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  width:142pt" width="189" class="xl72" rowspan="2">P6 Care</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:liu_yusi@schools.gov.sg">Mdm Liu Yusi</a></td></tr><tr style="height:15.0pt;box-sizing: border-box;overflow-wrap: break-word;
-  border-color:var(--chakra-colors-chakra-border-color)" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg">Mdm Norisah Yasmeen B Yussoff</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:45.0pt;width:59pt" width="79" class="xl71" height="60" rowspan="3">2</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  border-top:none;width:142pt" width="189" class="xl74" rowspan="3">P6 Diligence</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:tan_lay_peng_a@schools.gov.sg">Mrs Joan Benjamin (Tan Lay Peng)&nbsp;&nbsp;&nbsp;Low</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:mageswari_kanapathy@schools.gov.sg">Mdm Mageswari Kanapathy<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:liew_yong_chew@schools.gov.sg">Mr Liew Yong Chew</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:30.0pt;width:59pt" width="79" class="xl71" height="40" rowspan="2">3</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  border-top:none;width:142pt" width="189" class="xl74" rowspan="2">P6 Discipline</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:tang_qisheng@schools.gov.sg">Mdm Rindaherlina Thamrin</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:rindaherlina_thamrin@schools.gov.sg">Mr Tang Qisheng</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:30.0pt;width:59pt" width="79" class="xl71" height="40" rowspan="2">4</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  border-top:none;width:142pt" width="189" class="xl74" rowspan="2">P6 Harmony</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:gerald_low_hui_yang@schools.gov.sg">Mr Gerald Low Hui-Yang</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:ng_yen_tin@schools.gov.sg">Ms Ng Yen Tin (Huang Yanzhen)</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:30.0pt;width:59pt" width="79" class="xl71" height="40" rowspan="2">5&nbsp;</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  border-top:none;width:142pt" width="189" class="xl74" rowspan="2">P6 Integrity</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:hariyati_hairom@schools.gov.sg">Ms Hariyati Bte Hairom</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:279pt" width="372" class="xl75" height="20"><a href="mailto:seow_swee_yin_joyce@schools.gov.sg">Mrs Joyce Seow Swee Yin (MrsTan)</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:30.0pt" class="xl66" height="40" rowspan="2">6</td><td style="border-bottom:1.0pt solid #D6D6D6;
-  border-top:none;width:142pt" width="189" class="xl74" rowspan="2">P6 Resilience</td><td style="border-top:none;width:279pt;box-sizing: inherit;
-  border-image: initial" width="372" class="xl75"><a href="mailto:teh_kian_hian@schools.gov.sg">Mr Teh Khen Hian</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl69" height="20"><a href="mailto:yusman_mohamad_eusope_a@moe.edu.sg">Mr Yusman Bin Mohamad Eusope<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl66" height="9"></td><td></td><td></td></tr></tbody></table>
+<h3><strong>Form Teachers</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>1</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>P6 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_joo_hwee_laura@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Laura Tan Joo Hwee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>2</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>P6 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq Bin Mohamed Hashim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>P6 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low Hui-Yang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liang Lifang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>4</p>
+</td>
+<td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>P6 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_beng_kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Beng Kim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh (Ng Ai Li Shirleywijaya)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusman Bin Mohamad Eusope</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
