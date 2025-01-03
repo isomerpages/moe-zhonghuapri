@@ -2,14 +2,116 @@
 title: Learning Support Programme (LSP)
 permalink: /list-of-teaching-staff/learning-support-programme-lsp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Information**
-<table style="border-collapse:
- collapse;width:375pt" width="500" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:16822;width:345pt" width="460"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:30pt" width="40" class="xl67" height="7"></td><td style="width:345pt" width="460" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of English Language Teacher<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-1</td><td style="border-top:none" class="xl70"><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg">Mdm Rafidawati Bte Abdul Rahman<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none" class="xl70"><a href="mailto:tan_chai_hsien_gladys@schools.gov.sg">Mdm Gladys Tan Chai Hsien(Chen Caixian) (for 2024)</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-3</td><td style="border-top:none" class="xl70"><a href="mailto:nuriah_abdullah@schools.gov.sg">Mdm Nuriah Bte Abdullah (for 2024)</a></td></tr><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt" class="xl67" height="7"></td><td class="xl66"></td></tr></tbody></table>
- 
-<table style="border-collapse:
- collapse;width:375pt" width="500" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:16822;width:345pt" width="460"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:345pt" width="460" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Mathematics Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">1</td><td style="border-top:none;width:345pt" width="460" class="xl70"><a href="mailto:suriana_samat@schools.gov.sg">Mdm Suriana Bte Samat (for 2023)<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">2</td><td style="border-top:none" class="xl71"><a href="mailto:premala_devi_kandasamy@moe.edu.sg">Mdm Premala Devi d/o Kandasamy (for 2023)</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">3</td><td style="border-top:none" class="xl71"><a href="mailto:tan_sok_gway@schools.gov.sg">Ms Tan Sok Gway (for 2023)</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl67" height="9"></td><td class="xl66"></td></tr></tbody></table>
+<h3><strong>Information</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of English Language Teacher&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafidawati Bte Abdul Rahman&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah Bte Abdullah (for 2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Mathematics Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Samat (for 2023)&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:premala_devi_kandasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy (for 2023)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sok_gway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sok Gway (for 2023)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
