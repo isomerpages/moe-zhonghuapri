@@ -53,14 +53,11 @@ that are at the foundation of our shared societal and national values.</p>
 <p>Harmony</p>
 </li>
 </ul>
-<p><strong>Our Key Programmes (For 2024)</strong>
+<p><strong>Our Key Programmes (For 2025)</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Recess Play @ ZPS</p>
-</li>
-<li>
-<p>Holistic Health Week</p>
 </li>
 <li>
 <p>Programme for Active Learning (PAL)</p>
@@ -69,7 +66,7 @@ that are at the foundation of our shared societal and national values.</p>
 <p>P1 to P6 Outdoor, Leadership and Environmental Education Programme (OLE)</p>
 </li>
 <li>
-<p>P3 &amp; P4 Swimsafer Programme</p>
+<p>P3 Swimsafer Programme</p>
 </li>
 <li>
 <p>P4 &amp; P6 National Physical Fitness Award (NAPFA) Fitness Stars</p>
@@ -82,9 +79,6 @@ that are at the foundation of our shared societal and national values.</p>
 </li>
 <li>
 <p>Sports Education Programme (SEP)</p>
-</li>
-<li>
-<p>P6 Virtual Overseas Engagement Programme</p>
 </li>
 </ol>
 <p></p>
