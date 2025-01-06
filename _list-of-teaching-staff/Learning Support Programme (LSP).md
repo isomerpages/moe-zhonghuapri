@@ -82,7 +82,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Samat (for 2023)&nbsp;</a>
+<p><a href="mailto:premala_devi_kandasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:premala_devi_kandasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy (for 2023)</a>
+<p><a href="mailto:tan_sok_gway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sok Gway</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,16 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sok_gway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sok Gway (for 2023)</a>
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan (Seow Swee Yin)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan HW (Lim Lee Fong)</a>
 </p>
 </td>
 </tr>
