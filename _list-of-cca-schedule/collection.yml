@@ -2,7 +2,7 @@ collections:
   list-of-cca-schedule:
     output: true
     order:
-      - CCA Schedule for Semester 1 (2025).md
+      - CCA Schedule for Semester 1 (2025) draft1.md
       - CCA Schedule for Semester 2 (2025).md
       - CCA Schedule For Semester 1.md
       - CCA Schedule For Semester 2.md
