@@ -140,7 +140,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p> <strong>Term 1 Break (15 March - 23 March)</strong>
+<p><strong>                                                            Term 1 Break (15 March - 23 March)</strong>
 </p>
 </td>
 </tr>
