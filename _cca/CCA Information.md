@@ -140,7 +140,7 @@ are as follows:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/infocomm-technology-club/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Technology Club</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/infocomm-technology-club/" rel="noopener nofollow" target="_blank">Infocomm Technology Club</a>
 </p>
 </td>
 </tr>
