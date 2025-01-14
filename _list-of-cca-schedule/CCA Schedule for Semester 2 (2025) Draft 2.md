@@ -32,7 +32,8 @@ description: ""
 <span style="mso-spacerun:yes"><br>
 
 </span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">House Practice 2 (8 July)
-<br>Sports Carnival Day (11 July)
+<span style="mso-spacerun:yes"><br>
+</span>Sports Carnival Day (11 July)
 
 </td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -51,143 +52,169 @@ description: ""
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;marginright:0px;paddingbottom:2px;padding-top:2px">CCA Session 2
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Eve of Chinese New Year	
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 	
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"></td></tr><tr height="45" style="mso-height source:userset;height:33.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="45" class="xl70" width="215" style="height:33.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-T1W5 / 4 February<span style="mso-spacerun:yes"><br>
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+
+</td></tr><tr height="45" style="mso-height source:userset;height:33.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="45" class="xl70" width="215" style="height:33.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+T3W5 / 29 July<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 3
+</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">	
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">P6 Prelim Oral	
 
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T1W6 / 11 February<span style="mso-spacerun:yes"><br>
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T3W6 / 5 August<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 3
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">P5 Cohort Camp
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T3W7 / 12 August<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 4
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">PSLE Oral
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T1W7 / 18 February<span style="mso-spacerun:yes"><br>
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T3W8 / 19 August<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 5
+	
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">*Weighted Assessment Week*
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;paddingbottom:2px;padding-top:2px">
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-T1W8 / 25 February<span style="mso-spacerun:yes"><br>
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T3W9 / 26 August<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 6
-	
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-T1W9 / 4 March<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">*Weighted Assessment Week*
 
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 7
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Start of Fasting Month
-<br>1 March to 30 March
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T1W10 / 11 March<span style="mso-spacerun:yes"><br>
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T3W10 / 2 September<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Prep for PTC<br>PTC (12 &amp; 13 March)
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Teacher's Day Celebration Week
 
-</td></tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-<center>**Term 1 Break**<br>**(15 March – 23 March)**</center>
+</td></tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-T2W1 / 25 March<span style="mso-spacerun:yes"><br>
+<td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+<center>**Term 3 Break**<br>**(6 September – 14 September)**</center>
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W1 / 16 September<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">PSLE Listening Comprehension
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W2 / 23 September<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 7
+
+</td><td class="xl73" width="285" style="border-top:none;border-left:none;width:214pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W3 / 30 September<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"><span style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">No CCA
+
+</span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**PSLE**
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W4 / 7 October<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+	
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">SA2 Oral Exam (P3 - P5)	
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W5 / 14 October<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">PSLE Marking Exercise
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W6 / 21 October
+<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 8
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W2 / 1 April<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 9
-
-</td><td class="xl73" width="285" style="border-top:none;border-left:none;width:214pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"></td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W3 / 8 April
-<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"><span style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">CCA Session 10
-
-</span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W4 / 15 April<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-	
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 11
-
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">	
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-T2W5 / 22 April<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 12
-
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W6 / 29 April
-<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 13
-
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**Last CCA Session for Semester 2**
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W7 / 6 May
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W7 / 28 October
 <span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 14
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W8 / 13 May
-<span style="mso-spacerun:yes"><br>
-</span>(Tuesday)
-
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 15
-
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">*Weighted Assessment Week*
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">SA2 Week
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W9 / 20 May
-<span style="mso-spacerun:yes"><br>
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W8 / 4 November<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 16
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">*Weighted Assessment Week*
-<br>**Last CCA Session for
-<br>Semester 1**
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">SA2 Week
+
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W9 / 11 November<span style="mso-spacerun:yes"><br>
+</span>(Tuesday)
+
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
+
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">SA2 (Mark Processing)
 
 </td></tr><tr height="46" style="mso-height-source:userset;height:4.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
-</tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T2W10 / 27 May
-<span style="mso-spacerun:yes"><br>
+</tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">T4W10 / 18 November<span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;No CCA
+</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">No CCA
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">&nbsp;Prep for PCTC
-<br>PCTC (29 May)
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Appreciation Day (21 Nov)
 
-</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+</td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
+
+<td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 </td></tr></tbody></table>
 
 **Note - Competitive CCAs (Chinese Dance, Malay Dance, Indian Dance, Choir, Football and Volleyball) will have twice a week training. The other session will be on Thursdays.**
