@@ -107,7 +107,7 @@ are as follows:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/environment-science-club/" rel="noopener noreferrer nofollow" target="_blank">Environmental Science Club</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/environmental-science-club/" rel="noopener nofollow" target="_blank">Environmental Science Club</a>
 </p>
 </td>
 </tr>
