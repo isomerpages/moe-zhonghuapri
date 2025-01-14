@@ -27,7 +27,7 @@ who will inspire positive change in the protection of the environment.</p>
 <br>Mr Christopher Lee (Advisor)
 <br>Ms Sandra Wang (Main)</p>
 <p>Ms Fiona Lim</p>
-<p><strong>Main Contact</strong>: <a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_cher_kiak@schools.gov.sg</a> 
+<p><strong>Main Contact</strong>: <a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_cher_kiak@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
 <br>Tuesday
