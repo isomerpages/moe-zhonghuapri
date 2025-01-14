@@ -121,7 +121,7 @@ are as follows:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/art-club/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
 </p>
 </td>
 </tr>
