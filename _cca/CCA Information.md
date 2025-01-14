@@ -127,12 +127,12 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Modular Sports
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/" rel="noopener noreferrer nofollow" target="_blank">1. Recreational Football (Sem 1 &amp; 2)</a> 
+<p><a href="https://zhonghuapri.moe.edu.sg/modular-sports/" rel="noopener nofollow" target="_blank">Modular Sports</a>
+<br>Recreational Football (Sem 1 &amp; 2)
 <br>For Non-School Team Players</p>
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-badminton/" rel="noopener noreferrer nofollow" target="_blank">2. Recreational Floorball (Sem 1 &amp; 2)</a> 
-<br><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/recreational-floorball-or-touch-rugby-sem-2/" rel="noopener noreferrer nofollow" target="_blank">3. Recreational Handball (Sem 1 &amp; 2)</a>
-</p>
+<p></p>
+<p>Recreational Floorball (Sem 1 &amp; 2)</p>
+<p>Recreational Handball (Sem 1 &amp; 2)</p>
 <p>Players will be grouped by their levels and rotated after 12 sessions</p>
 </td>
 <td rowspan="1" colspan="1">
