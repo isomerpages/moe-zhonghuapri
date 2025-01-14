@@ -61,7 +61,7 @@ Teachers.</p>
 <p>A change of CCA will only be allowed during the transfer window (i.e.
 Nov/Dec Holidays and before the start of the first CCA session of the work
 year). Request must be communicated by the parents via email to the CCA
-Teacher and cced to Mr Azman@<a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a> 
+Teacher and cced to Mr Azman @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a> 
 <br>
 <br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils
 are as follows:</p>
