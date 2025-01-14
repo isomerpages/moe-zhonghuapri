@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 ---
 # **CCA Schedule For Semester 2 (2025)**
-<table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl67" width="215" style="height:5.25pt;width:161pt"><a name="RANGE!E3:G24"></a></td><td class="xl67" width="250" style="width:188pt"></td><td class="xl67" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt"><span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">**Week / Day**</span>
+<table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl67" width="215" style="height:5.25pt;width:161pt"><a name="RANGE!E3:G24"></a></td><td class="xl67" width="250" style="width:188pt"></td><td class="xl67" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt"><span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Week / Day</span>
 
-</td><td class="xl69" style="border-left:none">**Event**</td><td class="xl66" style="border-left:none">
-<span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">**Remarks**<span>
+</td><td class="xl69" style="border-left:none">Event</td><td class="xl66" style="border-left:none">
+<span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Remarks<span>
 
 </span></span></td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -41,7 +41,7 @@ description: ""
 <span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**CCA STARTS for ALL**
+</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA STARTS for ALL
 <span style="mso-spacerun:yes"><br>
 </span>CCA Session 1
 
@@ -116,7 +116,7 @@ T3W5 / 29 July<span style="mso-spacerun:yes"><br>
 </td></tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
 <td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-<center>**Term 3 Break**<br>**(6 September – 14 September)**</center>
+<center>Term 3 Break<br>(6 September – 14 September)</center>
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -143,7 +143,7 @@ T3W5 / 29 July<span style="mso-spacerun:yes"><br>
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px"><span style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">No CCA
 
-</span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**PSLE**
+</span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">PSLE
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -171,7 +171,7 @@ T3W5 / 29 July<span style="mso-spacerun:yes"><br>
 
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 8
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**Last CCA Session for Semester 2**
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Last CCA Session for Semester 2
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
