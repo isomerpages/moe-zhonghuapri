@@ -190,3 +190,5 @@ T2W5 / 22 April<span style="mso-spacerun:yes"><br>
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 </td></tr></tbody></table>
+
+**Note - Competitive CCAs (Chinese Dance, Malay Dance, Indian Dance, Choir, Football and Volleyball) will have twice a week training. The other session will be on Thursdays.**
