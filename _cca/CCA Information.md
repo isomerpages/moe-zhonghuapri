@@ -136,7 +136,7 @@ are as follows:</p>
 <p>Players will be grouped by their levels and rotated after 12 sessions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/malay-dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/malay-dance/" rel="noopener nofollow" target="_blank">Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
