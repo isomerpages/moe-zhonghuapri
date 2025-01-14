@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 ---
 # **CCA Schedule For Semester 1 (2025)**
-<table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl67" width="215" style="height:5.25pt;width:161pt"><a name="RANGE!E3:G24"></a></td><td class="xl67" width="250" style="width:188pt"></td><td class="xl67" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt"><span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">**Week / Day**</span>
+<table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;width:563pt"><colgroup><col width="215" style="mso-width-source:userset;mso-width-alt:7862;width:161pt"> <col width="250" style="mso-width-source:userset;mso-width-alt:9142;width:188pt"> <col width="285" style="mso-width-source:userset;mso-width-alt:10422;width:214pt"></colgroup><tbody><tr height="7" style="mso-height-source:userset;height:5.25pt"><td height="7" class="xl67" width="215" style="height:5.25pt;width:161pt"><a name="RANGE!E3:G24"></a></td><td class="xl67" width="250" style="width:188pt"></td><td class="xl67" width="285" style="width:214pt"></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl68" style="height:15.75pt"><span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Week / Day</span>
 
-</td><td class="xl69" style="border-left:none">**Event**</td><td class="xl66" style="border-left:none">
-<span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">**Remarks**<span>
+</td><td class="xl69" style="border-left:none">Event</td><td class="xl66" style="border-left:none">
+<span lang="EN-SG" style="outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">Remarks<span>
 
 </span></span></td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -16,13 +16,13 @@ description: ""
 <span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**CCA STARTS for**
+</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA STARTS for
 <span style="mso-spacerun:yes"><br>
-</span>**COMPETITIVE CCAs ONLY**
+</span>COMPETITIVE CCAs ONLY
 
-</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**For Football &amp; Volleyball**
+</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">For Football &amp; Volleyball
 <span style="mso-spacerun:yes"><br>
-</span>**School Teams**
+</span>School Teams
 
 </td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -30,7 +30,7 @@ description: ""
 <span style="mso-spacerun:yes"><br>
 </span>(Tuesday)
 
-</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">**CCA STARTS for ALL CCAs** 
+</td><td class="xl71" width="250" style="border-top:none;border-left:none;width:188pt;  outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA STARTS for ALL CCAs 
 <span style="mso-spacerun:yes"><br>
 </span>CCA Session 1
 
@@ -101,7 +101,7 @@ T1W9 / 4 March<span style="mso-spacerun:yes"><br>
 </td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">Prep for PTC<br>PTC (12 &amp; 13 March)
 
 </td></tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-<center>**Term 1 Break**<br>**(15 March – 23 March)**</center>
+<center>Term 1 Break<br>(15 March – 23 March)</center>
 
 </td></tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 T2W1 / 25 March<span style="mso-spacerun:yes"><br>
@@ -174,8 +174,8 @@ T2W5 / 22 April<span style="mso-spacerun:yes"><br>
 </td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">CCA Session 16
 
 </td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">*Weighted Assessment Week*
-<br>**Last CCA Session for
-<br>Semester 1**
+<br>Last CCA Session for
+<br>Semester 1
 
 </td></tr><tr height="46" style="mso-height-source:userset;height:4.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
