@@ -113,7 +113,7 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football-school-team-and-recreational-team/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/football/" rel="noopener nofollow" target="_blank">Football</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
