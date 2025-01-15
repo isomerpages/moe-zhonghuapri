@@ -1,6 +1,6 @@
 ---
 title: Recreational Floorball or Touch Rugby (Sem 2)
-permalink: /list-of-cca/recreational-floorball-or-touch-rugby-sem-2/
+permalink: /holding-folder-not-for-public/recreational-floorball-or-touch-rugby-sem-2/
 variant: tiptap
 description: ""
 ---

@@ -2,6 +2,12 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - CCA Schedule for Semester 1 (2025) draft1.md
+      - CCA Schedule for Semester 2 (2025) draft1.md
+      - CCA Schedule For Semester 2 (2024).md
+      - CCA Schedule For Semester 1 (2024).md
+      - Recreational Floorball or Touch Rugby (Sem 2).md
+      - Recreational Badminton.md
       - Physical Education till 14 Feb 2024.md
       - Allied Educators.md
       - School Advisory Committee.md

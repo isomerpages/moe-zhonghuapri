@@ -1,6 +1,6 @@
 ---
-title: CCA Schedule For Semester 2
-permalink: /list-of-cca-schedule/cca-schedule-for-semester-2/
+title: CCA Schedule For Semester 2 (2024)
+permalink: /holding-folder-not-for-public/cca-schedule-for-semester-2-2024/
 description: ""
 variant: markdown
 ---

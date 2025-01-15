@@ -1,6 +1,6 @@
 ---
 title: Recreational Badminton
-permalink: /list-of-cca/recreational-badminton/
+permalink: /holding-folder-not-for-public/recreational-badminton/
 description: ""
 variant: tiptap
 ---
