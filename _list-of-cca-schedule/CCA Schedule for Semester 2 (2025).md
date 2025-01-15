@@ -20,7 +20,7 @@ description: ""
 <span style="mso-spacerun:yes">
 
 </span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">House Practice 1 (1 July)
-<span style="mso-spacerun:yes"><br>
+<br><span style="mso-spacerun:yes">
 
 </span></td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
@@ -32,8 +32,7 @@ description: ""
 <span style="mso-spacerun:yes"><br>
 
 </span></td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">House Practice 2 (8 July)
-<span style="mso-spacerun:yes"><br>
-</span>Sports Carnival Day (11 July)
+Sports Carnival Day (11 July)
 
 </td></tr><tr height="43" style="mso-height-source:userset;height:32.25pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px">
 
