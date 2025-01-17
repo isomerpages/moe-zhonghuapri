@@ -28,8 +28,8 @@ coordination, fitness and enjoyment of the game of football.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mr Azman (Main - Thursdays)
 <br>Mr Firdaus (Tuesdays)
-<br>Mr Talib (Thursdays)</p>
-<p>Mdm Junainah (Recreational - Tuesdays)</p>
+<br>Mr Talib (Thursdays)
+<br>Mdm Junainah (Recreational - Tuesdays)</p>
 <p><strong>Main Contact</strong>: <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
