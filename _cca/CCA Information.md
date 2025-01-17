@@ -131,9 +131,9 @@ are as follows:</p>
 <br>Recreational Football (Sem 1 &amp; 2)
 <br>For Non-School Team Players</p>
 <p></p>
-<p>Recreational Floorball (Sem 1 &amp; 2)</p>
-<p>Recreational Handball (Sem 1 &amp; 2)</p>
-<p>Players will be grouped by their levels and rotated after 12 sessions</p>
+<p>Recreational Floorball (Sem 1 &amp; 2)
+<br>Recreational Handball (Sem 1 &amp; 2)
+<br>Players will be grouped by their levels and rotated after 12 sessions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://zhonghuapri.moe.edu.sg/list-of-cca/malay-dance/" rel="noopener nofollow" target="_blank">Malay Dance</a>
