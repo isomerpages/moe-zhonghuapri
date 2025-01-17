@@ -25,8 +25,8 @@ who will inspire positive change in the protection of the environment.</p>
 <p>“We will never stop fighting for this planet.” - Greta Thunberg.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mr Christopher Lee (Advisor)
-<br>Ms Sandra Wang (Main)</p>
-<p>Ms Fiona Lim</p>
+<br>Ms Sandra Wang (Main)
+<br>Ms Fiona Lim</p>
 <p><strong>Main Contact</strong>: <a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_cher_kiak@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
