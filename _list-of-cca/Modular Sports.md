@@ -16,8 +16,8 @@ Members will be exposed to Floorball and Handball. They will be grouped
 by their levels and rotated between the 2 sports after 12 sessions.</p>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Junainah (Main)
-<br>Mrs Chan Hong Wei</p>
-<p>Mdm Daisy Yu
+<br>Mrs Chan Hong Wei
+<br>Mdm Daisy Yu
 <br>
 </p>
 <p><strong>Main Contact</strong>: <a href="junainah_mohamed_eusuff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junainah_mohamed_eusuff@schools.gov.sg</a>
