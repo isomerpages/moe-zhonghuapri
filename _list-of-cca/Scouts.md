@@ -19,8 +19,8 @@ and a strong sense of responsibility, preparing students to excel in both
 life and community.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Mages (Main)
-<br>Mr Benny Lau Mun Yip</p>
-<p>Mr Lim Ling Siang</p>
+<br>Mr Benny Lau Mun Yip
+<br>Mr Lim Ling Siang</p>
 <p><strong>Main Contact</strong>: <a href="mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mageswari_kanapathy@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
