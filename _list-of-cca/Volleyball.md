@@ -29,8 +29,7 @@ on and off the court.</p>
 </p>
 <p><strong>CCA Schedule</strong> 
 <br><strong>Term 1</strong>
-</p>
-<p>Tuesday &amp; Thursdays
+<br>Tuesday &amp; Thursdays
 <br>2.00pm – 3.30pm (P4 Boys &amp; Girls + P5 Boys)
 <br>3.30pm - 5.00pm (*P6 Boys &amp; Girls + P5 Girls)
 <br>
@@ -38,8 +37,7 @@ on and off the court.</p>
 <p><strong>*P6 pupils will be discharged from the CCA once the NSG Competition ends.</strong>
 </p>
 <p><strong>Term 2</strong>
-</p>
-<p>Tuesday &amp; Thursdays
+<br>Tuesday &amp; Thursdays
 <br>2.00pm – 3.30pm (P4 Boys &amp; Girls)
 <br>3.30pm - 5.00pm (P5 Boys &amp; Girls)</p>
 <p></p>
