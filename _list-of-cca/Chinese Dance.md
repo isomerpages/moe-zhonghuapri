@@ -22,7 +22,7 @@ character development when participating in Chinese Dance CCA.</p>
 <br>Mdm Kwek Wei Ting (Tuesdays)</p>
 <p><strong>Main Contact</strong>: <a href="hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 </p>
-<p><strong>CCA Schedule</strong> 
+<p><strong>CCA Schedule</strong>
 <br>Tuesday
 <br>2.00pm – 4.00pm
 <br>Thursday
