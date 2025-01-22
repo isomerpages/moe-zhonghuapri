@@ -35,8 +35,8 @@ Sexuality Education are:
 respect (which are the foundation for strong families);
 <br>(c) Make responsible decisions for yourself, your family and society;
 and
-<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the
-best protection against STIs/HIV and
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best
+protection against STIs/HIV and
 <br>unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.
 <br>
