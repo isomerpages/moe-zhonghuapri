@@ -21,11 +21,11 @@ communities in Singapore on sexuality issues.</p>
 Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support students in managing their
 physiological, social and emotional changes
-<br>as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed
+<br>as they grow up and develop safe and healthy relationships.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed
 and responsible decisions on sexuality
-<br>matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
+<br>matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
 others by
 <br>having positive mainstream values and attitudes about sexuality that are
 premised on the family as the basic unit of society.</p>
