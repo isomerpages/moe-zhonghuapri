@@ -190,14 +190,15 @@ and how to seek help for themselves and their friends.
 </tr>
 </tbody>
 </table>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
+</div>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<br><strong>Primary 6</strong>
 </p>
-<p><strong>Primary 6</strong>
-</p>
-<table style="minWidth: 150px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -217,17 +218,8 @@ and how to seek help for themselves and their friends.
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>CCE&nbsp;&nbsp; (FTGP) THEME</p>
 </td>
@@ -241,14 +233,8 @@ and how to seek help for themselves and their friends.
 <p>&nbsp; &nbsp; &nbsp; TIME PERIOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (e.g. Term 1 Week 2)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="2" colspan="1">
 <p>Growing&nbsp;Years</p>
 </td>
@@ -269,14 +255,8 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lesson 2
@@ -290,19 +270,10 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 3&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
