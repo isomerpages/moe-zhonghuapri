@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>MOE Sexuality Programme</strong></h2>
-<p><strong>MOE SEXUALITY EDUCATION  IN SCHOOLS</strong>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
