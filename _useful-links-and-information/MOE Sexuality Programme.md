@@ -26,9 +26,8 @@ physiological, social and emotional changes
 and responsible decisions on sexuality
 <br>matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
-others by
-<br>having positive mainstream values and attitudes about sexuality that are
-premised on the family as the basic unit of society.</p>
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
