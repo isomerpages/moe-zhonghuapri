@@ -73,15 +73,16 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
+</div>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<br><strong>Primary 5</strong>
 </p>
-<p><strong>Primary 5</strong>
-</p>
-<table style="minWidth: 150px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -101,43 +102,29 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCE (FTGP)
+<br>THEME</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCE&nbsp;&nbsp; (FTGP) THEME</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LESSON TITLE / DURATION</p>
+<p>LESSON TITLE/
+<br>DURATION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LESSON OVERVIEW&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; &nbsp; &nbsp; TIME PERIOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(e.g. Term 1 Week 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp; &nbsp;TIME PERIOD&nbsp; (e.g. Term 1 Week 2)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Growing&nbsp;Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me &nbsp;
+<p>The Changes in Me
 <br>(60 min)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,20 +133,14 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Did You Know?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>(60 min)&nbsp;&nbsp;</p>
@@ -169,22 +150,15 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-'Stop-Think-Do'.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 3&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Keeping Myself Safe (60 min)&nbsp;</p>
 </td>
@@ -193,23 +167,14 @@ so that the students will feel more comfortable during the discussions.</p>
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
