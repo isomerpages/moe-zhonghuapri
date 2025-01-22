@@ -78,7 +78,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
 </div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 <br><strong>Primary 5</strong>
 </p>
 <table style="minWidth: 100px">
@@ -289,7 +289,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>INFORMATION  FOR PARENTS</strong>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
