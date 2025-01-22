@@ -42,20 +42,19 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>OVERVIEW OF ZHONGHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
-</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+on sexuality include:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>:</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
+<p><strong>Sexuality Education Lessons</strong>:
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
 emotional and psychological changes in themselves. The implication is that
@@ -73,9 +72,9 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>                                                 2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
