@@ -194,8 +194,8 @@ and how to seek help for themselves and their friends.
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
 </div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-<br><strong>Primary 6</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<br><strong>PRIMARY 6</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
