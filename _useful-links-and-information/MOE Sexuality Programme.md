@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>MOE Sexuality Programme</strong></h2>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -18,46 +17,43 @@ with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-students in managing their physiological, social and emotional changes
-as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
-students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
-develop a moral compass and respect for themselves and others by having
-positive mainstream values and attitudes about sexuality that are premised
-on the family as the basic unit of society.</p>
+Education are:
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support students in managing their
+physiological, social and emotional changes
+<br>as they grow up and develop safe and healthy relationships.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed
+and responsible decisions on sexuality
+<br>matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
-positive relationships based on love and respect (which are the foundation
-for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
-before marriage is the best protection against STIs/HIV and unintended
-pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
+Sexuality Education are:
+<br>(a) Love and respect yourself as you love and respect others;
+<br>(b) &nbsp;&nbsp;&nbsp; Build positive relationships based on love and
+respect (which are the foundation for strong families);
+<br>(c) Make responsible decisions for yourself, your family and society;
+and
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best
+protection against STIs/HIV and
+<br>unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Zhonghua Primary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2024</strong>
-</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+<p><strong>OVERVIEW OF ZHONGHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+on sexuality include:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>:</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
+<p><strong>Sexuality Education Lessons</strong>:
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
 emotional and psychological changes in themselves. The implication is that
@@ -75,13 +71,22 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<br>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
+</div>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<br><strong>PRIMARY 5</strong>
 </p>
-<p><strong>Primary 5</strong>
-</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -96,43 +101,29 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCE (FTGP)
+<br>THEME</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCE&nbsp;&nbsp; (FTGP) THEME</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LESSON TITLE / DURATION</p>
+<p>LESSON TITLE/
+<br>DURATION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LESSON OVERVIEW&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; &nbsp; &nbsp; TIME PERIOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(e.g. Term 1 Week 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp; &nbsp;TIME PERIOD&nbsp; (e.g. Term 1 Week 2)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Growing&nbsp;Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me &nbsp;
+<p>The Changes in Me
 <br>(60 min)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,20 +132,14 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Did You Know?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>(60 min)&nbsp;&nbsp;</p>
@@ -164,22 +149,15 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-'Stop-Think-Do'.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 3&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Keeping Myself Safe (60 min)&nbsp;</p>
 </td>
@@ -188,23 +166,14 @@ so that the students will feel more comfortable during the discussions.</p>
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -220,11 +189,20 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Image_1___MOE_Sexuality_Programme.jpg">
+</div>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<br><strong>PRIMARY 6</strong>
 </p>
-<p><strong>Primary 6</strong>
-</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,17 +217,8 @@ so that the students will feel more comfortable during the discussions.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>CCE&nbsp;&nbsp; (FTGP) THEME</p>
 </td>
@@ -263,14 +232,8 @@ so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp; &nbsp; &nbsp; TIME PERIOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (e.g. Term 1 Week 2)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="2" colspan="1">
 <p>Growing&nbsp;Years</p>
 </td>
@@ -291,14 +254,8 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lesson 2
@@ -312,19 +269,10 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 3&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -340,7 +288,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Information for Parents</strong>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
@@ -348,8 +296,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form is to be
-submitted by 25/01/2024.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 26835413
-for discussion or to seek clarification about the school’s Sexuality Education
+and is also downloadable <a href="/files/MOE_Sexuality_Edtn_Parent_Opt_Out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>07/02/2025</strong>.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>6283 5413 </strong>for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
