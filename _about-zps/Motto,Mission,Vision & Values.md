@@ -7,20 +7,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ZPS_logo_2020_V2_turquoiseborder.jpg">
 </div>
-<p>The logo encompasses 2 "Zs", one upright and the other, inverted.</p>
-<p>This signifies training our pupils and staff to be flexible in their outlook
-in life, particularly in problem solving.</p>
-<p>The logo as a whole is solid in structure.</p>
-<p>This represents our belief that a school well-founded would flourish.</p>
-<p>The letter "Z" and the wording will be turquoise and black respectively
-against a white background.</p>
-<p>The colour turquoise represents vibrant youth.</p>
-<p><strong>Motto</strong>
-<br>Diligence Before Success.</p>
-<p><strong>Mission</strong>
-<br>Ignite Passion For Learning, Nurture Strength of Character.</p>
-<p><strong>Vision</strong>
-<br>A Learner. A Thinker. A Leader.</p>
-<p><strong>Values</strong>
+<p>The logo encompasses 2 "Zs", one upright and the other, inverted.
+<br>This signifies training our pupils and staff to be flexible in their outlook
+in life, particularly in problem solving.
+<br>The logo as a whole is solid in structure.
+<br>This represents our belief that a school well-founded would flourish.
+<br>The letter "Z" and the wording will be turquoise and black respectively
+against a white background.
+<br>The colour turquoise represents vibrant youth.
+<br><strong>Motto</strong>
+<br>Diligence Before Success.
+<br><strong>Mission</strong>
+<br>Ignite Passion For Learning, Nurture Strength of Character.
+<br><strong>Vision</strong>
+<br>A Learner. A Thinker. A Leader.
+<br><strong>Values</strong>
 <br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony,
 Resilience.</p>
