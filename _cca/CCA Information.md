@@ -19,7 +19,8 @@ important platforms to inculcate good values in our students, as well as
 to develop them with competencies to adapt to the demands of the 21st century.
 <br>
 <br><strong>Timeframe for CCA Work Year 2025</strong>
-<br>CCAs will commence in January 2025 and run till Oct/Nov 2025.
+<br>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
+run till Oct/Nov 2025.
 <br>
 <br><strong>CCA Policy in ZPS</strong>
 <br>1. CCA will be offered to all P3 to P6 students.
