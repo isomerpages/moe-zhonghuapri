@@ -19,8 +19,8 @@ society and nurture dispositions to show concern for the world they live
 in and demonstrate empathy in their relationships with others. The curriculum
 therefore envisions the SS pupil as an informed, concerned and participative
 citizen who is competent in quality decision-making with an impassioned
-spirit to contribute responsibly in the world he/she lives in.</p>
-<p>Curriculum Aims SS seeks to develop the civic competencies of our pupils
+spirit to contribute responsibly in the world he/she lives in.
+<br>Curriculum Aims SS seeks to develop the civic competencies of our pupils
 by the end of a full course in Social Studies education. Civic competencies,
 which encompass the body of knowledge, skills and values expressed in the
 philosophy of SS, will empower students to be informed, concerned and participative
