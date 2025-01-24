@@ -4,70 +4,50 @@ permalink: /cca/cca-information/list-of-cca/
 description: ""
 variant: tiptap
 ---
-<h2><strong>CCA Information</strong></h2>
-<h4><strong>CCA Programme in ZPS</strong></h4>
-<p>CCA is an important part of our students’ holistic education. In ZPS,
+<h3><strong>CCA Information</strong></h3>
+<p><strong>CCA Programmes in ZPS</strong>
+<br>CCA is an important part of our students’ holistic education. In ZPS,
 we offer a wide range of CCAs, catering to the varied interest and capabilities
 of our students. It is also our objective not only to teach them the CCA
 specific skills, but also to cultivate in our students the spirit of teamwork,
 integrity in their pursuit for excellence. Having the CCA experience with
 the other Zhonghuarians will also allow them to build camaraderie and desirable
-social behaviours.</p>
-<p>While CCA is not compulsory in Primary Schools, we strongly encourage
+social behaviours.
+<br>While CCA is not compulsory in Primary Schools, we strongly encourage
 our students to participate in a CCA. We strongly believe that CCAs are
 important platforms to inculcate good values in our students, as well as
-to develop them with competencies to adapt to the demands of the 21st century.</p>
-<h4><strong>Timeframe for CCA Work Year 2025</strong></h4>
-<p>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
-run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2-2025/" rel="noopener nofollow" target="_blank">Oct/Nov 2025.</a>
-</p>
-<h4><strong>CCA Policy in ZPS</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>CCA will be offered to all P3 to P6 students.</p>
-</li>
-<li>
-<p>The P6 students will be discharged from their respective CCAs at the end
-of Semester 1.</p>
-</li>
-<li>
-<p>The P3 CCA Recruitment will be conducted in the middle of Term 2. Once
+to develop them with competencies to adapt to the demands of the 21st century.
+<br>
+<br><strong>Timeframe for CCA Work Year 2025</strong>
+<br>CCAs will commence in January 2025 and run till Oct/Nov 2025.
+<br>
+<br><strong>CCA Policy in ZPS</strong>
+<br>1. CCA will be offered to all P3 to P6 students.
+<br>2. The P6 students will be discharged from their respective CCAs at the
+end of Semester 1.
+<br>3. The P3 CCA Recruitment will be conducted in the middle of Term 2. Once
 allocated to a CCA, the P3 students will be attending their first CCA session
-in Term 3.</p>
-</li>
-<li>
-<p>Each student in ZPS is only allowed to join <u>one CCA per work year</u> as
-CCA requires effort and commitment.</p>
-</li>
-<li>
-<p>A student who has been successfully accepted to a CCA has to remain committed
-in that CCA until the end of the CCA work year (i.e. January 2025 to Oct/Nov
-2025).</p>
-</li>
-<li>
-<p>All CCAs have an approximated number of 25 sessions for each work year
+in Term 3.
+<br>4. Each student in ZPS is only allowed to join one CCA per work year as
+CCA requires effort and commitment.
+<br>5. A student who has been successfully accepted to a CCA has to remain
+committed in that CCA until the end of the CCA work year (i.e. January
+2025 to Oct/Nov 2025).
+<br>6. All CCAs have an approximated number of 25 sessions for each work year
 with the exception of the Competitive Sports and Performing Arts CCAs which
-will have more. (More for Competitive CCAs).</p>
-</li>
-<li>
-<p>Students who do not achieve 80% of CCA attendance without valid reasons
-will be de-registered as members of the CCA at the end of the work year.</p>
-</li>
-<li>
-<p>If a student is absent from CCA, the absence should be communicated by
-the parents via email, written letter or medical certificate to their CCA
-Teachers.</p>
-</li>
-<li>
-<p>A change of CCA will only be allowed during the transfer window (i.e.
+will have more. (More for Competitive CCAs).
+<br>7. Students who do not achieve 80% of CCA attendance without valid reasons
+will be de-registered as members of the CCA at the end of the work year.
+<br>8. If a student is absent from CCA, the absence should be communicated
+by the parents via email, written letter or medical certificate to their
+CCA Teachers.
+<br>9. A change of CCA will only be allowed during the transfer window (i.e.
 Nov/Dec Holidays and before the start of the first CCA session of the work
 year). Request must be communicated by the parents via email to the CCA
-Teacher and cced to Mr Azman @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a> 
+Teacher and cced to Mr Azman @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a>
 <br>
 <br>The Co-Curricular Activities (CCA) offered to the Primary 3 to 6 pupils
 are as follows:</p>
-</li>
-</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
