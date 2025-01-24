@@ -28,7 +28,7 @@ end of Semester 1.
 <br>3. The P3 CCA Recruitment will be conducted in the middle of Term 2. Once
 allocated to a CCA, the P3 students will be attending their first CCA session
 in Term 3.
-<br>4. Each student in ZPS is only allowed to join one CCA per work year as
+<br>4. Each student in ZPS is only allowed to join <u>one CCA per work year</u> as
 CCA requires effort and commitment.
 <br>5. A student who has been successfully accepted to a CCA has to remain
 committed in that CCA until the end of the CCA work year (i.e. January
