@@ -44,7 +44,8 @@ and
 <br>As a <strong>participative citizen</strong>, the pupil would:
 <br>1. be motivated to identify issues of concern and take action;
 <br>2. be resilient in addressing concerns of the community or society in
-spite of challenges faced; and
+spite of challenges faced;
+<br>and
 <br>3. be empowered to take personal and collective responsibility for effecting
 change for the common good; and serve to make a positive difference to
 others.
