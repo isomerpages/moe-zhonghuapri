@@ -46,7 +46,9 @@ leaders to the school community. &nbsp;We are also grateful to have strong
 support from parents and partners.
 <br>With your support, we will stride forward to the next chapter in the holistic
 development of our students to be Learners, Thinkers and Leaders for the
-Future.</p>
+Future.
+<br>
+</p>
 <p><strong>Mrs Chan Le Chin</strong> 
 <br><strong>Principal</strong>
 </p>
