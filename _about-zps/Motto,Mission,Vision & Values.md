@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/zps official school crest.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/zps official school crest.jpg">
 </div>
 <p>The logo encompasses 2 "Zs", one upright and the other, inverted.
 <br>This signifies training our pupils and staff to be flexible in their outlook
