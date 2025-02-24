@@ -13,7 +13,6 @@ Parents
 *   [Student Admissions](https://www.moe.gov.sg/admissions)
 *   [Edusave](https://www.moe.gov.sg/education/edusave)
 *   [School Bag](http://www.schoolbag.sg/)
-*   [MOE cyber wellness resources](https://ictconnection.moe.edu.sg/cyber-wellness)
 *  [In Touch](/for-parent/In-Touch-Newsletter/)
 *  [CCA Deployment 2021](/cca/CCA-Schedule/)
 *  [MOE Primary 1 Registration Information](https://www.moe.gov.sg/admissions/primary-one-registration)    
