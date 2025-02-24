@@ -2,6 +2,7 @@
 title: Green My Mind
 permalink: /holding-folder-not-for-public/green-my-mind/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.jpg)
 
@@ -17,4 +18,4 @@ Watch out for each month’s GREEN MY MIND Quiz on this page.
 
 Names of students who have obtained a correct answer will be displayed here, so do check back here to find out if you were successful.\*Overall winner(s) with the highest number of successful submissions throughout the year will be given a great MYSTERY PRIZE!\*
 
-Click on the link [here](https://goo.gl/forms/jlKpwCbGlw3HvBk22) to access the last Green My Mind quiz for 2018. Do put in your best effort!
+Click on the link here to access the last Green My Mind quiz for 2018. Do put in your best effort!
