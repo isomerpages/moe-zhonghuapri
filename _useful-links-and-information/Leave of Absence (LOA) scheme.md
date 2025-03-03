@@ -6,12 +6,10 @@ variant: tiptap
 ---
 <h2><strong>Leave of Absence (LOA) scheme</strong></h2>
 <p><strong>Information</strong>
-</p>
-<p>The LOA scheme allows re-admission of your child (Singaporean and Permanent
+<br>The LOA scheme allows re-admission of your child (Singaporean and Permanent
 Resident only) to our school after they return from overseas to Singapore.</p>
-<p>&nbsp;<strong>Eligibility</strong>
-</p>
-<p>To be granted LOA, your child must fulfil <strong><u>both</u></strong> of
+<p><strong>Eligibility</strong>
+<br>To be granted LOA, your child must fulfil <strong><u>both</u></strong> of
 the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -36,25 +34,22 @@ the intention of rejoining our school after returning to Singapore:</p>
 </ul>
 <p>Your child also qualifies for LOA if he/she has already registered for
 Primary 1 (P1) but will be overseas at the start of the schooling year.</p>
-<p><strong>&nbsp;Outcome of LOA Application</strong>
-</p>
-<p>After we receive your request, we will process your application/renewal
+<p><strong>Outcome of LOA Application</strong>
+<br>After we receive your request, we will process your application/renewal
 of your child’s LOA and will inform you the outcome of the application/renewal
 via your email.&nbsp; Please note LOA application/renewal is subject to
 the Principal's approval.&nbsp;</p>
 <p><strong>Support for your child</strong>
-</p>
-<p>Nearer to the date on the return of your child to Singapore, do reach
-out to us for the necessary returning arrangements.&nbsp;</p>
-<p>&nbsp;In the mean time, to help your child to be updated with our national
-curriculum, do feel free to email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg </a>to request
+<br>Nearer to the date on the return of your child to Singapore, do reach
+out to us for the necessary returning arrangements.
+<br>In the mean time, to help your child to be updated with our national curriculum,
+do feel free to email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg </a>to request
 for any major test and examination papers and/or access to the Student
 Learning Space (SLS) portal.&nbsp; &nbsp;We also encourage you to check
 the latest developments in our school and local education scene from our
 school website <a href="https://www.zhonghuapri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.zhonghuapri.moe.edu.sg/</a>and
 MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>.</p>
-<p>&nbsp;<strong>How to apply</strong>
-</p>
-<p>Please complete and submit the application form at the link below:</p>
-<p>&nbsp;<a href="https://go.gov.sg/zpsloa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zpsloa</a>.&nbsp;&nbsp;</p>
+<p><strong>How to apply</strong>
+<br>Please complete and submit the application form at the link below:
+<br><a href="https://go.gov.sg/zpsloa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zpsloa</a>.&nbsp;&nbsp;</p>
 <p>For any query, please email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a>.&nbsp;</p>
