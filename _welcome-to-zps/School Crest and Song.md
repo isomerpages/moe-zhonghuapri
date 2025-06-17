@@ -4,7 +4,7 @@ permalink: /school-crest-and-song/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Crest </strong></h1>
+<h1><strong>School Crest</strong></h1>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
