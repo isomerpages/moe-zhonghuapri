@@ -2,5 +2,6 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Curriculum/English Language.md
       - Curriculum/.keep
       - Co Curriculum Activities/.keep
