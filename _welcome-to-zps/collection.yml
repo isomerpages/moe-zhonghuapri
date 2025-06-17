@@ -1,4 +1,5 @@
 collections:
   welcome-to-zps:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
