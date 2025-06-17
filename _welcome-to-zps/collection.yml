@@ -1,5 +1,5 @@
 collections:
-  about-zps:
+  welcome-to-zps:
     output: true
     order:
       - Principal's Message.md
