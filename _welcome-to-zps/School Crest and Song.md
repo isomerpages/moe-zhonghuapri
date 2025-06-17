@@ -17,7 +17,7 @@ on strong foundations will flourish.</p>
 <p>Rendered in vibrant turquoise against white, the crest embodies our commitment
 to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
-<h1><strong>School Song </strong></h1>
+<h1><strong>School Song</strong></h1>
 <p><strong><em>(Insert the youtube: Update with the latest slides, the ones in the link are all masked up and showing staff who have left)</em></strong>
 </p>
 <p>When nineteen eighty-seven dawned,
