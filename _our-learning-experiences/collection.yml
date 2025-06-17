@@ -2,4 +2,5 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Co Curriculum Activities/.keep
       - Curriculum/.keep
