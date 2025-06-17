@@ -2,4 +2,5 @@ collections:
   our-family:
     output: true
     order:
+      - Teachers Leaders.md
       - School Executive Committee.md
