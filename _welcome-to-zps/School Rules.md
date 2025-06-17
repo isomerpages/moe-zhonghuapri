@@ -9,10 +9,12 @@ description: ""
 <p>Your child’s form teacher would have issued an introductory letter to
 you on the first day of school concerning class routines, expectations,
 and preferred modes of communication.
+<br>
 <br>Please refer to the Pupil’s Diary 2023 for updated information and other
 useful information about the school. Do communicate with us through the
 diary, phone calls or emails. If you wish to see anyone of us, kindly make
 an appointment and wait at the General Office for the required staff member.
+<br>
 <br>It is the child’s responsibility to ensure that they take down what needs
 to be done in their diary. This is about teaching responsibility. If we
 do not start now, they will never learn.
@@ -77,9 +79,11 @@ Gate are as follows:</p>
 </table>
 <p>Parents are not allowed in the school premises during school dismissal.
 They are to wait outside the Side Gate near the Guard Post.
+<br>
 <br>On rainy days, parents who are driving their children to school may drop
 their children at the porch outside the concourse. This place will be manned
 by school staff. Back gate is closed on rainy days.
+<br>
 <br>From 7.40 a.m., the Main (vehicular) Gate will be manned by barrier control.
 The following vehicles are authorised to enter:
 <br>1. Vehicles with school labels
@@ -92,11 +96,13 @@ The following vehicles are authorised to enter:
 <h4><strong>Security and Safety</strong></h4>
 <p>To ensure the safety of our pupils, staff and stakeholders, several procedures
 have been put in place to make the school a safe place for all.
+<br>
 <br>Due to limited parking space in the school, parents who wish to come into
 the school for an appointment are to park at the nearby HDB car parks if
 the visitor parking lots are occupied. All visitors are required to report
-to the Guard Post and sign-in, indicating the purpose of their visit. The
-security guard will then issue a Visitor Pass to the visitor and accompany
+to the Guard Post and sign-in, indicating the purpose of their visit.
+<br>
+<br>The security guard will then issue a Visitor Pass to the visitor and accompany
 the visitor to the General Office to seek further assistance. The Visitor
 Pass must be visibly displayed at all times during your visit. Visitors
 must be accompanied by a member of staff during their visit and are not
@@ -110,6 +116,7 @@ business in school.
 unaccompanied during curriculum time. Pupils may leave the school early,
 in the company of an authorised person e.g.; father, mother, grandparent,
 helper or guardian.
+<br>
 <br>The following procedures are to be followed:
 <br>1. Authorised persons are to report to the security guard.
 <br>2. A Visitor Pass and Visitor Slip will be issued.
