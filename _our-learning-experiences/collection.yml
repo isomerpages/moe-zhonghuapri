@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Curriculum/ICT and Educational Technology.md
       - Curriculum/Character and Citizenship Education.md
       - Curriculum/Aesthetics.md
       - Curriculum/Physical and Health Education.md
