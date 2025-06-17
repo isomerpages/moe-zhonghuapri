@@ -2,5 +2,6 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Outdoor Leadership and Environmental Programme (OLE).md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
