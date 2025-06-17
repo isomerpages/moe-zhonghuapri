@@ -2,10 +2,10 @@ collections:
   our-family:
     output: true
     order:
-      - Appreciation and Feedback.md
-      - Parent Support Group.md
-      - School Advisory Committee.md
-      - Executive and Administrative Staff.md
-      - Teaching Staff.md
-      - Teachers Leaders.md
       - School Executive Committee.md
+      - Teachers Leaders.md
+      - Teaching Staff.md
+      - Executive and Administrative Staff.md
+      - School Advisory Committee.md
+      - Parent Support Group.md
+      - Appreciation and Feedback.md
