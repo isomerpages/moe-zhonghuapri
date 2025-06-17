@@ -17,3 +17,16 @@ on strong foundations will flourish.</p>
 <p>Rendered in vibrant turquoise against white, the crest embodies our commitment
 to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
+<h1><strong>School Song </strong></h1>
+<p><strong><em>(Insert the youtube: Update with the latest slides, the ones in the link are all masked up and showing staff who have left)</em></strong>
+</p>
+<p>When nineteen eighty-seven dawned,
+<br>The torch of Zhonghua was first shone,
+<br>Calling us all who belong to her,
+<br>To set our goals and achieve them together.
+<br>
+<br>Chorus:
+<br>In all we do, from each his best,
+<br>Diligence will bring us success,
+<br>Aiming high, always on the go,
+<br>Doing well today, even better tomorrow.</p>
