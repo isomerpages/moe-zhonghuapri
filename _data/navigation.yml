@@ -19,14 +19,23 @@ links:
         url: /welcome-to-zps/testimonials-from-parents-wip/
       - title: Contact Us
         url: /welcome-to-zps/contact-us
-      - title: Key Personnel-To move
-        url: /about-zps/key-personnel/
-      - title: Teaching Staff-To move
-        url: /about-zps/teaching-staff/
-      - title: Non Teaching Staff-To move
-        url: /about-zps/non-teaching-staff/
-      - title: School Advisory Committee-Move
-        url: /about-zps/school-advisory-committee/
+  - title: Our Family
+    url: /Our-family/school-executive-committee/
+    sublinks:
+      - title: School Executive Committee
+        url: /our-family/school-executive-committee/
+      - title: Teacher Leaders
+        url: /our-family/teachers-leaders/
+      - title: Teaching Staff
+        url: /our-family/teaching-staff/
+      - title: Executive & Administrative
+        url: /our-family/executive-administrative/
+      - title: School Advisory Committee
+        url: /our-family/school-advisory-committee/
+      - title: Parent Support Group
+        url: /our-family/parent-support-group/
+      - title: Appreciation and Feedback
+        url: /our-family/appreciation-and-feedback/
   - title: Niche Programme
     collection: niche-programme
   - title: Departments
