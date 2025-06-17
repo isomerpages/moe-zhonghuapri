@@ -75,7 +75,21 @@ Gate are as follows:</p>
 </tr>
 </tbody>
 </table>
-<h4>Parents are not allowed in the school premises during school dismissal. They are to wait outside the Side Gate near the Guard Post. <br>On rainy days, parents who are driving their children to school may drop their children at the porch outside the concourse. This place will be manned by school staff. Back gate is closed on rainy days. <br>From 7.40 a.m., the Main (vehicular) Gate will be manned by barrier control. The following vehicles are authorised to enter: <br>1. Vehicles with school labels <br>2. Goods and maintenance vehicles <br>3. Parents picking up sick children <br>4. Any other vehicles that are authorised by the school. <br>Security guards will man both the Main (vehicular) Gate and Side Gate. <br><br><strong>Security and Safety</strong></h4>
+<p>Parents are not allowed in the school premises during school dismissal.
+They are to wait outside the Side Gate near the Guard Post.
+<br>On rainy days, parents who are driving their children to school may drop
+their children at the porch outside the concourse. This place will be manned
+by school staff. Back gate is closed on rainy days.
+<br>From 7.40 a.m., the Main (vehicular) Gate will be manned by barrier control.
+The following vehicles are authorised to enter:
+<br>1. Vehicles with school labels
+<br>2. Goods and maintenance vehicles
+<br>3. Parents picking up sick children
+<br>4. Any other vehicles that are authorised by the school.
+<br>Security guards will man both the Main (vehicular) Gate and Side Gate.
+<br>
+<br><strong>Security and Safety</strong>
+</p>
 <p>To ensure the safety of our pupils, staff and stakeholders, several procedures
 have been put in place to make the school a safe place for all.
 <br>Due to limited parking space in the school, parents who wish to come into
