@@ -5,13 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>School Crest</strong></h1>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CES Email Principal 12June25/School_Crest.jpg">
+</div>
 <p>The school crest features two "Z"s for Zhonghua (中华): the upright Z represents
 strength of character and cultural roots, while its inverted counterpart
 symbolises our students' ability to view challenges from different perspectives,
