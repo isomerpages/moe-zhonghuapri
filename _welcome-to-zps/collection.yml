@@ -2,11 +2,11 @@ collections:
   welcome-to-zps:
     output: true
     order:
-      - Contact Us.md
-      - Testimonials from Parents WIP.md
-      - Testimonials from Students WIP.md
-      - School Rules.md
-      - School Crest and Song.md
-      - School History.md
-      - Vision, Mission & Values.md
       - Principal's Message.md
+      - Vision, Mission & Values.md
+      - School History.md
+      - School Crest and Song.md
+      - School Rules.md
+      - Testimonials from Students WIP.md
+      - Testimonials from Parents WIP.md
+      - Contact Us.md
