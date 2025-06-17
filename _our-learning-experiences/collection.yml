@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Curriculum/Mother Tongue Languages.md
       - Curriculum/Mathematics.md
       - Curriculum/English Language.md
       - Curriculum/.keep
