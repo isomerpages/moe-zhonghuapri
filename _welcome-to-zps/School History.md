@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1><strong><u>School History</u></strong></h1>
-<h1><strong>Humble Beginnings with a Strong Mission </strong></h1>
+<h1><strong>Humble Beginnings with a Strong Mission</strong></h1>
 <p>Chung Hwa Girls' School was established at Mohamad Sultan Road by the
 Chinese community in 1911 as the first Chinese-medium girls' school. Its
 establishment was a timely development for women during an era when the
