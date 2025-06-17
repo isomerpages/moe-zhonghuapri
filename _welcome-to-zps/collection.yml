@@ -2,5 +2,6 @@ collections:
   welcome-to-zps:
     output: true
     order:
+      - School History.md
       - Vision, Mission & Values.md
       - Principal's Message.md
