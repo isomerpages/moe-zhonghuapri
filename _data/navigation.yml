@@ -38,27 +38,29 @@ links:
         url: /our-family/appreciation-and-feedback/
   - title: Our Distinctive Programmes
     collection: our-distinctive-programmes
-  - title: Departments
-    url: /departments/english-language/
+  - title: Our Learning Experiences
+    url: /our-learning-experiences/curriculum/english-language/
     sublinks:
       - title: English Language
-        url: /departments/english-language/
+        url: /our-learning-experiences/curriculum/english-language/
       - title: Mathematics
-        url: /departments/mathematics/
+        url: //our-learning-experiences/curriculum/mathematics/
       - title: Mother Tongue Languages
-        url: /departments/mother-tongue-languages/
+        url: /our-learning-experiences/curriculum/mother-tongue-languages/
       - title: Science
-        url: /departments/science/
+        url: /our-learning-experiences/curriculum/science/
       - title: Physical and Health Education
-        url: /departments/physical-and-health-education/
-      - title: ICT & Ed Tech
-        url: /departments/ict-ed-tech/
+        url: /our-learning-experiences/curriculum/physical-and-health-education/
       - title: Aesthetics
-        url: /departments/aesthetics/
-      - title: Partnership
-        url: /departments/partnership/
+        url: /our-learning-experiences/curriculum/aesthetics/
       - title: Character & Citizenship Edu
-        url: /departments/character-and-citizenship-education/
+        url: /our-learning-experiences/curriculum/character-and-citizenship-education/
+      - title: ICT and Educational Technology
+        url: /our-learning-experiences/curriculum/ict-and-educational-technology/
+      - title: Programme for Active Learning
+        url: /our-learning-experiences/curriculum/programme-for-active-learning/
+      - title: Co-Curriculum Activities
+        url: /our-learning-experiences/co-curriculum-activities/
   - title: CCA
     collection: cca
   - title: Contact Us
