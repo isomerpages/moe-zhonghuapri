@@ -40,7 +40,7 @@ oncoming traffic before crossing roads. A school attendant will be present
 to ensure that they cross safely at the zebra crossing outside the school.
 <br>
 </p>
-<h4><strong>Opening and Dismissal Time</strong><br></h4>
+<h4><strong>Opening and Dismissal Time</strong></h4>
 <p>The opening hours for the Main (vehicular) Gate, Side Gate and the Back
 Gate are as follows:</p>
 <table style="minWidth: 50px">
@@ -88,8 +88,8 @@ The following vehicles are authorised to enter:
 <br>4. Any other vehicles that are authorised by the school.
 <br>Security guards will man both the Main (vehicular) Gate and Side Gate.
 <br>
-<br><strong>Security and Safety</strong>
 </p>
+<h4><strong>Security and Safety</strong></h4>
 <p>To ensure the safety of our pupils, staff and stakeholders, several procedures
 have been put in place to make the school a safe place for all.
 <br>Due to limited parking space in the school, parents who wish to come into
@@ -105,7 +105,7 @@ Passes will be questioned by the school staff or security guards on their
 business in school.
 <br>
 </p>
-<h4><br><strong>Early Dismissal</strong></h4>
+<h4><strong>Early Dismissal</strong></h4>
 <p>In the interest of safety, pupils are not allowed to leave the school
 unaccompanied during curriculum time. Pupils may leave the school early,
 in the company of an authorised person e.g.; father, mother, grandparent,
@@ -120,4 +120,5 @@ be filled.
 <br>5. The slip at the bottom of the form will be detached and given to the
 authorised persons. This slip is to be handed to the security guard before
 the pupil is allowed to leave the school compound.</p>
+<h4></h4>
 <p></p>
