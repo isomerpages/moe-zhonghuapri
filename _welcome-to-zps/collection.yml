@@ -2,6 +2,7 @@ collections:
   welcome-to-zps:
     output: true
     order:
+      - Contact Us.md
       - Testimonials from Parents WIP.md
       - Testimonials from Students WIP.md
       - School Rules.md
