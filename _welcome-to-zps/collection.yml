@@ -1,0 +1,4 @@
+collections:
+  welcome-to-zps:
+    output: true
+    order: []
