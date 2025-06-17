@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Curriculum/Physical and Health Education.md
       - Curriculum/Science.md
       - Curriculum/Mother Tongue Languages.md
       - Curriculum/Mathematics.md
