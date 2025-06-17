@@ -83,6 +83,7 @@ The following vehicles are authorised to enter:
 <br>3. Parents picking up sick children
 <br>4. Any other vehicles that are authorised by the school.
 <br>Security guards will man both the Main (vehicular) Gate and Side Gate.
+<br>
 <br><strong>Security and Safety</strong>
 <br>To ensure the safety of our pupils, staff and stakeholders, several procedures
 have been put in place to make the school a safe place for all.
@@ -97,6 +98,7 @@ must be accompanied by a member of staff during their visit and are not
 to wander around the school premises unaccompanied. Visitors without Visitor
 Passes will be questioned by the school staff or security guards on their
 business in school.
+<br>
 <br><strong>Early Dismissal</strong>
 <br>In the interest of safety, pupils are not allowed to leave the school
 unaccompanied during curriculum time. Pupils may leave the school early,
