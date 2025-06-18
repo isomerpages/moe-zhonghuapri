@@ -29,7 +29,7 @@ sections:
         - title: Vision, Mission & Values
           description: ""
           linktext: Learn more
-          url: /welcome-to-zps/vision-mission-values/
+          url: https://zhonghuapri.moe.edu.sg/vision-mission-values/
         - title: School History
           description: ""
           linktext: Learn more
