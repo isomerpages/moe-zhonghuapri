@@ -27,11 +27,11 @@ sections:
       id: textcards
       cards:
         - title: Vision, Mission & Values
-          description: What we want to achieve
+          description: ""
           linktext: Learn more
           url: /welcome-to-zps/vision-mission-values/
         - title: School History
-          description: Know our past
+          description: ""
           linktext: Learn more
           url: /welcome-to-zps/school-history/
         - title: School Crest and Song
@@ -39,7 +39,7 @@ sections:
           linktext: Learn more
           url: /welcome-to-zps/school-crest-and-song/
         - title: School Rules
-          description: For parents and students
+          description: ""
           linktext: Learn more
           url: /welcome-to-zps/school-rules/
   - infobar:
