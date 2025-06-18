@@ -41,7 +41,7 @@ sections:
         - title: School Rules
           description: ""
           linktext: Learn more
-          url: /welcome-to-zps/school-rules/
+          url: https://zhonghuapri.moe.edu.sg/school-rules/
   - infobar:
       subtitle: For Registration and Feedback
       id: infobar
