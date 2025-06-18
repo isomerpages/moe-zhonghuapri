@@ -99,7 +99,7 @@ description: ""
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin </a>
+<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
