@@ -33,7 +33,7 @@ sections:
         - title: School History
           description: ""
           linktext: Learn more
-          url: /welcome-to-zps/school-history/
+          url: https://zhonghuapri.moe.edu.sg/school-history/
         - title: School Crest and Song
           description: ""
           linktext: Learn more
