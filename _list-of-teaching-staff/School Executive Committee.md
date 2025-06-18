@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/school-executive-committee/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Key Personnel</strong></h1>
+<h1><strong>School Executive Committee</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
