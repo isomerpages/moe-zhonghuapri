@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Teaching Staff</strong></h2>
-<p><a href="/list-of-teaching-staff/school-executive-committee/" rel="noopener noreferrer nofollow" target="_blank">Key Personnel</a> 
+<p><a href="/list-of-teaching-staff/school-executive-committee/" rel="noopener nofollow" target="_blank">School Executive Committee</a> 
 <br><a href="/list-of-teaching-staff/primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a> 
 <br><a href="/list-of-teaching-staff/primary-2/" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a> 
 <br><a href="/list-of-teaching-staff/primary-3/" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a> 
