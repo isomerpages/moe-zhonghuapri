@@ -43,8 +43,8 @@ sections:
           linktext: Learn more
           url: /welcome-to-zps/school-rules/
   - infobar:
-      subtitle: Contact Us
+      subtitle: For Registration and Feedback
       id: infobar
-      description: For Registration and Feedback
       url: /welcome-to-zps/contact-us/
+      button: Contact US
 ---
