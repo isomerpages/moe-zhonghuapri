@@ -4,7 +4,7 @@ permalink: /our-family/executive-and-administrative/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Executive and Administrative Staff</strong></h3>
+<h3><strong>Executive and Administrative </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
