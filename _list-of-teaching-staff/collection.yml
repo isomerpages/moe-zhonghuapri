@@ -2,7 +2,7 @@ collections:
   list-of-teaching-staff:
     output: true
     order:
-      - Key Personnel.md
+      - School Executive Committee.md
       - Primary 1.md
       - Primary 2.md
       - Primary 3.md
