@@ -37,7 +37,7 @@ sections:
         - title: School Crest and Song
           description: ""
           linktext: Learn more
-          url: /welcome-to-zps/school-crest-and-song/
+          url: https://zhonghuapri.moe.edu.sg/school-crest-and-song/
         - title: School Rules
           description: ""
           linktext: Learn more
