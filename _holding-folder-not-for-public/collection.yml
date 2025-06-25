@@ -2,6 +2,7 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - Testimonials from Parents WIP.md
       - Testimonials from Students WIP.md
       - CCA Schedule for Semester 1 (2025) draft1.md
       - CCA Schedule for Semester 2 (2025) draft1.md
