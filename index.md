@@ -9,19 +9,14 @@ sections:
   - hero:
       background: /images/gif heronew 10 april.gif
       variant: center
-      dropdown:
-        title: Welcome to ZPS
-        options:
-          - title: Principal's Message
-            url: /welcome-to-zps/principals-message/
-          - title: Vision, Mission & Values
-            url: /welcome-to-zps/vision-mission-values/
-          - title: School History
-            url: /welcome-to-zps/school-history/
-          - title: School Crest and Song
-            url: /welcome-to-zps/school-crest-and-song/
-          - title: School Rules
-            url: /welcome-to-zps/school-rules/
-          - title: Contact Us
-            url: /welcome-to-zps/contact-us/
+      key_highlights:
+        - title: E-Open House for 2025
+          description: ""
+          url: ""
+        - title: Quick Link
+          description: For Students
+          url: ""
+        - title: Quick Link
+          description: For Teachers
+          url: ""
 ---
