@@ -151,7 +151,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pupil Management</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
@@ -160,7 +160,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT &amp; Ed Tech (Covering)</p>
+<p>Ed Tech (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
@@ -210,7 +210,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Upper Primary (Covering)</p>
+<p>AYH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
@@ -219,7 +219,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Middle Primary (Covering) / AYH Middle Primary</p>
+<p>AYH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib</a>
@@ -305,7 +305,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PAL / Art / Music (Covering)</p>
+<p>SH Aesthetics (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
@@ -314,7 +314,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Partnership (Covering)</p>
+<p>SH / Student Leadership &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah</a>
