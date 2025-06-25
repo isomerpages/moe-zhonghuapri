@@ -55,22 +55,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>
-<br>2</p>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>
-<br>P3 Diligence</p>
+<td rowspan="1" colspan="1">
+<p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nurul Hafiqa Binte Osman</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ling_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Ling Siang</a>
 </p>
 </td>
 </tr>
