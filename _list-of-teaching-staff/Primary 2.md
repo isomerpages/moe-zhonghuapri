@@ -75,26 +75,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>
-<br>
-</p>
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>
-<br>
-</p>
+<td rowspan="2" colspan="1">
+<p></p>
 <p>P2 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_xiaocheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Daisy Yu XiaoCheng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chai_hsien_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gladys Tan Chai Hsien(Chen Caixian)</a>
 </p>
 </td>
 </tr>
