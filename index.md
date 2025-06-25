@@ -12,11 +12,11 @@ sections:
       key_highlights:
         - title: Quick Link
           description: For Students
-          url: https://zhonghuapri.moe.edu.sg/link/for-students/
+          url: /link/for-students/
         - title: E-Open House for 2025
           description: ""
           url: ""
         - title: Quick Link
           description: For Teachers
-          url: https://zhonghuapri.moe.edu.sg/link/for-teachers/
+          url: /link/for-teachers/
 ---
