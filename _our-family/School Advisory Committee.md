@@ -7,13 +7,13 @@ description: ""
 <h2><strong>School Advisory Committee</strong></h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Tang Chuan Ann – Chairman</p>
+<p>Mr Ng Zizhang – Chairman</p>
 </li>
 <li>
 <p>Mrs Chan Le Chin – Honorary Secretary</p>
 </li>
 <li>
-<p>Er Soo Chee Sern</p>
+<p>Mr Christopher Lim Hong Jim - SAC Term 3</p>
 </li>
 <li>
 <p>Mr Fan Chun Keong</p>
@@ -25,28 +25,20 @@ description: ""
 <p>Mdm Ho We Ling</p>
 </li>
 <li>
-<p>Dr Tan Ai Ling Kelly</p>
+<p>Ms Lum Yuen Mei Michelle</p>
 </li>
 <li>
-<p>Dr Yeo Eng Guan</p>
+<p>Er Soo Chee Sern</p>
 </li>
 <li>
-<p>Mr Christopher Lim Hong Jim</p>
-</li>
-<li>
-<p>Mr Ng Zizhang</p>
-</li>
-<li>
-<p>Mr Jameson Teh Pei Yuan</p>
+<p>Mr Yap Jun Weng</p>
 </li>
 <li>
 <p>Mr Yeap Chin Lee</p>
 </li>
 <li>
-<p>Mdm Lum Yuen Mei</p>
-</li>
-<li>
-<p>Mr Yap Jun Weng</p>
+<p>Mr Lim Wei Bin</p>
+<p></p>
 </li>
 </ol>
 <p></p>
