@@ -4,7 +4,6 @@ permalink: /vision-mission-values/
 variant: tiptap
 description: ""
 ---
-<h1><strong><u>Vision, Mission &amp; Values</u></strong></h1>
 <h1><strong>Vision</strong></h1>
 <p>A Learner. A Thinker. A Leader.</p>
 <h1><strong>Mission</strong></h1>
