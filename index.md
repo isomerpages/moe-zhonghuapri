@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Principal's Message
-          description: For Parents and Students
+          description: ""
           url: /welcome-to-zps/principals-message/
         - title: Vision, Mission & Values
           description: ""
@@ -17,9 +17,9 @@ sections:
         - title: School History
           description: ""
           url: /welcome-to-zps/school-history/
-        - title: School Compound
-          description: Explore Here
-          url: /school-compound/school-compound/
+        - title: School Crest and Song
+          description: ""
+          url: /welcome-to-zps/school-crest-and-song/
       background: /images/gif heronew 10 april.gif
       variant: center
   - textcards:
