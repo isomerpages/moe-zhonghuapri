@@ -4,7 +4,6 @@ permalink: /welcome-to-zps/principals-message/
 variant: tiptap
 description: ""
 ---
-<h1><strong><u>Principal’s Message</u></strong></h1>
 <p>Welcome to Zhonghua Primary School (ZPS), where we are committed to nurturing
 every child to be a Learner, a Thinker, and a Leader. At ZPS, we are guided
 by our mission to nurture our students to have strength of character and
