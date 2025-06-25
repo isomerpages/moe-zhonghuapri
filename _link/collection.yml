@@ -1,4 +1,5 @@
 collections:
   link:
     output: true
-    order: []
+    order:
+      - For Teachers.md
