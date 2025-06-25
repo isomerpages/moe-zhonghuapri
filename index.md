@@ -24,16 +24,4 @@ sections:
             url: /welcome-to-zps/school-rules/
           - title: Contact Us
             url: /welcome-to-zps/contact-us/
-  - textcards:
-      title: Zhonghua Pri School
-      id: textcards
-      cards:
-        - title: School Rules
-          description: ""
-          linktext: Learn more
-          url: https://zhonghuapri.moe.edu.sg/school-rules/
-        - title: Contact Us
-          description: ""
-          linktext: Learn more
-          url: /welcome-to-zps/contact-us/
 ---
