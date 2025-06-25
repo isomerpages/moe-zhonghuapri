@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Quick Link
           description: For Students
-          url: /quick-link/for-students/
+          url: /link/for-students/
         - title: E-Open House for 2025
           description: ""
           url: ""
