@@ -18,5 +18,5 @@ sections:
           url: ""
         - title: Quick Link
           description: For Teachers
-          url: /quick-link/for-teachers/
+          url: /link/for-teachers/
 ---
