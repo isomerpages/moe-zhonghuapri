@@ -4,8 +4,7 @@ permalink: /school-history/
 variant: tiptap
 description: ""
 ---
-<h1><strong><u>School History</u></strong></h1>
-<h1><strong>Humble Beginnings with a Strong Mission</strong></h1>
+<h3><strong>Humble Beginnings with a Strong Mission</strong></h3>
 <p>Chung Hwa Girls' School was established at Mohamad Sultan Road by the
 Chinese community in 1911 as the first Chinese-medium girls' school. Its
 establishment was a timely development for women during an era when the
@@ -19,7 +18,7 @@ School remained at Niven Road and ceased operations in 1980 because of
 higher parental demand for English-medium schools.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<h1><strong>New Beginnings at Serangoon Avenue 4</strong></h1>
+<h3><strong>New Beginnings at Serangoon Avenue 4</strong></h3>
 <p>Zhonghua's history underwent several significant transformations. In 1987,
 Chung Hwa Girls' High School relocated to Serangoon Avenue 4 and was renamed
 Zhonghua Secondary School (中华中学). During this period, Zhonghua Primary
