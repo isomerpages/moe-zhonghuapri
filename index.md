@@ -10,12 +10,12 @@ sections:
       background: /images/gif heronew 10 april.gif
       variant: center
       key_highlights:
-        - title: E-Open House for 2025
-          description: ""
-          url: ""
         - title: Quick Link
           description: For Students
           url: /quick-link/for-students/
+        - title: E-Open House for 2025
+          description: ""
+          url: ""
         - title: Quick Link
           description: For Teachers
           url: /quick-link/for-teachers/
