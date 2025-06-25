@@ -27,7 +27,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a rel="noopener nofollow" target="_blank">MIMs </a>
+<p><a rel="noopener nofollow" target="_blank">MIMs</a>
 </p>
 </li>
 </ol>
