@@ -18,5 +18,5 @@ sections:
           url: ""
         - title: Quick Link
           description: For Teachers
-          url: /link/quick-link/for-teachers/
+          url: https://zhonghuapri.moe.edu.sg/link/for-teachers/
 ---
