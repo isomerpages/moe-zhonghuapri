@@ -4,7 +4,7 @@ permalink: /our-family/teacher-leaders/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Teacher Leaders</strong></h3>
+<h1><strong>Teacher Leaders</strong></h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
