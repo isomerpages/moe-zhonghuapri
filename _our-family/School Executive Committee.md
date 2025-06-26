@@ -210,7 +210,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Upper Primary</p>
+<p>Assisting YH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
