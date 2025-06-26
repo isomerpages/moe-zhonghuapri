@@ -4,8 +4,8 @@ permalink: /link/for-teachers/
 variant: tiptap
 description: ""
 ---
-<h3>Quick Links</h3>
-<ol data-tight="true" class="tight">
+<h2>Quick Links</h2>
+<ul data-tight="true" class="tight">
 <li>
 <p><a rel="noopener nofollow" target="_blank">SC Mobile</a>
 </p>
@@ -34,9 +34,9 @@ description: ""
 <p><a rel="noopener nofollow" target="_blank">iExams 2</a>
 </p>
 </li>
-</ol>
-<h3>Professional Development</h3>
-<ol data-tight="true" class="tight">
+</ul>
+<h2>Professional Development</h2>
+<ul data-tight="true" class="tight">
 <li>
 <p><a rel="noopener nofollow" target="_blank">Opal 2.0</a>
 </p>
@@ -57,5 +57,5 @@ description: ""
 <p><a rel="noopener nofollow" target="_blank">MOE Sports and Recreational Club</a>
 </p>
 </li>
-</ol>
+</ul>
 <p></p>
