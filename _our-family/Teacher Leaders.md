@@ -79,6 +79,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h2>Heads Of Department</h2>
+</td>
+<td rowspan="1" colspan="1">
+<h2>Name</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
