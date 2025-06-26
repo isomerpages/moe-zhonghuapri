@@ -4,7 +4,7 @@ permalink: /link/for-teachers/
 variant: tiptap
 description: ""
 ---
-<h2>Quick Links</h2>
+<h2><strong>Quick Links</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a rel="noopener nofollow" target="_blank">SC Mobile</a>
@@ -35,7 +35,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h2>Professional Development</h2>
+<h2><strong>Professional Development</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a rel="noopener nofollow" target="_blank">Opal 2.0</a>
