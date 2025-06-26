@@ -32,7 +32,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafidawati Bte Abdul Rahman&nbsp;</a>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman&nbsp;</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah Bte Abdullah (for 2025)</a>
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah (for 2025)</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:premala_devi_kandasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy</a>
+<p><a href="mailto:premala_devi_kandasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy (Mrs Raj)</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan (Seow Swee Yin)</a>
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan</a>
 </p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan HW (Lim Lee Fong)</a>
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan Hong Wei</a>
 </p>
 </td>
 </tr>
