@@ -4,7 +4,7 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Admin Matter</strong></h1>
+<h2><strong>Admin Matter</strong></h2>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
