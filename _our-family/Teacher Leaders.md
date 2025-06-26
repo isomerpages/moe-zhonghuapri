@@ -90,7 +90,7 @@ description: ""
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norisah Yasmeen</a>
+<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norisah Yasmeen B Yussoff</a>
 </p>
 </td>
 </tr>
@@ -158,7 +158,7 @@ description: ""
 <p>Senior Teacher English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Ab Rahman</a>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman</a>
 </p>
 </td>
 </tr>
@@ -208,7 +208,7 @@ description: ""
 <p>Senior Teacher Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee Cher Kiak</a>
+<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee</a>
 </p>
 </td>
 </tr>
