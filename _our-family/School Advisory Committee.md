@@ -20,10 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Appointment</h2>
+<h3><strong>Appointment</strong></h3>
 </td>
 </tr>
 <tr>
