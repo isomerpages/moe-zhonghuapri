@@ -13,7 +13,7 @@ description: ""
 <p>Mrs Chan Le Chin – Honorary Secretary</p>
 </li>
 <li>
-<p>Mr Christopher Lim Hong Jim - SAC Term 3</p>
+<p>Mr Christopher Lim Hong Jim</p>
 </li>
 <li>
 <p>Mr Fan Chun Keong</p>
