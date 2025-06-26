@@ -90,7 +90,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -151,7 +150,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -245,7 +243,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -336,7 +333,6 @@ time.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -418,7 +414,6 @@ time.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
