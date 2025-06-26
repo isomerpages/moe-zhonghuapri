@@ -14,6 +14,20 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL CONTACT DETAILS</h3>
 </th>
@@ -77,6 +91,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -85,6 +101,20 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL OPERATING HOURS</h3>
@@ -124,6 +154,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -132,6 +164,20 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL-BASED STUDENT CARE CENTRE</h3>
@@ -204,6 +250,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -212,6 +260,20 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL UNIFORM</h3>
@@ -281,6 +343,8 @@ time.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -289,6 +353,20 @@ time.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL BOOKSHOP</h3>
@@ -358,6 +436,20 @@ time.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="4">
 <h3>SCHOOL DENTAL SERVICES</h3>
