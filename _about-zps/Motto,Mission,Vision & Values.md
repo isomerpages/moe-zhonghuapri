@@ -22,5 +22,4 @@ against a white background.
 <br><strong>Vision</strong>
 <br>A Learner. A Thinker. A Leader.
 <br><strong>Values</strong>
-<br>Diligence, Discipline, Integrity, Respect, Responsibility, Care, Harmony,
-Resilience.</p>
+<br>Diligence, Integrity, Responsibility, Care, Harmony, Resilience.</p>
