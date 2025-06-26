@@ -4,7 +4,6 @@ permalink: /our-family/parent-support-group/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Parent Support Group</strong></h1>
 <p>Zhonghua Educational Support Team (ZEST) that was established in February
 1997 is a vital link in helping to promote a strong partnership between
 home and school.</p>
