@@ -14,10 +14,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL CONTACT DETAILS</p>
 </th>
 </tr>
@@ -89,10 +86,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL OPERATING HOURS</p>
 </th>
 </tr>
@@ -139,10 +133,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL-BASED STUDENT CARE CENTRE</p>
 </th>
 </tr>
@@ -222,10 +213,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL UNIFORM</p>
 </th>
 </tr>
@@ -302,10 +290,7 @@ time.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL BOOKSHOP</p>
 </th>
 </tr>
@@ -374,10 +359,7 @@ time.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>SCHOOL DENTAL SERVICES</p>
 </th>
 </tr>
@@ -468,8 +450,6 @@ to: <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" t
 </tbody>
 </table>
 <p></p>
-<p><strong>Save</strong>
-</p>
 <p>
 <br>
 </p>
