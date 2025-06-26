@@ -4,7 +4,7 @@ permalink: /our-family/teacher-leaders/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Teacher Leaders</strong></h1>
+<h2><strong>Teacher Leaders</strong></h2>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -22,10 +22,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Leaders</p>
+<h3>School Leaders</h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3>Name</h3>
 </td>
 </tr>
 <tr>
@@ -114,10 +114,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Instructional Programme</p>
+<h3>Instructional Programme</h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3>Name</h3>
 </td>
 </tr>
 <tr>
@@ -182,10 +182,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learner Profile</p>
+<h3>Learner Profile</h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3>Name</h3>
 </td>
 </tr>
 <tr>
