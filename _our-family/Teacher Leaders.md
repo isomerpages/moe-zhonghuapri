@@ -20,10 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>School Leaders</h2>
+<h3><strong>School Leaders</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -79,10 +79,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Heads Of Department</h2>
+<h3><strong>Heads Of Department</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -120,10 +120,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Instructional Prog</h2>
+<h3><strong>Instructional Programme</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -188,10 +188,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Learner Profile</h2>
+<h3><strong>Learner Profile</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
