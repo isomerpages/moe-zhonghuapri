@@ -192,10 +192,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Heads</p>
+<h2>Year Heads</h2>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
@@ -260,10 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Heads / Level Heads</p>
+<h2>Subject Heads / Level Heads</h2>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
