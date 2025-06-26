@@ -4,7 +4,6 @@ permalink: /our-family/school-executive-committee/
 variant: tiptap
 description: ""
 ---
-<h2><strong>School Executive Committee</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,10 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>School Leaders</h3>
+<h2>School Leaders</h2>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Name</h3>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
@@ -80,10 +79,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Heads of Department</h3>
+<h2>Heads of Department</h2>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Name</h3>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
@@ -193,10 +192,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Year Heads</h3>
+<h2>Year Heads</h2>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Name</h3>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
@@ -261,10 +260,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Subject Heads / Level Heads</h3>
+<h2>Subject Heads / Level Heads</h2>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Name</h3>
+<h2>Name</h2>
 </td>
 </tr>
 <tr>
