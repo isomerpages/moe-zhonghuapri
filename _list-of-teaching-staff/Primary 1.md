@@ -104,13 +104,13 @@ variant: tiptap
 <p>P1 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pan_Ci_Ern_Amelia_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amelia Pan Ci Ern</a>
+<p><a href="mailto:Pan_Ci_Ern_Amelia_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amelia Pan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Constance Chong Hui Min</a>
+<p><a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Constance Chong</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nuriah Bte Abdullah</a>
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nuriah B Abdullah</a>
 </p>
 </td>
 </tr>
