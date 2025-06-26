@@ -29,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL CONTACT DETAILS</h3>
+<h3><strong>SCHOOL CONTACT DETAILS</strong></h3>
 </th>
 </tr>
 <tr>
@@ -91,8 +91,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -117,7 +115,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL OPERATING HOURS</h3>
+<h3><strong>SCHOOL OPERATING HOURS</strong></h3>
 </th>
 </tr>
 <tr>
@@ -154,8 +152,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -180,7 +176,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL-BASED STUDENT CARE CENTRE</h3>
+<h3><strong>SCHOOL-BASED STUDENT CARE CENTRE</strong></h3>
 </th>
 </tr>
 <tr>
@@ -250,8 +246,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -276,7 +270,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL UNIFORM</h3>
+<h3><strong>SCHOOL UNIFORM</strong></h3>
 </th>
 </tr>
 <tr>
@@ -343,8 +337,6 @@ time.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -369,7 +361,7 @@ time.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL BOOKSHOP</h3>
+<h3><strong>SCHOOL BOOKSHOP</strong></h3>
 </th>
 </tr>
 <tr>
@@ -427,7 +419,6 @@ time.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -452,7 +443,7 @@ time.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<h3>SCHOOL DENTAL SERVICES</h3>
+<h3><strong>SCHOOL DENTAL SERVICES</strong></h3>
 </th>
 </tr>
 <tr>
