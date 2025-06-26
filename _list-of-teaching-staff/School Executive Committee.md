@@ -141,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman B Mohamed Hamzah</a>
@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT &amp; Ed Tech (Covering)</p>
+<p>Ed Tech (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
@@ -209,7 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Upper Primary (Covering)</p>
+<p>Assisting YH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
@@ -218,7 +218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Middle Primary (Covering) / AYH Middle Primary</p>
+<p>AYH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
@@ -295,16 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT &amp; Ed Tech</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH PAL / Art / Music (Covering)</p>
+<p>SH Aesthetics (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
@@ -313,7 +304,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Partnership (Covering)</p>
+<p>SH / Student Leadership &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah B Rosli</a>
