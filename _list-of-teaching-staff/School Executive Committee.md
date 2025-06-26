@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pupil Management</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
