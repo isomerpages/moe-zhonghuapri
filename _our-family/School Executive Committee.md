@@ -296,15 +296,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Ed Tech</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Aesthetics (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
