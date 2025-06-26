@@ -15,8 +15,7 @@ Hwa Girls’ School evolved to be a full school comprising Primary, Secondary
 and Pre-University sections. The secondary classes then shifted to Bartley
 Road and became "Chung Hwa Girls' High School”. Chung Hua Girls' Primary
 School remained at Niven Road and ceased operations in 1980 because of
-higher parental demand for English-medium schools.</p>
-<p><strong>&nbsp;</strong>
+higher parental demand for English-medium schools.<strong>&nbsp;</strong>
 </p>
 <h3><strong>New Beginnings at Serangoon Avenue 4</strong></h3>
 <p>Zhonghua's history underwent several significant transformations. In 1987,
