@@ -64,13 +64,13 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alattas_shahrazad_aqel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alattas Shahrazad Binte Aqel</a>
+<p><a href="mailto:alattas_shahrazad_aqel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alattas Shahrazad B Aqel</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Koh (Choo Meining)</a>
+<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Koh</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana Bte Samat</a>
+<p><a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriana B Samat</a>
 </p>
 </td>
 </tr>
