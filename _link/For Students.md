@@ -4,8 +4,8 @@ permalink: /link/for-students/
 variant: tiptap
 description: ""
 ---
-<h3>Quick Links</h3>
-<ol data-tight="true" class="tight">
+<h2>Quick Links</h2>
+<ul data-tight="true" class="tight">
 <li>
 <p><a rel="noopener nofollow" target="_blank">MIMS Portal</a>
 </p>
@@ -19,5 +19,5 @@ description: ""
 </p>
 <p></p>
 </li>
-</ol>
+</ul>
 <p></p>
