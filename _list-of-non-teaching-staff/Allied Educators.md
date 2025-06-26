@@ -10,4 +10,4 @@ description: ""
 1</td><td style="width:214pt" width="285" class="xl71">School Counsellor</td><td style="border-top:none;width:161pt" width="215" class="xl72">
 <a href="mailto:sze_kiat_geok_elisha@moe.edu.sg">Ms Elisha Sze</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
 2</td><td style="border-top:none" class="xl69">Roving Student Welfare Officer</td><td style="border-top:none;border-left:none" class="xl73">
-<a href="mailto:hemalatha_rrajendran@schools.gov.sg">Ms Hemalatha Rajendran</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl67" height="9"></td><td class="xl66"></td><td class="xl66"></td></tr></tbody></table>
+<a href="mailto:gan_chai@schools.gov.sg">Mr Gan Chai</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:6.75pt" class="xl67" height="9"></td><td class="xl66"></td><td class="xl66"></td></tr></tbody></table>
