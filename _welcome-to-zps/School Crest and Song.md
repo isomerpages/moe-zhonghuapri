@@ -4,7 +4,7 @@ permalink: /school-crest-and-song/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Crest</strong></h1>
+<h2><strong>School Crest</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CES Email Principal 12June25/School_Crest.jpg">
 </div>
@@ -17,7 +17,7 @@ on strong foundations will flourish.</p>
 <p>Rendered in vibrant turquoise against white, the crest embodies our commitment
 to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
-<h1><strong>School Song</strong></h1>
+<h2><strong>School Song</strong></h2>
 <p><strong><em>(Insert the youtube: Update with the latest slides, the ones in the link are all masked up and showing staff who have left)</em></strong>
 </p>
 <p>When nineteen eighty-seven dawned,
