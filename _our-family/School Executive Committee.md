@@ -20,10 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>School Leaders</h2>
+<h3><strong>School Leaders</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -80,10 +80,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Heads of Department</h2>
+<h3><strong>Heads of Department</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -193,10 +193,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Year Heads</h2>
+<h3><strong>Year Heads</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -261,10 +261,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>Subject Heads / Level Heads</h2>
+<h3>Subject Heads / Level Heads</h3>
 </td>
 <td rowspan="1" colspan="1">
-<h2>Name</h2>
+<h3>Name</h3>
 </td>
 </tr>
 <tr>
