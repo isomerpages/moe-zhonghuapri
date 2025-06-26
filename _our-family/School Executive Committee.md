@@ -261,10 +261,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Subject Heads / Level Heads</h3>
+<h3><strong>Subject Heads / Level Heads</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Name</h3>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
