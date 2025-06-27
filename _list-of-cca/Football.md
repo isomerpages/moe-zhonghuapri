@@ -28,7 +28,7 @@ coordination, fitness and enjoyment of the game of football.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mr Azman B Mohamed Hamzah (Main - Thursdays)
 <br>Mr Muhammad Firdaus B Amir (Tuesdays)
-<br>Mr Abdul mutalib B Ab Rahaman (Thursdays)
+<br>Mr Abdul Mutalib B Ab Rahaman (Thursdays)
 <br>Mdm Junainah B Mohamed Eusuff (Recreational - Tuesdays)</p>
 <p><strong>Main Contact</strong>: <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azman_mohamed_hamzah@schools.gov.sg</a>
 </p>
