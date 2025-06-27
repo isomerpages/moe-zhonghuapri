@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/learning-support-programme-lsp/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Information</strong></h3>
+<h2><strong>Information</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
