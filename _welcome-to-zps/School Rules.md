@@ -4,7 +4,7 @@ permalink: /school-rules/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Notes To Parents &amp; Guardians (Pending for School Rules from Mos Ong)</strong></h2>
+<h2><strong>Notes To Parents &amp; Guardians (Pending for School Rules from Ms Ong)</strong></h2>
 <h3><strong>Communication</strong></h3>
 <p>Your child’s form teacher would have issued an introductory letter to
 you on the first day of school concerning class routines, expectations,
