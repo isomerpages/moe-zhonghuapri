@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/mother-tongue-language-teachers/
 description: ""
 variant: markdown
 ---
-### **Information**
+# **Information**
 <table style="border-collapse:
  collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Chinese Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
 1</td><td style="border-top:none" class="xl70"><a href="mailto:hsu_hui-chien@schools.gov.sg">Mrs Chang Hsu Hui-Chien</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
