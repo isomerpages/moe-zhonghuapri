@@ -18,8 +18,8 @@ the different cultures, boost their confidence and learn to work in harmony.</p>
 <p>“Learning is never done without errors and defeat.” – Vladimir Lenin</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Suriana B Samat (Main - Tuesdays)
-<br>Ms Sandra Wang (Thursdays)</p>
-<p><strong>Main Contact</strong>: <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener nofollow" target="_blank">suriana_samat@schools.gov.sg</a>
+<br>
+<br><strong>Main Contact</strong>: <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener nofollow" target="_blank">suriana_samat@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
 <br>Tuesday
