@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/primary-4/
 description: ""
 variant: tiptap
 ---
-<h2>Form Teachers</h2>
+<h2><strong>Form Teachers</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,7 +31,7 @@ variant: tiptap
 <h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong> </h3>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
