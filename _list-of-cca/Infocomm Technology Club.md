@@ -21,7 +21,7 @@ Prime sets to create a series of prototypes to uphold sustainability in
 our living worlds.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mrs Shirley Yen (Main)
-<br>Mdm Chen Guiyun</p>
+<br>Ms Chen Guiyun</p>
 <p><strong>Main Contact</strong>: <a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_ai_li_shirleywijaya@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 
