@@ -31,7 +31,7 @@ variant: tiptap
 <h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name of Form Teacher</strong></h3>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
