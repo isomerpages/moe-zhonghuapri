@@ -14,7 +14,7 @@ sections:
           description: For Students
           url: /link/for-students/
         - title: E-Open House for 2025
-          description: ""
+          description: Pending for e-link from MsRozi
           url: ""
         - title: Quick Link
           description: For Teachers
