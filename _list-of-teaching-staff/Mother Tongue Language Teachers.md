@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
@@ -134,10 +134,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
@@ -216,10 +216,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
