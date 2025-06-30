@@ -4,7 +4,6 @@ permalink: /list-of-teaching-staff/learning-support-programme-lsp/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Information</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,11 +19,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h2><strong>English Language Teachers</strong>&nbsp;</h2>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of English Language Teacher&nbsp;</p>
+<h3><strong>Name </strong></h3>
 </td>
 </tr>
 <tr>
@@ -70,11 +74,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h2><strong>Mathematics Teachers</strong></h2>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Mathematics Teacher</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
