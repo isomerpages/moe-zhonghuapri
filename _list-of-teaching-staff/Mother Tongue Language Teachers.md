@@ -2,33 +2,261 @@
 title: Mother Tongue Language Teachers
 permalink: /list-of-teaching-staff/mother-tongue-language-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Information**
-<table style="border-collapse:
- collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:7.5pt" height="10"><td style="height:7.5pt;width:30pt" width="40" class="xl67" height="10"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Chinese Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-1</td><td style="border-top:none" class="xl70"><a href="mailto:hsu_hui-chien@schools.gov.sg">Mrs Chang Hsu Hui-Chien</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none" class="xl70"><a href="mailto:ng_yen_tin@schools.gov.sg">Ms Ng Yen Tin</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-3</td><td style="border-top:none" class="xl70"><a href="mailto:yu_xiaocheng@moe.edu.sg">Mdm Daisy Yu</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-4</td><td style="border-top:none" class="xl70"><a href="mailto:kwek_wei_ting@schools.gov.sg">Mdm Kwek Wei Ting</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-5</td><td style="border-top:none" class="xl70"><a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg">Mrs Shirley Yeh</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-6</td><td style="border-top:none" class="xl70"><a href="mailto:chen_guiyun@schools.gov.sg">Mdm&nbsp;Chen Gui Yun</a></td></tr><tr style="mso-height-source:userset;height:6.75pt" height="9"><td style="height:15.75pt" class="xl67" height="9">
-7</td><td style="border-top:none" class="x170"><a href="mailto:leong_shi_ern@schools.gov.sg">Mdm&nbsp;Leong Shi Ern</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;" class="x167" height="21">
-8</td><td style="border-top:none" class="x170"><a href="mailto:feng_yijun@schools.gov.sg">Mdm&nbsp;Feng Yijun</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="x167" height="21">
-</td><td style="border-top:none" class="x170"><a href="mailto:pending - tfr in June 2025@moe.edu.sg"></a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt&quot;." class="x167" height="21"></td><td class="xl66"></td></tr></tbody></table>
- 
- <table style="border-collapse:
- collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:30pt" width="40" class="xl67" height="7"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Malay Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-1</td><td style="border-top:none;width:240pt" width="320" class="xl70"><a href="mailto:radiah_mohammad_yusoff@schools.gov.sg">Mdm Radiah&nbsp;B Mohammad Yusoff</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none;width:240pt" width="320" class="xl71"><a href="mailto:alattas_shahrazad_aqel@schools.gov.sg">Mdm&nbsp;Alattas Shahrazad B Aqel</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-3</td><td style="border-top:none;width:240pt" width="320" class="xl71"><a href="mailto:nurul_hafiqa_osman@schools.gov.sg">Ms Nurul Hafiqa B Osman</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-4</td><td style="border-top:none;width:240pt" width="320" class="xl71"><a href="mailto:muhammad_firdaus_amir@schools.gov.sg">Mr Muhammad Firdaus B Amir</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-5</td><td style="border-top:none;width:240pt" width="32=" class="x171"><a href="mailto:hariyati_hairom@schools.gov.sg">Ms Hariyati B Hairom</a></td></tr><tr style="height:15.75&quot;" height="21"><td style="height:15.75pt" class="x167" height="21">
-</td><td class="xl66"></td></tr></tbody></table>
- 
- <table style="border-collapse:
- collapse;width:270pt" width="360" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1462;width:30pt" width="40"> <col style="mso-width-source:userset;mso-width-alt:11702;width:240pt" width="320"></colgroup><tbody><tr style="mso-height-source:userset;height:5.25pt" height="7"><td style="height:5.25pt;width:30pt" width="40" class="xl67" height="7"></td><td style="width:240pt" width="320" class="xl66"></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl68" height="21">No</td><td style="border-left:none" class="xl69">Name of Tamil Language Teacher</td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-1</td><td style="border-top:none;width:240pt" width="320" class="xl70"><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg">Mrs Kavinchelvan Kalaivani</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-2</td><td style="border-top:none;width:240pt" width="320" class="xl70"><a href="mailto:mageswari_kanapathy@schools.gov.sg">Mdm Mageswari Kanapathy</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl67" height="21">
-3</td><td style="border-top:none;width:240pt" width="320"><a href="mailto:latha_balakrishnan@schools.gov.sg">Mdm Latha Balakrishnan</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="x167" height="21">
-</td><td class="xl66"></td></tr></tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h2><strong>Chinese Language Teachers</strong></h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>No</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Name</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chang Hsu Hui-Chien</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yen Tin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yu_xiaocheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Daisy Yu</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kwek_wei_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kwek Wei Ting</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shirley Yeh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Chen Gui Yun</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Leong Shi Ern</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Feng Yijun</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h2><strong>Malay Language Teachers</strong></h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>No</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Name</strong> </h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:radiah_mohammad_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Radiah&nbsp;B Mohammad Yusoff</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alattas_shahrazad_aqel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Alattas Shahrazad B Aqel</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Hafiqa B Osman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Firdaus B Amir</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hariyati B Hairom</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h2><strong>Tamil Language Teachers</strong></h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>No</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Name</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kavinchelvan Kalaivani</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mageswari Kanapathy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:latha_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Latha Balakrishnan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
