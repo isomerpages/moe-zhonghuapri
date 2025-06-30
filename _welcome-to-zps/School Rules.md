@@ -133,7 +133,6 @@ that the child needs to leave early.</p>
 the school in a game, a competition, or an official function, he/she may
 leave his/her class only at the time stated in the consent form.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h3><strong>5. Leaving School During Lunch Break</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils must not leave
 the school premises after school while waiting for the start of the next
