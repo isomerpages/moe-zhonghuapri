@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Our School Rules</strong></h2>
-<h3><strong>1. School Attire and Appearance  </strong><br><strong>1.1 School Uniforms</strong></h3>
+<h3><strong>1. School Attire and Appearance </strong><br><strong>1.1 School Uniforms</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils are to wear the
 prescribed school uniform and modification to the uniform is not allowed.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform should
