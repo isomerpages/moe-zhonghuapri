@@ -18,8 +18,9 @@ on strong foundations will flourish.</p>
 to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
 <h2><strong>School Song</strong></h2>
-<p><a href="https://youtu.be/350K-rD109A" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/350K-rD109A</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/350K-rD109A?si=VZpFT_KYrtcNkZqi"></iframe>
+</div>
 <p>When nineteen eighty-seven dawned,
 <br>The torch of Zhonghua was first shone,
 <br>Calling us all who belong to her,
@@ -30,7 +31,3 @@ with the flexible mindset needed to thrive in tomorrow's world.</p>
 <br>Diligence will bring us success,
 <br>Aiming high, always on the go,
 <br>Doing well today, even better tomorrow.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/350K-rD109A?si=VZpFT_KYrtcNkZqi"></iframe>
-</div>
-<p></p>
