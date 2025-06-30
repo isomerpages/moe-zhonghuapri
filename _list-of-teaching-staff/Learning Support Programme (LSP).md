@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>English Language Teachers</strong>&nbsp;</h2>
+<h3><strong>English Language Teachers</strong>&nbsp;</h3>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Mathematics Teachers</strong></h2>
+<h3><strong>Mathematics Teachers</strong></h3>
 </td>
 </tr>
 <tr>
