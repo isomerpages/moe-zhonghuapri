@@ -23,7 +23,7 @@ description: ""
 <h3><strong>School Leaders</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>    Name</strong></h3>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ description: ""
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tiong_Le_Chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">       Mrs Chan Le Chin</a>
+<p><a href="mailto:Tiong_Le_Chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chan Le Chin</a>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ description: ""
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">       Mrs Tan Siew Leng</a>
+<p><a href="mailto:tan_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Siew Leng</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ description: ""
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trina_pook_sim_nar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">       Mrs Trina Yee</a>
+<p><a href="mailto:trina_pook_sim_nar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Trina Yee</a>
 </p>
 </td>
 </tr>
