@@ -17,8 +17,8 @@ on strong foundations will flourish.</p>
 <p>Rendered in vibrant turquoise against white, the crest embodies our commitment
 to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
-<h2><strong>School Song (pending for video clip from Ms Rozi)</strong></h2>
-<p><strong><em>(Insert the youtube: Update with the latest slides, the ones in the link are all masked up and showing staff who have left)</em></strong>
+<h2><strong>School Song </strong></h2>
+<p><a href="https://youtu.be/350K-rD109A" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/350K-rD109A</a>
 </p>
 <p>When nineteen eighty-seven dawned,
 <br>The torch of Zhonghua was first shone,
