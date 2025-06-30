@@ -82,7 +82,7 @@ description: ""
 <h3><strong>Heads of Department</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h3><strong>          Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ description: ""
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norisah Yasmeen B Yussoff</a>
+<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mdm Norisah Yasmeen B Yussoff</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ description: ""
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rindaherlina B Thamrin</a>
+<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mdm Rindaherlina B Thamrin</a>
 </p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ description: ""
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liang Lifang</a>
+<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Ms Liang Lifang</a>
 </p>
 </td>
 </tr>
@@ -117,7 +117,7 @@ description: ""
 <p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yong_chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Yong Chew &nbsp;</a>
+<p><a href="mailto:liew_yong_chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mr Liew Yong Chew &nbsp;</a>
 </p>
 </td>
 </tr>
@@ -126,7 +126,7 @@ description: ""
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gerald_low_hui_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gerald Low</a>
+<p><a href="mailto:Gerald_low_hui_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mr Gerald Low</a>
 </p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ description: ""
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu</a>
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">                 Ms Ophelia Chiu</a>
 </p>
 </td>
 </tr>
@@ -144,7 +144,7 @@ description: ""
 <p>Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman B Mohamed Hamzah</a>
+<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mr Azman B Mohamed Hamzah</a>
 </p>
 </td>
 </tr>
@@ -153,7 +153,7 @@ description: ""
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Ms Ong Chui Hoon</a>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ description: ""
 <p>Ed Tech (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
+<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">                 Mr Tang Qisheng</a>
 </p>
 </td>
 </tr>
