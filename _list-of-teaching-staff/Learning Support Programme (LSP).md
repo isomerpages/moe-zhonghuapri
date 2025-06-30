@@ -28,7 +28,7 @@ variant: tiptap
 <h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name </strong></h3>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
