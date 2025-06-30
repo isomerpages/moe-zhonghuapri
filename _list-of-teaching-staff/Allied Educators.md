@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Special Educational Needs Officers</strong></h2>
+<h3><strong>Special Educational Needs Officers</strong></h3>
 </td>
 </tr>
 <tr>
