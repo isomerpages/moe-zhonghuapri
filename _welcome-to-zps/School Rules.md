@@ -77,9 +77,9 @@ on Tuesday to Friday.</p>
 must be accompanied by a medical certificate and/or where appropriate,
 a letter of explanation from parents/guardian.</p>
 <h3><strong>3. Pledge-taking and Singing of National Anthem</strong></h3>
-<p>·&nbsp; Pupils who are Singapore citizens must sing the National Anthem
-and take the Pledge.&nbsp; Pupils will take the Pledge with the right fist
-placed over the heart.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils who are Singapore
+citizens must sing the National Anthem and take the Pledge.&nbsp; Pupils
+will take the Pledge with the right fist placed over the heart.&nbsp;</p>
 <h3><strong>4. Leaving School Early</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils are expected
 to remain in the school premises until they are officially dismissed.</p>
@@ -165,9 +165,11 @@ to send disparaging remarks, unsubstantiated rumours, embarrassing pictures
 and videos, etc. via email or post them on social networking sites. This
 is considered as Cyberbullying.</p>
 <h3><strong>8. Possession Of Prohibited Objects/Items</strong></h3>
-<p>·&nbsp; All pupils are not allowed to have in their possession any weapon.
-They are also not allowed to bring any weapon-like item which can be used
-or intended to be used to cause harm to others.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All pupils are not allowed
+to have in their possession any weapon. They are also not allowed to bring
+any weapon-like item which can be used or intended to be used to cause
+harm to others.</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
