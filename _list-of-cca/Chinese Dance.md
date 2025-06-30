@@ -18,7 +18,7 @@ and competitions. We hope that our students will not only acquire dance
 skills, but also develop a spirit of diligence and perseverance in their
 character development when participating in Chinese Dance CCA.</p>
 <p><strong>Teachers-In-Charge</strong> 
-<br>Mrs Chang Hsu (Main - Thursdays)
+<br>Mrs Chang Hsu Hui-Chien (Main - Thursdays)
 <br>Mdm Kwek Wei Ting (Tuesdays)</p>
 <p><strong>Main Contact</strong>: <a href="hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 </p>

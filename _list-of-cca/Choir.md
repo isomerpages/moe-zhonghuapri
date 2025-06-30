@@ -21,7 +21,7 @@ and external performances. They are resilient and provide great moral and
 mental support for their peers when the going gets tough.</p>
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Feng Yijun (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Ma Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
+<br>Ms Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
 <p><strong>Main Contact</strong>: <a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">feng_yijun@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 

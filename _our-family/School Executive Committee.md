@@ -1,10 +1,9 @@
 ---
-title: Key Personnel
-permalink: /list-of-teaching-staff/key-personnel/
-description: ""
+title: School Executive Committee
+permalink: /our-family/school-executive-committee/
 variant: tiptap
+description: ""
 ---
-<h1><strong>Key Personnel</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,10 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Leaders</p>
+<h3><strong>School Leaders</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -80,10 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Heads of Department</p>
+<h3><strong>Heads of Department</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -91,7 +90,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norisah Yasmeen</a>
+<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norisah Yasmeen B Yussoff</a>
 </p>
 </td>
 </tr>
@@ -100,7 +99,7 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rindaherlina&nbsp;</a>
+<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rindaherlina B Thamrin</a>
 </p>
 </td>
 </tr>
@@ -136,22 +135,22 @@ variant: tiptap
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chiu Cheuk Yi Ophelia</a>
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
+<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman B Mohamed Hamzah</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pupil Management</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chui Hoon</a>
@@ -160,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT &amp; Ed Tech (Covering)</p>
+<p>Ed Tech (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
@@ -193,10 +192,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Heads</p>
+<h3><strong>Year Heads</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -204,13 +203,13 @@ variant: tiptap
 <p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Upper Primary (Covering)</p>
+<p>Assisting YH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
@@ -219,10 +218,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Middle Primary (Covering) / AYH Middle Primary</p>
+<p>AYH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib</a>
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
 </p>
 </td>
 </tr>
@@ -231,7 +230,7 @@ variant: tiptap
 <p>Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah&nbsp;</a>
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah&nbsp;</a>
 </p>
 </td>
 </tr>
@@ -261,10 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Heads / Level Heads</p>
+<h3><strong>Subject Heads / Level Heads</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -281,7 +280,7 @@ variant: tiptap
 <p>SH Malay Language and Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hariyati</a>
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hariyati B Hairom</a>
 </p>
 </td>
 </tr>
@@ -296,16 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT &amp; Ed Tech</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH PAL / Art / Music (Covering)</p>
+<p>SH Aesthetics (cov)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
@@ -314,10 +304,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Partnership (Covering)</p>
+<p>SH / Student Leadership &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah</a>
+<p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah B Rosli</a>
 </p>
 </td>
 </tr>

@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/primary-4/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Form Teachers</strong></h3>
+<h2><strong>Form Teachers</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Form Teacher</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -64,13 +64,13 @@ variant: tiptap
 <br>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus Bin Amir</a>
+<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus B Amir</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rozianah Bte Rosli</a>
+<p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rozianah B Rosli</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_wei_wen_justin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Ang Wei Wen</a>
+<p><a href="mailto:ang_wei_wen_justin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Ang</a>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mui_mui_tricia@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan Mui Mui</a>
+<p><a href="mailto:tan_mui_mui_tricia@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan</a>
 </p>
 </td>
 </tr>
@@ -115,13 +115,13 @@ variant: tiptap
 <br>P4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_mun_yip_benny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Benny Lau Mun Yip</a>
+<p><a href="mailto:lau_mun_yip_benny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Benny Lau</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam Pei Ling</a>
+<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam</a>
 </p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <br>P4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee Cher Kiak</a>
+<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee</a>
 </p>
 </td>
 </tr>

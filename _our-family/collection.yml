@@ -1,0 +1,10 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Teacher Leaders.md
+      - Teaching Staff.md
+      - Executive and Administrative Staff.md
+      - School Advisory Committee.md
+      - Parent Support Group.md

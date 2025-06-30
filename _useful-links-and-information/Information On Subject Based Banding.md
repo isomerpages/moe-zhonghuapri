@@ -1,6 +1,6 @@
 ---
 title: Information On Subject Based Banding
-permalink: /information-on-subject-based-banding/
+permalink: /useful-links-and-information/information-on-subject-based-banding/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Information On PSLE
-permalink: /information-on-psle/
+permalink: /useful-links-and-information/information-on-psle/
 variant: tiptap
 description: ""
 ---

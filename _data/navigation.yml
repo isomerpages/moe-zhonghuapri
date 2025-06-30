@@ -1,50 +1,59 @@
 logo: /images/zps official school crest.jpg
 links:
-  - title: About ZPS
-    url: /about-zps/principals-message
+  - title: Welcome to ZPS
+    url: /welcome-to-zps/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /about-zps/principals-message/
-      - title: Motto,Mission,Vision & Values
-        url: /about-zps/motto-mission-vision-values/
+        url: /welcome-to-zps/principals-message/
+      - title: Vision, Mission, Values
+        url: /welcome-to-zps/vision-mission-values/
       - title: School History
-        url: /about-zps/school-history/
-      - title: School Song
-        url: /about-zps/school-song/
-      - title: Key Personnel
-        url: /about-zps/key-personnel/
+        url: /welcome-to-zps/school-history/
+      - title: School Crest and Song
+        url: /welcome-to-zps/school-crest-and-song/
+      - title: School Rules
+        url: /welcome-to-zps/school-rules/
+      - title: Contact Us
+        url: /welcome-to-zps/contact-us/
+  - title: Our Family
+    url: /list-of-teaching-staff/school-executive-committee/
+    sublinks:
+      - title: School Executive Committee
+        url: /our-family/school-executive-committee/
+      - title: Teacher Leaders
+        url: /our-family/teacher-leaders/
       - title: Teaching Staff
-        url: /about-zps/teaching-staff/
-      - title: Non Teaching Staff
-        url: /about-zps/non-teaching-staff/
+        url: /our-family/teaching-staff/
+      - title: Executive & Administrative
+        url: /our-family/executive-and-administrative-staff/
       - title: School Advisory Committee
-        url: /about-zps/school-advisory-committee/
-  - title: Niche Programme
-    collection: niche-programme
-  - title: Departments
-    url: /departments/english-language/
+        url: /our-family/school-advisory-committee/
+      - title: Parent Support Group
+        url: /our-family/parent-support-group/
+  - title: Our Distinctive Programmes
+    collection: our-distinctive-programmes
+  - title: Our Learning Experiences
+    url: /our-learning-experiences/curriculum/english-language/
     sublinks:
       - title: English Language
-        url: /departments/english-language/
+        url: /our-learning-experiences/curriculum/english-language/
       - title: Mathematics
-        url: /departments/mathematics/
+        url: /our-learning-experiences/curriculum/mathematics/
       - title: Mother Tongue Languages
-        url: /departments/mother-tongue-languages/
+        url: /our-learning-experiences/curriculum/mother-tongue-languages/
       - title: Science
-        url: /departments/science/
+        url: /our-learning-experiences/curriculum/science/
       - title: Physical and Health Education
-        url: /departments/physical-and-health-education/
-      - title: ICT & Ed Tech
-        url: /departments/ict-ed-tech/
+        url: /our-learning-experiences/curriculum/physical-and-health-education/
       - title: Aesthetics
-        url: /departments/aesthetics/
-      - title: Partnership
-        url: /departments/partnership/
-      - title: Character & Citizenship Edu
-        url: /departments/character-and-citizenship-education/
-  - title: CCA
-    collection: cca
-  - title: Contact Us
-    collection: contact-us
-  - title: Useful Links And Information
+        url: /our-learning-experiences/curriculum/aesthetics/
+      - title: Character and Citizenship Edu
+        url: /our-learning-experiences/curriculum/character-and-citizenship-education/
+      - title: ICT and Educational Technology
+        url: /our-learning-experiences/curriculum/ict-and-educational-technology/
+      - title: Programme for Active Learning
+        url: /our-learning-experiences/curriculum/programme-for-active-learning/
+      - title: Co-Curriculum Activities
+        url: /our-learning-experiences/co-curriculum-activities/co-curriculum-activities/
+  - title: Useful Links And Info
     collection: useful-links-and-information

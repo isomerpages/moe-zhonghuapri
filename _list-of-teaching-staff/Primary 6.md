@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/primary-6/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Form Teachers</strong></h3>
+<h2><strong>Form Teachers</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Form Teacher</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq Bin Mohamed Hashim</a>
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>P6 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low Hui-Yang</a>
+<p><a href="mailto:gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low</a>
 </p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh (Ng Ai Li Shirleywijaya)</a>
+<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusman Bin Mohamad Eusope</a>
+<p><a href="mailto:yusman_mohamad_eusope_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusman B Mohamad Eusope</a>
 </p>
 </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /departments/character-and-citizenship-education/
+permalink: /departments/character-citizenship-education/
 description: ""
 variant: tiptap
 ---

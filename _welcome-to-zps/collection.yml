@@ -1,0 +1,10 @@
+collections:
+  welcome-to-zps:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission & Values.md
+      - School History.md
+      - School Crest and Song.md
+      - School Rules.md
+      - Contact Us.md

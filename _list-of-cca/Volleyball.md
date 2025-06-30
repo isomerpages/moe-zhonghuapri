@@ -22,8 +22,8 @@ a range of physical, social, and emotional skills that are valuable both
 on and off the court.</p>
 <p><strong>Teachers In-Charge</strong>
 <br>Ms Ng Yen Tin (Main) - Tuesdays
-<br>Mdm Junainah - Thursdays
-<br>Mr Ashiq - Thursdays
+<br>Mdm Junainah B Mohamed Eusuff - Thursdays
+<br>Mr Mohamed Ashiq B Mohamed Hashim - Thursdays
 <br>Mr Tang Qisheng - Thursdays</p>
 <p><strong>Main Contact</strong>: <a href="ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 </p>

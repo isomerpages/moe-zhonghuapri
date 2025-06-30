@@ -15,7 +15,7 @@ important values such as sportsmanship and fair play. This year, the CCA
 Members will be exposed to Floorball and Handball. They will be grouped
 by their levels and rotated between the 2 sports after 12 sessions.</p>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Junainah (Main)
+<br>Mdm Junainah B Mohamed Eusuff (Main)
 <br>Mrs Chan Hong Wei
 <br>Mdm Daisy Yu
 <br>

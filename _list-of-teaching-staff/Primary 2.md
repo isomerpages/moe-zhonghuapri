@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/primary-2/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Form Teachers</strong></h3>
+<h2><strong>Form Teachers</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Form Teacher</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -75,32 +75,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>
-<br>
-</p>
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>
-<br>
-</p>
+<td rowspan="2" colspan="1">
+<p></p>
 <p>P2 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yu_xiaocheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Daisy Yu XiaoCheng</a>
+<p><a href="mailto:yu_xiaocheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Daisy Yu</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chai_hsien_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gladys Tan Chai Hsien(Chen Caixian)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Azman Bin Mohd Hamzah</a>
+<p><a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Azman B Mohamed Hamzah</a>
 </p>
 </td>
 </tr>
@@ -120,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati Bte Abdul Rahman</a>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman</a>
 </p>
 </td>
 </tr>

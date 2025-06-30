@@ -1,6 +1,6 @@
 ---
 title: Leave of Absence (LOA) scheme
-permalink: /holding-folder-not-for-public/leave-of-absence-loa-scheme/
+permalink: /useful-links-and-information/leave-of-absence-loa-scheme/
 description: ""
 variant: tiptap
 ---

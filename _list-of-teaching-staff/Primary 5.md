@@ -4,7 +4,7 @@ permalink: /list-of-teaching-staff/primary-5/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Form Teachers</strong></h3>
+<h2><strong>Form Teachers</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<h3><strong>No</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<h3><strong>Class</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Form Teacher</p>
+<h3><strong>Name</strong></h3>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sharon Seah (Loh Yeok Peng)</a>
+<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sharon Seah</a>
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@ variant: tiptap
 <br>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping</a>
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin (Tan Lay Peng)</a>
+<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin</a>
 </p>
 </td>
 </tr>
@@ -84,13 +84,13 @@ variant: tiptap
 <br>P5 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu Cheuk Yi</a>
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rindaherlina Thamrin</a>
+<p><a href="mailto:rindaherlina_thamrin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rindaherlina B Thamrin</a>
 </p>
 </td>
 </tr>
@@ -104,13 +104,13 @@ variant: tiptap
 <br>P5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom</a>
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati B Hairom</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan (Seow Swee Yin)</a>
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Tan</a>
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan Hong Wei (Lim Lee Fong)</a>
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Chan Hong Wei</a>
 </p>
 </td>
 </tr>

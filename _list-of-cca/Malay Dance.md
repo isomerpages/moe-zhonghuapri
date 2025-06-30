@@ -16,8 +16,8 @@ Youth Festival and other community events. Overall, being in a Malay dance
 CCA can develop a student holistically and provide a unique cultural experience
 that enriches their personal growth and learning.</p>
 <p><strong>Teachers-In-Charge</strong> 
-<br>Ms Nurul Hafiqa (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Mdm Leong Shi Ern (Tuesday &amp; Thursday on a rotation basis)</p>
+<br>Ms Nurul Hafiqa B Osman (Main - Tuesday &amp; Thursday on a rotation basis)
+<br>Ms Leong Shi Ern (Tuesday &amp; Thursday on a rotation basis)</p>
 <p><strong>Main Contact</strong>: <a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hafiqa_osman@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong> 

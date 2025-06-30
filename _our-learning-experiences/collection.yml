@@ -1,0 +1,16 @@
+collections:
+  our-learning-experiences:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Physical and Health Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Character and Citizenship Education.md
+      - Curriculum/ICT and Educational Technology.md
+      - Curriculum/Programme for Active Learning.md
+      - Co Curriculum Activities/Co Curriculum Activities.md
+      - Co Curriculum Activities/.keep
