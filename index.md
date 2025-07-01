@@ -15,7 +15,7 @@ sections:
           url: /link/for-students/
         - title: Our Latest Activities
           description: Interactive Links
-          url: ""
+          url: /our-latest-activities/social-media-links/
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
