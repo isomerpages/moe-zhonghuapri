@@ -6,10 +6,12 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>FB</p>
+<p><a href="https://www.facebook.com/zhonghuaps" rel="noopener nofollow" target="_blank">Facebook Link</a>
+</p>
 </li>
 <li>
-<p>IG</p>
+<p><a href="https://www.instagram.com/zhonghuaps/" rel="noopener nofollow" target="_blank">Instagram Link</a>
+</p>
 </li>
 </ul>
 <p></p>
