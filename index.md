@@ -13,6 +13,9 @@ sections:
         - title: Quick Link
           description: For Students
           url: /link/for-students/
+        - title: Our Latest Activities
+          description: ""
+          url: ""
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
