@@ -1,0 +1,5 @@
+collections:
+  our-latest-activities:
+    output: true
+    order:
+      - Social Media Links.md

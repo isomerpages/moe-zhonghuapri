@@ -20,15 +20,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Chinese Language Teachers</strong></h2>
+<h3><strong>Chinese Language Teachers</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
@@ -129,15 +129,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Malay Language Teachers</strong></h2>
+<h3><strong>Malay Language Teachers</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
@@ -211,15 +211,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Tamil Language Teachers</strong></h2>
+<h3><strong>Tamil Language Teachers</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>

@@ -20,15 +20,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>English Language Teachers</strong>&nbsp;</h2>
+<h3><strong>English Language Teachers</strong>&nbsp;</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
@@ -75,15 +75,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2><strong>Mathematics Teachers</strong></h2>
+<h3><strong>Mathematics Teachers</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>No</strong></h3>
+<h4><strong>No</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Name</strong></h3>
+<h4><strong>Name</strong></h4>
 </td>
 </tr>
 <tr>
