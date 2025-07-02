@@ -1,28 +1,13 @@
 logo: /images/zps official school crest.jpg
 links:
-  - title: Welcome to ZPS-tbc
-    url: /welcome-to-zps-tbc/principals-message/
-    sublinks:
-      - title: Principal's Message
-        url: /welcome-to-zps/principals-message/
-      - title: Vision, Mission, Values
-        url: /welcome-to-zps/vision-mission-values/
-      - title: School History
-        url: /welcome-to-zps/school-history/
-      - title: School Crest and Song
-        url: /welcome-to-zps/school-crest-and-song/
-      - title: School Rules
-        url: /welcome-to-zps/school-rules/
-      - title: Contact Us
-        url: /welcome-to-zps/contact-us/
   - title: Welcome to ZPS
     collection: welcome-to-zps
   - title: Our Family
     collection: our-family
   - title: Our Distinctive Programmes
     collection: our-distinctive-programmes
-  - title: Our Learning Experiences-tbc
-    url: /our-learning-experiences-tbc/curriculum/english-language/
+  - title: Our Learning Experiences
+    url: /our-learning-experiences/curriculum/english-language/
     sublinks:
       - title: English Language
         url: /our-learning-experiences/curriculum/english-language/
@@ -44,7 +29,5 @@ links:
         url: /our-learning-experiences/curriculum/programme-for-active-learning/
       - title: Co-Curriculum Activities
         url: /our-learning-experiences/co-curriculum-activities/co-curriculum-activities/
-  - title: Our Learning Experiences
-    collection: our-learning-experiences
   - title: Useful Links And Info
     collection: useful-links-and-information
