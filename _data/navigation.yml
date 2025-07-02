@@ -21,8 +21,8 @@ links:
     collection: our-family
   - title: Our Distinctive Programmes
     collection: our-distinctive-programmes
-  - title: Our Learning Experiences
-    url: /our-learning-experiences/curriculum/english-language/
+  - title: Our Learning Experiences-tbc
+    url: /our-learning-experiences-tbc/curriculum/english-language/
     sublinks:
       - title: English Language
         url: /our-learning-experiences/curriculum/english-language/
@@ -44,5 +44,7 @@ links:
         url: /our-learning-experiences/curriculum/programme-for-active-learning/
       - title: Co-Curriculum Activities
         url: /our-learning-experiences/co-curriculum-activities/co-curriculum-activities/
+  - title: Our Learning Experiences
+    collection: about-zps
   - title: Useful Links And Info
     collection: useful-links-and-information
