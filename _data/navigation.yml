@@ -1,7 +1,7 @@
 logo: /images/zps official school crest.jpg
 links:
-  - title: Welcome to ZPS
-    url: /welcome-to-zps/principals-message/
+  - title: Welcome to ZPS-tbc
+    url: /welcome-to-zps-tbc/principals-message/
     sublinks:
       - title: Principal's Message
         url: /welcome-to-zps/principals-message/
@@ -15,6 +15,8 @@ links:
         url: /welcome-to-zps/school-rules/
       - title: Contact Us
         url: /welcome-to-zps/contact-us/
+  - title: Welcome to ZPS
+    collection: welcome-to-zps
   - title: Our Family
     collection: our-family
   - title: Our Distinctive Programmes
