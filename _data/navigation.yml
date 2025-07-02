@@ -15,21 +15,23 @@ links:
         url: /welcome-to-zps/school-rules/
       - title: Contact Us
         url: /welcome-to-zps/contact-us/
-  - title: Our Family
+  - title: Our Family-tbc
     url: /list-of-teaching-staff/school-executive-committee/
     sublinks:
       - title: School Executive Committee
-        url: /our-family/school-executive-committee/
+        url: /our-family-tbc/school-executive-committee/
       - title: Teacher Leaders
-        url: /our-family/teacher-leaders/
+        url: /our-family-tbc/teacher-leaders/
       - title: Teaching Staff
-        url: /our-family/teaching-staff/
+        url: /our-family-tbc/teaching-staff/
       - title: Executive & Administrative
-        url: /our-family/executive-and-administrative-staff/
+        url: /our-family-tbc/executive-and-administrative-staff/
       - title: School Advisory Committee
-        url: /our-family/school-advisory-committee/
+        url: /our-family-tbc/school-advisory-committee/
       - title: Parent Support Group
-        url: /our-family/parent-support-group/
+        url: /our-family-tbc/parent-support-group/
+  - title: Our Family
+    collection: our-family
   - title: Our Distinctive Programmes
     collection: our-distinctive-programmes
   - title: Our Learning Experiences
