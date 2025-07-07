@@ -2,7 +2,6 @@ collections:
   about-zps:
     output: true
     order:
-      - Motto,Mission,Vision & Values.md
       - School History.md
       - School Song.md
       - Key Personnel.md
