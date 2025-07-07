@@ -1,5 +1,5 @@
 collections:
-  school-compound:
+  school-compound-tbc:
     output: true
     order:
       - School Compound.md
