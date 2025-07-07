@@ -1,5 +1,0 @@
-collections:
-  about-zps1:
-    output: true
-    order:
-      - Teaching Staff.md
