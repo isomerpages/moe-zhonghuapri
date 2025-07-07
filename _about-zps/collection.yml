@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Teaching Staff.md
-      - Non Teaching Staff.md
       - School Advisory Committee.md
