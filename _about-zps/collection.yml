@@ -2,7 +2,6 @@ collections:
   about-zps:
     output: true
     order:
-      - Principal's Message.md
       - Motto,Mission,Vision & Values.md
       - School History.md
       - School Song.md
