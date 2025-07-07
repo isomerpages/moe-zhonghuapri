@@ -2,6 +2,7 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - School History.md
       - Motto,Mission,Vision & Values.md
       - Principal's Message.md
       - Appreciation and Feedback.md
