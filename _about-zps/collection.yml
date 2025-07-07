@@ -2,7 +2,6 @@ collections:
   about-zps:
     output: true
     order:
-      - School History.md
       - School Song.md
       - Key Personnel.md
       - Teaching Staff.md
