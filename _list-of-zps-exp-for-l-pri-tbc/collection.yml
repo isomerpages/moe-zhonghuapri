@@ -1,5 +1,5 @@
 collections:
-  list-of-zps-exp-for-lower-pri:
+  list-of-zps-exp-for-l-pri-tbc:
     output: true
     order:
       - Circle Time.md
