@@ -1,5 +1,5 @@
 collections:
-  teaching-staff:
+  list-of-teaching-staff:
     output: true
     order:
       - School Executive Committee.md
