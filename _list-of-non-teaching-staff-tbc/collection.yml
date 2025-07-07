@@ -1,5 +1,5 @@
 collections:
-  list-of-non-teaching-staff1:
+  list-of-non-teaching-staff-tbc:
     output: true
     order:
       - Allied Educators.md
