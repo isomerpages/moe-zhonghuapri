@@ -19,5 +19,4 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
-      url: https://www.zhonghuasec.moe.edu.sg/
 ---
