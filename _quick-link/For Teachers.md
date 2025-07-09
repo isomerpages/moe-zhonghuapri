@@ -34,6 +34,18 @@ description: ""
 <p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" rel="noopener nofollow" target="_blank">iExams 2</a>
 </p>
 </li>
+<li>
+<p><a href="https://form.gov.sg/68665167a0c01e561d4e6081" rel="noopener nofollow" target="_blank">Request Form To Reset / Unlock MIMS And/Or SLS Account</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/forms/d/1FosWhFR5XKaYEm6z_XtwQVjfG8pe4KMgGw4vyGp7FN4/edit" rel="noopener nofollow" target="_blank">AVA Operational Fault Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScVFaHsvuorx76o82hokutx0-9TnbRAMcqj3142M3pC0mpoQA/viewform" rel="noopener nofollow" target="_blank">Fault Reporting Form</a>
+</p>
+</li>
 </ul>
 <h2><strong>Professional Development</strong></h2>
 <ul data-tight="true" class="tight">
@@ -58,4 +70,5 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>

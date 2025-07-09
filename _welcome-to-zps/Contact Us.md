@@ -214,7 +214,7 @@ description: ""
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>enquiry@learningstudioeducare.com</u></a>
+<p><a href="mailto:enquiry@learningstudioeducare.com" rel="noopener noreferrer nofollow" target="_blank"><u>enquiry@learningstudioeducare.com</u></a>
 </p>
 </td>
 </tr>
@@ -307,7 +307,7 @@ description: ""
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>getintouch@shirleyuni.com</u></a>
+<p><a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank"><u>getintouch@shirleyuni.com</u></a>
 </p>
 </td>
 </tr>
@@ -397,7 +397,7 @@ time.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@printpak.com.sg</u></a>
+<p><a href="mailto:info@printpak.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@printpak.com.sg</u></a>
 </p>
 </td>
 </tr>
@@ -507,7 +507,7 @@ team will respond within 1-3 working days.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>If you are unable to get through to any of the clinics above, please email
-to: <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Contact_YPS@hpb.gov.sg</u></a>
+to: <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Contact_YPS@hpb.gov.sg</u></a>
 </p>
 </td>
 </tr>

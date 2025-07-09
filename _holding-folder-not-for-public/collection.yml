@@ -2,6 +2,15 @@ collections:
   holding-folder-not-for-public:
     output: true
     order:
+      - School Compound.md
+      - Admin Matter.md
+      - School Advisory Committee1.md
+      - Non Teaching Staff.md
+      - Key Personnel.md
+      - School Song.md
+      - School History.md
+      - Motto,Mission,Vision & Values.md
+      - Principal's Message.md
       - Appreciation and Feedback.md
       - Outdoor Leadership and Environmental Programme (OLE).md
       - Testimonials from Parents WIP.md

@@ -1,6 +1,6 @@
 ---
-title: School Advisory Committee
-permalink: /about-zps/school-advisory-committee/
+title: School Advisory Committee1
+permalink: /about-zps/school-advisory-committee1/
 variant: tiptap
 description: ""
 ---
