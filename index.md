@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gif heronew 10 april.gif
+      background: /images/11 July 2024 E
+        OpenHouseBanner/Banner_for_Website__1920_x_720_px_.jpg
       variant: center
       key_highlights:
         - title: Quick Link
