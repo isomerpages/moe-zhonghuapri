@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/11 July 2024 E
-        OpenHouseBanner/Banner_for_Website__1920_x_720_px_.jpg
+        OpenHouseBanner/2025_zps_openhouse_website_banner.jpg
       variant: center
       key_highlights:
         - title: Quick Link
