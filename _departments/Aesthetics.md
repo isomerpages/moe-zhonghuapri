@@ -42,19 +42,19 @@ as defined below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term / Level</p>
+<h4><strong>Term / Level</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<h4><strong>Term 1</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<h4><strong>Term 2</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<h4><strong>Term 3</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<h4><strong>Term 4</strong></h4>
 </td>
 </tr>
 <tr>
