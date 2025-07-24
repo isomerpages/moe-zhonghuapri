@@ -69,13 +69,12 @@ T3W10 / 2 September<span style="mso-spacerun:yes"><br></span>
 (Tuesday)</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 No Session</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 Teacher's Day Celebration Week</td>
-
-</tr><tr height="46" style="mso-height-source:userset;height:34.5pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td colspan="3" height="46" class="xl72" width="750" style="height:34.5pt;width:563pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
-<center>
-Term 3 Break<br>(6 September – 14 September)
-</center></td>
-
-</tr><tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
+	</tr><tr>
+    <td style="text-align: center; vertical-align: middle; padding:10px" colspan="3">
+    <div>Term 3 Break<div>(6 Sepetmber - 14 September)</div>
+    </div></td>
+  </tr>
+<tr height="41" style="height:30.75pt;outline: 0px;margin-right:0px;padding-bottom:0px;padding-top:0px"><td height="41" class="xl70" width="215" style="height:30.75pt;border-top:none;width:161pt;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 T4W1 / 16 September<span style="mso-spacerun:yes"><br></span>
 (Tuesday)</td><td class="xl69" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
 No Session</td><td class="xl66" style="border-top:none;border-left:none;outline: 0px;margin-right:0px;padding-bottom:2px;padding-top:2px">
