@@ -69,10 +69,10 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Sports               and                       Games</strong></h4>
+<h4><strong>Sports and Games</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Performing      Arts</strong></h4>
+<h4><strong>Performing Arts</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><strong>Clubs and Uniformed Groups</strong></h4>
