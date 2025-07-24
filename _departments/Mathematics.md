@@ -9,7 +9,11 @@ variant: tiptap
 <br>1. Fun with Mathematics
 <br>This programme aims to make learning of Mathematics joyful and relevant
 to their everyday life by providing them with meaningful learning experiences.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -21,10 +25,10 @@ to their everyday life by providing them with meaningful learning experiences.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<h4><strong>Level</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event</p>
+<h4><strong>Event</strong></h4>
 </td>
 </tr>
 <tr>
