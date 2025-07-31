@@ -20,7 +20,7 @@ important platforms to inculcate good values in our students, as well as
 to develop them with competencies to adapt to the demands of the 21st century.
 <br>
 <br><strong>Timeframe for CCA Work Year 2025</strong>
-<br>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
+<br>CCAs will commence in <a href="/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
 run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2-2025/" rel="noopener nofollow" target="_blank">Oct/Nov 2025</a>.
 <br>
 <br><strong>CCA Policy in ZPS</strong>
