@@ -164,7 +164,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Term 3 Break (6 September - 14 September)</strong></h4>
+<h4><strong>Term 3 Break (6 September - 14 September) </strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
