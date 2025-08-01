@@ -4,7 +4,7 @@ permalink: /cca/cca-information/list-of-cca/
 description: ""
 variant: tiptap
 ---
-<h3><strong>CCA Information</strong></h3>
+<h3><strong>Co Curriculum Activities</strong></h3>
 <p><strong>CCA Programmes in ZPS</strong>
 <br>CCA is an important part of our students’ holistic education. In ZPS,
 we offer a wide range of CCAs, catering to the varied interest and capabilities
