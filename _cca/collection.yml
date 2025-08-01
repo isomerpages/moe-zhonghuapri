@@ -2,4 +2,4 @@ collections:
   cca:
     output: true
     order:
-      - CCA Information.md
+      - Co Curriculum Activities.md
