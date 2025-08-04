@@ -13,7 +13,6 @@ Students
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *   [Touch Typing Practice](http://www.bbc.co.uk/schools/typing/)
 *   [NADI: Malay Language Magazine](http://nadi.edumall.sg/)
-*    [Mekar Dalam Talian](http://tinta.edumall.sg/mekar/slot/u112/ML/index.html)
 *   [Namnaadi: Tamil E-Magazine](http://namnaadi.edumall.sg/)
 *   [Sangamam: Tamil Portal](http://sangamam.edumall.sg/)
 *   [Blitz: Art Online Gallery](http://blitx.edumall.sg/)
