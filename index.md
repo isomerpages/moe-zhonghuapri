@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/11 July 2024 E
-        OpenHouseBanner/2025_zps_openhouse_website_banner.jpg
+      background: /images/gif heronew 10 april.gif
       variant: center
       key_highlights:
         - title: Quick Link

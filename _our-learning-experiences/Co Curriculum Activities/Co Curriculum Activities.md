@@ -20,8 +20,8 @@ important platforms to inculcate good values in our students, as well as
 to develop them with competencies to adapt to the demands of the 21st century.
 <br>
 <br><strong>Timeframe for CCA Work Year 2025</strong>
-<br>CCAs will commence in <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
-run till <a href="https://zhonghuapri.moe.edu.sg/list-of-cca-schedule/cca-schedule-for-semester-2-2025/" rel="noopener nofollow" target="_blank">Oct/Nov 2025</a>.
+<br>CCAs will commence in <a href="/list-of-cca-schedule/cca-schedule-for-semester-1-2025/" rel="noopener nofollow" target="_blank">January 2025</a> and
+run till <a href="/list-of-cca-schedule/cca-schedule-for-semester-2-2025/" rel="noopener nofollow" target="_blank">Oct/Nov 2025</a>.
 <br>
 <br><strong>CCA Policy in ZPS</strong>
 <br>1. CCA will be offered to all P3 to P6 students.
@@ -70,13 +70,13 @@ are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports and Games</p>
+<h4><strong>Sports and Games</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts</p>
+<h4><strong>Performing Arts</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clubs and Uniformed Groups</p>
+<h4><strong>Clubs and Uniformed Groups</strong></h4>
 </td>
 </tr>
 <tr>

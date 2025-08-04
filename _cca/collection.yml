@@ -1,5 +1,0 @@
-collections:
-  cca:
-    output: true
-    order:
-      - CCA Information.md
