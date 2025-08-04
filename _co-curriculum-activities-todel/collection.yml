@@ -1,5 +1,5 @@
 collections:
-  co-curriculum-activities:
+  co-curriculum-activities-todel:
     output: true
     order:
       - Co Curriculum Activities.md
