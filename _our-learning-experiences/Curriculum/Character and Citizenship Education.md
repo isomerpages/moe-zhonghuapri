@@ -36,7 +36,4 @@ with heart in an ever-changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/CCE/4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/CCE/5.png">
-</div>
 <p></p>
