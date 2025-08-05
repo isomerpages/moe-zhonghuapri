@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-<h2><strong>Scouts CCA at Zhonghua Primary School</strong></h2>
+<h2><strong>Scouts CCA </strong></h2>
 <p>Scouts CCA offers an adventurous and enriching experience where students
 grow into confident, responsible, and community-minded individuals. As
 part of the Singapore Scouts Association, our Scouts develop essential
