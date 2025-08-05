@@ -20,3 +20,17 @@ and language competitions further enhance their linguistic confidence and
 cultural appreciation. We aim to nurture bilingual and bicultural individuals
 who not only use their Mother Tongue Languages effectively but also take
 pride in their roots and traditions in an increasingly globalised world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/4.png">
+</div>
+<p></p>
