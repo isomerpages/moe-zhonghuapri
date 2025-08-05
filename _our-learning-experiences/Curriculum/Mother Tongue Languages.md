@@ -38,4 +38,7 @@ pride in their roots and traditions in an increasingly globalised world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/6.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Mother Tongue/7.png">
+</div>
 <p></p>
