@@ -124,7 +124,7 @@ authentic contexts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>High Ability Learners (HAL) Poster Competition</h4>
+<h4>                         High Ability Learners (HAL) Poster Competition</h4>
 </td>
 </tr>
 </tbody>
