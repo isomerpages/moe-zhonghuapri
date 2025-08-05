@@ -5,13 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Mother Tongue Languages</strong></h2>
-<p><strong>Mission</strong> 
-<br>To instil in our pupils a love for their Mother Tongue and heritage.</p>
-<p><strong>Vision</strong> 
-<br>Confident users of Mother Tongue Language who take pride in their Mother
-Tongue and heritage.</p>
-<p>Please visit individual mother tongue language page for more detail.
-<br>1. <a href="/list-of-mother-tongue-links/chinese-language/" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a> 
-<br>2. <a href="/list-of-mother-tongue-links/malay-language/" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a> 
-<br>3. <a href="/list-of-mother-tongue-links/tamil-language-and-programmes/" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
-</p>
+<p>At Zhonghua Primary School, the Mother Tongue Languages (MTL) Department
+plays a vital role in nurturing our students’ cultural identity and communication
+skills through the learning of Chinese, Malay, and Tamil languages. Guided
+by the principles of the Mother Tongue Language curriculum, our programme
+is designed to help students develop a strong foundation in listening,
+speaking, reading, and writing, while fostering an appreciation of the
+rich heritage and values embedded in each language. Through interactive
+approaches such as storytelling, drama, cultural immersion activities,
+and digital learning tools, students experience the language in authentic
+and engaging ways. Signature programmes like Cultural Camp, Reading Weeks,
+and language competitions further enhance their linguistic confidence and
+cultural appreciation. We aim to nurture bilingual and bicultural individuals
+who not only use their Mother Tongue Languages effectively, but also take
+pride in their roots and traditions in an increasingly globalised world.</p>
