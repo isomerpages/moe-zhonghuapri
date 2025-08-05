@@ -12,7 +12,7 @@ students as inquirers who can make sense of the world around them through
 the lens of science. Our engaging learning experiences develop not only
 conceptual understanding and process skills but also strengthen students’
 ability to apply scientific knowledge to real-life situations in responsible
-and ethical ways . Through hands-on investigations, Science outdoor learning,
+and ethical ways. Through hands-on investigations, Science outdoor learning,
 and our signature LLP in Environmental Education, students learn to ask
 questions, explore ideas, and think critically about global and local issues.
 Emphasising the development of values such as responsibility, curiosity
