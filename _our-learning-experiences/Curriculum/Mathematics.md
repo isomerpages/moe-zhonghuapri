@@ -40,7 +40,6 @@ authentic contexts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/5.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/6.png">
 </div>
