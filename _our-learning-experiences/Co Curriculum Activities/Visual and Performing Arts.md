@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-<h2><strong>Visual and Performing Arts</strong></h2>
+<h2><strong>Visual and Performing Arts CCAs</strong></h2>
 <p>Our Visual and Performing Arts CCAs—including Chinese Dance, Malay Dance,
 Indian Dance, Choir, and Art Club—offer vibrant platforms for students
 to explore their creativity, build confidence, and express themselves through
