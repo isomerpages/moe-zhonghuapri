@@ -29,6 +29,9 @@ authentic contexts.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P2 Play with Money Activity" src="/images/Department Photos/Math/P2_Fun_with_Math_money_1_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +80,7 @@ authentic contexts.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lower Primary Fun with Math Activity" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Lower Primary Fun with Math Activity" src="/images/Department Photos/Math/P2_Fun_with_Math_money_1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
