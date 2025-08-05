@@ -5,26 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Science</strong></h2>
-<p><strong>Mission</strong> 
-<br>Engaged Learning through IDEAs.
-<br>(Inquiry, Discovery, Exploration and Applications)</p>
-<p><strong>Vision</strong> 
-<br>Individuals with inquiring minds and a Passion for Science.</p>
-<p><strong>Rationale</strong> 
-<br>Science teaching aims to inculcate the spirit of inquiry and a passion
-for Science, resulting in our pupils being engaged and excited about learning
-Science. We hope that pupils value Science and see it as a meaningful and
-important tool in helping them to explore the world that they live in.</p>
-<p><strong>Aims</strong> 
-<br>The Science department aims to:
-<br>1. provide our pupils with first-hand opportunities to physically Inquire,
-Discover and Explore Science through a variety of teaching strategies/approaches
-and stimulating activities.
-<br>2. provide pupils with basic scientific terms and concepts to help them
-understand themselves and the world around them.
-<br>3. provide pupils with opportunities to develop skills, habits of mind
-and attitudes necessary for scientific inquiry thus Applying Science to
-the world they live in.
-<br>4. equip pupils with ethics and attitudes hence allowing them to make
-informed decisions and take responsible actions towards the environment
-they live in.</p>
+<p>The Science Department is dedicated to sparking curiosity and developing
+scientific literacy in every child. Our curriculum is designed to nurture
+students as inquirers who can make sense of the world around them through
+the lens of science. Our engaging learning experiences develop not only
+conceptual understanding and process skills but also strengthen students’
+ability to apply scientific knowledge to real-life situations in responsible
+and ethical ways . Through hands-on investigations, Science outdoor learning,
+and our signature LLP in Environmental Education, students learn to ask
+questions, explore ideas, and think critically about global and local issues.
+Emphasising the development of values such as responsibility, curiosity
+and integrity, our science curriculum seeks to inspire a lifelong interest
+in science while equipping students with the competencies needed to navigate
+an increasingly complex and interconnected world.</p>
