@@ -28,13 +28,11 @@ authentic contexts.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P2 Play with Money Activity" src="/images/Department Photos/Math/P2_Fun_with_Math_money_1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Play Money Activity" src="/images/Department Photos 2025/Math/P2_Fun_with_Math_money_1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Math Show and Tell about Shapes" src="/images/Department Photos 2025/Math/Show_n_tell.gif">
 </div>
@@ -86,7 +84,7 @@ authentic contexts.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lower Primary Fun with Math Activity" src="/images/Department Photos/Math/P2_Fun_with_Math_money_1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lower Primary Fun with Math Activity" src="/images/Department Photos 2025/Math/P2_Fun_with_Math_money_1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
