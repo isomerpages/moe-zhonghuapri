@@ -7,21 +7,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/2023%20scouts%20gif.gif">
 </div>
-<p>Scouts CCA aims to build and develop life skills that can help its members
-to face and overcome challenges with confidence. Through a focus on 21CC
-Competencies, Scouts activities foster teamwork, critical thinking, adaptability
-and communication skills, empowering students to thrive in an ever-changing
-world. Scouts CCA also build up students’ leadership skills, a sense of
-adventure and outdoor expertise, enabling members to make positive contributions
-to the school and society. With exciting activities such as outdoor cooking,
-campfires, hiking and competitions, Scouts nurture resilience, collaboration
-and a strong sense of responsibility, preparing students to excel in both
-life and community.</p>
-<p><strong>Teachers-In-Charge</strong> 
-<br>Mdm Mageswari Kanapathy (Main)
-<br>Mr Benny Lau</p>
-<p><strong>Main Contact</strong>: <a href="mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mageswari_kanapathy@schools.gov.sg</a>
-</p>
-<p><strong>CCA Schedule</strong> 
-<br>Tuesday
-<br>2.00pm – 4.00pm</p>
+<p>Scouts CCA offers an adventurous and enriching experience where students
+grow into confident, responsible, and community-minded individuals. As
+part of the Singapore Scouts Association, our Scouts develop essential
+life skills through exciting hands-on activities such as outdoor cooking,
+campfires, knot-tying, and nature hikes. Aligned with 21st Century Competencies,
+the programme nurtures resilience, teamwork, critical thinking, and leadership
+in every Scout. Whether taking on outdoor challenges or contributing to
+meaningful community initiatives, our Scouts learn to lead with integrity
+and adapt with courage—equipping them to thrive in school and in life.</p>
