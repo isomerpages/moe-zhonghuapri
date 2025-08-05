@@ -23,3 +23,16 @@ to peers, and proudly present their digital creations. These experiences
 not only ignite their digital creativity and innovation but also cultivate
 resilience, communication, and collaborative problem-solving – key traits
 of confident digital learners and creators.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/4.png">
+</div>
+<p></p>
