@@ -35,9 +35,15 @@ authentic contexts.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Math Show and Tell about Shapes" src="/images/Department Photos 2025/Math/Show_n_tell.gif">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Math @ Home Activity" src="/images/Department Photos 2025/Math/Home_math.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -90,7 +96,7 @@ authentic contexts.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Show and Tell Activity" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Math Show and Tell Activity" src="/images/Department Photos 2025/Math/Show_n_tell.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -100,7 +106,7 @@ authentic contexts.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math @ Home Activity" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Math @ Home Activity" src="/images/Department Photos 2025/Math/Home_math.png">
 </div>
 </div>
 <div class="isomer-card-body">
