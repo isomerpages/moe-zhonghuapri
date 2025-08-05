@@ -56,25 +56,38 @@ authentic contexts.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/Presentation1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/Using_number_discs_to_form_numbers.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HAL Program Poster Competition</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2023 SBPT Group Work in Problem Solving</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Work Activity in Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/2__HAL_Poster.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>HAL Program Poster Competition</p>
 </td>
 </tr>
 </tbody>
@@ -109,6 +122,36 @@ authentic contexts.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Math @ Home Activity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="High Ability Learners Poster Competition" src="/images/Department Photos 2025/Math/2__HAL_Poster.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">High Ability Learners Poster Competition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2023 SBPT Group Work in Problem Solving" src="/images/Department Photos 2025/Math/Presentation1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2023 SBPT Group Work in Problem Solving</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Work Activity in Class" src="/images/Department Photos 2025/Math/Using_number_discs_to_form_numbers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Group Work Activity in Class</div>
 </div>
 </div>
 </div>
