@@ -4,9 +4,8 @@ permalink: /list-of-cca/scouts/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/2023%20scouts%20gif.gif">
-</div>
+<p><strong>Scouts CCA at Zhonghua Primary School</strong>
+</p>
 <p>Scouts CCA offers an adventurous and enriching experience where students
 grow into confident, responsible, and community-minded individuals. As
 part of the Singapore Scouts Association, our Scouts develop essential
@@ -16,3 +15,7 @@ the programme nurtures resilience, teamwork, critical thinking, and leadership
 in every Scout. Whether taking on outdoor challenges or contributing to
 meaningful community initiatives, our Scouts learn to lead with integrity
 and adapt with courage—equipping them to thrive in school and in life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/2023%20scouts%20gif.gif">
+</div>
+<p></p>
