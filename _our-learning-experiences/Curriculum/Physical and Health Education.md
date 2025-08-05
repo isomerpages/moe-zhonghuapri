@@ -20,4 +20,25 @@ for their own physical well-being, make informed choices about their health,
 and develop a lifelong appreciation for physical activity. Through these
 experiences, we aim to nurture positive attitudes that will empower them
 to lead active and fulfilling lives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/8.png">
+</div>
 <p></p>
