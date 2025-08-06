@@ -2,10 +2,10 @@ collections:
   useful-links-and-information:
     output: true
     order:
-      - Upper Primary (P5 & P6).md
-      - Middle Primary (P3 & P4).md
-      - Lower Primary (P1 & P2).md
       - General.md
+      - Lower Primary (P1 & P2).md
+      - Middle Primary (P3 & P4).md
+      - Upper Primary (P5 & P6).md
       - Information On Subject Based Banding.md
       - Information On PSLE.md
       - P1 Orientation Google Site.md
