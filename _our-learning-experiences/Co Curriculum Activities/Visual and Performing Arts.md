@@ -23,6 +23,10 @@ appreciation for the arts.</p>
 <summary>Chinese Dance Info</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/zps official school crest.jpg">
+</div>
+<p></p>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Kwek Wei Ting (Main - Thursdays)
 <br>Ms Fiona Lim &amp; Mrs Serene Chew (Tuesdays)</p>
