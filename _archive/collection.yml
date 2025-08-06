@@ -1,4 +1,5 @@
 collections:
   archive:
     output: true
-    order: []
+    order:
+      - Information On Subject Based Banding.md
