@@ -1,5 +1,4 @@
 collections:
   for-parents:
     output: true
-    order:
-      - General Info.md
+    order: []
