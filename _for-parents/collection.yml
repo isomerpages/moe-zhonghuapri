@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - General Info.md
-      - Middle Primary (P3 & P4).md
       - Upper Primary (P5 & P6).md
