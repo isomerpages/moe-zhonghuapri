@@ -2,7 +2,6 @@ collections:
   quick-link:
     output: true
     order:
-      - Lower Primary (P1 & P2).md
       - For Parents/.keep
       - For Students.md
       - For Teachers.md
