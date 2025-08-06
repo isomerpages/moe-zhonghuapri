@@ -23,3 +23,62 @@ solutions to resolve environmental issues, and lead in the sharing of environmen
 knowledge. Through these hands-on experiences, our students develop critical
 thinking, teamwork, and resilience—emerging as confident, future-ready
 learners empowered to make a positive impact on the world.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Infocomm Technology Club</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Mrs Shirley Yeh (Main)
+<br>Ms Chen Guiyun</p>
+<p></p>
+<p><strong>Main Contact</strong>: <a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ai_li_shirleywijaya@schools.gov.sg</u></a>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Environmental Science Club</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Mr Christopher Lee (Advisor)
+<br>Mrs Chang-Hsu (Main)
+<br>Ms Bettina Chiang</p>
+<p></p>
+<p><strong>Main Contact</strong>: <a href="mailto:hsu_hui-chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Art Club</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Ms Constance Chong (Main)
+<br>Ms Laura Tan</p>
+<p></p>
+<p><strong>Main Contact</strong>: <a href="https://www.zhonghuapri.moe.edu.sg/list-of-cca/art-club/chong_hui_min_constance@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_hui_min_constance@schools.gov.sg</u></a>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm</p>
+</div>
+</details>
+</div>
+<p></p>
