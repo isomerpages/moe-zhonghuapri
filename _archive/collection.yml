@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Information On PSLE.md
       - Information On Subject Based Banding.md
