@@ -16,18 +16,23 @@ in every Scout. Whether taking on outdoor challenges or contributing to
 meaningful community initiatives, our Scouts learn to lead with integrity
 and adapt with courage—equipping them to thrive in school and in life.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Scouts/1.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Scouts Info</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Scouts/2.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Mageswari Kanapathy (Main)
-<br>Mr Benny Lau</p>
-<p>Ms Wee Jer' Valle</p>
-<p>Mdm Jaya</p>
+<br>Mr Benny Lau
+<br>Ms Wee Jer' Valle
+<br>Mdm Jaya</p>
 <p></p>
-<p><strong>Main Contact</strong>: <a href="https://www.zhonghuapri.moe.edu.sg/list-of-cca/scouts/mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mageswari_kanapathy@schools.gov.sg</u></a>
+<p><strong>Main Contact</strong>: <a href="mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mageswari_kanapathy@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p><strong>CCA Schedule</strong>
