@@ -2,6 +2,7 @@ collections:
   useful-links-and-information:
     output: true
     order:
+      - MIddle Primary.md
       - Lower Primary.md
       - General.md
       - Information On Subject Based Banding.md
