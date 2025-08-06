@@ -19,13 +19,15 @@ our young artists grow into confident, resilient individuals with a deep
 appreciation for the arts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Chinese Dance/VAP_Website_Photo_Template.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/1.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Chinese Dance Info</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/2.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Chinese Dance/VAP_Website_Photo_Template.png">
 </div>
@@ -44,11 +46,16 @@ appreciation for the arts.</p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/3.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Malay Dance Info</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/4.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Nurul Hafiqa B Osman (Main - Tuesday &amp; Thursday on a rotation basis)
 <br>Ms Leong Shi Ern (Tuesday &amp; Thursday on a rotation basis)</p>
@@ -64,11 +71,16 @@ appreciation for the arts.</p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/5.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Indian Dance Info</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/6.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Suriana B Samat (Main - Tuesdays)
 <br>Mrs Michelle Goh (Thursdays)
@@ -84,11 +96,16 @@ appreciation for the arts.</p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/7.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Choir</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/8.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Feng Yijun (Main - Tuesday &amp; Thursday on a rotation basis)
 <br>Ms Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
