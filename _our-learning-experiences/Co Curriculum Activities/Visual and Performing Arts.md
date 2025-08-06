@@ -17,3 +17,13 @@ CCAs have consistently achieved strong results at the Singapore Youth Festival
 and talent. Whether performing on stage or creating imaginative artworks,
 our young artists grow into confident, resilient individuals with a deep
 appreciation for the arts.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teacher in-charge and CCA schedule</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
