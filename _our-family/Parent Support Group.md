@@ -19,7 +19,7 @@ part of our ZEST family, we would be delighted to welcome you. Come join
 us and embark on a fulfilling journey with your child as a Parent Volunteer.
 Together, we can create a cheerful &amp;amp; enriching experience for you
 and your child in Zhonghua!</p>
-<p>Register <a href="https://form.gov.sg/63f724efcc10f10013996ea6" rel="noopener nofollow" target="_blank">online</a> now!</p>
+<p>Register <a href="https://go.gov.sg/zpszest" rel="noopener nofollow" target="_blank">online</a> now!</p>
 <div class="iframe-wrapper">
 <iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bzS-0BK4MaU"></iframe>
 </div>
