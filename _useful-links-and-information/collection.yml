@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Upper Primary (P5 & P6).md
-      - MIddle Primary.md
+      - Middle Primary (P3 & P4).md
       - Lower Primary.md
       - General.md
       - Information On Subject Based Banding.md
