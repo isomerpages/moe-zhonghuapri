@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - MOE Cyberwellness Resource.md
       - Collection Of Data.md
       - Primary Education.md
       - Notes To Parents & Guardians.md
