@@ -58,4 +58,44 @@ appreciation for the arts.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Indian Dance Info</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Mdm Suriana B Samat (Main - Tuesdays)
+<br>Mrs Michelle Goh (Thursdays)
+<br>
+<br><strong>Main Contact</strong>: <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suriana_samat@schools.gov.sg</u></a>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm
+<br>Thursday
+<br>3.30pm – 5.30pm</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Choir</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Mdm Feng Yijun (Main - Tuesday &amp; Thursday on a rotation basis)
+<br>Ms Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
+<p></p>
+<p><strong>Main Contact</strong>: <a href="mailto:feng_yijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>feng_yijun@schools.gov.sg</u></a>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm
+<br>Thursday
+<br>3.30pm – 5.30pm</p>
+</div>
+</details>
+</div>
 <p></p>
