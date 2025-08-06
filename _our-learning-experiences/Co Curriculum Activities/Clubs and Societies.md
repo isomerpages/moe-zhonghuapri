@@ -23,12 +23,16 @@ solutions to resolve environmental issues, and lead in the sharing of environmen
 knowledge. Through these hands-on experiences, our students develop critical
 thinking, teamwork, and resilience—emerging as confident, future-ready
 learners empowered to make a positive impact on the world.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Infocomm Technology Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/2.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mrs Shirley Yeh (Main)
 <br>Ms Chen Guiyun</p>
@@ -42,12 +46,16 @@ learners empowered to make a positive impact on the world.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/3.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Environmental Science Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/4.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mr Christopher Lee (Advisor)
 <br>Mrs Chang-Hsu (Main)
@@ -62,12 +70,16 @@ learners empowered to make a positive impact on the world.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/5.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Art Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/6.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Constance Chong (Main)
 <br>Ms Laura Tan</p>
