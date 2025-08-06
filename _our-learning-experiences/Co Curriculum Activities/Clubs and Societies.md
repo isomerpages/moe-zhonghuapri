@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-<h2><strong>Clubs and Societies</strong></h2>
+<h2><strong>Clubs and Societies CCAs</strong></h2>
 <p>At Zhonghua Primary School, our Clubs and Societies—including the Environmental
 Science Club and Infocom Technology (ICT) Club—offer dynamic platforms
 for students to explore real-world issues through innovation and collaboration.
