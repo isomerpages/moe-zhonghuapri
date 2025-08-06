@@ -215,5 +215,15 @@ MOE website <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow"
 <p>For any query, please email us at <a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ps@moe.edu.sg</a>.&nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Insurance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h2><strong>Insurance</strong></h2>
+<p>Click <a href="https://go.gov.sg/2023-insurance-product-fact-sheet" rel="noopener noreferrer nofollow" target="_blank">product fact sheet</a> for
+Year 2023 and <a href="https://go.gov.sg/2023-insurance-user-guide" rel="noopener noreferrer nofollow" target="_blank">user guide</a>&nbsp;for
+submission.</p>
+</div>
+</details>
 </div>
 <p></p>
