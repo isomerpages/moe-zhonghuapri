@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Insurance.md
       - MOE Sexuality Programme.md
       - MOE Cyberwellness Resource.md
       - Collection Of Data.md
