@@ -18,6 +18,9 @@ and talent. Whether performing on stage or creating imaginative artworks,
 our young artists grow into confident, resilient individuals with a deep
 appreciation for the arts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Chinese Dance/VAP_Website_Photo_Template.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Chinese Dance Info</summary>
