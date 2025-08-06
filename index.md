@@ -15,7 +15,7 @@ sections:
           url: /link/for-students/
         - title: Quick Link
           description: For Parents
-          url: /link/for-parents/
+          url: /link/for-parents/general-info/
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
