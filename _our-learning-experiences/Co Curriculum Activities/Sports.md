@@ -37,7 +37,7 @@ students build mental toughness, coordination, and confidence.</p>
 <p>Mrs Fiona Wong - Tuesdays (2nd session)
 <br>Mr Ashiq / Mr Tang Qisheng - Rotation on Thursdays (2nd session)</p>
 <p></p>
-<p><strong>Main Contact</strong>: <a href="https://www.zhonghuapri.moe.edu.sg/list-of-cca/volleyball/ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_yen_tin@schools.gov.sg</u></a>
+<p><strong>Main Contact</strong>: <a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_yen_tin@schools.gov.sg</u></a>
 <br>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -99,7 +99,7 @@ students build mental toughness, coordination, and confidence.</p>
 <br>Mdm Daisy Yu
 <br>
 </p>
-<p><strong>Main Contact</strong>: <a href="https://www.zhonghuapri.moe.edu.sg/list-of-cca/modular-sports/junainah_mohamed_eusuff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junainah_mohamed_eusuff@schools.gov.sg</u></a>
+<p><strong>Main Contact</strong>: <a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junainah_mohamed_eusuff@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p><strong>CCA Schedule</strong>
