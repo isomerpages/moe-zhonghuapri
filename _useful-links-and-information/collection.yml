@@ -2,6 +2,7 @@ collections:
   useful-links-and-information:
     output: true
     order:
+      - Upper Primary (P5 & P6).md
       - MIddle Primary.md
       - Lower Primary.md
       - General.md
