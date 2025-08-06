@@ -23,6 +23,18 @@ appreciation for the arts.</p>
 <summary>Teacher in-charge and CCA schedule</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Teachers-In-Charge</strong>
+<br>Mdm Kwek Wei Ting (Main - Thursdays)
+<br>Ms Fiona Lim &amp; Mrs Serene Chew (Tuesdays)</p>
+<p></p>
+<p><strong>Main Contact</strong>:<a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a> 
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+<br>Tuesday
+<br>2.00pm – 4.00pm
+<br>Thursday
+<br>3.30pm – 5.30pm</p>
 </div>
 </details>
 </div>
