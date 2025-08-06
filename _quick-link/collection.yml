@@ -2,5 +2,6 @@ collections:
   quick-link:
     output: true
     order:
+      - For Parents/.keep
       - For Students.md
       - For Teachers.md
