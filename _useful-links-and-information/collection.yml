@@ -2,6 +2,7 @@ collections:
   useful-links-and-information:
     output: true
     order:
+      - Lower Primary.md
       - General.md
       - Information On Subject Based Banding.md
       - Information On PSLE.md
