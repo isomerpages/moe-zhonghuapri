@@ -76,7 +76,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lum Yuen Mei Michelle</p>
+<p>Mdm Lum Yuen Mei Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -84,7 +84,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Er Soo Chee Sern</p>
+<p>Mr Er Soo Chee Sern</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
