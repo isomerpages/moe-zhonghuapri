@@ -20,4 +20,16 @@ which showcases diverse student talents, further enrich the aesthetics
 experience. Together, these efforts aim to instill a lifelong love for
 the Arts and empower every student to express themselves meaningfully and
 confidently.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/4.png">
+</div>
 <p></p>
