@@ -30,5 +30,9 @@ links:
       - title: Co-Curriculum Activities
         url: /our-learning-experiences/co-curriculum-activities/cca-information
   - title: Our Social Media
-    url: /https://www.facebook.com/zhonghuaps
-    sublinks: []
+    url: /permanentlink
+    sublinks:
+      - title: Facebook
+        url: /https://www.facebook.com/zhonghuaps
+      - title: Instagram
+        url: https://www.instagram.com/zhonghuaps/
