@@ -32,7 +32,7 @@ and adapt with courage—equipping them to thrive in school and in life.</p>
 <br>Ms Wee Jer' Valle
 <br>Mdm Jaya</p>
 <p></p>
-<p><strong>Main Contact</strong>: <a href="mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mageswari_kanapathy@schools.gov.sg</u></a>
+<p><strong>Main Contact</strong>: <a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mageswari_kanapathy@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p><strong>CCA Schedule</strong>
