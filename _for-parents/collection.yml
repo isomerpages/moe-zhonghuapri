@@ -1,5 +1,5 @@
 collections:
-  useful-links-and-information:
+  for-parents:
     output: true
     order:
       - General.md
