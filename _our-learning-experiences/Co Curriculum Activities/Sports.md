@@ -20,11 +20,16 @@ committing to the rigour of competitive Football and Volleyball or exploring
 a variety of games like Floorball and Handball in our Modular Sports programme,
 students build mental toughness, coordination, and confidence.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Volleyball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/2.png">
+</div>
 <p><strong>Teachers In-Charge</strong>
 <br>Ms Ng Yen Tin (Main) - Thursdays (2nd session)
 <br>Mdm Isabelle Lim - Tuesdays (1st session)
@@ -51,12 +56,16 @@ students build mental toughness, coordination, and confidence.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/3.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Football</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/4.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mr Joshua Seow (Main - Tuesdays &amp; Thursdays)
 <br>Mr Firdaus (Tuesdays)
@@ -74,12 +83,16 @@ students build mental toughness, coordination, and confidence.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/5.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Modular Sports</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/6.png">
+</div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Junainah B Mohamed Eusuff (Main)
 <br>Mrs Chan Hong Wei
