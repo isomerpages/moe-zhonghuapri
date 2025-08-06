@@ -15,7 +15,7 @@ sections:
           url: /link/for-students/
         - title: Quick Link
           description: For Parents
-          url: /useful-links-and-information/information-on-subject-based-banding/
+          url: /for-parents/general
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
