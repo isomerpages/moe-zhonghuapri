@@ -16,10 +16,7 @@ in every Scout. Whether taking on outdoor challenges or contributing to
 meaningful community initiatives, our Scouts learn to lead with integrity
 and adapt with courage—equipping them to thrive in school and in life.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Scouts/1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Scouts/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Scouts/Copy_of_Scouts_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Mageswari Kanapathy (Main)
