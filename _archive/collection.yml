@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - MOE Cyberwellness Resource.md
       - Primary Education.md
       - Notes To Parents & Guardians.md
       - P1 Orientation Google Site.md
