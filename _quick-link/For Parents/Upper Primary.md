@@ -359,4 +359,10 @@ before taking the Primary School Leaving Examination (PSLE).</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">PSLE Scoring System</div><div class="isomer-card-description">From 2021, the PSLE scoring system will reflect your child's level of achievement through scoring bands.</div><div class="isomer-card-link">Click here to find out more.</div></div></a>
 </div>
+<h4>MOE Sexuality Programme (P5 &amp; P6)</h4>
+<p>Sexuality Education is conducted in schools from Primary 5 to junior colleges
+and Millennia Institute.</p>
+<p>Click here to find out what your child learns at each stage.</p>
+<p><a href="/files/Subject_Based_Banding_Briefing_Slides_2024.pdf" rel="noopener nofollow" target="_blank">DSA Briefing Slides</a>
+</p>
 <p></p>
