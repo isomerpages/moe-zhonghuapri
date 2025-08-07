@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/Information On PSLE.md
       - For Parents/Notes To Parents & Guardians.md
       - For Parents/Parents Gateway.md
       - For Parents/MOE Cyberwellness Resource.md
