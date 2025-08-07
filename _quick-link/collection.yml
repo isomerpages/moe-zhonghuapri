@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/MOE Sexuality Programme.md
       - For Parents/Insurance.md
       - For Parents/.keep
       - For Parents/General Info.md
