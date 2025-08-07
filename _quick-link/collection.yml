@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/Insurance.md
       - For Parents/.keep
       - For Parents/General Info.md
       - For Parents/Lower Primary.md
