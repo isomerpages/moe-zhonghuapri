@@ -2,4 +2,5 @@ collections:
   general-info-for-parents:
     output: true
     order:
+      - Collection Of Data.md
       - Notes To Parents & Guardians.md
