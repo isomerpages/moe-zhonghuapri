@@ -3,17 +3,17 @@ collections:
     output: true
     order:
       - For Students.md
-      - For Parents/Information On PSLE.md
-      - For Parents/Notes To Parents & Guardians.md
-      - For Parents/Parents Gateway.md
-      - For Parents/MOE Cyberwellness Resource.md
-      - For Parents/Leave of Absence (LOA) scheme.md
-      - For Parents/Collection Of Data.md
-      - For Parents/MOE Sexuality Programme.md
-      - For Parents/Insurance.md
       - For Parents/.keep
+      - For Parents/Notes To Parents & Guardians.md
+      - For Parents/Collection Of Data.md
+      - For Parents/Parents Gateway.md
+      - For Parents/Leave of Absence (LOA) scheme.md
+      - For Parents/Insurance.md
       - For Parents/General Info.md
       - For Parents/Lower Primary.md
       - For Parents/Middle Primary.md
       - For Parents/Upper Primary.md
+      - For Parents/Information On PSLE.md
+      - For Parents/MOE Cyberwellness Resource.md
+      - For Parents/MOE Sexuality Programme.md
       - For Teachers.md
