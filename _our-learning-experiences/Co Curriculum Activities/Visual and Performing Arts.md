@@ -25,7 +25,7 @@ appreciation for the arts.</p>
 <br>Ms Fiona Lim &amp; Mrs Serene Chew (Tuesdays)
 <br>
 </p>
-<p><strong>Main Contact</strong>:<a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a>
+<p><strong>Main Contact</strong>: <a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a>
 <br>
 </p>
 <p><strong>CCA Schedule</strong>
