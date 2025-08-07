@@ -349,8 +349,8 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zhonghuapri.moe.edu.sg/for-parents/moe-sexuality-programme/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">MOE Sexuality Programme (P5 &amp; P6)</div><div class="isomer-card-description">Sexuality Education is conducted in schools from Primary 5 to junior colleges and Millennia Institute. </div><div class="isomer-card-link">Click here to find out what your child learns at each stage.</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/secondary/dsa" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zhonghuapri.moe.edu.sg/for-parents/moe-sexuality-programme/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">MOE Sexuality Programme (P5 &amp; P6)</div><div class="isomer-card-description">Sexuality Education is conducted in schools from Primary 5 to junior colleges and Millennia Institute.</div><div class="isomer-card-link">Click here to find out what your child learns at each stage.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.zhonghuapri.moe.edu.sg/for-parents/moe-sexuality-programme/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Direct School Admission (DSA)</div>
 <div class="isomer-card-description">Primary 6 (P6) students can seek admission to certain secondary schools
