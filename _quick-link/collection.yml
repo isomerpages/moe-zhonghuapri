@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/Parents Gateway.md
       - For Parents/MOE Cyberwellness Resource.md
       - For Parents/Leave of Absence (LOA) scheme.md
       - For Parents/Collection Of Data.md
