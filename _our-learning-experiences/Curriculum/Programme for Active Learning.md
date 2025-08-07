@@ -16,6 +16,7 @@ strong emphasis on nurturing <strong>core values</strong> such as <strong>Respec
 and <strong>Care</strong>, while equipping students with vital <strong>social-emotional competencies</strong> like <strong>self-awareness</strong>, <strong>relationship management</strong>,
 and <strong>responsible decision-making</strong>. With a focus on process
 over product, PAL encourages creativity, teamwork, and confident self-expression
-in a fun, low-stress environment. It is a key part of our vision to nurture <strong>curious, compassionate and confident individuals</strong> who
+in a safe and encouraging environment where students can learn and grow
+at their own pace. It is a key part of our vision to nurture <strong>curious, compassionate and confident individuals</strong> who
 are ready to thrive both in school and in life.</p>
 <p></p>
