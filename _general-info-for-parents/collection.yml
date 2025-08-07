@@ -1,4 +1,5 @@
 collections:
   general-info-for-parents:
     output: true
-    order: []
+    order:
+      - Notes To Parents & Guardians.md
