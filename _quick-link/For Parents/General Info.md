@@ -20,10 +20,10 @@ you on the first day of school concerning class routines, expectations,
 and preferred modes of communication.
 <br>
 </p>
-<p>Please refer to the Pupil’s Diary 2023 for updated information and other
-useful information about the school. Do communicate with us through the
-diary, phone calls or emails. If you wish to see anyone of us, kindly make
-an appointment and wait at the General Office for the required staff member.
+<p>Please refer to the Pupil’s Diary for updated information and other useful
+information about the school. Do communicate with us through the diary,
+phone calls or emails. If you wish to see anyone of us, kindly make an
+appointment and wait at the General Office for the required staff member.
 <br>
 </p>
 <p>It is the child’s responsibility to ensure that they take down what needs
