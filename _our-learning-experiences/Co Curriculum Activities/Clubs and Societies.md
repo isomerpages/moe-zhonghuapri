@@ -24,10 +24,7 @@ knowledge. Through these hands-on experiences, our students develop critical
 thinking, teamwork, and resilience—emerging as confident, future-ready
 learners empowered to make a positive impact on the world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1920_x_1080_Infocomm_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mrs Shirley Yeh (Main)
@@ -40,10 +37,7 @@ learners empowered to make a positive impact on the world.</p>
 <br>2.00pm – 4.00pm</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1920_x_1080_ESC_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mr Christopher Lee (Advisor)
@@ -56,10 +50,7 @@ learners empowered to make a positive impact on the world.</p>
 <br>2.00pm – 4.00pm</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1920_x_1080_ART_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Constance Chong (Main)
