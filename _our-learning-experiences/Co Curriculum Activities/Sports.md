@@ -86,15 +86,11 @@ students build mental toughness, coordination, and confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/6.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-</p>
-<p>Mdm Junainah B Mohamed Eusuff (Main)</p>
-<p>Mrs Chan Hong Wei</p>
-<p>Mdm Daisy Yu</p>
-<p></p>
+<br>Mdm Junainah B Mohamed Eusuff (Main)
+<br>Mrs Chan Hong Wei
+<br>Mdm Daisy Yu</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junainah_mohamed_eusuff@schools.gov.sg</a>
-<br>
 </p>
 <p><strong>CCA Schedule</strong>
-</p>
-<p>Tuesday</p>
-<p>2.00pm – 3.45pm</p>
+<br>Tuesday
+<br>2.00pm – 3.45pm</p>
