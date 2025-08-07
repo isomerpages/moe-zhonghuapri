@@ -2,6 +2,7 @@ collections:
   general-info-for-parents:
     output: true
     order:
+      - MOE Cyberwellness Resource.md
       - Insurance.md
       - Leave of Absence (LOA) Scheme.md
       - Parents Gateway.md
