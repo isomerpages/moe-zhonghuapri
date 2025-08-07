@@ -26,33 +26,22 @@ learners empowered to make a positive impact on the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Infocomm Technology Club</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/2.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mrs Shirley Yeh (Main)
-<br>Ms Chen Guiyun</p>
-<p></p>
-<p><strong>Main Contact</strong>: <a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ai_li_shirleywijaya@schools.gov.sg</u></a>
+<br>Ms Chen Guiyun
+<br>
+<br><strong>Main Contact:</strong>  <a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_li_shirleywijaya@schools.gov.sg</a>
 </p>
-<p></p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
 <br>2.00pm – 4.00pm</p>
-</div>
-</details>
-</div>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/3.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Environmental Science Club</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/4.png">
 </div>
@@ -60,37 +49,24 @@ learners empowered to make a positive impact on the world.</p>
 <br>Mr Christopher Lee (Advisor)
 <br>Mrs Chang-Hsu (Main)
 <br>Ms Bettina Chiang</p>
-<p></p>
-<p><strong>Main Contact</strong>: <a href="mailto:hsu_hui-chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
-</p>
-<p></p>
-<p><strong>CCA Schedule</strong>
+<p><strong>Main Contact:</strong>  <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
+<br>
+<br><strong>CCA Schedule</strong>
 <br>Tuesday
 <br>2.00pm – 4.00pm</p>
-</div>
-</details>
-</div>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/5.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Art Club</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/6.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Constance Chong (Main)
 <br>Ms Laura Tan</p>
-<p></p>
-<p><strong>Main Contact</strong>: <a href="https://www.zhonghuapri.moe.edu.sg/list-of-cca/art-club/chong_hui_min_constance@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_hui_min_constance@schools.gov.sg</u></a>
+<p><strong>Main Contact:</strong>  <a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hui_min_constance@schools.gov.sg</a>
+<br>
 </p>
-<p></p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
 <br>2.00pm – 4.00pm</p>
-</div>
-</details>
-</div>
-<p></p>
