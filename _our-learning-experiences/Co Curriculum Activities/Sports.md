@@ -19,7 +19,6 @@ National School Games, showcasing grit, skill, and camaraderie. Whether
 committing to the rigour of competitive Football and Volleyball or exploring
 a variety of games like Floorball and Handball in our Modular Sports programme,
 students build mental toughness, coordination, and confidence.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1.png">
 </div>
