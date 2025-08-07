@@ -1,0 +1,4 @@
+collections:
+  general-info-for-parents:
+    output: true
+    order: []
