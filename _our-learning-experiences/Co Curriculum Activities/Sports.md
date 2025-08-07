@@ -20,10 +20,7 @@ committing to the rigour of competitive Football and Volleyball or exploring
 a variety of games like Floorball and Handball in our Modular Sports programme,
 students build mental toughness, coordination, and confidence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Volleyball_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers In-Charge</strong>
 <br>Ms Ng Yen Tin (Main) - Thursdays (2nd session)
@@ -48,10 +45,7 @@ students build mental toughness, coordination, and confidence.</p>
 <br>3.30pm - 5.00pm (P5 Boys &amp; Girls)</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Football_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mr Joshua Seow (Main - Tuesdays &amp; Thursdays)
@@ -67,10 +61,7 @@ students build mental toughness, coordination, and confidence.</p>
 <br>3.30pm – 5.30pm (School Team Only)</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Modular_Sports_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Junainah B Mohamed Eusuff (Main)
