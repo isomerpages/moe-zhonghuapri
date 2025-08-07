@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Parents Gateway.md
       - Notes To Parents & Guardians.md
       - P1 Orientation Google Site.md
       - Information On PSLE.md
