@@ -25,7 +25,7 @@ this integrated approach, we aim to nurture active citizens who are anchored
 in values, aware of their role in nation-building, and prepared to lead
 with heart in an ever-changing world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/CCE/CCE_Website_Photo_Template.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/CCE/1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/CCE/2.png">
