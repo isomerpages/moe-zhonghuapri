@@ -1,5 +1,5 @@
 collections:
-  general-info-for-parents:
+  general-info:
     output: true
     order:
       - MOE Sexuality Programme.md
