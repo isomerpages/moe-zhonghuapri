@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Notes To Parents &amp; Guardians</strong></h1>
-<p><strong>Communication</strong>
+<p><strong><u>Communication</u></strong>
 <br>Your child’s form teacher would have issued an introductory letter to
 you on the first day of school concerning class routines, expectations,
 and preferred modes of communication.</p>
@@ -16,23 +16,23 @@ an appointment and wait at the General Office for the required staff member.</p>
 <p>It is the child’s responsibility to ensure that they take down what needs
 to be done in their diary. This is about teaching responsibility. If we
 do not start now, they will never learn.</p>
-<p><strong>Absence from School </strong>
+<p><strong><u>Absence from School</u> </strong>
 <br>We would appreciate it if you could call or WhatsApp in the morning to
 let us know if your child is absent. The office phone number or the school’s
 WhatsApp number is <strong>6283 5413</strong>. Medical certificates should
 be submitted to the form teacher upon the child’s return to school. If
 your children are sick, please keep them at home.</p>
-<p><strong>School Attire </strong>
+<p><strong><u>School Attire</u> </strong>
 <br>Pupils are to be attired in their full school uniform on all days that
 they do not have PE or PAL periods. On the days they have PE or PAL periods,
 they may wear their PE attire instead of their shirts/blouses throughout
 the day.</p>
-<p><strong>Road Safety </strong>
+<p><strong><u>Road Safety</u> </strong>
 <br>Please ensure that your children follow the traffic rules and cross safely
 at pedestrian crossings. They should always look both ways and listen for
 oncoming traffic before crossing roads. A school attendant will be present
 to ensure that they cross safely at the zebra crossing outside the school.</p>
-<p><strong>Opening and Dismissal Time</strong> 
+<p><strong><u>Opening and Dismissal Time</u></strong> 
 <br>The opening hours for the Main (vehicular) Gate, Side Gate and the Back
 Gate are as follows:</p>
 <table style="minWidth: 50px">
@@ -96,7 +96,7 @@ The following vehicles are authorised to enter:
 <br>
 </p>
 <p>Security guards will man both the Main (vehicular) Gate and Side Gate.</p>
-<p><strong>Security and Safety </strong>
+<p><strong><u>Security and Safety</u> </strong>
 <br>To ensure the safety of our pupils, staff and stakeholders, several procedures
 have been put in place to make the school a safe place for all.</p>
 <p>Due to limited parking space in the school, parents who wish to come into
@@ -110,7 +110,7 @@ must be accompanied by a member of staff during their visit and are not
 to wander around the school premises unaccompanied. Visitors without Visitor
 Passes will be questioned by the school staff or security guards on their
 business in school.</p>
-<p><strong>Early Dismissal </strong>
+<p><strong><u>Early Dismissal</u> </strong>
 <br>In the interest of safety, pupils are not allowed to leave the school
 unaccompanied during curriculum time. Pupils may leave the school early,
 in the company of an authorised person e.g.; father, mother, grandparent,
