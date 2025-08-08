@@ -6,20 +6,19 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h2><strong>Aesthetics</strong></h2>
-<p>The Aesthetics Department envisions developing individuals with a passion
-for the Arts by nurturing creativity, confidence, and cultural appreciation
-in every Zhonghuarian. Through an integrated and holistic programme guided
-by the Thematic Approach, students engage in rich, meaningful learning
-experiences across visual arts, music, dance, and drama. Each term explores
-unique themes such as <em>Festive Fever: CNY</em>, <em>Around the World in 50 Days!</em>, <em>Loco About Local</em>,
-and <em>Wild, Wild West</em>, allowing students to discover global and local
-art forms while expressing themselves through crafts, music, and performance.
-Signature programmes like <strong>ZARTs Fest</strong>, a vibrant week-long
-arts celebration, and <strong>TAP (Talent Appreciation Programme)</strong>,
-which showcases diverse student talents, further enrich the aesthetics
-experience. Together, these efforts aim to instill a lifelong love for
-the Arts and empower every student to express themselves meaningfully and
-confidently.</p>
+<p>The Aesthetics Department is dedicated to nurturing creative, confident,
+and compassionate individuals who appreciate the Arts as a vital part of
+life. Our curriculum fosters holistic development through visual art and
+music, encouraging students to explore diverse cultures and express their
+unique voices. Students engage in a wide range of meaningful experiences—from
+ceramics and music appreciation to museum visits and class performances—that
+inspire creativity and build strong friendships. Signature programmes like
+the annual ZPS Art Exhibition, Artists of ZPS, and the PAM Festival celebrate
+talent, effort, and community spirit. Our Talent Development Programme
+offers mentorship for passionate students to deepen their skills and pursue
+future goals. Through these enriching experiences, we aim to cultivate
+positive attitudes that empower students to embrace the Arts as a source
+of joy, connection, and self-discovery throughout their lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/1.png">
 </div>
