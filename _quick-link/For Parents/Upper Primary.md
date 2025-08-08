@@ -25,5 +25,4 @@ subjects and programmes offered.</div>
 </div>
 </a>
 </div>
-<h4></h4>
 <p></p>
