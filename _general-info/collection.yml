@@ -2,10 +2,10 @@ collections:
   general-info:
     output: true
     order:
-      - MOE Sexuality Programme.md
-      - MOE Cyberwellness Resource.md
-      - Insurance.md
-      - Leave of Absence (LOA) Scheme.md
-      - Parents Gateway.md
-      - Collection Of Data.md
       - Notes To Parents & Guardians.md
+      - Collection Of Data.md
+      - Parents Gateway.md
+      - Leave of Absence (LOA) Scheme.md
+      - Insurance.md
+      - MOE Cyberwellness Resource.md
+      - MOE Sexuality Programme.md
