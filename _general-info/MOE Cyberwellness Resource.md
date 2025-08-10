@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>MOE Cyberwellness Resource</strong></h2>
-<p>What is Cyber Wellness?</p>
+<p><strong>What is Cyber Wellness?</strong>
+</p>
 <p>Cyber Wellness (CW) refers to the positive well-being of Internet users.
 It involves an understanding of online behaviour and awareness of how to
 protect oneself in cyberspace. The focus of Cyber Wellness is about helping
@@ -14,7 +15,8 @@ with it tremendous opportunities and risks. The online world is especially
 rich with content for learning, socialising and entertainment. As your
 child learns to access, use and create such content, it is important that
 they do so safely and responsibly.</p>
-<p>Useful tips on Cyber Wellness</p>
+<p><strong>Useful tips on Cyber Wellness</strong>
+</p>
 <p>Today's digital age allows online news and information to easily reach
 our children. However, not all that are shared on the internet may be true.
 When our children start to believe and act on news that are untrue, they
