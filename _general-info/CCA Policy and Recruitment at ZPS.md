@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>CCA Policy and Recruitment at ZPS</strong></h2>
-<p>CCA Policy at ZPS:</p>
+<p><strong>CCA Policy at ZPS:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>CCA will be offered to all P3 to P6 students.</p>
@@ -46,7 +47,8 @@ Teacher and cced to Mr Azman B Mohamed Hamzah @ <a href="mailto:azman_mohamed_ha
 </p>
 </li>
 </ol>
-<h4><strong>CCA Recruitment at ZPS:</strong></h4>
+<p><strong>CCA Recruitment at ZPS:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>CCA Recruitment begins at P3 level.</p>
