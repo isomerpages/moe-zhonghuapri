@@ -5,17 +5,59 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Green Education Movement @ Zhonghua Primary School (GEM@ZPS)</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Education Movement @ Zhonghua Primary School (GEM@ZPS)" src="/images/sis%20banner%20on%20ee%20llp%20(zhonghua%20pri%20sch)(3)%20(1).jpg">
-</div>
-<p>Zhonghua Primary School (ZPS) strives to develop our pupils holistically.
-This is reflected in our school's vision for each and every Zhonghuarian
-- A Learner, A Thinker, A Leader. Our Environmental Education (EE) approach
-in our Learning-for-life Programme (LLP) is aligned closely to our school's
-vision.
-<br>We seek to enhance pupils’ knowledge and understanding&nbsp; of the environment
-(Learner), allow them to reflect on environmental issues (Thinker) and
-provide platforms for them to act and lead so as to take better care of
-the environment they live in (Leader). In ZPS, we hope to nurture leaders
-who display the values of responsibility and care towards the environment
-and to the people around them.</p>
+<p>Environmental sustainability is a key focus of our educational approach,
+aligned with both the Singapore Green Plan 2030 (SGP30) and the MOE’s Eco
+Stewardship Programme. We integrate environmental education across four
+key domains: curriculum, campus infrastructure, school culture and practices,
+and community partnerships.</p>
+<p>Our environmental education framework develops students holistically through
+three dimensions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As <strong>Learners</strong>, they develop knowledge and understanding
+of environmental issues</p>
+</li>
+<li>
+<p>As <strong>Thinkers</strong>, they critically reflect on environmental
+challenges and solutions</p>
+</li>
+<li>
+<p>As <strong>Leaders</strong>, they take meaningful action to protect and
+improve their environment</p>
+</li>
+</ul>
+<p>&nbsp;We deliver age-appropriate learning experiences through a tiered
+approach:</p>
+<p><strong>Tier 1: Foundation Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School-wide recycling and upcycling initiatives</p>
+</li>
+<li>
+<p>Active participation in environmental commemorative events (e.g. World
+Water Day, Earth Hour)</p>
+</li>
+<li>
+<p>Green Education Movement (GEM) monitor-led ambassador programmes to promote
+environmental consciousness</p>
+</li>
+</ul>
+<p><strong>Tier 2: Advanced Engagement</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student-led kindergarten outreach programmes and environmental education
+during Open House</p>
+</li>
+<li>
+<p>Specialised Environmental Science Club as a Co-Curricular Activity</p>
+</li>
+<li>
+<p>Participation in prestigious environmental competitions (e.g. Dunman High
+World Water Day Challenge, Greenwave Environmental Care Competition)</p>
+</li>
+</ul>
+<p>This structured approach ensures our students develop both environmental
+literacy and stewardship capabilities, preparing them to be responsible
+citizens who contribute to Singapore's sustainable future.</p>
