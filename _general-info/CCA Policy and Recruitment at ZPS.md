@@ -58,7 +58,9 @@ Teacher and cced to Mr Azman B Mohamed Hamzah @ <a href="mailto:azman_mohamed_ha
 </li>
 <li>
 <p>Once allocated to a CCA, the P3 students will be attending their first
-CCA session in Term 3.</p>
+CCA session in
+<br>Term 3.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
