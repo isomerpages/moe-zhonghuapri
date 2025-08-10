@@ -27,18 +27,9 @@ to lead active and fulfilling lives.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/3.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/6.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/PE/8.png">
 </div>
 <p></p>
