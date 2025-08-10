@@ -12,7 +12,7 @@ third_nav_title: For Parents
 <div class="isomer-card-title">Info on CCA Policy and Recruitment at ZPS</div>
 <div class="isomer-card-description">The CCA programme offers P3–P6 students opportunities to learn, grow,
 and develop through one chosen activity per year. Learn more about CCA
-schedules, attendance rules, and transfer guidelines.</div>
+recruitment, attendance rules, and transfer guidelines.</div>
 <div class="isomer-card-link">Click here for more info.</div>
 </div>
 </a>
