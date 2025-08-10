@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>CCA Policy and Recruitment at ZPS</strong></h2>
-<h4><strong>CCA Policy in ZPS:</strong></h4>
+<h4><strong>CCA Policy at ZPS:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>CCA will be offered to all P3 to P6 students.</p>
@@ -13,11 +13,6 @@ description: ""
 <li>
 <p>The P6 students will be discharged from their respective CCAs at the end
 of Semester 1.</p>
-</li>
-<li>
-<p>The P3 CCA Recruitment will be conducted in the middle of Term 2. Once
-allocated to a CCA, the P3 students will be attending their first CCA session
-in Term 3.</p>
 </li>
 <li>
 <p>Each student in ZPS is only allowed to join <u>one CCA per work year</u> as
@@ -50,6 +45,19 @@ Nov/Dec Holidays and before the start of the first CCA session of the work
 year). Request must be communicated by the parents via email to the CCA
 Teacher and cced to Mr Azman B Mohamed Hamzah @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azman_mohamed_hamzah@schools.gov.sg</u></a>
 </p>
+</li>
+</ol>
+<h4><strong>CCA Recruitment at ZPS:</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>CCA Recruitment begins at P3 level.</p>
+</li>
+<li>
+<p>The P3 CCA Recruitment will be conducted in the middle of Term 2.</p>
+</li>
+<li>
+<p>Once allocated to a CCA, the P3 students will be attending their first
+CCA session in Term 3.</p>
 </li>
 </ol>
 <p></p>
