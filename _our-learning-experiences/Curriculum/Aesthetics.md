@@ -28,7 +28,4 @@ of joy, connection, and self-discovery throughout their lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/3.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Aesthetic/4.png">
-</div>
 <p></p>
