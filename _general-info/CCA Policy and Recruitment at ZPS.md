@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>CCA Policy and Recruitment at ZPS</strong></h2>
-<h4><strong>CCA Policy at ZPS:</strong></h4>
+<p>CCA Policy at ZPS:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>CCA will be offered to all P3 to P6 students.</p>
@@ -20,8 +20,7 @@ CCA requires effort and commitment.</p>
 </li>
 <li>
 <p>A student who has been successfully accepted to a CCA has to remain committed
-in that CCA until the end of the CCA work year (i.e. January 2025 to Oct/Nov
-2025).</p>
+in that CCA until the end of the CCA work year (i.e. January to Oct/Nov).</p>
 </li>
 <li>
 <p>All CCAs have an approximated number of 25 sessions for each work year
