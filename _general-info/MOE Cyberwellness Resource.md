@@ -31,15 +31,15 @@ to fall prey to the dangers online.</p>
 <br>Helpful resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Ways_To_Spot_Fake_News.pdf" rel="noopener noreferrer nofollow" target="_blank">Ways To Spot Fake News</a> 
+<p><a href="/files/Ways_To_Spot_Fake_News.pdf" rel="noopener noreferrer nofollow" target="_blank">Ways To Spot Fake News</a>
 </p>
 </li>
 <li>
 <p><a href="/files/meaning_and_forms_of_fake_news.pdf" rel="noopener noreferrer nofollow" target="_blank">Meaning And Forms Of Fake News</a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a>
 <br>
 </p>
 </li>
