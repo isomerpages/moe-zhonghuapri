@@ -4,7 +4,7 @@ permalink: /gem/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Green Education Movement (GEM)</strong></h2>
+<h2><strong>Green Education Movement (GEM@ZPS)</strong></h2>
 <p>Environmental sustainability is a key focus of our educational approach,
 aligned with both the Singapore Green Plan 2030 (SGP30) and the MOE’s Eco
 Stewardship Programme. We integrate environmental education across four
