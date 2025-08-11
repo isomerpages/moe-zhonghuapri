@@ -4,7 +4,7 @@ permalink: /thinknovate/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Thinknovate</strong></h2>
+<h2><strong>THINKnovate</strong></h2>
 <p>Our Thinknovate programme aligns with MOE's vision for 21st Century Competencies,
 focusing on developing Critical, Adaptive and Inventive Thinking through
 STEM-based education.</p>
@@ -55,4 +55,19 @@ Thinking methodology</p>
 </ul>
 <p>This approach develops both technical competencies and innovative mindsets,
 preparing students for an increasingly technology-driven world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/6.png">
+</div>
 <p></p>
