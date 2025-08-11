@@ -38,3 +38,13 @@ and canoeing to build resilience, adaptability and problem-solving skills.</p>
 <p>Through these carefully structured experiences, students progressively
 build confidence, leadership capabilities and environmental awareness in
 increasingly challenging outdoor settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLE 2025/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLE 2025/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLE 2025/3.png">
+</div>
+<p></p>
