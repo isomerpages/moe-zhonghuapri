@@ -4,7 +4,7 @@ permalink: /gem/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Green Education Movement @ Zhonghua Primary School (GEM@ZPS)</strong></h2>
+<h2><strong>Green Education Movement (GEM@ZPS)</strong></h2>
 <p>Environmental sustainability is a key focus of our educational approach,
 aligned with both the Singapore Green Plan 2030 (SGP30) and the MOE’s Eco
 Stewardship Programme. We integrate environmental education across four
@@ -61,3 +61,10 @@ World Water Day Challenge, Greenwave Environmental Care Competition)</p>
 <p>This structured approach ensures our students develop both environmental
 literacy and stewardship capabilities, preparing them to be responsible
 citizens who contribute to Singapore's sustainable future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEM 2025/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEM 2025/2.png">
+</div>
+<p></p>
