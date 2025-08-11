@@ -25,7 +25,7 @@ students build mental toughness, coordination, and confidence.</p>
 <p><strong>Teachers In-Charge</strong>
 <br>Ms Ng Yen Tin (Main) - Thursdays
 <br>Mrs Fiona Wong - Tuesdays
-<br>Ms Ng Wee Lin - Tuesdays
+<br>Ms Ng Wei Lin - Tuesdays
 <br>Ms Jer'valle - Thursdays
 <br>
 <br><strong>Main Contact:</strong>  <a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
