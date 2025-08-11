@@ -2,7 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
-      - Thinknovate.md
+      - THINKnovate.md
       - Green Educationa Movement (GEM).md
       - Outdoor Adventure, Leadership Building and Environmental Education
         Programme (OLE).md
