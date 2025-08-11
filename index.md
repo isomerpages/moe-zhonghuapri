@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gif heronew 10 april.gif
+      background: /images/Hero Banner/Hero_Page_2025.gif
       variant: center
       key_highlights:
         - title: Quick Link
