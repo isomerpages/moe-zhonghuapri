@@ -1,0 +1,12 @@
+collections:
+  general-info:
+    output: true
+    order:
+      - Notes To Parents & Guardians.md
+      - Collection Of Data.md
+      - Parents Gateway.md
+      - Leave of Absence (LOA) Scheme.md
+      - Insurance.md
+      - MOE Cyberwellness Resource.md
+      - CCA Policy and Recruitment at ZPS.md
+      - MOE Sexuality Programme.md

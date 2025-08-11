@@ -2,5 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
-      - Applied Learning Programme.md
-      - Learning for Life Programme.md
+      - THINKnovate.md
+      - Green Education Movement (GEM).md
+      - Outdoor Adventure, Leadership Building and Environmental Education
+        Programme (OLE).md

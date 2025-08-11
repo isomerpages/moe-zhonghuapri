@@ -3,4 +3,9 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/.keep
+      - For Parents/General Info.md
+      - For Parents/Lower Primary.md
+      - For Parents/Middle Primary.md
+      - For Parents/Upper Primary.md
       - For Teachers.md

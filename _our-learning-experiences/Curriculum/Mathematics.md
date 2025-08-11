@@ -6,103 +6,30 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h2><strong>Mathematics</strong></h2>
-<p><strong>Signature Programmes</strong> 
-<br>1. Fun with Mathematics
-<br>This programme aims to make learning of Mathematics joyful and relevant
-to their everyday life by providing them with meaningful learning experiences.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>The Mathematics Department strives to nurture every child into a confident
+and competent problem solver with a deep appreciation for the use of mathematics
+in daily life. Learning experiences are thoughtfully designed to move beyond
+rote learning with a strong emphasis on fostering critical and inventive
+thinking. Key programmes such as Fun with Math, Mathematics Show and Tell
+and Project Work allow students to explore mathematical ideas through modelling
+and retelling, hands-on activities and real-world applications. We place
+a strong focus on engaging students in meaningful ways to develop their
+confidence and perseverance in problem-solving through inquiry-based learning.
+By building a strong foundation in numeracy and cultivating a positive
+mindset towards learning mathematics, we aim to prepare our students to
+be future-ready learners who enjoy learning and applying mathematics in
+authentic contexts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/3.png">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/Math/4.png">
+</div>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary One</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fun with Math: Shapes and Length</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary Two</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fun with Math: Money</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary Three</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fun with Math: Money</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Primary Four</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Math Games Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fun with Math: Fraction and Decimal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary Five</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fun with Math: Ratio</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>2. Learning Support for Mathematics (LSM) programme for Primary 1 to 2
-<br><strong>Early Success. Strong Basics. Steady Progress</strong> 
-<br>Learning Support for Mathematics (LSM) aims to provide early success for
-Primary 1 and Primary 2 pupils with weak numeracy skills.&nbsp;The programme
-focuses on basic mathematical skills and concepts to build strong foundation
-in the pupils.
-<br>
-<br>3. Improving Confidence and Achievement in Numeracy (ICAN) programme for
-Primary 3 to 4
-<br>ICAN aims to provide more support for Primary &amp; 3 and Primary 4 pupils
-with weak numeracy skills. The programme focuses on basic mathematical
-skills and concepts to build strong foundation and confidence among the
-pupils.
-<br>
-<br>4. Family Mathematics
-<br>This programme aims to build factual fluency among our pupils through
-bonding activities with their family members. Pupils bring cards and board
-games home to play with their family members and learn Mathematics in a
-joyful way.</p>

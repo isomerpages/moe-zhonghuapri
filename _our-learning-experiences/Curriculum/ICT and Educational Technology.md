@@ -6,48 +6,30 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h2><strong>ICT and Educational Technology</strong></h2>
-<p>Coding and Making – Developing Digital Literacy in Our Pupils
-<br>In 2020, MOE unveiled the National Digital Literacy Programme so that
-at different stages of their education journey, pupils will be able to
-acquire digital skills across four components in the “Find, Think, Apply,
-Create” framework.
-<br>In line with the national development pathway, the school has a systemic
-approach to develop computational thinking in our pupils through coding
-and making.</p>
-<p>Computational Skills
-<br>The intent of coding is to develop computational thinking in our pupils
-starting from Primary 1. The programme spiral upwards and develop pupils
-progressively in this higher order thinking competencies.
-<br>
-<br>Computational thinking includes elements such as:
-<br>1. Decomposition – breaking a large problem down into smaller ones
-<br>2. Pattern recognition – recognising how these smaller problems relate
-to ones that have been solved in the past
-<br>3. Algorithm design – Identifying and refining the steps necessary to
-reach a solution
-<br>4. Debugging – Refining those steps
-<br>
-<br>Developing computational thinking will also develop the following skill
-sets in our pupils:
-<br>1. Experimenting and iterating – developing something, trying it out,
-and then developing some more
-<br>2. Testing and debugging – finding and solving problems as they work
-<br>3. Abstracting and modularizing – exploring connections between the whole
-and the parts
-<br>
-<br>Our pupils are provided with opportunities to learn coding using screen-free
-programing such as MatataLab in Lower Primary and more serious block-based
-programming such as Scratch, Microsoft PXT or Code.org from Middle Primary
-to Upper Primary.&nbsp; Our school leverage iMDA’sCode for Fun Programme
-to nurture a new generation of digital natives.
-<br>
-<br>During each level programme, pupils are provided with opportunities to
-work in teams on scenarios that represent real-world problem. The pupils
-then pitch their ideas and hypothetical solutions to their peers. They
-are provided with platforms to communicate and display their artefacts
-and concepts.
-<br>
-<br>Through these efforts, we achieve the following in our pupils:
-<br>1. Cultivate real-world problem solving
-<br>2. Encourage digital creativity and innovation
-<br>3. Foster collaboration and co-creation with like-minded digital makers</p>
+<p>The ICT Department is dedicated to equipping students with the digital
+literacy and future-ready skills essential for success in a fast-evolving
+world. In alignment with MOE’s National Digital Literacy Programme and
+the “Find, Think, Apply, Create” framework, our school adopts a systemic
+and progressive approach to nurture computational thinking from as early
+as Primary 1. Through our Coding and Making programme, students are introduced
+to coding using screen-free tools like MatataLab in the lower primary years,
+and advance to block-based programming platforms such as Scratch, Microsoft
+PXT, and Code.org in upper levels. Supported by initiatives like the iMDA
+Code for Fun programme, students learn to break down problems, recognise
+patterns, design algorithms, and troubleshoot solutions — developing valuable
+skills such as experimentation, iteration, abstraction, and teamwork. Our
+students work collaboratively on real-world challenges, pitch solutions
+to peers, and proudly present their digital creations. These experiences
+not only ignite their digital creativity and innovation but also cultivate
+resilience, communication, and collaborative problem-solving – key traits
+of confident digital learners and creators.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos 2025/ICT Ed Tech/3.png">
+</div>
+<p></p>

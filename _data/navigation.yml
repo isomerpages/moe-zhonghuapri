@@ -28,6 +28,11 @@ links:
       - title: Programme for Active Learning
         url: /our-learning-experiences/curriculum/programme-for-active-learning/
       - title: Co-Curriculum Activities
-        url: /our-learning-experiences/co-curriculum-activities/co-curriculum-activities/
-  - title: Useful Links And Info
-    collection: useful-links-and-information
+        url: /our-learning-experiences/co-curriculum-activities/cca-information
+  - title: Our Social Media
+    url: /our-latest-activities/social-media-links/
+    sublinks:
+      - title: Facebook
+        url: https://www.facebook.com/zhonghuaps
+      - title: Instagram
+        url: https://www.instagram.com/zhonghuaps/

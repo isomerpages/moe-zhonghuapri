@@ -25,10 +25,10 @@ to their everyday life by providing them with meaningful learning experiences.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Level</strong></h4>
+<p>Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Event</strong></h4>
+<p>Event</p>
 </td>
 </tr>
 <tr>
