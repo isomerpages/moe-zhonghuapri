@@ -28,8 +28,20 @@ to fall prey to the dangers online.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/Cyber.png">
 </div>
 <p>
-<br>Helpful resources:
-<br><a href="/files/Ways_To_Spot_Fake_News.pdf" rel="noopener noreferrer nofollow" target="_blank">Ways To Spot Fake News</a> 
-<br><a href="/files/meaning_and_forms_of_fake_news.pdf" rel="noopener noreferrer nofollow" target="_blank">Meaning And Forms Of Fake News</a> 
-<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a>
+<br>Helpful resources:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyberwellness</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Ways_To_Spot_Fake_News.pdf" rel="noopener noreferrer nofollow" target="_blank">Ways To Spot Fake News</a> 
+</p>
+</li>
+<li>
+<p><a href="/files/meaning_and_forms_of_fake_news.pdf" rel="noopener noreferrer nofollow" target="_blank">Meaning And Forms Of Fake News</a> 
+<br>
+</p>
+</li>
+</ul>
+<p></p>
