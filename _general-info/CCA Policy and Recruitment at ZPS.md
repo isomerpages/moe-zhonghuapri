@@ -43,7 +43,7 @@ Teachers.</p>
 <p>A change of CCA will only be allowed during the transfer window (i.e.
 Nov/Dec Holidays and before the start of the first CCA session of the work
 year). Request must be communicated by the parents via email to the CCA
-Teacher and cced to Mr Azman B Mohamed Hamzah @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azman_mohamed_hamzah@schools.gov.sg</u></a>
+Teacher and cc to Mr Azman B Mohamed Hamzah @ <a href="mailto:azman_mohamed_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azman_mohamed_hamzah@schools.gov.sg</u></a>
 </p>
 </li>
 </ol>
