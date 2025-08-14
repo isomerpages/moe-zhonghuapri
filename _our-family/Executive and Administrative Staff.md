@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adminstration Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yen_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Lee Yen Leng&nbsp;</u></a>
@@ -64,10 +64,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adminstration Executive Officer</p>
+<p>Administrative Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_aisah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Siti Aisah B Ahmad&nbsp;</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lian_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Joyce Lim</a>
 </p>
 </td>
 </tr>
