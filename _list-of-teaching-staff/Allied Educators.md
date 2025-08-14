@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Special Educational Needs Officers</strong></h3>
+<h3><strong>Special Educational Needs (SEN) Officers</strong></h3>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_hwei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Waine Chin</a>
+<p><a href="mailto:khoo_sue_ching_gladys@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Gladys Khoo, Senior SEN</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_sue_ching_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gladys Khoo</a>
+<p><a href="mailto:chin_hwei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Waine Chin</a>
 </p>
 </td>
 </tr>
