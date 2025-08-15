@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yen_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Lee Yen Leng&nbsp;</u></a>
