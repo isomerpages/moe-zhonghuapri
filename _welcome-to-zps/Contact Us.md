@@ -223,7 +223,7 @@ description: ""
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:zhonghua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.zenitant.com.sg</u></a>
+<p><a href="https://learningstudioeducare.com/" rel="noopener nofollow" target="_blank">https://learningstudioeducare.com/</a>
 </p>
 </td>
 </tr>
