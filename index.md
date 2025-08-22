@@ -27,5 +27,5 @@ sections:
           date: 22 August 2025
           announcement: Edusave Good Character Award (2025)
           link_text: To submit
-          link_url: https://zhonghuapri.moe.edu.sg/edusave-good-character-award-2025/
+          link_url: /edusave-good-character-award-2025/
 ---
