@@ -20,12 +20,12 @@ sections:
           description: For Teachers
           url: /link/for-teachers/
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       announcement_items:
-        - title: Edusave Good Character Award (2025)
+        - title: For Parents
           date: 22 August 2025
           announcement: Edusave Good Character Award (2025)
-          link_text: Link to Edusave Good Character Award form
-          link_url: https://form.gov.sg/admin/form/66cfaea5d3db3d611ead79ea
+          link_text: To submit
+          link_url: https://zhonghuapri.moe.edu.sg/edusave-good-character-award-2025/
 ---
