@@ -2,6 +2,7 @@ collections:
   general-info:
     output: true
     order:
+      - Edusave Good Character Award (2025).md
       - Notes To Parents & Guardians.md
       - Collection Of Data.md
       - Parents Gateway.md
