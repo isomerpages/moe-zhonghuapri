@@ -4,7 +4,7 @@ permalink: /edusave-good-character-award-2025/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Edusave Good Character Award (ECHA)</strong></h1>
+<h1><strong>Edusave Character Award (ECHA)</strong></h1>
 <p>The Edusave Character Award (ECHA) was introduced in 2012 to enable schools
 to recognise students who demonstrate exemplary character and outstanding
 personal qualities through their behaviour and actions. This is part of
