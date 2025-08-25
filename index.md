@@ -29,6 +29,6 @@ sections:
             character and values, supporting schools in nurturing values-driven
             citizens. Refer to Parents Gateway for details. Submit nominations
             by 17 September 2025, Wednesday, via the link below.
-          link_text: ECHA normination form
+          link_text: ECHA Nomination Form
           link_url: /edusave-good-character-award-2025/
 ---
