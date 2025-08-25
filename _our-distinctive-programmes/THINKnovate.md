@@ -65,9 +65,6 @@ preparing students for an increasingly technology-driven world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/5.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinknovate 2025/6.png">
 </div>
 <p></p>
