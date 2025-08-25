@@ -19,16 +19,16 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
-        - title: Announcement
-          description: Edusave Good Character Award
-          url: /edusave-character-award-2025/
   - announcements:
       title: Announcement
       id: announcements
       announcement_items:
         - title: For Parents
           date: 22 August 2025
-          announcement: Edusave Good Character Award (2025)
-          link_text: To submit
+          announcement: The Edusave Character Award (ECHA) honours students with exemplary
+            character and values, supporting schools in nurturing values-driven
+            citizens. Refer to Parents Gateway for details. Submit nominations
+            by 17 September 2025, Wednesday, via the link below.
+          link_text: ECHA normination form
           link_url: /edusave-good-character-award-2025/
 ---
