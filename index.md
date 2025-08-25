@@ -24,7 +24,7 @@ sections:
       id: announcements
       announcement_items:
         - title: For Parents
-          date: 22 August 2025
+          date: 20 August 2025
           announcement: The Edusave Character Award (ECHA) honours students with exemplary
             character and values, supporting schools in nurturing values-driven
             citizens. Refer to Parents Gateway for details. Submit nominations
