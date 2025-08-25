@@ -19,6 +19,9 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
+        - title: Announcement
+          description: Edusave Good Character Award
+          url: /edusave-character-award-2025/
   - announcements:
       title: Announcement
       id: announcements
