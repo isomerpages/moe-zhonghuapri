@@ -19,4 +19,16 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
+  - announcements:
+      title: Announcement
+      id: announcements
+      announcement_items:
+        - title: For Parents
+          date: 20 August 2025
+          announcement: The Edusave Character Award (ECHA) honours students with exemplary
+            character and values, supporting schools in nurturing values-driven
+            citizens. Refer to Parents Gateway for details. Submit nominations
+            by 17 September 2025, Wednesday, via the link below.
+          link_text: ECHA Nomination Form
+          link_url: https://go.gov.sg/zhpsecha2025
 ---
