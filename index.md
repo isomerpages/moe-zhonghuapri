@@ -19,4 +19,14 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: For Parents
+          date: 17 November 2025
+          announcement: P1 Orientation
+          link_text: Click
+          link_url: https://sites.google.com/moe.edu.sg/zpsp1orientation
 ---
