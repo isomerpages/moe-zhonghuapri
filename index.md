@@ -22,7 +22,6 @@ sections:
   - announcements:
       title: Announcement
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: For Parents
           date: 17 November 2025
