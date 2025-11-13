@@ -27,6 +27,6 @@ sections:
         - title: For Parents
           date: 17 November 2025
           announcement: P1 Orientation Google Site
-          link_text: Click
+          link_text: Click here for more info
           link_url: https://sites.google.com/moe.edu.sg/zpsp1orientation
 ---
