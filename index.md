@@ -20,7 +20,7 @@ sections:
           description: For Teachers
           url: /link/for-teachers/
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
