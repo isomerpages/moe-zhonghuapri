@@ -44,14 +44,12 @@ variant: tiptap
 <br>P3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yong_chew@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Liew Yong Chew</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,14 +62,12 @@ variant: tiptap
 <br>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Wee_Lin@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ng Wee Lin</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,14 +80,12 @@ variant: tiptap
 <p>P3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chen Guiyun</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -104,14 +98,12 @@ variant: tiptap
 <br>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_weng_choy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Weng Choy</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
