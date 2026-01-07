@@ -286,7 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Aesthetics (cov)</p>
+<p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
@@ -299,6 +299,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah B Rosli</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Ed Tech (cov)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
 </p>
 </td>
 </tr>
