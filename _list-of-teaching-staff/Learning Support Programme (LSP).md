@@ -45,7 +45,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah (for 2025)</a>
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah </a>
 </p>
 </td>
 </tr>
