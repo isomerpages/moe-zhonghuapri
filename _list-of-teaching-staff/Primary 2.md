@@ -124,7 +124,8 @@ variant: tiptap
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nuriah B Abdullah</a>
+</p>
 </td>
 </tr>
 <tr>
