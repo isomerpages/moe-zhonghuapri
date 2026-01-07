@@ -64,7 +64,8 @@ variant: tiptap
 <br>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:choo_meining_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Koh</a>
+</p>
 </td>
 </tr>
 <tr>
