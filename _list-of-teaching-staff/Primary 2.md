@@ -50,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:premala_devi_kandasamy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Premala Devi d/o Kandasamy (Mrs Raj)</a>
+</p>
 </td>
 </tr>
 <tr>
