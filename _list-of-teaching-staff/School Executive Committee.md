@@ -162,7 +162,7 @@ variant: tiptap
 <p>Ed Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Yaw_Jin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yaw Jin </a>
+<p><a href="mailto:Tan_Yaw_Jin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yaw Jin</a>
 </p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Primary</p>
+<p>YH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
@@ -209,25 +209,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assisting YH Upper Primary</p>
+<p>YH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
+<p><a href="mailto:chiok_hwei_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chiok Hwee Fen</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Primary</p>
+<p>YH Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah&nbsp;</a>
