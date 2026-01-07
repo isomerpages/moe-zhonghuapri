@@ -104,7 +104,8 @@ variant: tiptap
 <br>P2 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Constance Chong</a>
+</p>
 </td>
 </tr>
 <tr>
