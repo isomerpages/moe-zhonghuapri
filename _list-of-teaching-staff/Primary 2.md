@@ -41,7 +41,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>
-<br>P3 Care</p>
+<br>P2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>
-<br>P3 Diligence</p>
+<br>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>P3 Harmony</p>
+<p>P2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -95,7 +95,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>
-<br>P3 Integrity</p>
+<br>P2 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
