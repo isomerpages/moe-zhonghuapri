@@ -64,7 +64,8 @@ variant: tiptap
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
+</p>
 </td>
 </tr>
 <tr>
