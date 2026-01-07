@@ -4,7 +4,6 @@ permalink: /welcome-to-zps/principals-message/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_n_Vps_Image_2.png">
 </div>
