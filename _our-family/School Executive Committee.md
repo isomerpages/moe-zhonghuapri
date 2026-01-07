@@ -49,7 +49,7 @@ description: ""
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:au_yee_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Au Yee Kuan Karen</a>
+<p><a href="mailto:au_yee_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Karen Au</a>
 </p>
 </td>
 </tr>
