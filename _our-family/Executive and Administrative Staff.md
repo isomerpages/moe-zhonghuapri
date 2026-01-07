@@ -76,7 +76,7 @@ description: ""
 <p>Administrative Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sandra Tew </a>
+<p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sandra Tew</a>
 </p>
 </td>
 </tr>
