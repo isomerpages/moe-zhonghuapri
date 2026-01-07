@@ -95,13 +95,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farida_kader@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Farida Bte Mohd Abdul Kader </a>
+<p><a href="mailto:farida_kader@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Farida Bte Mohd Abdul Kader</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:edwin_yu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edwin Yu </a>
+<p><a href="mailto:edwin_yu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edwin Yu</a>
 </p>
 </td>
 </tr>
@@ -115,19 +115,19 @@ variant: tiptap
 <br>P4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh </a>
+<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Junainah Bte Mohamed Eusuff </a>
+<p><a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Junainah Bte Mohamed Eusuff</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mardhiah_abdul_raman_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Mardhiah </a>
+<p><a href="mailto:siti_mardhiah_abdul_raman_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Mardhiah</a>
 </p>
 </td>
 </tr>
@@ -147,13 +147,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom </a>
+<p><a href="mailto:hariyati_hairom@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hariyati Bte Hairom</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Kavinchelvan Kalaivani </a>
+<p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Kavinchelvan Kalaivani</a>
 </p>
 </td>
 </tr>
