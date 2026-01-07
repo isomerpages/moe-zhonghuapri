@@ -76,6 +76,15 @@ description: ""
 <p>Administrative Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sandra Tew </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive Officer</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lian_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Joyce Lim</a>
 </p>
 </td>
@@ -95,15 +104,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karasi_vythilingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Karasi Vythilingam</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tew_yeng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sandra Tew</u></a>
 </p>
 </td>
 </tr>
