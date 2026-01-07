@@ -70,7 +70,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ng_Wee_Lin@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ng Wee Lin</a>
+</p>
 </td>
 </tr>
 <tr>
