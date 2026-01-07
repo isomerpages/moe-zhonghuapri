@@ -84,7 +84,8 @@ variant: tiptap
 <br>P3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
+</p>
 </td>
 </tr>
 <tr>
