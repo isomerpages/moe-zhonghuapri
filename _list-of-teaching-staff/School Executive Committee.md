@@ -49,7 +49,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trina_pook_sim_nar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Trina Yee</a>
+<p><a href="mailto:au_yee_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Karen Au</a>
 </p>
 </td>
 </tr>
