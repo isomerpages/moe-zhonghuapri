@@ -4,10 +4,11 @@ permalink: /welcome-to-zps/principals-message/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="From Left: Mdm Karen Au (VP), Mrs Chan Le Chin (Principal) and Mrs Tan Siew Leng (VP)" src="/images/P_n_Vps_Image.png">
 </div>
+<p><sup>From Left: Mdm Karen Au (Vice-Principal), Mrs Chan Le Chin (Principal) and Mrs Tan Siew Leng (Vice-Principal)</sup>
+</p>
 <p>Welcome to Zhonghua Primary School (ZPS), where we are committed to nurturing
 every child to be a <strong>Learner, a Thinker, and a Leader</strong>. At
 ZPS, we are guided by our mission to develop our students with strength
