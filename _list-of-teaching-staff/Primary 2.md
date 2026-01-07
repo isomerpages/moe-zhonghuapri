@@ -84,7 +84,7 @@ variant: tiptap
 <p>P3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar </a>
+<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
 </p>
 </td>
 </tr>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_weng_choy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Weng Choy </a>
+<p><a href="mailto:wong_weng_choy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Weng Choy</a>
 </p>
 </td>
 </tr>
