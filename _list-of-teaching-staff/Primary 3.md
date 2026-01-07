@@ -44,7 +44,8 @@ variant: tiptap
 <br>P3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman</a>
+</p>
 </td>
 </tr>
 <tr>
