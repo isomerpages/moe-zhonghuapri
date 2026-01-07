@@ -84,7 +84,7 @@ variant: tiptap
 <p>P2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KOH_HUI_TIAN@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ivory Koh (Mrs Ho)</a>
+<p><a href="mailto:KOH_HUI_TIAN@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ivory Koh (Mrs Ho)</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lim Lee Fong (Mrs Chan Hong Wei)</a>
+</p>
 </td>
 </tr>
 <tr>
