@@ -36,7 +36,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_sue_ching_gladys@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Gladys Khoo, Senior SEN</a>
+<p><a href="mailto:khoo_sue_ching_gladys@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Gladys Khoo</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>School Counsellor</strong></h3>
+<h3><strong>Senior School Counsellor</strong></h3>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Senior Student Welfare Officer</strong></h3>
+<h3><strong>Student Welfare Officer</strong></h3>
 </td>
 </tr>
 <tr>
