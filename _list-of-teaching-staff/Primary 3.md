@@ -104,7 +104,8 @@ variant: tiptap
 <br>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee</a>
+</p>
 </td>
 </tr>
 <tr>
