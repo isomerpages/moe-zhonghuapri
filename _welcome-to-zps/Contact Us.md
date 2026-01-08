@@ -365,23 +365,15 @@ time.</p>
 <p>SCHOOL BOOKSHOPSupplier</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Print-Pak &amp; Marketing Pte Limited</p>
+<p>BL Marketing Pte Ltd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Telephone No</p>
+<p>Telephone</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>6288 4890 / 6286 2871</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Fax</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>6288 4896</p>
+<p>6284 8785</p>
 </td>
 </tr>
 <tr>
@@ -397,7 +389,7 @@ time.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:info@printpak.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@printpak.com.sg</u></a>
+<p><a href="mailto:sales@blmarketing.com.sg" rel="noopener nofollow" target="_blank">sales@blmarketing.com.sg</a>
 </p>
 </td>
 </tr>
