@@ -44,12 +44,14 @@ variant: tiptap
 <p>P6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_yeok_peng_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sharon Loh (Mrs Seah)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:feng_yijun@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Feng Yijun</a>
+</p>
 </td>
 </tr>
 <tr>
