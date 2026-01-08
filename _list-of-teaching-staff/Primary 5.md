@@ -44,7 +44,7 @@ variant: tiptap
 <br>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping</a>
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee</a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho Chui Siong</a>
+<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho</a>
 </p>
 </td>
 </tr>
