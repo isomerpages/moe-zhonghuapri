@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mageswari Kanapathy </a>
+<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mageswari Kanapathy</a>
 </p>
 </td>
 </tr>
@@ -84,13 +84,13 @@ variant: tiptap
 <p>P1 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:masliza_bt_misri@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Masliza B Misri </a>
+<p><a href="mailto:masliza_bt_misri@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Masliza B Misri</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ng Yen Tin (Huang Yanzhen) </a>
+<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ng Yen Tin (Huang Yanzhen)</a>
 </p>
 </td>
 </tr>
@@ -104,13 +104,13 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sok_gway@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sok Gway </a>
+<p><a href="mailto:tan_sok_gway@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sok Gway</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Joshua Seow </a>
+<p><a href="mailto:seow_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Joshua Seow</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yu_xiaocheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Daisy Yu </a>
+<p><a href="mailto:yu_xiaocheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Daisy Yu</a>
 </p>
 </td>
 </tr>
