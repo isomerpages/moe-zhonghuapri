@@ -13,7 +13,7 @@ roles and contributions of women in society were being redefined.</p>
 to No. 57, Niven Road. By 1951, with the support from the community, Chung
 Hwa Girls’ School evolved to be a full school comprising Primary, Secondary
 and Pre-University sections. The secondary classes then shifted to Bartley
-Road and became "Chung Hwa Girls' High School”. Chung Hua Girls' Primary
+Road and became "Chung Hwa Girls' High School”. Chung Hwa Girls' Primary
 School remained at Niven Road and ceased operations in 1980 because of
 higher parental demand for English-medium schools.<strong>&nbsp;</strong>
 </p>
