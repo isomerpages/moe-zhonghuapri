@@ -36,7 +36,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman&nbsp;</a>
+<p><a href="mailto:tan_bee_juat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tan Bee Juat (Mrs Neo)</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pek_Bee_Nai_Serene_B@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Serene Chew </a>
+<p><a href="mailto:Pek_Bee_Nai_Serene_B@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Serene Chew</a>
 </p>
 </td>
 </tr>
