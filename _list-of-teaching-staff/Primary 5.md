@@ -44,12 +44,14 @@ variant: tiptap
 <br>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:MUNIRAH_ABDUL_KADER@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Munirah B Abdul Kader</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,12 +64,14 @@ variant: tiptap
 <br>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto: gerald_low_hui_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gerald Low</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,17 +84,20 @@ variant: tiptap
 <br>P5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lau_mun_yip_benny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Benny Lau</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_mui_mui_tricia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yusman_mohamad_eusope_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Yusman B Mohamad Eusope</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,17 +110,20 @@ variant: tiptap
 <br>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus B Amir </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,17 +136,20 @@ variant: tiptap
 <p>P5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:margaret_lum_choo_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Margaret Lum </a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho Chui Siong </a>
+</p>
 </td>
 </tr>
 <tr>
