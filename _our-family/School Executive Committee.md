@@ -49,7 +49,7 @@ description: ""
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trina_pook_sim_nar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Trina Yee</a>
+<p><a href="mailto:au_yee_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Karen Au</a>
 </p>
 </td>
 </tr>
@@ -159,10 +159,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ed Tech (cov)</p>
+<p>Ed Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Qisheng</a>
+<p><a href="mailto:Tan_Yaw_Jin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yaw Jin</a>
 </p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Primary</p>
+<p>YH Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Ashiq B Mohamed Hashim</a>
@@ -209,25 +209,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assisting YH Upper Primary</p>
+<p>YH Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_kian_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Khen Hian</a>
+<p><a href="mailto:chiok_hwei_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chiok Hwee Fen</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Primary</p>
+<p>YH Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuriah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nuriah B Abdullah&nbsp;</a>
@@ -295,7 +286,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Aesthetics (cov)</p>
+<p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
@@ -308,6 +299,24 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozianah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rozianah B Rosli</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Ed Tech (cov)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
 </p>
 </td>
 </tr>

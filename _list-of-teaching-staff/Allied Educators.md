@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>School Counsellor</strong></h3>
+<h3><strong>Senior School Counsellor</strong></h3>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Senior Student Welfare Officer</strong></h3>
+<h3><strong>Roving Senior Student Welfare Officer</strong></h3>
 </td>
 </tr>
 <tr>

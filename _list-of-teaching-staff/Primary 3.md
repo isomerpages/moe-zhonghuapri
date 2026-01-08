@@ -44,25 +44,33 @@ variant: tiptap
 <br>P3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern</a>
+<p><a href="mailto:rafidawati_abdul_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rafidawati B Abdul Rahman</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_qisheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tang Qisheng</a>
+<p><a href="mailto:liew_yong_chew@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Liew Yong Chew</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nurul Hafiqa B Osman</a>
+<p><a href="mailto:abdul_mutalib_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Abdul Mutalib B Ab Rahaman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Wee_Lin@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Ng Wee Lin</a>
 </p>
 </td>
 </tr>
@@ -73,16 +81,16 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>
-<br>P3 Discipline</p>
+<br>P3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mageswari Kanapathy</a>
+<p><a href="mailto:veni_vasanthakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Veni d/o Vasanthakumar</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_yasmeen_yussoff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norisah Yasmeen B Yussoff</a>
+<p><a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chen Guiyun</a>
 </p>
 </td>
 </tr>
@@ -93,36 +101,16 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>
-<br>P3 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Junainah B Mohamed Eusuff</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Mardhiah_Abdul_Raman_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Siti Mardhiah B Abdul Raman</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>
-<br>5</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>
 <br>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farida_kader@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Farida B Mohd Abdul Kader</a>
+<p><a href="mailto:lee_cher_kiak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Christopher Lee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ng Yen Tin</a>
+<p><a href="mailto:wong_weng_choy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Weng Choy</a>
 </p>
 </td>
 </tr>

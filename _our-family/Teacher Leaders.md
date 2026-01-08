@@ -37,15 +37,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fatimah_abdul_khir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fatimah B Abdul Khir</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
