@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/principal_message.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_s_Message__2_.png">
 </div>
 <p>Welcome to Zhonghua Primary School (ZPS), where we are committed to nurturing
 every child to be a <strong>Learner, a Thinker, and a Leader</strong>. At
