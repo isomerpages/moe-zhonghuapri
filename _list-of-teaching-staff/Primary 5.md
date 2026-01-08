@@ -44,7 +44,7 @@ variant: tiptap
 <br>P5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping </a>
+<p><a href="mailto:alicia_wee_su_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alicia Wee Su Ping</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <br>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern </a>
+<p><a href="mailto:leong_shi_ern@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong Shi Ern</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mui_mui_tricia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan </a>
+<p><a href="mailto:tan_mui_mui_tricia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tricia Tan</a>
 </p>
 </td>
 </tr>
@@ -110,19 +110,19 @@ variant: tiptap
 <br>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon </a>
+<p><a href="mailto:ong_chui_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Chui Hoon</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus B Amir </a>
+<p><a href="mailto:muhammad_firdaus_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Firdaus B Amir</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam </a>
+<p><a href="mailto:Chiam_Pei_Ling_Joycelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joycelyn Chiam</a>
 </p>
 </td>
 </tr>
@@ -142,13 +142,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:margaret_lum_choo_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Margaret Lum </a>
+<p><a href="mailto:margaret_lum_choo_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Margaret Lum</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho Chui Siong </a>
+<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho Chui Siong</a>
 </p>
 </td>
 </tr>
