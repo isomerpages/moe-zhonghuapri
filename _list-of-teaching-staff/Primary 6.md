@@ -64,12 +64,14 @@ variant: tiptap
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_lay_peng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joan Benjamin</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Hsu Hui-Chien (Mrs Chang)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,12 +84,14 @@ variant: tiptap
 <p>P6 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liang_lifang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liang Lifang</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chiu_cheuk_yi_ophelia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ophelia Chiu </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,12 +104,14 @@ variant: tiptap
 <p>P6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_beng_kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Beng Kim</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seow_swee_yin_joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Seow (Mrs Tan)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,12 +124,14 @@ variant: tiptap
 <p>P6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_bee_juat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Tan Bee Juat (Mrs Neo)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teh_khen_hian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teh Khen Hian</a>
+</p>
 </td>
 </tr>
 <tr>
