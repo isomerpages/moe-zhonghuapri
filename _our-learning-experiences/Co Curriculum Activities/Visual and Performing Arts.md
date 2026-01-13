@@ -66,8 +66,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/7.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Feng Yijun (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Ms Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
+<br>Mrs Shirley Yeh (Main ) - Thursdays
+<br>Ms Amelia Pan - Tuesdays</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:feng_yijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_yijun@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
