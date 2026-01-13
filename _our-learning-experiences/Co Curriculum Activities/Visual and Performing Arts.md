@@ -26,7 +26,7 @@ appreciation for the arts.</p>
 <br>Mdm Isabelle Lim - Tuesdays
 <br>
 </p>
-<p><strong>Main Contact</strong>: <a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a>
+<p><strong>Main Contact</strong>: <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 <br>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -70,7 +70,7 @@ basis
 <p><strong>Teachers-In-Charge</strong>
 <br>Mrs Shirley Yeh (Main ) - Thursdays
 <br>Ms Amelia Pan - Tuesdays</p>
-<p><strong>Main Contact:</strong>  <a href="mailto:feng_yijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_yijun@schools.gov.sg</a>
+<p><strong>Main Contact:</strong>  <a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_ai_li_shirleywijaya@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
