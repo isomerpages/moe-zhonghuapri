@@ -43,7 +43,7 @@ learners empowered to make a positive impact on the world.</p>
 <br>Mrs Shirley Yeh (Main)
 <br>Ms Fiona Lim
 <br>
-<br><strong>Main Contact:</strong>  <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
+<br><strong>Main Contact:</strong>  <a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_ai_li_shirleywijaya@schools.gov.sg</a>
 <br>
 <br><strong>CCA Schedule</strong>
 <br>Tuesday
