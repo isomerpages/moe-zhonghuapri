@@ -52,8 +52,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/5.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Suriana B Samat (Main - Tuesdays)
-<br>Mrs Michelle Goh (Thursdays)</p>
+<br>Mdm Suriana B Samat (Main) - Tuesdays
+<br>Ms Ng Wee Lin - Thursdays</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriana_samat@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
