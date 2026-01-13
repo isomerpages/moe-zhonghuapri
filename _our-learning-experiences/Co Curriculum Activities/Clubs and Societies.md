@@ -30,7 +30,7 @@ learners empowered to make a positive impact on the world.</p>
 <br>Mdm Chen Guiyun (Main)
 <br>Mdm Feng Yijun
 <br>
-<br><strong>Main Contact:</strong>  <a href="mailto:ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_li_shirleywijaya@schools.gov.sg</a>
+<br><strong>Main Contact:</strong>  <a href="mailto:chen_guiyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_guiyun@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
