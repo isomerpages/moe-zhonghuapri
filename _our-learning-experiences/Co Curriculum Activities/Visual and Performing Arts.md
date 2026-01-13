@@ -21,8 +21,9 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/1.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Kwek Wei Ting (Main - Thursdays)
-<br>Ms Fiona Lim &amp; Mrs Serene Chew (Tuesdays)
+<br>Mrs Chang-Hsu (Main) - Thursdays
+<br>Mrs Serene Chew - Tuesdays
+<br>Mdm Isabelle Lim - Tuesdays
 <br>
 </p>
 <p><strong>Main Contact</strong>: <a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a>
