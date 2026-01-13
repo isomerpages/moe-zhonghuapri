@@ -41,7 +41,7 @@ students build mental toughness, coordination, and confidence.</p>
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mr Joshua Seow (Main) - Thursdays
-<br>Mr Firdaus - Tuesdays
+<br>Mr Muhammad Firdaus B Amir - Tuesdays
 <br>
 <br><strong>Main Contact:</strong>  <a href="mailto:seow_eng_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@schools.gov.sg</a>
 </p>
