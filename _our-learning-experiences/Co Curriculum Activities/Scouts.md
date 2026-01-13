@@ -21,8 +21,7 @@ and adapt with courage—equipping them to thrive in school and in life.</p>
 <p><strong>Teachers-In-Charge</strong>
 <br>Mdm Mageswari Kanapathy (Main)
 <br>Mr Benny Lau
-<br>Ms Wee Jer'Valle
-<br>Mdm Jaya
+<br>
 <br>
 <br><strong>Main Contact</strong>: <a href="mailto:mageswari_kanapathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mageswari_kanapathy@schools.gov.sg</u></a>
 </p>

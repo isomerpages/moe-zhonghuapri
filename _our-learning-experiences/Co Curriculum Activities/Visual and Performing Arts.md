@@ -21,11 +21,12 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/1.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Kwek Wei Ting (Main - Thursdays)
-<br>Ms Fiona Lim &amp; Mrs Serene Chew (Tuesdays)
+<br>Mrs Chang-Hsu (Main)
+<br>Mrs Serene Chew
+<br>Mdm Isabelle Lim
 <br>
 </p>
-<p><strong>Main Contact</strong>: <a href="mailto:kwek_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_wei_ting@moe.edu.sg</a>
+<p><strong>Main Contact</strong>: <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 <br>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -38,8 +39,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/3.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Ms Nurul Hafiqa B Osman (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Ms Leong Shi Ern (Tuesday &amp; Thursday on a rotation basis)</p>
+<br>Ms Nurul Hafiqa B Osman (Main)
+<br>Ms Leong Shi Ern</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_hafiqa_osman@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -52,8 +53,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/5.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Suriana B Samat (Main - Tuesdays)
-<br>Mrs Michelle Goh (Thursdays)</p>
+<br>Mdm Suriana B Samat (Main)
+<br>Ms Ng Wee Lin</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriana_samat@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -66,9 +67,9 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/7.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Feng Yijun (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Ms Amelia Pan (Tuesday &amp; Thursday on a rotation basis)</p>
-<p><strong>Main Contact:</strong>  <a href="mailto:feng_yijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_yijun@schools.gov.sg</a>
+<br>Mrs Shirley Yeh (Main )
+<br>Ms Amelia Pan</p>
+<p><strong>Main Contact:</strong>  <a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_ai_li_shirleywijaya@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
