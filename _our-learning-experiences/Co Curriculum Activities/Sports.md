@@ -55,9 +55,9 @@ students build mental toughness, coordination, and confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Modular_Sports_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Junainah B Mohamed Eusuff (Main)
-<br>Mrs Chan Hong Wei
-<br>Mdm Daisy Yu</p>
+<br>Mdm Junainah B Mohamed Eusuff (Main) - Recreational Football
+<br>Mrs Chan Hong Wei - Tchoukball
+<br>Mdm Ivory Koh - Touch Rugby</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:junainah_mohamed_eusuff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junainah_mohamed_eusuff@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
