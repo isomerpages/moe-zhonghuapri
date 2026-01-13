@@ -39,8 +39,9 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/3.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Ms Nurul Hafiqa B Osman (Main - Tuesday &amp; Thursday on a rotation basis)
-<br>Ms Leong Shi Ern (Tuesday &amp; Thursday on a rotation basis)</p>
+<br>Ms Nurul Hafiqa B Osman (Main) - Tuesdays or Thursdays on a rotational
+basis
+<br>Ms Leong Shi Ern - Tuesday or Thursday on rotational basis</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_hafiqa_osman@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
