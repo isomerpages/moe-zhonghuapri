@@ -21,9 +21,9 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/1.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mrs Chang-Hsu (Main) - Thursdays
-<br>Mrs Serene Chew - Tuesdays
-<br>Mdm Isabelle Lim - Tuesdays
+<br>Mrs Chang-Hsu (Main)
+<br>Mrs Serene Chew
+<br>Mdm Isabelle Lim
 <br>
 </p>
 <p><strong>Main Contact</strong>: <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
@@ -39,8 +39,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/3.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Ms Nurul Hafiqa B Osman (Main) - Tuesdays or Thursdays on rotational basis
-<br>Ms Leong Shi Ern - Tuesday or Thursday on rotational basis</p>
+<br>Ms Nurul Hafiqa B Osman (Main)
+<br>Ms Leong Shi Ern</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:nurul_hafiqa_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_hafiqa_osman@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -53,8 +53,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/5.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mdm Suriana B Samat (Main) - Tuesdays
-<br>Ms Ng Wee Lin - Thursdays</p>
+<br>Mdm Suriana B Samat (Main)
+<br>Ms Ng Wee Lin</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:suriana_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriana_samat@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
@@ -67,8 +67,8 @@ appreciation for the arts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Visual and Performing Arts/7.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mrs Shirley Yeh (Main ) - Thursdays
-<br>Ms Amelia Pan - Tuesdays</p>
+<br>Mrs Shirley Yeh (Main )
+<br>Ms Amelia Pan</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_ai_li_shirleywijaya@schools.gov.sg</a>
 </p>
 <p><strong>CCA Schedule</strong>
