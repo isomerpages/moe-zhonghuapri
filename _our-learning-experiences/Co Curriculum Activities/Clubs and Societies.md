@@ -40,10 +40,10 @@ learners empowered to make a positive impact on the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1920_x_1080_ESC_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mr Christopher Lee (Advisor)
-<br>Mrs Chang-Hsu (Main)
-<br>Ms Bettina Chiang</p>
-<p><strong>Main Contact:</strong>  <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
+<br>Mrs Shirley Yeh (Main)
+<br>Ms Fiona Lim
+<br>
+<br><strong>Main Contact:</strong>  <a href="mailto:hsu_hui-chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_hui-chien@schools.gov.sg</a>
 <br>
 <br><strong>CCA Schedule</strong>
 <br>Tuesday
@@ -54,7 +54,7 @@ learners empowered to make a positive impact on the world.</p>
 </div>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Constance Chong (Main)
-<br>Ms Laura Tan</p>
+<br>Mrs Michelle Goh</p>
 <p><strong>Main Contact:</strong>  <a href="mailto:chong_hui_min_constance@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hui_min_constance@schools.gov.sg</a>
 <br>
 </p>
