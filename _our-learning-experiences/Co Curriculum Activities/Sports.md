@@ -23,15 +23,15 @@ students build mental toughness, coordination, and confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Volleyball_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers In-Charge</strong>
-<br>Ms Ng Yen Tin (Main) - Thursdays
-<br>Mrs Michelle Goh - Thursdays
-<br>Mdm Masliza B Misri - Tuesdays
-<br>Mrs Fiona Wong - Tuesdays
+<br>Ms Ng Yen Tin (Main)
+<br>Mrs Michelle Goh
+<br>Mdm Masliza B Misri
+<br>Mrs Fiona Wong
 <br>
 <br><strong>Main Contact:</strong>  <a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 <br>
 <br><strong>CCA Schedule</strong>
-<br><strong>Term 3 and Term 4</strong>
+<br><strong>Term 1 and Term 2</strong>
 <br>Tuesdays &amp; Thursdays (training twice a week)
 <br>2.00pm - 3.30pm (P3 Boys &amp; Girls)
 <br>3.30pm - 5.00pm (P4 Boys &amp; Girls + P5 Boys &amp; Girls)</p>
@@ -40,8 +40,8 @@ students build mental toughness, coordination, and confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Football_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mr Joshua Seow (Main) - Thursdays
-<br>Mr Muhammad Firdaus B Amir - Tuesdays
+<br>Mr Joshua Seow (Main)
+<br>Mr Muhammad Firdaus B Amir
 <br>
 <br><strong>Main Contact:</strong>  <a href="mailto:seow_eng_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@schools.gov.sg</a>
 </p>
