@@ -40,9 +40,8 @@ students build mental toughness, coordination, and confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Football_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
-<br>Mr Joshua Seow (Main - Tuesdays &amp; Thursdays)
-<br>Mr Firdaus (Tuesdays)
-<br>Mr Azman / Mr Talib (Rotation every Thursdays)
+<br>Mr Joshua Seow (Main) - Thursdays
+<br>Mr Firdaus - Tuesdays
 <br>
 <br><strong>Main Contact:</strong>  <a href="mailto:seow_eng_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@schools.gov.sg</a>
 </p>
