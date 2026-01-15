@@ -27,6 +27,7 @@ learners empowered to make a positive impact on the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Club and Societies/1920_x_1080_Infocomm_Website_Photo_Template.png">
 </div>
 <p><strong>Teachers-In-Charge</strong>
+<br>Mr Justin Ang (Advisor)
 <br>Mdm Chen Guiyun (Main)
 <br>Mdm Feng Yijun
 <br>
