@@ -31,10 +31,9 @@ students build mental toughness, coordination, and confidence.</p>
 <br><strong>Main Contact:</strong>  <a href="mailto:ng_yen_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_tin@schools.gov.sg</a>
 <br>
 <br><strong>CCA Schedule</strong>
-<br><strong>Term 1 and Term 2</strong>
 <br>Tuesdays &amp; Thursdays (training twice a week)
-<br>2.00pm - 3.30pm (P3 Boys &amp; Girls)
-<br>3.30pm - 5.00pm (P4 Boys &amp; Girls + P5 Boys &amp; Girls)</p>
+<br>2.00pm - 3.30pm
+<br>3.30pm - 5.00pm</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Football_Website_Photo_Template.png">
@@ -47,9 +46,9 @@ students build mental toughness, coordination, and confidence.</p>
 </p>
 <p><strong>CCA Schedule</strong>
 <br>Tuesday
-<br>2.00pm – 4.00pm (School Team &amp; Recreational Team)
+<br>2.00pm – 4.00pm
 <br>Thursday
-<br>3.30pm – 5.30pm (School Team Only)</p>
+<br>3.30pm – 5.30pm</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Sports/1920_x_1080_Modular_Sports_Website_Photo_Template.png">
