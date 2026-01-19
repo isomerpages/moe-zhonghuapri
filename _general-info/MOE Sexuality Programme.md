@@ -230,22 +230,17 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP)</strong>
-<br><strong>THEME</strong>
-</p>
+<p>CCE (FTGP) THEME</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>LESSON TITLE</strong>
-<br><strong>/DURATION</strong>
-</p>
+<p>LESSON TITLE /DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson</strong>
-<br><strong>Overview</strong>
-</p>
+<p>LESSON
+<br>OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD(egTerm 1 Wk 2)</p>
+<p>TIME PERIOD(eg Term 1 Wk 2)</p>
 </th>
 </tr>
 <tr>
