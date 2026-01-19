@@ -350,5 +350,3 @@ clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
