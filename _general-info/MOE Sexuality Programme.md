@@ -245,7 +245,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD(eg Term 1 Wk 2)</p>
+<p>TIME PERIOD(egTerm 1 Wk 2)</p>
 </th>
 </tr>
 <tr>
