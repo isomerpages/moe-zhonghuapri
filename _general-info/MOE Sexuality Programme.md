@@ -66,12 +66,10 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p><strong>At Zhonghua Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2026 Images/Image_of_MOE_crest.jpg">
 </div>
 <p><strong>2026 Sexuality Education Lessons in CCE Primary 5</strong>
-<br>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,66 +81,24 @@ themselves safe from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCE (FTGP) THEME</p>
+<p>CCE (FTGP)
+<br>THEME</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON TITLE / DURATION</p>
+<p>LESSON TITLE /
+<br>DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>LESSON
+<br>OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD (e.g. Term 1 Week 2)</p>
+<p>TIME PERIOD
+<br>(e.g. Term 1 Week 2)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -214,7 +170,6 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -261,13 +216,10 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2026 Images/Image_of_MOE_crest.jpg">
 </div>
-<p></p>
 <p><strong>2026 Sexuality Education Lessons in CCE Primary 6</strong>
-<br>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -279,50 +231,28 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
+<p><strong>CCE(FTGP)</strong>
+<br><strong>THEME</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
+<p><strong>LESSON TITLE /</strong>
+<br><strong>DURATION</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong>Lesson</strong>
+<br><strong>Overview</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
