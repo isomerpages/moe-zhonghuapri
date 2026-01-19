@@ -93,7 +93,8 @@ themselves safe from sexuality-related risks.</p>
 <p>LESSON TITLE /DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>LESSON
+<br>OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD(eg Term 1 Wk 2)</p>
@@ -210,7 +211,6 @@ and how to seek help for themselves and their friends.</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 7</p>
@@ -218,9 +218,6 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2026 Images/Image_of_MOE_crest.jpg">
-</div>
 <p><strong>2026 Sexuality Education Lessons in CCE Primary 6</strong>
 </p>
 <table style="minWidth: 100px">
@@ -248,8 +245,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-<br><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>TIME PERIOD(eg Term 1 Wk 2)</strong>
 </p>
 </th>
 </tr>
@@ -324,13 +320,16 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p><strong>INFORMATION FOR PARENTS</strong>
+<br>
 <br>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.
+<br>
 <br>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also available <a href="https://form.gov.sg/69673f6b4c1989192813d9c5" rel="noopener nofollow" target="_blank">here</a> .The
 completed opt-out form is to be submitted by 13/02/2026.
+<br>
 <br>10. Parents can contact the school at 62835413 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p></p>
