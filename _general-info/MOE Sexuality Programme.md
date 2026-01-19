@@ -235,8 +235,8 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>LESSON TITLE /</strong>
-<br><strong>DURATION</strong>
+<p><strong>LESSON TITLE</strong>
+<br><strong>/DURATION</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -245,8 +245,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD(eg Term 1 Wk 2)</strong>
-</p>
+<p>TIME PERIOD(eg Term 1 Wk 2)</p>
 </th>
 </tr>
 <tr>
