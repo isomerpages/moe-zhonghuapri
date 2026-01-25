@@ -7,6 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_s_Message__2_.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Images/Principal_s_Message__2_.png">
+</div>
 <p>Welcome to Zhonghua Primary School (ZPS), where we are committed to nurturing
 every child to be a <strong>Learner, a Thinker, and a Leader</strong>. At
 ZPS, we are guided by our mission to develop our students with strength
