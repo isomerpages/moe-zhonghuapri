@@ -19,13 +19,4 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
-  - announcements:
-      title: Announcement
-      id: announcements
-      announcement_items:
-        - title: For Parents
-          date: 14 November 2025
-          announcement: P1 Orientation Google Site
-          link_text: Click here for more info
-          link_url: https://sites.google.com/moe.edu.sg/zpsp1orientation
 ---
