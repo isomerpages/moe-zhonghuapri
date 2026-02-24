@@ -46,6 +46,10 @@ description: ""
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScVFaHsvuorx76o82hokutx0-9TnbRAMcqj3142M3pC0mpoQA/viewform" rel="noopener nofollow" target="_blank">Fault Reporting Form</a>
 </p>
 </li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/zpsid/home" rel="noopener nofollow" target="_blank">School Identity Package</a>
+</p>
+</li>
 </ul>
 <h2><strong>Professional Development</strong></h2>
 <ul data-tight="true" class="tight">
