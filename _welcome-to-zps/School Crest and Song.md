@@ -19,7 +19,7 @@ to nurturing youth who are both anchored in timeless values and equipped
 with the flexible mindset needed to thrive in tomorrow's world.</p>
 <h2><strong>School Song</strong></h2>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1171783773?h=72b3954b5d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;muted=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1171783773?h=72b3954b5d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p>When nineteen eighty-seven dawned,
 <br>The torch of Zhonghua was first shone,
