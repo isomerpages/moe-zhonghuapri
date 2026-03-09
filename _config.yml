@@ -1,6 +1,6 @@
 title: Zhonghua Primary School
 url: https://zhonghuapri.moe.edu.sg
-favicon: /images/zps official school crest.jpg
+favicon: /images/ZPS_logo_2020_V2_blackborder.png
 colors:
   primary-color: "#3bd6c6"
   secondary-color: "#47797f"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dibz2r776ygiu.amplifyapp.com
 prod: https://master.dibz2r776ygiu.amplifyapp.com
-shareicon: /images/zps official school crest.jpg
+shareicon: /images/ZPS_logo_2020_V2_blackborder.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
