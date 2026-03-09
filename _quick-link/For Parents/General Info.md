@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Parents
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="general-info/principal-ptc-sharing-session/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal PTC Sharing Session</div><div class="isomer-card-description">In this video, our Principal shares key insights on the school’s expectations, assessment updates and learning experiences, as well as the importance of a strong home–school partnership in supporting your child’s growth.</div><div class="isomer-card-link">Click here to view.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/general-info/principal-ptc-sharing-session/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal PTC Sharing Session</div><div class="isomer-card-description">In this video, our Principal shares key insights on the school’s expectations, assessment updates and learning experiences, as well as the importance of a strong home–school partnership in supporting your child’s growth.</div><div class="isomer-card-link">Click here to view.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/general-info/notes-to-parents-guardians/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Notes to Parents &amp; Guardians</div>
