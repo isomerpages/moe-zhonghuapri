@@ -23,6 +23,6 @@ child is eligible and how to apply.</div>
 subjects and programmes offered.</div>
 <div class="isomer-card-link">Click here to find out more.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2026 YH PTC Sharing Session Upper Pri</div><div class="isomer-card-link">Click here to view.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="upper-primary/yh-ptc-sharing-session/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">YH PTC Sharing Session Upper Pri</div><div class="isomer-card-link">Click here to view.</div></div></a>
 </div>
 <p></p>
