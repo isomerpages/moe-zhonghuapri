@@ -6,7 +6,14 @@ description: ""
 third_nav_title: For Parents
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/general-info/notes-to-parents-guardians/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Notes to Parents &amp; Guardians</div><div class="isomer-card-description">Key school guidelines for parents — communication, attendance, attire, safety, and dismissal procedures to ensure a smooth and secure school experience.</div><div class="isomer-card-link">Click here for more info.</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Principal PTC Sharing Session</div>
+<div class="isomer-card-description">This is an engagement video from the Principal for the Parent Teacher
+Conference session.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="/general-info/notes-to-parents-guardians/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Notes to Parents &amp; Guardians</div><div class="isomer-card-description">Key school guidelines for parents — communication, attendance, attire, safety, and dismissal procedures to ensure a smooth and secure school experience.</div><div class="isomer-card-link">Click here for more info.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/general-info/collection-of-data/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Collection of Data</div>
