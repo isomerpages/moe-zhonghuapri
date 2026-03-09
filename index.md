@@ -26,7 +26,7 @@ sections:
         - title: For Parents
           date: 09 March 2026
           announcement: From Principal
-          link_text: Parent-Teacher Conference Engagement
+          link_text: Parent-Teacher Conference Sharing
           link_url: /principal-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
