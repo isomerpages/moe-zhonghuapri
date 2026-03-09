@@ -15,6 +15,6 @@ and develop through one chosen activity per year. Learn more about CCA
 recruitment, attendance rules, and transfer guidelines.</div>
 <div class="isomer-card-link">Click here for more info.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2026 YH PTC Sharing Session Middle Pri</div><div class="isomer-card-link">Click here to view.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="middle-primary/yh-ptc-sharing-session" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2026 YH PTC Sharing Session Middle Pri</div><div class="isomer-card-link">Click here to view.</div></div></a>
 </div>
 <p></p>
