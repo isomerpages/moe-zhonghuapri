@@ -1,0 +1,4 @@
+collections:
+  upper-primary:
+    output: true
+    order: []
