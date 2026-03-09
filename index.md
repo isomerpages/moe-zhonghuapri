@@ -27,7 +27,7 @@ sections:
           date: 09 March 2026
           announcement: From Principal
           link_text: Parent-Teacher Conference Sharing
-          link_url: /principal-ptc-sharing-session/
+          link_url: /general-info/principal-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Lower Primary Year  Head
