@@ -10,6 +10,10 @@ third_nav_title: For Parents
 <a rel="noopener noreferrer nofollow" href="/lower-primary/yh-ptc-sharing-session/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">YH PTC Sharing Session Lower Pri</div>
+<div class="isomer-card-description">In this video, our Year Head shares the school’s expectations and focus
+for the Lower Primary level. It also covers assessment updates, learning
+experiences for students, and the importance of a strong home–school partnership
+in supporting your child’s growth.</div>
 <div class="isomer-card-link">Click here to view.</div>
 </div>
 </a>
