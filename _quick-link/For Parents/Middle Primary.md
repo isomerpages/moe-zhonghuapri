@@ -15,6 +15,6 @@ and develop through one chosen activity per year. Learn more about CCA
 recruitment, attendance rules, and transfer guidelines.</div>
 <div class="isomer-card-link">Click here for more info.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="middle-primary/yh-ptc-sharing-session" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">YH PTC Sharing Session Middle Pri</div><div class="isomer-card-link">Click here to view.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/middle-primary/yh-ptc-sharing-session" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">YH PTC Sharing Session Middle Pri</div><div class="isomer-card-description">In this video, our Year Head shares the school’s expectations and focus for the Middle Primary level. It also covers assessment updates, learning experiences for students, and the importance of a strong home–school partnership in supporting your child’s growth.</div><div class="isomer-card-link">Click here to view.</div></div></a>
 </div>
 <p></p>
