@@ -26,21 +26,21 @@ sections:
         - title: For Parents
           date: 09 March 2026
           announcement: From Principal
-          link_text: Principal PTC Sharing Session
+          link_text: Parent-Teacher Conference Engagement
           link_url: /principal-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Lower Primary Year  Head
-          link_text: YH PTC Sharing Session Lower Pri
+          link_text: Parent-Teacher Conference Sharing
           link_url: lower-primary/yh-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Middle Primary Year Head
-          link_text: YH PTC Sharing Session Middle Pri
+          link_text: Parent-Teacher Conference Sharing
           link_url: middle-primary/yh-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Upper Primary Year Head
-          link_text: YH PTC Sharing Session Upper Primary
+          link_text: Parent-Teacher Conference Sharing
           link_url: upper-primary/yh-ptc-sharing-session/
 ---
