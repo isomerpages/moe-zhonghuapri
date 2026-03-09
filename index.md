@@ -19,4 +19,13 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: For Parents
+          date: 09 March 2026
+          announcement: Parent-Teacher Conference 2026
+          link_text: ""
+          link_url: ""
 ---
