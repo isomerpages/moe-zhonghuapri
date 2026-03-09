@@ -27,7 +27,7 @@ sections:
           date: 09 March 2026
           announcement: From Principal
           link_text: Principal PTC Sharing Session
-          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+          link_url: /principal-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Lower Primary Year  Head
