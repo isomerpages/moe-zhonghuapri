@@ -27,5 +27,5 @@ sections:
           date: 09 March 2026
           announcement: Parent-Teacher Conference 2026
           link_text: Quick Link For Parents
-          link_url: /Workspace/Quick Link/For Parents
+          link_url: https://zhonghuapri.moe.edu.sg/for-parents
 ---
