@@ -2,7 +2,7 @@
 layout: homepage
 title: Zhonghua Primary School
 description: An Isomer site of the Singapore Government
-image: /images/zps official school crest.jpg
+image: /images/ZPS_logo_2020_V2_blackborder.png
 permalink: /
 notification: ""
 sections:
