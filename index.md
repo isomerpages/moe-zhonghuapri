@@ -25,7 +25,22 @@ sections:
       announcement_items:
         - title: For Parents
           date: 09 March 2026
-          announcement: Parent-Teacher Conference 2026
-          link_text: Quick Link For Parents
+          announcement: Principal PTC Engagement Video
+          link_text: Principal PTC Engagement Video
+          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+        - title: For Parents
+          date: 09 March 2026
+          announcement: From Lower Primary Year  Head
+          link_text: YH PTC Sharing Session Lower Pri
+          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+        - title: For Parents
+          date: 09 March 2026
+          announcement: From Middle Primary Year Head
+          link_text: YH PTC Sharing Session Middle Pri
+          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+        - title: For Parents
+          date: 09 March 2026
+          announcement: From Upper Primary Year Head
+          link_text: YH PTC Sharing Session Upper Primary
           link_url: https://zhonghuapri.moe.edu.sg/for-parents
 ---
