@@ -32,15 +32,15 @@ sections:
           date: 09 March 2026
           announcement: From Lower Primary Year  Head
           link_text: YH PTC Sharing Session Lower Pri
-          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+          link_url: lower-primary/yh-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Middle Primary Year Head
           link_text: YH PTC Sharing Session Middle Pri
-          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+          link_url: middle-primary/yh-ptc-sharing-session/
         - title: For Parents
           date: 09 March 2026
           announcement: From Upper Primary Year Head
           link_text: YH PTC Sharing Session Upper Primary
-          link_url: https://zhonghuapri.moe.edu.sg/for-parents
+          link_url: upper-primary/yh-ptc-sharing-session/
 ---
