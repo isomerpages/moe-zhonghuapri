@@ -25,8 +25,8 @@ sections:
       announcement_items:
         - title: For Parents
           date: 09 March 2026
-          announcement: Principal PTC Engagement Video
-          link_text: Principal PTC Engagement Video
+          announcement: From Principal
+          link_text: Principal PTC Sharing Session
           link_url: https://zhonghuapri.moe.edu.sg/for-parents
         - title: For Parents
           date: 09 March 2026
