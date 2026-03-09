@@ -26,6 +26,6 @@ sections:
         - title: For Parents
           date: 09 March 2026
           announcement: Parent-Teacher Conference 2026
-          link_text: ""
-          link_url: ""
+          link_text: Quick Link For Parents
+          link_url: /Workspace/Quick Link/For Parents
 ---
