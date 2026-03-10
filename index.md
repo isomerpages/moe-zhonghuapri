@@ -19,28 +19,4 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: For Parents
-          date: 09 March 2026
-          announcement: From Principal
-          link_text: Parent-Teacher Conference Sharing
-          link_url: /general-info/principal-ptc-sharing-session/
-        - title: For Parents
-          date: 09 March 2026
-          announcement: From Lower Primary Year  Head
-          link_text: Parent-Teacher Conference Sharing
-          link_url: lower-primary/yh-ptc-sharing-session/
-        - title: For Parents
-          date: 09 March 2026
-          announcement: From Middle Primary Year Head
-          link_text: Parent-Teacher Conference Sharing
-          link_url: middle-primary/yh-ptc-sharing-session/
-        - title: For Parents
-          date: 09 March 2026
-          announcement: From Upper Primary Year Head
-          link_text: Parent-Teacher Conference Sharing
-          link_url: upper-primary/yh-ptc-sharing-session/
 ---
