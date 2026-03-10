@@ -2,7 +2,7 @@ collections:
   general-info:
     output: true
     order:
-      - Principal PTC Sharing Session.md
+      - Parent Teacher Conference.md
       - Notes To Parents & Guardians.md
       - Collection Of Data.md
       - Parents Gateway.md
