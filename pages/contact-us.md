@@ -36,8 +36,8 @@ contacts:
           Mon-Fri:8.30am-3.30pm (Term Time).
     title: 3. School Uniform
   - content:
-      - phone: +65 6288 4890
-      - email: info@printpak.com.sg
+      - phone: +65 6284 8785
+      - email: sales@blmarketing.com.sg
       - other: Mon-Fri:8.30am-3.00pm (Term Time)
     title: 4. School Bookshop
   - content:
@@ -47,7 +47,7 @@ contacts:
           Rise Primary.  Depending on their schedule, they will station at one
           of the schools for a few months before shifting to the next school.If
           parents need quick attention for their children’s dental needs,
-          parents may make appointment with contacts below:           "
+          parents may make appointment with contacts below:"
     title: 5. School Dental Services
   - content:
       - phone: +65 9838 9102
@@ -67,8 +67,8 @@ contacts:
   - content:
       - phone: ""
       - email: Contact_YPS@hpb.gov.sg
-      - other: "If you are unable to get through to any of the clinics above, please
-          email to the above link. "
-    title: "5c. HPB School Dental Centre "
+      - other: If you are unable to get through to any of the clinics above, please
+          email to the above link.
+    title: 5c. HPB School Dental Centre
 feedback: ""
 ---
