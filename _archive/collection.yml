@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Parent Teacher Conference.md
       - Edusave Character Award (2025).md
       - Information On PSLE.md
       - P1 Orientation Google Site.md
