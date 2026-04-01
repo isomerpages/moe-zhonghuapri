@@ -2,7 +2,6 @@ collections:
   general-info:
     output: true
     order:
-      - Parent Teacher Conference.md
       - Notes To Parents & Guardians.md
       - Collection Of Data.md
       - Parents Gateway.md
