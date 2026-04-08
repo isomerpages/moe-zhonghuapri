@@ -51,7 +51,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/zpsdevelopmentalcollaborativel/home" rel="noopener nofollow" target="_blank">ZPS Developmental and Collaborative Learning Cycle </a>
+<p><a href="https://sites.google.com/moe.edu.sg/zpsdevelopmentalcollaborativel/home" rel="noopener nofollow" target="_blank">ZPS Developmental and Collaborative Learning Cycle</a>
 </p>
 </li>
 </ul>
