@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Wo_Tagline___ZPS_Website_new_banner_1920_x_720px.gif
+      background: /images/Hero Banner/Hero_Page_2025.gif
       variant: center
       key_highlights:
         - title: Quick Link
