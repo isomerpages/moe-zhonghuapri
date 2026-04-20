@@ -4,3 +4,5 @@ permalink: /for-alumni/
 variant: markdown
 description: ""
 ---
+
+Kindly click [here] to register
