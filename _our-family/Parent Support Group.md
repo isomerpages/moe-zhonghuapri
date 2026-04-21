@@ -21,9 +21,6 @@ Together, we can create a cheerful &amp;amp; enriching experience for you
 and your child in Zhonghua!</p>
 <p>Register <a href="https://go.gov.sg/zpszest" rel="noopener nofollow" target="_blank">online</a> now!</p>
 <div class="iframe-wrapper">
-<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bzS-0BK4MaU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bzS-0BK4MaU"></iframe>
 </div>
-<p><strong>For Alumni</strong>
-</p>
-<p>Kindly click <a href="https://go.gov.sg/zpsalumni" rel="noopener nofollow" target="_blank">here </a>to
-register.</p>
+<p></p>
