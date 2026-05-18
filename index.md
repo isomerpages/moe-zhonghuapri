@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/with_tagline_ZPS_Website_new_banner_1920_x_720px.jpg
+      background: /images/School_Website_Banner.jpg
       variant: center
       key_highlights:
         - title: Quick Link
