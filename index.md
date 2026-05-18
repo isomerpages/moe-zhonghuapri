@@ -29,6 +29,6 @@ sections:
             School!  Join us at our Open House to meet our educators, explore
             our programmes, and experience school life at ZPS.   Register now to
             reserve your slot!
-          link_text: Register Now!
+          link_text: Click here to register.
           link_url: https://go.gov.sg/zps-openhouse
 ---
