@@ -19,16 +19,4 @@ sections:
         - title: Quick Link
           description: For Teachers
           url: /link/for-teachers/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: ZPS Open House
-          date: 03 July 2026
-          announcement: Discover the vibrant learning environment at Zhonghua Primary
-            School!  Join us at our Open House to meet our educators, explore
-            our programmes, and experience school life at ZPS.   Register now to
-            reserve your slot!
-          link_text: Click here to register.
-          link_url: https://go.gov.sg/zps-openhouse
 ---
