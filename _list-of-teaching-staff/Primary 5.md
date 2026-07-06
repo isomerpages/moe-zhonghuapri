@@ -127,12 +127,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
-<td rowspan="3" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <p>P5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,13 +140,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:margaret_lum_choo_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Margaret Lum</a>
-</p>
+<p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Chui_Siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Silver Ho</a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:margaret_lum_choo_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Margaret Lum</a>
 </p>
 </td>
 </tr>
