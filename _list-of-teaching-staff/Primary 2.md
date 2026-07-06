@@ -76,26 +76,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
-<p>3</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>P2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:KOH_HUI_TIAN@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ivory Koh (Mrs Ho)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:latha_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Latha d/o Balakrishnan&nbsp;</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>
 <br>4</p>
 </td>
@@ -131,6 +111,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_lee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lim Lee Fong (Mrs Chan Hong Wei)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:KOH_HUI_TIAN@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ivory Koh (Mrs Ho)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:latha_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Latha d/o Balakrishnan&nbsp;</a>
 </p>
 </td>
 </tr>
