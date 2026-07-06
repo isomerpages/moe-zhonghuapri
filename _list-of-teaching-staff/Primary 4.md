@@ -70,18 +70,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Yaw_Jin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yaw Jin</a>
+<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>
 <br>
 </p>
 <p>3</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>
 <br>
 </p>
@@ -100,12 +100,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:edwin_yu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Edwin Yu</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>
 <br>4</p>
@@ -115,7 +109,7 @@ variant: tiptap
 <br>P4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_ai_li_shirleywijaya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Yeh</a>
+<p><a href="mailto:Tan_Yaw_Jin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yaw Jin</a>
 </p>
 </td>
 </tr>
@@ -155,17 +149,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavinchelvan_kalaivani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Kavinchelvan Kalaivani</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
