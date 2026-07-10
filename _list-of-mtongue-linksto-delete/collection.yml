@@ -1,5 +1,5 @@
 collections:
-  list-of-mtongue-links-todelete:
+  list-of-mtongue-linksto-delete:
     output: true
     order:
       - Chinese Language.md
