@@ -1,5 +1,5 @@
 collections:
-  list-of-non-teaching-staff-tbc:
+  listofnonteachingstafftodelete:
     output: true
     order:
       - Allied Educators.md
