@@ -1,5 +1,5 @@
 collections:
-  holding-folder-not-for-public:
+  holdingfnotforpublic-to-delete:
     output: true
     order:
       - School Compound.md
