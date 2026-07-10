@@ -1,5 +1,5 @@
 collections:
-  the-zhonghua-experience-tbc:
+  the-zhonghua-exp-to-delete:
     output: true
     order:
       - Lower Primary From YH.md
