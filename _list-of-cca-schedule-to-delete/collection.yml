@@ -1,6 +1,0 @@
-collections:
-  list-of-cca-schedule-to-delete:
-    output: true
-    order:
-      - CCA Schedule for Semester 1 (2025).md
-      - CCA Schedule for Semester 2 (2025).md
