@@ -1,5 +1,5 @@
 collections:
-  niche-programme-tbc:
+  niche-programme-to-delete:
     output: true
     order:
       - "Applied Learning Programme: Thinknovate.md"
