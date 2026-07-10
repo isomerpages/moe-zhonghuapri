@@ -1,5 +1,5 @@
 collections:
-  list-of-zps-exp-for-u-pri-tbc:
+  listofzpsexpfor-upri-to-delete:
     output: true
     order:
       - Circle Time.md
