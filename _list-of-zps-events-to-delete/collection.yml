@@ -1,5 +1,5 @@
 collections:
-  list-of-zps-events-tbc:
+  list-of-zps-events-to-delete:
     output: true
     order:
       - 1 Chinese New Year Celebrations.md
