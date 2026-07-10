@@ -1,5 +1,5 @@
 collections:
-  departments:
+  departments-to-delete:
     output: true
     order:
       - English Language.md
