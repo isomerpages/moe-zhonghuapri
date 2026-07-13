@@ -31,3 +31,78 @@ More recently, between 2015 and 2017, the school underwent PERI upgrading
 works to enhance its facilities and infrastructure. The upgrading has resulted
 in refreshed facilities, such as Redesigned Classrooms, Specialized Rooms
 for different learning needs and Outdoor Experiential Learning Areas. &nbsp;</p>
+<p><strong>Principals of Zhonghua Primary School</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Principal</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1987 - 1989</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Chai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1989 - 1996</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jenny Law</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1996 - 2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahara</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2002 - 2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Chua Tong Hee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007 - 2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bucktha Seelan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014 - 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rostinah Mohamad Said</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 - present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chan Le Chin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

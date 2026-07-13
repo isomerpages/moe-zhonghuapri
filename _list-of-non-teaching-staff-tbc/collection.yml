@@ -1,6 +1,0 @@
-collections:
-  list-of-non-teaching-staff-tbc:
-    output: true
-    order:
-      - Allied Educators.md
-      - Executive and Administrative Staff.md
