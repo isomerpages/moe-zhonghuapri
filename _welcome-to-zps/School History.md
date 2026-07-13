@@ -31,7 +31,7 @@ More recently, between 2015 and 2017, the school underwent PERI upgrading
 works to enhance its facilities and infrastructure. The upgrading has resulted
 in refreshed facilities, such as Redesigned Classrooms, Specialized Rooms
 for different learning needs and Outdoor Experiential Learning Areas. &nbsp;</p>
-<p><strong>Principals:</strong>
+<p><strong>Principals of Zhonghua Primary School</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
