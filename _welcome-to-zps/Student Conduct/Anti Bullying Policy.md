@@ -52,7 +52,8 @@ to our attention, you can reach out to us via any of the following methods:</p>
 </p>
 </li>
 <li>
-<p><u>[Non-urgent cases only]</u> Online reporting form: <a href="https://go.gov.sg/zps-incident-reporting-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zps-incident-reporting-form</a>
+<p><u>[Non-urgent cases only]</u> Online reporting form:
+<br><a href="https://go.gov.sg/zps-incident-reporting-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zps-incident-reporting-form</a>
 </p>
 </li>
 </ul>
