@@ -2,11 +2,11 @@ collections:
   welcome-to-zps:
     output: true
     order:
-      - Student Conduct/.keep
-      - Student Conduct/School Rules.md
-      - Student Conduct/Anti Bullying Policy.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School History.md
       - School Crest and Song.md
+      - Student Conduct/.keep
+      - Student Conduct/School Rules.md
+      - Student Conduct/Anti Bullying Policy.md
       - Contact Us.md
