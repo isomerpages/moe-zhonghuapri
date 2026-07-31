@@ -135,11 +135,11 @@ empathy, conflict management, resilience and cyber wellness</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Have regular communications</strong> with staff and students</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
-</li>
-</ul>
 <h4><strong><u>How Parents Can Support</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
