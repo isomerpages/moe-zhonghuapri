@@ -2,6 +2,7 @@ collections:
   welcome-to-zps:
     output: true
     order:
+      - School Conduct/Anti Bullying Policy.md
       - School Conduct/School Rules.md
       - School Conduct/.keep
       - Principal's Message.md
