@@ -66,9 +66,7 @@ allowed.</p>
 <p>PE T-shirts must be tucked in at all times.</p>
 </li>
 <li>
-<p>For girls, pinafore must be worn over PE attire.
-<br>
-</p>
+<p>For girls, pinafore must be worn over PE attire.</p>
 </li>
 </ul>
 <p><strong>1.4 Hair for Boys</strong>
@@ -335,12 +333,6 @@ are also not allowed to bring any weapon-like item which can be used or
 intended to be used to cause harm to others.</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
