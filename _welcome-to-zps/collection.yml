@@ -2,8 +2,8 @@ collections:
   welcome-to-zps:
     output: true
     order:
-      - School Rules/School Rules.md
-      - School Rules/.keep
+      - School Conduct/School Rules.md
+      - School Conduct/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School History.md
