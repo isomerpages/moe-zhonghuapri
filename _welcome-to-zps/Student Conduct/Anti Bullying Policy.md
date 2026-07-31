@@ -120,16 +120,15 @@ grade adjustments, learning prosocial skills and reconciliation of relationships
 <p><strong>Foster a caring and enabling school environment</strong>, with
 positive teacher-student relationships and strong peer support structure
 with trained student leaders</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 </li>
 <li>
 <p><strong>Conduct Character &amp; Citizenship Education lessons</strong> on
 empathy, conflict management, resilience and cyber wellness</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anti_Bullying_Website_Photo_Template.png">
 </div>
 </li>
 </ul>
